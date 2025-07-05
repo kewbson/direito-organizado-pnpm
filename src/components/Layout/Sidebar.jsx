@@ -97,7 +97,7 @@ const SidebarContent = () => (
           {user && user.role === 'admin' && (
             <li>
               <a 
-                href="http://localhost:5173" // URL do seu painel admin
+                href="https://direitoorganizado-adm.netlify.app" // URL do seu painel admin
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center w-full space-x-3 px-3 py-2 rounded-lg text-left transition-colors duration-200 text-yellow-400 hover:bg-yellow-400/20"
