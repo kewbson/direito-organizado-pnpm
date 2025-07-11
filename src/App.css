@@ -1,0 +1,461 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "./styles/design-system.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+:root {
+  --radius: 0.625rem;
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.145 0 0);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.145 0 0);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.145 0 0);
+  --primary: oklch(0.205 0 0);
+  --primary-foreground: oklch(0.985 0 0);
+  --secondary: oklch(0.97 0 0);
+  --secondary-foreground: oklch(0.205 0 0);
+  --muted: oklch(0.97 0 0);
+  --muted-foreground: oklch(0.556 0 0);
+  --accent: oklch(0.97 0 0);
+  --accent-foreground: oklch(0.205 0 0);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: oklch(0.922 0 0);
+  --input: oklch(0.922 0 0);
+  --ring: oklch(0.708 0 0);
+  --chart-1: oklch(0.646 0.222 41.116);
+  --chart-2: oklch(0.6 0.118 184.704);
+  --chart-3: oklch(0.398 0.07 227.392);
+  --chart-4: oklch(0.828 0.189 84.429);
+  --chart-5: oklch(0.769 0.188 70.08);
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.145 0 0);
+  --sidebar-primary: oklch(0.205 0 0);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.97 0 0);
+  --sidebar-accent-foreground: oklch(0.205 0 0);
+  --sidebar-border: oklch(0.922 0 0);
+  --sidebar-ring: oklch(0.708 0 0);
+}
+
+.dark {
+  --background: oklch(0.18 0 0); /* Levemente mais claro que preto absoluto */
+  --foreground: oklch(0.9 0 0);  /* Mais brilhante para melhor leitura */
+  --card: oklch(0.22 0 0);      /* Levemente mais claro */
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.205 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.922 0 0);
+  --primary-foreground: oklch(0.205 0 0);
+  --secondary: oklch(0.269 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.269 0 0);
+  --muted-foreground: oklch(0.708 0 0);
+  --accent: oklch(0.269 0 0);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: oklch(0.35 0 0);    /* Mais visível */
+  --input: oklch(0.3 0 0);     /* Mais visível */
+  --ring: oklch(0.556 0 0);
+  --chart-1: oklch(0.488 0.243 264.376);
+  --chart-2: oklch(0.696 0.17 162.48);
+  --chart-3: oklch(0.769 0.188 70.08);
+  --chart-4: oklch(0.627 0.265 303.9);
+  --chart-5: oklch(0.645 0.246 16.439);
+  --sidebar: oklch(0.205 0 0);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.269 0 0);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(1 0 0 / 10%);
+  --sidebar-ring: oklch(0.556 0 0);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  
+  html {
+    @apply transition-colors duration-300;
+  }
+  
+  body {
+    @apply bg-background text-foreground transition-colors duration-300;
+  }
+  
+  /* Garantir que o modo escuro seja aplicado globalmente */
+  html.dark {
+    color-scheme: dark;
+  }
+  
+  html:not(.dark) {
+    color-scheme: light;
+  }
+  
+  /* Aplicar modo escuro em elementos específicos que podem não herdar corretamente */
+  .dark input,
+  .dark textarea,
+  .dark select {
+    @apply bg-input text-foreground;
+  }
+  
+  .dark button {
+    @apply text-foreground;
+  }
+  
+  /* Scrollbar personalizada para modo escuro */
+  .dark .custom-scrollbar::-webkit-scrollbar-track {
+    background: oklch(0.269 0 0);
+  }
+  
+  .dark .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: oklch(0.556 0 0);
+  }
+  
+  .dark .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: oklch(0.708 0 0);
+  }
+}
+
+/* Mobile-first optimizations */
+@layer utilities {
+  .smooth-scroll {
+    scroll-behavior: smooth;
+  }
+}
+
+/* Responsive typography */
+@layer base {
+  html {
+    font-size: 16px;
+  }
+  
+  @media (max-width: 640px) {
+    html {
+      font-size: 14px;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    html {
+      font-size: 18px;
+    }
+  }
+}
+
+/* Loading states */
+@layer components {
+  .skeleton {
+    @apply animate-pulse bg-muted rounded;
+  }
+  
+  .loading-spinner {
+    @apply animate-spin rounded-full border-2 border-muted border-t-primary;
+  }
+}
+
+/* Custom scrollbar for webkit browsers */
+@layer utilities {
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: oklch(0.97 0 0);
+    border-radius: 3px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: oklch(0.708 0 0);
+    border-radius: 3px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: oklch(0.556 0 0);
+  }
+}
+
+/* Transições suaves para mudança de tema */
+@layer base {
+  * {
+    transition-property: background-color, border-color, color, fill, stroke;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 300ms;
+  }
+}
+
+/* Estilos para o Editor Lexical */
+.editor-container {
+  border-radius: 0.625rem; /* Usando a variável --radius do seu tema */
+}
+
+/* Estilos para Listas */
+.editor-input ul,
+.editor-input ol {
+  /* Garante que o padding ou margin seja aplicado para ver os pontos/números */
+  padding-left: 1.5rem; /* Ajuste conforme necessário para recuo */
+  margin-bottom: 0.5rem; /* Espaçamento entre listas */
+}
+
+.editor-input ul {
+  list-style-type: disc; /* Estilo padrão para listas não ordenadas */
+}
+
+.editor-input ol {
+  list-style-type: decimal; /* Estilo padrão para listas ordenadas */
+}
+
+.editor-input li {
+  margin-bottom: 0.25rem; /* Espaçamento entre itens da lista */
+}
+
+.editor-input {
+  resize: none;
+  font-size: 1rem;
+  caret-color: rgb(5, 5, 5);
+  display: block;
+  position: relative;
+  tab-size: 1;
+  outline: 0;
+  z-index: 10;
+}
+
+.dark .editor-input {
+  caret-color: rgb(255, 255, 255);
+}
+
+.editor-placeholder {
+  font-size: 1rem;
+  color: #999;
+  overflow: hidden;
+  position: absolute;
+  text-overflow: ellipsis;
+  top: 1rem; /* 16px, equivalente ao p-4 */
+  left: 1rem; /* 16px, equivalente ao p-4 */
+  user-select: none;
+  display: inline-block;
+  pointer-events: none;
+  z-index: 5;
+}
+
+/* Estilos para os Links dentro do Editor Lexical */
+.editor-container a {
+  color: #0066cc; /* Um azul padrão para links */
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* Estilo para o link no modo escuro, para melhor contraste */
+.dark .editor-container a {
+  color: #66b2ff; /* Um azul mais claro */
+}
+
+/* Estilos para a Toolbar Flutuante de Link */
+.link-editor {
+  position: absolute;
+  z-index: 100;
+  top: -10000px;
+  left: -10000px;
+  opacity: 0;
+  background-color: var(--popover);
+  color: var(--popover-foreground);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 0.5rem;
+  transition: opacity 0.2s;
+  display: flex;
+  align-items: center;
+}
+
+.link-editor-url {
+  color: var(--primary);
+  text-decoration: none;
+  font-size: 0.875rem; /* 14px */
+  padding: 0 0.5rem;
+  max-width: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.dark .link-editor-url {
+  color: #66b2ff; /* Azul mais claro para modo escuro */
+}
+
+/* Estilos para formatações do Lexical (baseadas no editorTheme) */
+.editor-input .ltr {
+  text-align: left;
+}
+
+.editor-input .rtl {
+  text-align: right;
+}
+
+.editor-input .paragraph {
+  margin-bottom: 0.5rem; /* Ajuste para espaçamento entre parágrafos */
+}
+
+.editor-input .quote {
+  margin-left: 1rem;
+  border-left: 4px solid var(--border); /* Usando variável do tema */
+  padding-left: 1rem;
+  font-style: italic;
+  color: var(--foreground); /* Garante que o texto seja legível */
+}
+
+.editor-input .h1 {
+  font-size: 1.875rem; /* 30px, text-3xl do Tailwind */
+  font-weight: bold;
+  margin-bottom: 1rem; /* Espaçamento abaixo do título */
+  color: var(--foreground);
+}
+
+.editor-input .h2 {
+  font-size: 1.5rem; /* 24px, text-2xl do Tailwind */
+  font-weight: 600; /* Semibold */
+  margin-bottom: 0.75rem; /* Espaçamento abaixo do título */
+  color: var(--foreground);
+}
+
+.editor-input .h3 {
+  font-size: 1.25rem; /* 20px, text-xl do Tailwind */
+  font-weight: 500; /* Medium */
+  margin-bottom: 0.5rem; /* Espaçamento abaixo do título */
+  color: var(--foreground);
+}
+
+/* Estilos de texto inline */
+.editor-input .font-bold {
+  font-weight: bold;
+}
+
+.editor-input .italic {
+  font-style: italic;
+}
+
+.editor-input .underline {
+  text-decoration: underline;
+}
+
+.editor-input .line-through {
+  text-decoration: line-through;
+}
+
+.editor-input .bg-gray-100 { /* Para blocos de código ou texto inline */
+  background-color: oklch(0.97 0 0); /* Usando muted do tema */
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.25rem;
+  font-family: monospace;
+  font-size: 0.875rem; /* text-sm */
+  color: var(--foreground);
+}
+
+.dark .editor-input .bg-gray-100 {
+  background-color: oklch(0.269 0 0); /* Usando muted do tema escuro */
+}
+
+.editor-input .list-decimal {
+  list-style-type: decimal;
+}
+
+.editor-input .list-disc {
+  list-style-type: disc;
+}
+
+.editor-input .list-inside {
+  list-style-position: inside;
+}
+
+/* Estilo para link */
+.editor-input .editor-link {
+  color: var(--primary); /* Usando a cor primária do seu tema */
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.dark .editor-input .editor-link {
+  color: var(--primary-foreground); /* Pode ser uma cor diferente no dark mode para links */
+}
+
+/* Apenas para garantir que o contêiner do editor use as cores do tema */
+.editor-container {
+  background-color: var(--background);
+  color: var(--foreground);
+  border-color: var(--border);
+}
+
+.dark .editor-container {
+  background-color: var(--background);
+  color: var(--foreground);
+  border-color: var(--border);
+}
+
+/* Estilo para o indicador de ponto nos dias com compromissos na Agenda */
+.day-with-engagement {
+  position: relative; /* Necessário para posicionar o ponto */
+}
+
+.day-with-engagement::after {
+  content: '';
+  position: absolute;
+  bottom: 6px; /* Ajuste a posição vertical do ponto */
+  left: 50%;
+  transform: translateX(-50%);
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: var(--primary); /* Usa a cor primária do seu tema */
+}
+
+/* Garante que o ponto fique visível mesmo em dias selecionados ou hoje */
+.day-with-engagement[aria-selected="true"]::after,
+.day-with-engagement:hover::after {
+  background-color: var(--primary-foreground);
+}
+
+.dark .day-with-engagement[aria-selected="true"]::after,
+.dark .day-with-engagement:hover::after {
+    background-color: var(--primary-foreground);
+}
