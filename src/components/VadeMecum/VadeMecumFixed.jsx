@@ -386,7 +386,7 @@ const VadeMecumImproved = () => {
         <Star className="h-5 w-5 text-orange-500" />
         Categorias Populares
       </h3>
-      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-3">
+      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-6 gap-3">
         {documentTypes.slice(0, 6).map((type) => (
           <Card
             key={type.type}

@@ -402,7 +402,7 @@ const VadeMecumCategoriesImproved = () => {
 
         {/* Grid de subcategorias */}
         {documentsLoading ? (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-6">
             {[...Array(8)].map((_, index) => (
               <Card key={index} className="animate-pulse">
                 <CardContent className="p-6">
@@ -418,7 +418,7 @@ const VadeMecumCategoriesImproved = () => {
             ))}
           </div>
         ) : (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-6">
             {subcategories.map((subcategory, index) => (
               <Card
                 key={index}
@@ -551,7 +551,7 @@ const VadeMecumCategoriesImproved = () => {
         <>
           {/* Grid de categorias */}
           {loading ? (
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-6">
               {[...Array(8)].map((_, index) => (
                 <Card key={index} className="animate-pulse">
                   <CardContent className="p-6">
