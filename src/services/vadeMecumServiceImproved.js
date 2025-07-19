@@ -72,7 +72,7 @@ const searchInDocument = (document, searchTerm) => {
 }
 
 // Função para carregar todos os documentos e manter em cache
-const loadAllDocuments = async () => {
+export const loadAllDocuments = async () => {
   try {
     // Verifica se o cache ainda é válido
     if (documentsCache && cacheTimestamp && (Date.now() - cacheTimestamp < CACHE_DURATION)) {
@@ -84,11 +84,95 @@ const loadAllDocuments = async () => {
     const documents = []
 
     querySnapshot.forEach((doc) => {
-      documents.push({
+      const data = doc.data()
+      
+      // Debug: Log dos primeiros documentos para verificar estrutura
+      if (documents.length < 3) {
+        console.log(`Debug documento ${doc.id}:`, {
+          nome: data.nome,
+          titulo: data.titulo,
+          alias: data.alias,
+          categoria: data.categoria,
+          status: data.status,
+          tipo: data.tipo,
+          lei_principal: data.lei_principal,
+          temArtigos: !!data.artigos,
+          quantidadeArtigos: data.artigos ? Object.keys(data.artigos).length : 0
+        })
+      }
+      
+      // FILTRO: Exclui partes de documentos divididos, mostra apenas principais
+      if (data.tipo === 'artigos' || data.tipo === 'conteudo') {
+        console.log(`Ignorando parte: ${doc.id} (tipo: ${data.tipo})`)
+        return // Pula partes de documentos divididos
+      }
+      
+      // Mapeia a nova estrutura de dados JSON para compatibilidade com o sistema
+      const processedDoc = {
         id: doc.id,
         firestoreDoc: doc,
-        ...doc.data()
-      })
+        
+        // ===== CAMPOS PRINCIPAIS MAPEADOS =====
+        // CORRIGIDO: Priorizar 'nome' (legível) sobre 'titulo' (código técnico)
+        titulo: data.nome || data.alias || data.titulo || doc.id,
+        tipo: data.categoria || data.tipo || 'lei',
+        referencia: data.alias || data.nome || data.titulo || doc.id,
+        
+        // ===== METADADOS =====
+        ano: data.ano,
+        dataPublicacao: data.dataPublicacao,
+        // CORRIGIDO: Manter status original do Firebase
+        status: data.status || 'vigente',
+        orgaoResponsavel: data.orgaoResponsavel,
+        area: data.area,
+        categoria: data.categoria,
+        jurisdicao: data.jurisdicao,
+        fonte: data.fonte || data.url,
+        prioridade: data.prioridade || 50,
+        
+        // ===== CONTEÚDO ESTRUTURADO =====
+        // CORRIGIDO: Processa artigos da nova estrutura JSON melhorada
+        artigos: data.artigos ? Object.values(data.artigos).map(artigo => ({
+          numero: artigo.numero,
+          titulo: artigo.titulo || (artigo.texto ? artigo.texto.substring(0, 100) + '...' : 'Sem título'),
+          texto: artigo.texto || '',
+          incisos: artigo.incisos || [],
+          paragrafos: artigo.paragrafos || [],
+          anchor: artigo.anchor || `#art-${artigo.numero}`
+        })) : [],
+        
+        // CORRIGIDO: Para documentos principais divididos, busca partes automaticamente
+        conteudo: data.conteudo || data.texto || 
+          (data.tipo === 'principal' ? 'Documento dividido - conteúdo nas partes' : '') ||
+          (data.artigos && Object.keys(data.artigos).length > 0 ? 'Conteúdo estruturado disponível' : ''),
+        
+        // CORRIGIDO: Adiciona conteúdo estruturado para visualização
+        conteudoEstruturado: data.artigos ? 
+          Object.values(data.artigos)
+            .filter(artigo => artigo.texto && artigo.texto.trim())
+            .map(artigo => `Art. ${artigo.numero}: ${artigo.texto}`)
+            .join('\n\n') : 
+          (data.conteudo || data.texto || ''),
+            
+        // ===== METADADOS DE DOCUMENTOS DIVIDIDOS =====
+        documentoDividido: data.tipo === 'principal',
+        partes: data.partes || [],
+        totalArtigos: data.totalArtigos || (data.artigos ? Object.keys(data.artigos).length : 0),
+        
+        // ===== ÍNDICES E NAVEGAÇÃO =====
+        indice: data.indice || [],
+        
+        // ===== PALAVRAS-CHAVE E TAGS =====
+        palavrasChave: data.tags || data.palavrasChave || [],
+        
+        // ===== METADADOS DE SCRAPING =====
+        scraping: data.scraping,
+        
+        // ===== DADOS ORIGINAIS PARA ACESSO AVANÇADO =====
+        rawData: data
+      }
+      
+      documents.push(processedDoc)
     })
 
     // Ordena por título para consistência
@@ -119,7 +203,9 @@ export const searchVadeMecumImproved = async (searchTerm, pageSize = 15, lastDoc
 
     // Aplica filtro por tipo se especificado
     if (filterType && filterType !== 'all') {
-      filteredDocuments = filteredDocuments.filter(doc => doc.tipo === filterType)
+      filteredDocuments = filteredDocuments.filter(doc => 
+        doc.tipo === filterType || doc.categoria === filterType
+      )
     }
 
     // Aplica busca por termo se especificado
@@ -220,6 +306,84 @@ export const getRelatedDocuments = async (document, maxResults = 5) => {
     }
   } catch (error) {
     console.error('Erro ao buscar documentos relacionados:', error)
+    return { success: false, error: error.message }
+  }
+}
+
+// Função para buscar documento completo (reconstitui divididos)
+export const getDocumentoCompleto = async (documentId) => {
+  try {
+    // 1. Buscar documento principal
+    const docRef = doc(db, VADE_MECUM_COLLECTION, documentId)
+    const docSnap = await getDoc(docRef)
+    
+    if (!docSnap.exists()) {
+      return { success: false, error: 'Documento não encontrado' }
+    }
+    
+    const data = docSnap.data()
+    
+    // 2. Se não é documento dividido, retorna direto
+    if (data.tipo !== 'principal' || !data.partes || data.partes.length === 0) {
+      return { 
+        success: true, 
+        document: {
+          id: docSnap.id,
+          ...data,
+          titulo: data.nome || data.alias || data.titulo || docSnap.id
+        }
+      }
+    }
+    
+    // 3. É documento dividido - buscar todas as partes
+    console.log(`Reconstituindo documento dividido: ${documentId}`)
+    const partesPromises = data.partes.map(partId => 
+      getDoc(doc(db, VADE_MECUM_COLLECTION, partId))
+    )
+    
+    const partesSnaps = await Promise.all(partesPromises)
+    
+    // 4. Processar partes
+    let conteudoCompleto = ''
+    let artigosCompletos = {}
+    
+    partesSnaps.forEach(partSnap => {
+      if (!partSnap.exists()) return
+      
+      const partData = partSnap.data()
+      
+      if (partData.tipo === 'conteudo') {
+        conteudoCompleto += partData.conteudo || ''
+      } else if (partData.tipo === 'artigos') {
+        Object.assign(artigosCompletos, partData.artigos || {})
+      }
+    })
+    
+    // 5. Retornar documento reconstituído
+    const documentoCompleto = {
+      id: docSnap.id,
+      ...data,
+      titulo: data.nome || data.alias || data.titulo || docSnap.id,
+      conteudo: conteudoCompleto,
+      artigos: Object.values(artigosCompletos).map(artigo => ({
+        numero: artigo.numero,
+        titulo: artigo.titulo || (artigo.texto ? artigo.texto.substring(0, 100) + '...' : 'Sem título'),
+        texto: artigo.texto || '',
+        incisos: artigo.incisos || [],
+        paragrafos: artigo.paragrafos || [],
+        anchor: artigo.anchor || `#art-${artigo.numero}`
+      })),
+      conteudoEstruturado: Object.values(artigosCompletos)
+        .filter(artigo => artigo.texto && artigo.texto.trim())
+        .map(artigo => `Art. ${artigo.numero}: ${artigo.texto}`)
+        .join('\n\n'),
+      reconstituido: true // Flag indicando que foi reconstituído
+    }
+    
+    return { success: true, document: documentoCompleto }
+    
+  } catch (error) {
+    console.error('Erro ao buscar documento completo:', error)
     return { success: false, error: error.message }
   }
 }
@@ -357,14 +521,117 @@ export const getVadeMecumByType = async (tipo, pageSize = 15, lastDocument = nul
   return await searchVadeMecumImproved(null, pageSize, lastDocument, tipo)
 }
 
+// Função para obter todos os tipos de documento com suas contagens
+export const getAllDocumentTypesWithCounts = async () => {
+  try {
+    const loadResult = await loadAllDocuments()
+    if (!loadResult.success) {
+      return loadResult
+    }
+
+    const typeCounts = {}
+    loadResult.documents.forEach(doc => {
+      const type = doc.tipo || doc.categoria || 'outros'
+      typeCounts[type] = (typeCounts[type] || 0) + 1
+    })
+
+    const typesArray = Object.keys(typeCounts).map(type => ({
+      type: type,
+      count: typeCounts[type]
+    })).sort((a, b) => b.count - a.count) // Ordena por contagem decrescente
+
+    return {
+      success: true,
+      types: typesArray,
+      totalDocuments: loadResult.documents.length
+    }
+  } catch (error) {
+    console.error('Erro ao obter tipos de documento:', error)
+    return { success: false, error: error.message }
+  }
+}
+
+// Função para obter estatísticas do Vade Mecum
+export const getVadeMecumStats = async () => {
+  try {
+    const loadResult = await loadAllDocuments()
+    if (!loadResult.success) {
+      return loadResult
+    }
+
+    const typeCounts = {}
+    const categoryStats = {}
+    let totalArticles = 0
+    let totalKeywords = 0
+    const uniqueKeywords = new Set()
+
+    loadResult.documents.forEach(doc => {
+      // Conta por tipo
+      const type = doc.tipo || doc.categoria || 'outros'
+      typeCounts[type] = (typeCounts[type] || 0) + 1
+
+      // Conta por categoria
+      if (doc.categoria) {
+        categoryStats[doc.categoria] = (categoryStats[doc.categoria] || 0) + 1
+      }
+
+      // Conta artigos
+      if (doc.artigos && Array.isArray(doc.artigos)) {
+        totalArticles += doc.artigos.length
+      }
+
+      // Conta palavras-chave
+      if (doc.palavrasChave && Array.isArray(doc.palavrasChave)) {
+        totalKeywords += doc.palavrasChave.length
+        doc.palavrasChave.forEach(keyword => uniqueKeywords.add(normalizeText(keyword)))
+      }
+    })
+
+    return {
+      success: true,
+      stats: {
+        totalDocuments: loadResult.documents.length,
+        totalArticles,
+        totalKeywords,
+        uniqueKeywordsCount: uniqueKeywords.size,
+        documentsByType: typeCounts,
+        documentsByCategory: categoryStats,
+        cacheInfo: {
+          isCacheActive: !!documentsCache,
+          cacheTimestamp: new Date(cacheTimestamp || 0).toLocaleString(),
+          cacheDuration: CACHE_DURATION / 1000 / 60 + ' minutos'
+        }
+      }
+    }
+  } catch (error) {
+    console.error('Erro ao obter estatísticas:', error)
+    return { success: false, error: error.message }
+  }
+}
+
+// Função para obter contagem total de documentos
+export const getVadeMecumCount = async () => {
+  try {
+    const loadResult = await loadAllDocuments()
+    if (!loadResult.success) {
+      return loadResult
+    }
+
+    return {
+      success: true,
+      count: loadResult.documents.length
+    }
+  } catch (error) {
+    console.error('Erro ao obter contagem:', error)
+    return { success: false, error: error.message }
+  }
+}
+
 // Exporta as outras funções originais sem modificação
 export {
   getVadeMecumDocument,
   addVadeMecumDocument,
   updateVadeMecumDocument,
-  deleteVadeMecumDocument,
-  getVadeMecumStats,
-  getVadeMecumCount,
-  getAllDocumentTypesWithCounts
+  deleteVadeMecumDocument
 } from './vadeMecumService'
 

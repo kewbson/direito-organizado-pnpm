@@ -1,0 +1,283 @@
+// 📁 Arquivo: mandseg.js (L12016)
+// 🤖 Gerado automaticamente pelo Lei Scraper V2.0
+// 📅 Data de extração: 2025-07-18T20:51:44.646Z
+// 🔗 Fonte: http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm
+
+export default {
+  "id": "mandseg",
+  "titulo": "L12016",
+  "ano": 2009,
+  "dataPublicacao": "2009-08-07",
+  "status": "revogada",
+  "orgaoResponsavel": "Congresso Nacional",
+  "area": "administrativo",
+  "categoria": "processual",
+  "jurisdicao": "federal",
+  "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm",
+  "url": "http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12016.htm",
+  "nome": "Lei do Mandado de Segurança",
+  "alias": "Lei do Mandado de Segurança",
+  "prioridade": 53,
+  "scraping": {
+    "dataExtracao": "2025-07-18T20:51:44.646Z",
+    "versao": "2.0",
+    "tamanhoOriginal": 34377,
+    "hash": "737d1a40"
+  },
+  "conteudo": "<div class='lei-conteudo'>\n      <h1>L12016</h1>\n      \n<div><center>\n\n<table>\n  <tbody><tr>\n    <td><p><font>\n\t<img></font></p></td>\n    <td><p><font><strong><big><big>Presid&#xea;ncia\n    da Rep&#xfa;blica</big></big><br>\n    <big>Casa Civil<br>\n    </big>Subchefia para Assuntos Jur&#xed;dicos</strong></font></p></td>\n  </tr>\n</tbody></table>\n</center></div>\n\n<p><font><small><strong>\n<a href=\"http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/lei%2012.016-2009?OpenDocument\">LEI N&#xba; \n12.016, DE&#xa0;7 DE AGOSTO DE 2009.</a></strong></small></font></p>\n\n<font id=\"art-1\">\n\n<table>\n  <tbody><tr>\n    <td>\n\n<font>\n\n<font><a href=\"../Msg/VEP-642-09.htm\">Mensagem de veto</a></font></font></td>\n    <td>\n\n<p>\n\n<font>\n\n<span>Disciplina o mandado de seguran&#xe7;a individual e \ncoletivo e d&#xe1; outras provid&#xea;ncias.&#xa0;</span></font></p></td>\n  </tr>\n</tbody></table>\n\n<p><b>\n<span>O PRESIDENTE DA REP&#xda;BLICA </span></b>\n<span>Fa&#xe7;o saber que o Congresso Nacional decreta e eu \nsanciono a seguinte Lei:</span></p>\n<p class=\"Artigo\" id=\"art-1\">\n<span id=\"art-1\"><a name=\"art1\"></a>Art. 1<u><sup>o</sup></u>&#xa0; Conceder-se-&#xe1; mandado de \nseguran&#xe7;a para proteger direito l&#xed;quido e certo, n&#xe3;o amparado por <b>habeas \ncorpus</b><i> </i>ou <b>habeas data</b>, sempre que, ilegalmente ou com abuso de \npoder, qualquer pessoa f&#xed;sica ou jur&#xed;dica sofrer viola&#xe7;&#xe3;o ou houver justo receio \nde sofr&#xea;-la por parte de autoridade, seja de que categoria for e sejam quais \nforem as fun&#xe7;&#xf5;es que exer&#xe7;a.&#xa0;\n<a href=\"http://www.stf.jus.br/portal/peticaoInicial/verPeticaoInicial.asp?base=ADI&amp;documento=&amp;s1=4296&amp;numProcesso=4296\">\n(Vide ADIN 4296)</a></span></p>\n<p class=\"Artigo\">\n<span><a name=\"art1&#xa7;1\"></a>&#xa7; 1<u><sup>o</sup></u>&#xa0; Equiparam-se &#xe0;s autoridades, \npara os efeitos desta Lei, os representantes ou &#xf3;rg&#xe3;os de partidos pol&#xed;ticos e \nos administradores de entidades aut&#xe1;rquicas, bem como os dirigentes de pessoas \njur&#xed;dicas ou as pessoas naturais no exerc&#xed;cio de atribui&#xe7;&#xf5;es do poder p&#xfa;blico, \nsomente no que disser respeito a essas atribui&#xe7;&#xf5;es.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art1&#xa7;2\"></a>&#xa7; 2<u><sup>o</sup></u>&#xa0; N&#xe3;o cabe mandado de seguran&#xe7;a \ncontra os atos de gest&#xe3;o comercial praticados pelos administradores de empresas \np&#xfa;blicas, de sociedade de economia mista e de concession&#xe1;rias de servi&#xe7;o \np&#xfa;blico.&#xa0;&#xa0;&#xa0; </span>\n<span>\n<a href=\"http://www.stf.jus.br/portal/peticaoInicial/verPeticaoInicial.asp?base=ADI&amp;documento=&amp;s1=4296&amp;numProcesso=4296\">\n(Vide ADIN 4296)</a></span></p>\n<p class=\"Artigo\">\n<span><a name=\"art1&#xa7;3\"></a>&#xa7; 3<u><sup>o</sup></u>&#xa0; Quando o direito amea&#xe7;ado ou \nviolado couber a v&#xe1;rias pessoas, qualquer delas poder&#xe1; requerer o mandado de \nseguran&#xe7;a.&#xa0;</span></p>\n<p class=\"Artigo\" id=\"art-2\">\n<span id=\"art-2\"><a name=\"art2\"></a>Art. 2<u><sup>o</sup></u>&#xa0; Considerar-se-&#xe1; federal a \nautoridade coatora se as consequ&#xea;ncias de ordem patrimonial do ato contra o qual \nse requer o mandado houverem de ser suportadas pela Uni&#xe3;o ou entidade por ela \ncontrolada.&#xa0;</span></p>\n<p class=\"Artigo\" id=\"art-3\">\n<span id=\"art-3\"><a name=\"art3\"></a>Art. 3<u><sup>o</sup></u>&#xa0; O titular de direito \nl&#xed;quido e certo decorrente de direito, em condi&#xe7;&#xf5;es id&#xea;nticas, de terceiro \npoder&#xe1; impetrar mandado de seguran&#xe7;a a favor do direito origin&#xe1;rio, se o seu \ntitular n&#xe3;o o fizer, no prazo de 30 (trinta) dias, quando notificado \njudicialmente.&#xa0;</span></p>\n<p class=\"Artigo\" id=\"art-23\">\n<span id=\"art-23\"><a name=\"art3p\"></a>Par&#xe1;grafo &#xfa;nico.&#xa0; O exerc&#xed;cio do direito previsto no\n<b>caput</b><i> </i>deste artigo submete-se ao prazo fixado no art. 23 desta \nLei, contado da notifica&#xe7;&#xe3;o.&#xa0;</span></p>\n<p class=\"Artigo\" id=\"art-4\">\n<span id=\"art-4\"><a name=\"art4\"></a>Art. 4<u><sup>o</sup></u>&#xa0; Em caso de urg&#xea;ncia, &#xe9; \npermitido, observados os requisitos legais, impetrar mandado de seguran&#xe7;a por \ntelegrama, radiograma, fax ou outro meio eletr&#xf4;nico de autenticidade \ncomprovada.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art4&#xa7;1\"></a>&#xa7; 1<u><sup>o</sup></u>&#xa0; Poder&#xe1; o juiz, em caso de \nurg&#xea;ncia, notificar a autoridade por telegrama, radiograma ou outro meio que \nassegure a autenticidade do documento e a imediata ci&#xea;ncia pela autoridade.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art4&#xa7;2\"></a>&#xa7; 2<u><sup>o</sup></u>&#xa0; O texto original da peti&#xe7;&#xe3;o \ndever&#xe1; ser apresentado nos 5 (cinco) dias &#xfa;teis seguintes.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art4&#xa7;3\"></a>&#xa7; 3<u><sup>o</sup></u>&#xa0; Para os fins deste artigo, em \nse tratando de documento eletr&#xf4;nico, ser&#xe3;o observadas as regras da \nInfra-Estrutura de Chaves P&#xfa;blicas Brasileira - ICP-Brasil.&#xa0;</span></p>\n<p class=\"Artigo\" id=\"art-5\">\n<span id=\"art-5\"><a name=\"art5\"></a>Art. 5<u><sup>o</sup></u>&#xa0; N&#xe3;o se conceder&#xe1; mandado de \nseguran&#xe7;a quando se tratar:&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art5i\"></a>I - de ato do qual caiba recurso administrativo com \nefeito suspensivo, independentemente de cau&#xe7;&#xe3;o;&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art5ii\"></a>II - de decis&#xe3;o judicial da qual caiba recurso com \nefeito suspensivo;&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art5iii\"></a>III - de decis&#xe3;o judicial transitada em julgado.&#xa0;</span></p>\n<p>\n<span><a name=\"art5p\"></a>Par&#xe1;grafo &#xfa;nico.&#xa0; </span>\n<a href=\"../Msg/VEP-642-09.htm\">(VETADO)</a><span>&#xa0;</span></p>\n<p class=\"Artigo\" id=\"art-6\">\n<span id=\"art-6\"><a name=\"art6\"></a>Art. 6<u><sup>o</sup></u>&#xa0; A peti&#xe7;&#xe3;o inicial, que \ndever&#xe1; preencher os requisitos estabelecidos pela lei processual, ser&#xe1; \napresentada em 2 (duas) vias com os documentos que instru&#xed;rem a primeira \nreproduzidos na segunda e indicar&#xe1;, al&#xe9;m da autoridade coatora, a pessoa \njur&#xed;dica que esta integra, &#xe0; qual se acha vinculada ou da qual exerce \natribui&#xe7;&#xf5;es.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art6&#xa7;1\"></a>&#xa7; 1<u><sup>o</sup></u>&#xa0; No caso em que o documento \nnecess&#xe1;rio &#xe0; prova do alegado se ache em reparti&#xe7;&#xe3;o ou estabelecimento p&#xfa;blico \nou em poder de autoridade que se recuse a fornec&#xea;-lo por certid&#xe3;o ou de \nterceiro, o juiz ordenar&#xe1;, preliminarmente, por of&#xed;cio, a exibi&#xe7;&#xe3;o desse \ndocumento em original ou em c&#xf3;pia aut&#xea;ntica e marcar&#xe1;, para o cumprimento da \nordem, o prazo de 10 (dez) dias. O escriv&#xe3;o extrair&#xe1; c&#xf3;pias do documento para \njunt&#xe1;-las &#xe0; segunda via da peti&#xe7;&#xe3;o.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art6&#xa7;2\"></a>&#xa7; 2<u><sup>o</sup></u>&#xa0; Se a autoridade que tiver \nprocedido dessa maneira for a pr&#xf3;pria coatora, a ordem far-se-&#xe1; no pr&#xf3;prio \ninstrumento da notifica&#xe7;&#xe3;o.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art6&#xa7;3\"></a>&#xa7; 3<u><sup>o</sup></u>&#xa0; Considera-se autoridade \ncoatora aquela que tenha praticado o ato impugnado ou da qual emane a ordem para \na sua pr&#xe1;tica.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art6&#xa7;4\"></a>&#xa7; 4<u><sup>o</sup></u>&#xa0; </span>\n<a href=\"../Msg/VEP-642-09.htm\">(VETADO)</a></p>\n<p class=\"Artigo\" id=\"art-267\">\n<span id=\"art-267\"><a name=\"art6&#xa7;5\"></a>&#xa7; 5<u><sup>o</sup></u>&#xa0; Denega-se o mandado de \nseguran&#xe7;a nos casos previstos pelo <a href=\"../../../LEIS/L5869.htm#art267\" id=\"art-267\">art. 267 da Lei n<u><sup>o</sup></u> 5.869, \nde 11 de janeiro de 1973 - C&#xf3;digo de Processo Civil.&#xa0;</a></span></p>\n<p class=\"Artigo\">\n<span><a name=\"art6&#xa7;6\"></a>&#xa7; 6<u><sup>o</sup></u>&#xa0; O pedido de mandado de \nseguran&#xe7;a poder&#xe1; ser renovado dentro do prazo decadencial, se a decis&#xe3;o \ndenegat&#xf3;ria n&#xe3;o lhe houver apreciado o m&#xe9;rito.&#xa0;</span></p>\n<p class=\"Artigo\" id=\"art-7\">\n<span id=\"art-7\"><a name=\"art7\"></a>Art. 7<u><sup>o</sup></u>&#xa0; Ao despachar a inicial, o \njuiz ordenar&#xe1;:&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art7i\"></a>I - que se notifique o coator do conte&#xfa;do da peti&#xe7;&#xe3;o \ninicial, enviando-lhe a segunda via apresentada com as c&#xf3;pias dos documentos, a \nfim de que, no prazo de 10 (dez) dias, preste as informa&#xe7;&#xf5;es;&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art7ii\"></a>II - que se d&#xea; ci&#xea;ncia do feito ao &#xf3;rg&#xe3;o de \nrepresenta&#xe7;&#xe3;o judicial da pessoa jur&#xed;dica interessada, enviando-lhe c&#xf3;pia da \ninicial sem documentos, para que, querendo, ingresse no feito;&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art7iii\"></a>III - que se suspenda o ato que deu motivo ao pedido, \nquando houver fundamento relevante e do ato impugnado puder resultar a \ninefic&#xe1;cia da medida, caso seja finalmente deferida, sendo facultado exigir do \nimpetrante cau&#xe7;&#xe3;o, fian&#xe7;a ou dep&#xf3;sito, com o objetivo de assegurar o \nressarcimento &#xe0; pessoa jur&#xed;dica.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span>\n<span>\n<a href=\"http://www.stf.jus.br/portal/peticaoInicial/verPeticaoInicial.asp?base=ADI&amp;documento=&amp;s1=4296&amp;numProcesso=4296\">\n(Vide ADIN 4296)</a></span></p>\n<p class=\"Artigo\">\n<span><a name=\"art7&#xa7;1\"></a>&#xa7; 1<u><sup>o</sup></u>&#xa0; Da decis&#xe3;o do juiz de primeiro \ngrau que conceder ou denegar a liminar caber&#xe1; agravo de instrumento, observado o \ndisposto na <a href=\"../../../LEIS/L5869.htm\">Lei n<u><sup>o</sup></u> 5.869, de 11 de janeiro de 1973 - C&#xf3;digo de \nProcesso Civil.&#xa0;</a></span></p>\n<p class=\"Artigo\">\n<span><a name=\"art7&#xa7;2\"></a>&#xa7; 2<u><sup>o</sup></u>&#xa0; N&#xe3;o ser&#xe1; concedida medida \nliminar que tenha por objeto a compensa&#xe7;&#xe3;o de cr&#xe9;ditos tribut&#xe1;rios, a entrega de \nmercadorias e bens provenientes do exterior, a reclassifica&#xe7;&#xe3;o ou equipara&#xe7;&#xe3;o de \nservidores p&#xfa;blicos e a concess&#xe3;o de aumento ou a extens&#xe3;o de vantagens ou \npagamento de qualquer natureza.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span>\n<span>\n<a href=\"http://www.stf.jus.br/portal/peticaoInicial/verPeticaoInicial.asp?base=ADI&amp;documento=&amp;s1=4296&amp;numProcesso=4296\">\n(Vide ADIN 4296)</a></span></p>\n<p class=\"Artigo\">\n<span><a name=\"art7&#xa7;3\"></a>&#xa7; 3<u><sup>o</sup></u>&#xa0; Os efeitos da medida liminar, \nsalvo se revogada ou cassada, persistir&#xe3;o at&#xe9; a prola&#xe7;&#xe3;o da senten&#xe7;a.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art7&#xa7;4\"></a>&#xa7; 4<u><sup>o</sup></u>&#xa0; Deferida a medida liminar, o \nprocesso ter&#xe1; prioridade para julgamento.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art7&#xa7;5\"></a>&#xa7; 5<u><sup>o</sup></u>&#xa0; As veda&#xe7;&#xf5;es relacionadas com a \nconcess&#xe3;o de liminares previstas neste artigo se estendem &#xe0; tutela antecipada a \nque se referem os <a href=\"../../../LEIS/L5869.htm#art273\">arts. 273</a> e \n<a href=\"../../../LEIS/L5869.htm#art461.\">461 da Lei n<u><sup>o</sup></u> 5.869, de 11 \njaneiro de 1973 - C&#xf3;digo de Processo Civil.&#xa0;</a></span></p>\n<p class=\"Artigo\" id=\"art-8\">\n<span id=\"art-8\"><a name=\"art8\"></a>Art. 8<u><sup>o</sup></u>&#xa0; Ser&#xe1; decretada a peremp&#xe7;&#xe3;o \nou caducidade da medida liminar <b>ex officio</b><i> </i>ou a requerimento do \nMinist&#xe9;rio P&#xfa;blico quando, concedida a medida, o impetrante criar obst&#xe1;culo ao \nnormal andamento do processo ou deixar de promover, por mais de 3 (tr&#xea;s) dias \n&#xfa;teis, os atos e as dilig&#xea;ncias que lhe cumprirem.</span><b><span>&#xa0;</span></b></p>\n<p class=\"Artigo\" id=\"art-9\">\n<span id=\"art-9\"><a name=\"art9\"></a>Art. 9<u><sup>o</sup></u>&#xa0; As autoridades \nadministrativas, no prazo de 48 (quarenta e oito) horas da notifica&#xe7;&#xe3;o da medida \nliminar, remeter&#xe3;o ao Minist&#xe9;rio ou &#xf3;rg&#xe3;o a que se acham subordinadas e ao \nAdvogado-Geral da Uni&#xe3;o ou a quem tiver a representa&#xe7;&#xe3;o judicial da Uni&#xe3;o, do \nEstado, do Munic&#xed;pio ou da entidade apontada como coatora c&#xf3;pia autenticada do \nmandado notificat&#xf3;rio, assim como indica&#xe7;&#xf5;es e elementos outros necess&#xe1;rios &#xe0;s \nprovid&#xea;ncias a serem tomadas para a eventual suspens&#xe3;o da medida e defesa do ato \napontado como ilegal ou abusivo de poder.&#xa0;</span></p>\n<p class=\"Artigo\" id=\"art-10\">\n<span id=\"art-10\"><a name=\"art10\"></a>Art. 10.&#xa0; A inicial ser&#xe1; desde logo indeferida, por \ndecis&#xe3;o motivada, quando n&#xe3;o for o caso de mandado de seguran&#xe7;a ou lhe faltar \nalgum dos requisitos legais ou quando decorrido o prazo legal para a \nimpetra&#xe7;&#xe3;o.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art10&#xa7;1\"></a>&#xa7; 1<u><sup>o</sup></u>&#xa0; Do indeferimento da inicial \npelo juiz de primeiro grau caber&#xe1; apela&#xe7;&#xe3;o e, quando a compet&#xea;ncia para o \njulgamento do mandado de seguran&#xe7;a couber originariamente a um dos tribunais, do \nato do relator caber&#xe1; agravo para o &#xf3;rg&#xe3;o competente do tribunal que integre.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art10&#xa7;2\"></a>&#xa7; 2<u><sup>o</sup></u>&#xa0; O ingresso de litisconsorte \nativo n&#xe3;o ser&#xe1; admitido ap&#xf3;s o despacho da peti&#xe7;&#xe3;o inicial.</span><b><span>&#xa0;</span></b></p>\n<p class=\"Artigo\" id=\"art-11\">\n<span id=\"art-11\"><a name=\"art11\"></a>Art. 11.&#xa0; Feitas as notifica&#xe7;&#xf5;es, o serventu&#xe1;rio em \ncujo cart&#xf3;rio corra o feito juntar&#xe1; aos autos c&#xf3;pia aut&#xea;ntica dos of&#xed;cios \nendere&#xe7;ados ao coator e ao &#xf3;rg&#xe3;o de representa&#xe7;&#xe3;o judicial da pessoa jur&#xed;dica \ninteressada, bem como a prova da entrega a estes ou da sua recusa em aceit&#xe1;-los \nou dar recibo e, no caso do art. 4<u><sup>o</sup></u> desta Lei, a comprova&#xe7;&#xe3;o \nda remessa.</span><b><span>&#xa0;</span></b></p>\n<p class=\"Artigo\" id=\"art-12\">\n<span id=\"art-12\"><a name=\"art12\"></a>Art. 12.&#xa0; Findo o prazo a que se refere o inciso I do\n<b>caput</b><i> </i>do art. 7<u><sup>o</sup></u> desta Lei, o juiz ouvir&#xe1; o \nrepresentante do Minist&#xe9;rio P&#xfa;blico, que opinar&#xe1;, dentro do prazo improrrog&#xe1;vel \nde 10 (dez) dias.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art12p\"></a>Par&#xe1;grafo &#xfa;nico.&#xa0; Com ou sem o parecer do Minist&#xe9;rio \nP&#xfa;blico, os autos ser&#xe3;o conclusos ao juiz, para a decis&#xe3;o, a qual dever&#xe1; ser \nnecessariamente proferida em 30 (trinta) dias.&#xa0;</span></p>\n<p class=\"Artigo\" id=\"art-13\">\n<span id=\"art-13\"><a name=\"art13\"></a>Art. 13.&#xa0; Concedido o mandado, o juiz transmitir&#xe1; em \nof&#xed;cio, por interm&#xe9;dio do oficial do ju&#xed;zo, ou pelo correio, mediante \ncorrespond&#xea;ncia com aviso de recebimento, o inteiro teor da senten&#xe7;a &#xe0; \nautoridade coatora e &#xe0; pessoa jur&#xed;dica interessada.&#xa0;</span></p>\n<p class=\"Artigo\" id=\"art-4\">\n<span id=\"art-4\"><a name=\"art13p\"></a>Par&#xe1;grafo &#xfa;nico.&#xa0; Em caso de urg&#xea;ncia, poder&#xe1; o juiz \nobservar o disposto no art. 4<u><sup>o</sup></u> desta Lei.</span><b><span>&#xa0;</span></b></p>\n<p class=\"Artigo\" id=\"art-14\">\n<span id=\"art-14\"><a name=\"art14\"></a>Art. 14.&#xa0; Da senten&#xe7;a, denegando ou concedendo o \nmandado, cabe apela&#xe7;&#xe3;o.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art14&#xa7;1\"></a>&#xa7; 1<u><sup>o</sup></u>&#xa0; Concedida a seguran&#xe7;a, a \nsenten&#xe7;a estar&#xe1; sujeita obrigatoriamente ao duplo grau de jurisdi&#xe7;&#xe3;o.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art14&#xa7;2\"></a>&#xa7; 2<u><sup>o</sup></u>&#xa0; Estende-se &#xe0; autoridade \ncoatora o direito de recorrer.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art14&#xa7;3\"></a>&#xa7; 3<u><sup>o</sup></u>&#xa0; A senten&#xe7;a que conceder o \nmandado de seguran&#xe7;a pode ser executada provisoriamente, salvo nos casos em que \nfor vedada a concess&#xe3;o da medida liminar.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art14&#xa7;4\"></a>&#xa7; 4<u><sup>o</sup></u>&#xa0; O pagamento de vencimentos e \nvantagens pecuni&#xe1;rias assegurados em senten&#xe7;a concessiva de mandado de seguran&#xe7;a \na servidor p&#xfa;blico da administra&#xe7;&#xe3;o direta ou aut&#xe1;rquica federal, estadual e \nmunicipal somente ser&#xe1; efetuado relativamente &#xe0;s presta&#xe7;&#xf5;es que se vencerem a \ncontar da data do ajuizamento da inicial.</span><b><span>&#xa0;</span></b></p>\n<p class=\"Artigo\" id=\"art-15\">\n<span id=\"art-15\"><a name=\"art15\"></a>Art. 15.&#xa0; Quando, a requerimento de pessoa jur&#xed;dica de \ndireito p&#xfa;blico interessada ou do Minist&#xe9;rio P&#xfa;blico e para evitar grave les&#xe3;o &#xe0; \nordem, &#xe0; sa&#xfa;de, &#xe0; seguran&#xe7;a e &#xe0; economia p&#xfa;blicas, o presidente do tribunal ao \nqual couber o conhecimento do respectivo recurso suspender, em decis&#xe3;o \nfundamentada, a execu&#xe7;&#xe3;o da liminar e da senten&#xe7;a, dessa decis&#xe3;o caber&#xe1; agravo, \nsem efeito suspensivo, no prazo de 5 (cinco) dias, que ser&#xe1; levado a julgamento \nna sess&#xe3;o seguinte &#xe0; sua interposi&#xe7;&#xe3;o.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art15&#xa7;1\"></a>&#xa7; 1<u><sup>o</sup></u>&#xa0; Indeferido o pedido de \nsuspens&#xe3;o ou provido o agravo a que se refere o <b>caput</b><i> </i>deste \nartigo, caber&#xe1; novo pedido de suspens&#xe3;o ao presidente do tribunal competente \npara conhecer de eventual recurso especial ou extraordin&#xe1;rio.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art15&#xa7;2\"></a>&#xa7; 2<u><sup>o</sup></u>&#xa0; &#xc9; cab&#xed;vel tamb&#xe9;m o pedido de \nsuspens&#xe3;o a que se refere o &#xa7; 1<u><sup>o</sup></u> deste artigo, quando negado \nprovimento a agravo de instrumento interposto contra a liminar a que se refere \neste artigo.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art15&#xa7;3\"></a>&#xa7; 3<u><sup>o</sup></u>&#xa0; A interposi&#xe7;&#xe3;o de agravo de \ninstrumento contra liminar concedida nas a&#xe7;&#xf5;es movidas contra o poder p&#xfa;blico e \nseus agentes n&#xe3;o prejudica nem condiciona o julgamento do pedido de suspens&#xe3;o a \nque se refere este artigo.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art15&#xa7;4\"></a>&#xa7; 4<u><sup>o</sup></u>&#xa0; O presidente do tribunal \npoder&#xe1; conferir ao pedido efeito suspensivo liminar se constatar, em ju&#xed;zo \npr&#xe9;vio, a plausibilidade do direito invocado e a urg&#xea;ncia na concess&#xe3;o da \nmedida.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art15&#xa7;5\"></a>&#xa7; 5<u><sup>o</sup></u>&#xa0; As liminares cujo objeto seja \nid&#xea;ntico poder&#xe3;o ser suspensas em uma &#xfa;nica decis&#xe3;o, podendo o presidente do \ntribunal estender os efeitos da suspens&#xe3;o a liminares supervenientes, mediante \nsimples aditamento do pedido original.</span><b><span>&#xa0;</span></b></p>\n<p class=\"Artigo\" id=\"art-16\">\n<span id=\"art-16\"><a name=\"art16\"></a>Art. 16.&#xa0; Nos casos de compet&#xea;ncia origin&#xe1;ria dos \ntribunais, caber&#xe1; ao relator a instru&#xe7;&#xe3;o do processo, sendo assegurada a defesa \noral na sess&#xe3;o do julgamento.&#xa0;</span></p>\n<p class=\"Artigo\" id=\"art-16\">\n<a name=\"art16.\"></a>Art. 16. &#xa0;Nos casos de compet&#xea;ncia origin&#xe1;ria dos \ntribunais, caber&#xe1; ao relator a instru&#xe7;&#xe3;o do processo, sendo assegurada a defesa \noral na sess&#xe3;o do julgamento do m&#xe9;rito ou do pedido liminar.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n\t\t<span>\n<a href=\"../../../_Ato2015-2018/2018/Lei/L13676.htm#art1\">(Reda&#xe7;&#xe3;o dada pela Lei \nn&#xba; 13.676, de 2018)</a></span></p>\n<p class=\"Artigo\">\n<span><a name=\"art16p\"></a>Par&#xe1;grafo &#xfa;nico.&#xa0; Da decis&#xe3;o do relator que conceder \nou denegar a medida liminar caber&#xe1; agravo ao &#xf3;rg&#xe3;o competente do tribunal que \nintegre.&#xa0;</span></p>\n<p class=\"Artigo\" id=\"art-17\">\n<span id=\"art-17\"><a name=\"art17\"></a>Art. 17.&#xa0; Nas decis&#xf5;es proferidas em mandado de \nseguran&#xe7;a e nos respectivos recursos, quando n&#xe3;o publicado, no prazo de 30 \n(trinta) dias, contado da data do julgamento, o ac&#xf3;rd&#xe3;o ser&#xe1; substitu&#xed;do pelas \nrespectivas notas taquigr&#xe1;ficas, independentemente de revis&#xe3;o.&#xa0;</span></p>\n<p class=\"Artigo\" id=\"art-18\">\n<span id=\"art-18\"><a name=\"art18\"></a>Art. 18.&#xa0; Das decis&#xf5;es em mandado de seguran&#xe7;a \nproferidas em &#xfa;nica inst&#xe2;ncia pelos tribunais cabe recurso especial e \nextraordin&#xe1;rio, nos casos legalmente previstos, e recurso ordin&#xe1;rio, quando a \nordem for denegada.&#xa0;</span></p>\n<p class=\"Artigo\" id=\"art-19\">\n<span id=\"art-19\"><a name=\"art19\"></a>Art. 19.&#xa0; A senten&#xe7;a ou o ac&#xf3;rd&#xe3;o que denegar mandado \nde seguran&#xe7;a, sem decidir o m&#xe9;rito, n&#xe3;o impedir&#xe1; que o requerente, por a&#xe7;&#xe3;o \npr&#xf3;pria, pleiteie os seus direitos e os respectivos efeitos patrimoniais.</span><b><span>&#xa0;</span></b></p>\n<p class=\"Artigo\" id=\"art-20\">\n<span id=\"art-20\"><a name=\"art20\"></a>Art. 20.&#xa0; Os processos de mandado de seguran&#xe7;a e os \nrespectivos recursos ter&#xe3;o prioridade sobre todos os atos judiciais, salvo <b>\nhabeas corpus</b>.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art20&#xa7;1\"></a>&#xa7; 1<u><sup>o</sup></u>&#xa0; Na inst&#xe2;ncia superior, dever&#xe3;o \nser levados a julgamento na primeira sess&#xe3;o que se seguir &#xe0; data em que forem \nconclusos ao relator.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art20&#xa7;2\"></a>&#xa7; 2<u><sup>o</sup></u>&#xa0; O prazo para a conclus&#xe3;o dos \nautos n&#xe3;o poder&#xe1; exceder de 5 (cinco) dias.</span><b><span>&#xa0;</span></b></p>\n<p class=\"Artigo\" id=\"art-21\">\n<span id=\"art-21\"><a name=\"art21\"></a>Art. 21.&#xa0; O mandado de seguran&#xe7;a coletivo pode ser \nimpetrado por partido pol&#xed;tico com representa&#xe7;&#xe3;o no Congresso Nacional, na \ndefesa de seus interesses leg&#xed;timos relativos a seus integrantes ou &#xe0; finalidade \npartid&#xe1;ria, ou por organiza&#xe7;&#xe3;o sindical, entidade de classe ou associa&#xe7;&#xe3;o \nlegalmente constitu&#xed;da e em funcionamento h&#xe1;, pelo menos, 1 (um) ano, em defesa \nde direitos l&#xed;quidos e certos da totalidade, ou de parte, dos seus membros ou \nassociados, na forma dos seus estatutos e desde que pertinentes &#xe0;s suas \nfinalidades, dispensada, para tanto, autoriza&#xe7;&#xe3;o especial.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art21p\"></a>Par&#xe1;grafo &#xfa;nico.&#xa0; Os direitos protegidos pelo mandado \nde seguran&#xe7;a coletivo podem ser:&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art21pi\"></a>I - coletivos, assim entendidos, para efeito desta \nLei, os transindividuais, de natureza indivis&#xed;vel, de que seja titular grupo ou \ncategoria de pessoas ligadas entre si ou com a parte contr&#xe1;ria por uma rela&#xe7;&#xe3;o \njur&#xed;dica b&#xe1;sica;&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art21pii\"></a>II - individuais homog&#xea;neos, assim entendidos, para \nefeito desta Lei, os decorrentes de origem comum e da atividade ou situa&#xe7;&#xe3;o \nespec&#xed;fica da totalidade ou de parte dos associados ou membros do impetrante.&#xa0;</span></p>\n<p class=\"Artigo\" id=\"art-22\">\n<span id=\"art-22\"><a name=\"art22\"></a>Art. 22.&#xa0; No mandado de seguran&#xe7;a coletivo, a senten&#xe7;a \nfar&#xe1; coisa julgada limitadamente aos membros do grupo ou categoria substitu&#xed;dos \npelo impetrante.&#xa0;&#xa0;&#xa0; </span>\n<span>\n<a href=\"http://www.stf.jus.br/portal/peticaoInicial/verPeticaoInicial.asp?base=ADI&amp;documento=&amp;s1=4296&amp;numProcesso=4296\">\n(Vide ADIN 4296)</a></span></p>\n<p class=\"Artigo\">\n<span><a name=\"art22&#xa7;1\"></a>&#xa7; 1<u><sup>o</sup></u>&#xa0; O mandado de seguran&#xe7;a \ncoletivo n&#xe3;o induz litispend&#xea;ncia para as a&#xe7;&#xf5;es individuais, mas os efeitos da \ncoisa julgada n&#xe3;o beneficiar&#xe3;o o impetrante a t&#xed;tulo individual se n&#xe3;o requerer \na desist&#xea;ncia de seu mandado de seguran&#xe7;a no prazo de 30 (trinta) dias a contar \nda ci&#xea;ncia comprovada da impetra&#xe7;&#xe3;o da seguran&#xe7;a coletiva.&#xa0;</span></p>\n<p class=\"Artigo\">\n<span><a name=\"art22&#xa7;2\"></a>&#xa7; 2<u><sup>o</sup></u>&#xa0; No mandado de seguran&#xe7;a \ncoletivo, a liminar s&#xf3; poder&#xe1; ser concedida ap&#xf3;s a audi&#xea;ncia do representante \njudicial da pessoa jur&#xed;dica de direito p&#xfa;blico, que dever&#xe1; se pronunciar no \nprazo de 72 (setenta e duas) horas.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span>\n<span>\n<a href=\"http://www.stf.jus.br/portal/peticaoInicial/verPeticaoInicial.asp?base=ADI&amp;documento=&amp;s1=4296&amp;numProcesso=4296\">\n(Vide ADIN 4296)</a></span></p>\n<p class=\"Artigo\" id=\"art-23\">\n<span id=\"art-23\"><a name=\"art23\"></a>Art. 23.&#xa0; O direito de requerer mandado de seguran&#xe7;a \nextinguir-se-&#xe1; decorridos 120 (cento e vinte) dias, contados da ci&#xea;ncia, pelo \ninteressado, do ato impugnado.&#xa0;&#xa0;&#xa0; </span>\n<span>\n<a href=\"http://www.stf.jus.br/portal/peticaoInicial/verPeticaoInicial.asp?base=ADI&amp;documento=&amp;s1=4296&amp;numProcesso=4296\">\n(Vide ADIN 4296)</a></span></p>\n<p class=\"Artigo\" id=\"art-24\">\n<span id=\"art-24\"><a name=\"art24\"></a>Art. 24.&#xa0; Aplicam-se ao mandado de seguran&#xe7;a os \n<a href=\"../../../LEIS/L5869.htm#art46\">arts. \n46</a> a <a href=\"../../../LEIS/L5869.htm#art49\">49 da Lei n<u><sup>o</sup></u> 5.869, de 11 de janeiro de 1973 - C&#xf3;digo de \nProcesso Civil.&#xa0;</a></span></p>\n<p class=\"Artigo\" id=\"art-25\">\n<span id=\"art-25\"><a name=\"art25\"></a>Art. 25.&#xa0; N&#xe3;o cabem, no processo de mandado de \nseguran&#xe7;a, a interposi&#xe7;&#xe3;o de embargos infringentes e a condena&#xe7;&#xe3;o ao pagamento \ndos honor&#xe1;rios advocat&#xed;cios, sem preju&#xed;zo da aplica&#xe7;&#xe3;o de san&#xe7;&#xf5;es no caso de \nlitig&#xe2;ncia de m&#xe1;-f&#xe9;.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span>\n<span>\n<a href=\"http://www.stf.jus.br/portal/peticaoInicial/verPeticaoInicial.asp?base=ADI&amp;documento=&amp;s1=4296&amp;numProcesso=4296\">\n(Vide ADIN 4296)</a></span></p>\n<p class=\"Artigo\" id=\"art-26\">\n<span id=\"art-26\"><a name=\"art26\"></a>Art. 26.&#xa0; Constitui crime de desobedi&#xea;ncia, nos termos \ndo <a href=\"../../../Decreto-Lei/Del2848.htm#art330\" id=\"art-330\">art. 330 do Decreto-Lei n<u><sup>o</sup></u> 2.848, de 7 de dezembro de 1940</a>, \no n&#xe3;o cumprimento das decis&#xf5;es proferidas em mandado de seguran&#xe7;a, sem preju&#xed;zo \ndas san&#xe7;&#xf5;es administrativas e da aplica&#xe7;&#xe3;o da <a href=\"../../../LEIS/L1079.htm\">Lei n<u><sup>o</sup></u> 1.079, de \n10 de abril de 1950</a>, quando cab&#xed;veis.&#xa0;</span></p>\n<p class=\"Artigo\" id=\"art-27\">\n<span id=\"art-27\"><a name=\"art27\"></a>Art. 27.&#xa0; Os regimentos dos tribunais e, no que \ncouber, as leis de organiza&#xe7;&#xe3;o judici&#xe1;ria dever&#xe3;o ser adaptados &#xe0;s disposi&#xe7;&#xf5;es \ndesta Lei no prazo de 180 (cento e oitenta) dias, contado da sua publica&#xe7;&#xe3;o.&#xa0;</span></p>\n<p class=\"Artigo\" id=\"art-28\">\n<span id=\"art-28\"><a name=\"art28\"></a>Art. 28.&#xa0; Esta Lei entra em vigor na data de sua \npublica&#xe7;&#xe3;o.&#xa0;</span></p>\n<p id=\"art-29\">\n<span id=\"art-29\"><a name=\"art29\"></a>Art. 29.&#xa0; Revogam-se as \n<a href=\"../../../LEIS/L1533.htm\">Leis n<u><sup>os</sup></u> \n1.533, de 31 de dezembro de 1951</a>, \n<a href=\"../../../LEIS/1950-1969/L4166.htm\">4.166, de 4 de dezembro de 1962</a>, \n<a href=\"../../../LEIS/L4348.htm\">4.348, de 26 \nde junho de 1964</a>, <a href=\"../../../LEIS/L5021.htm\">5.021, de 9 de junho de 1966</a>; o \n<a href=\"../../../LEIS/L6014.htm#art3\" id=\"art-3\">art. 3<u><sup>o</sup></u> da \nLei n<u><sup>o</sup></u> 6.014, de 27 de dezembro de 1973</a>, o \n<a href=\"../../../LEIS/L6071.htm#art1\" id=\"art-1\">art. 1<u><sup>o</sup></u> \nda Lei n<u><sup>o</sup></u> 6.071, de 3 de julho de 1974</a>, o \n<a href=\"../../../LEIS/1980-1988/L6978.htm#art12\" id=\"art-12\">art. 12 da Lei n<u><sup>o</sup></u> \n6.978, de 19 de janeiro de 1982</a>, e o <a href=\"../../../LEIS/L9259.htm#art2\" id=\"art-2\">art. 2<u><sup>o</sup></u> da Lei n<u><sup>o</sup></u> \n9.259, de 9 de janeiro de 1996.&#xa0;</a></span></p>\n<p><span>\nBras&#xed;lia,&#xa0; 7&#xa0; de&#xa0; agosto&#xa0; de 2009; 188<u><sup>o</sup></u> da Independ&#xea;ncia e 121<u><sup>o</sup></u> \nda Rep&#xfa;blica.&#xa0;</span></p>\n<p><span>LUIZ IN&#xc1;CIO LULA DA SILVA <br>\n</span><i>Tarso Genro<br>\nJos&#xe9; Antonio Dias Toffoli </i></p>\n<p>\n<font>Este texto n&#xe3;o substitui o publicado \nno DOU de 10.8.2009</font></p>\n<p>\n<font>*</font></p>\n<p>\n&#xa0;</p>\n<p>\n&#xa0;</p>\n<p>\n&#xa0;</p>\n<p>\n&#xa0;</p>\n<p>\n&#xa0;</p>\n<p>\n&#xa0;</p>\n<p>\n&#xa0;</p>\n<p>\n&#xa0;</p>\n<p>\n&#xa0;</p>\n<p>\n&#xa0;</p>\n<p>\n&#xa0;</p>\n\n</font>\n\n\n\n    </div>",
+  "artigos": {
+    "1": {
+      "numero": "1º",
+      "titulo": "segurança para proteger direito líquido e certo, não amparado por habeas",
+      "texto": "Art. 1o Conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, sempre que, ilegalmente ou com abuso de poder, qualquer pessoa física ou jurídica sofrer violação ou houver justo receio de sofrê-la por parte de autoridade, seja de que categoria for e sejam quais forem as funções que exerça. (Vide ADIN 4296)",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-1"
+    },
+    "2": {
+      "numero": "2º",
+      "titulo": "autoridade coatora se as consequências de ordem patrimonial do ato contra o qual",
+      "texto": "Art. 2o Considerar-se-á federal a autoridade coatora se as consequências de ordem patrimonial do ato contra o qual se requer o mandado houverem de ser suportadas pela União ou entidade por ela controlada.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-2"
+    },
+    "3": {
+      "numero": "3º",
+      "titulo": "líquido e certo decorrente de direito, em condições idênticas, de terceiro",
+      "texto": "Art. 3o O titular de direito líquido e certo decorrente de direito, em condições idênticas, de terceiro poderá impetrar mandado de segurança a favor do direito originário, se o seu titular não o fizer, no prazo de 30 (trinta) dias, quando notificado judicialmente.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-3"
+    },
+    "4": {
+      "numero": "4º",
+      "titulo": "permitido, observados os requisitos legais, impetrar mandado de segurança por",
+      "texto": "Art. 4o Em caso de urgência, é permitido, observados os requisitos legais, impetrar mandado de segurança por telegrama, radiograma, fax ou outro meio eletrônico de autenticidade comprovada.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-4"
+    },
+    "5": {
+      "numero": "5º",
+      "titulo": "segurança quando se tratar:",
+      "texto": "Art. 5o Não se concederá mandado de segurança quando se tratar:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-5"
+    },
+    "6": {
+      "numero": "6º",
+      "titulo": "deverá preencher os requisitos estabelecidos pela lei processual, será",
+      "texto": "Art. 6o A petição inicial, que deverá preencher os requisitos estabelecidos pela lei processual, será apresentada em 2 (duas) vias com os documentos que instruírem a primeira reproduzidos na segunda e indicará, além da autoridade coatora, a pessoa jurídica que esta integra, à qual se acha vinculada ou da qual exerce atribuições.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-6"
+    },
+    "7": {
+      "numero": "7º",
+      "titulo": "juiz ordenará:",
+      "texto": "Art. 7o Ao despachar a inicial, o juiz ordenará:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-7"
+    },
+    "8": {
+      "numero": "8º",
+      "titulo": "ou caducidade da medida liminar ex officio ou a requerimento do",
+      "texto": "Art. 8o Será decretada a perempção ou caducidade da medida liminar ex officio ou a requerimento do Ministério Público quando, concedida a medida, o impetrante criar obstáculo ao normal andamento do processo ou deixar de promover, por mais de 3 (três) dias úteis, os atos e as diligências que lhe cumprirem.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-8"
+    },
+    "9": {
+      "numero": "9º",
+      "titulo": "administrativas, no prazo de 48 (quarenta e oito) horas da notificação da medida",
+      "texto": "Art. 9o As autoridades administrativas, no prazo de 48 (quarenta e oito) horas da notificação da medida liminar, remeterão ao Ministério ou órgão a que se acham subordinadas e ao Advogado-Geral da União ou a quem tiver a representação judicial da União, do Estado, do Município ou da entidade apontada como coatora cópia autenticada do mandado notificatório, assim como indicações e elementos outros necessários às providências a serem tomadas para a eventual suspensão da medida e defesa do ato apontado como ilegal ou abusivo de poder.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-9"
+    },
+    "10": {
+      "numero": "10º",
+      "titulo": "decisão motivada, quando não for o caso de mandado de segurança ou lhe faltar",
+      "texto": "Art. 10. A inicial será desde logo indeferida, por decisão motivada, quando não for o caso de mandado de segurança ou lhe faltar algum dos requisitos legais ou quando decorrido o prazo legal para a impetração.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-10"
+    },
+    "11": {
+      "numero": "11º",
+      "titulo": "cujo cartório corra o feito juntará aos autos cópia autêntica dos ofícios",
+      "texto": "Art. 11. Feitas as notificações, o serventuário em cujo cartório corra o feito juntará aos autos cópia autêntica dos ofícios endereçados ao coator e ao órgão de representação judicial da pessoa jurídica interessada, bem como a prova da entrega a estes ou da sua recusa em aceitá-los ou dar recibo e, no caso do art. 4o desta Lei, a comprovação da remessa.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-11"
+    },
+    "12": {
+      "numero": "12º",
+      "titulo": "caput do art. 7o desta Lei, o juiz ouvirá o",
+      "texto": "Art. 12. Findo o prazo a que se refere o inciso I do caput do art. 7o desta Lei, o juiz ouvirá o representante do Ministério Público, que opinará, dentro do prazo improrrogável de 10 (dez) dias.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-12"
+    },
+    "13": {
+      "numero": "13º",
+      "titulo": "ofício, por intermédio do oficial do juízo, ou pelo correio, mediante",
+      "texto": "Art. 13. Concedido o mandado, o juiz transmitirá em ofício, por intermédio do oficial do juízo, ou pelo correio, mediante correspondência com aviso de recebimento, o inteiro teor da sentença à autoridade coatora e à pessoa jurídica interessada.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-13"
+    },
+    "14": {
+      "numero": "14º",
+      "titulo": "mandado, cabe apelação.",
+      "texto": "Art. 14. Da sentença, denegando ou concedendo o mandado, cabe apelação.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-14"
+    },
+    "15": {
+      "numero": "15º",
+      "titulo": "direito público interessada ou do Ministério Público e para evitar grave lesão à",
+      "texto": "Art. 15. Quando, a requerimento de pessoa jurídica de direito público interessada ou do Ministério Público e para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas, o presidente do tribunal ao qual couber o conhecimento do respectivo recurso suspender, em decisão fundamentada, a execução da liminar e da sentença, dessa decisão caberá agravo, sem efeito suspensivo, no prazo de 5 (cinco) dias, que será levado a julgamento na sessão seguinte à sua interposição.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-15"
+    },
+    "16": {
+      "numero": "16º",
+      "titulo": "tribunais, caberá ao relator a instrução do processo, sendo assegurada a defesa",
+      "texto": "Art. 16. Nos casos de competência originária dos tribunais, caberá ao relator a instrução do processo, sendo assegurada a defesa oral na sessão do julgamento.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-16"
+    },
+    "17": {
+      "numero": "17º",
+      "titulo": "segurança e nos respectivos recursos, quando não publicado, no prazo de 30",
+      "texto": "Art. 17. Nas decisões proferidas em mandado de segurança e nos respectivos recursos, quando não publicado, no prazo de 30 (trinta) dias, contado da data do julgamento, o acórdão será substituído pelas respectivas notas taquigráficas, independentemente de revisão.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-17"
+    },
+    "18": {
+      "numero": "18º",
+      "titulo": "proferidas em única instância pelos tribunais cabe recurso especial e",
+      "texto": "Art. 18. Das decisões em mandado de segurança proferidas em única instância pelos tribunais cabe recurso especial e extraordinário, nos casos legalmente previstos, e recurso ordinário, quando a ordem for denegada.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-18"
+    },
+    "19": {
+      "numero": "19º",
+      "titulo": "de segurança, sem decidir o mérito, não impedirá que o requerente, por ação",
+      "texto": "Art. 19. A sentença ou o acórdão que denegar mandado de segurança, sem decidir o mérito, não impedirá que o requerente, por ação própria, pleiteie os seus direitos e os respectivos efeitos patrimoniais.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-19"
+    },
+    "20": {
+      "numero": "20º",
+      "titulo": "respectivos recursos terão prioridade sobre todos os atos judiciais, salvo",
+      "texto": "Art. 20. Os processos de mandado de segurança e os respectivos recursos terão prioridade sobre todos os atos judiciais, salvo habeas corpus.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-20"
+    },
+    "21": {
+      "numero": "21º",
+      "titulo": "impetrado por partido político com representação no Congresso Nacional, na",
+      "texto": "Art. 21. O mandado de segurança coletivo pode ser impetrado por partido político com representação no Congresso Nacional, na defesa de seus interesses legítimos relativos a seus integrantes ou à finalidade partidária, ou por organização sindical, entidade de classe ou associação legalmente constituída e em funcionamento há, pelo menos, 1 (um) ano, em defesa de direitos líquidos e certos da totalidade, ou de parte, dos seus membros ou associados, na forma dos seus estatutos e desde que pertinentes às suas finalidades, dispensada, para tanto, autorização especial.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-21"
+    },
+    "22": {
+      "numero": "22º",
+      "titulo": "fará coisa julgada limitadamente aos membros do grupo ou categoria substituídos",
+      "texto": "Art. 22. No mandado de segurança coletivo, a sentença fará coisa julgada limitadamente aos membros do grupo ou categoria substituídos pelo impetrante. (Vide ADIN 4296)",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-22"
+    },
+    "23": {
+      "numero": "23º",
+      "titulo": "caput deste artigo submete-se ao prazo fixado no art. 23 desta",
+      "texto": "Parágrafo único. O exercício do direito previsto no caput deste artigo submete-se ao prazo fixado no art. 23 desta Lei, contado da notificação.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-23"
+    },
+    "24": {
+      "numero": "24º",
+      "titulo": "arts.",
+      "texto": "Art. 24. Aplicam-se ao mandado de segurança os arts. 46 a 49 da Lei no 5.869, de 11 de janeiro de 1973 - Código de Processo Civil.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-24"
+    },
+    "25": {
+      "numero": "25º",
+      "titulo": "segurança, a interposição de embargos infringentes e a condenação ao pagamento",
+      "texto": "Art. 25. Não cabem, no processo de mandado de segurança, a interposição de embargos infringentes e a condenação ao pagamento dos honorários advocatícios, sem prejuízo da aplicação de sanções no caso de litigância de má-fé. (Vide ADIN 4296)",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-25"
+    },
+    "26": {
+      "numero": "26º",
+      "titulo": "do art. 330 do Decreto-Lei no 2.848, de 7 de dezembro de 1940,",
+      "texto": "Art. 26. Constitui crime de desobediência, nos termos do art. 330 do Decreto-Lei no 2.848, de 7 de dezembro de 1940, o não cumprimento das decisões proferidas em mandado de segurança, sem prejuízo das sanções administrativas e da aplicação da Lei no 1.079, de 10 de abril de 1950, quando cabíveis.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-26"
+    },
+    "27": {
+      "numero": "27º",
+      "titulo": "couber, as leis de organização judiciária deverão ser adaptados às disposições",
+      "texto": "Art. 27. Os regimentos dos tribunais e, no que couber, as leis de organização judiciária deverão ser adaptados às disposições desta Lei no prazo de 180 (cento e oitenta) dias, contado da sua publicação.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-27"
+    },
+    "28": {
+      "numero": "28º",
+      "titulo": "publicação.",
+      "texto": "Art. 28. Esta Lei entra em vigor na data de sua publicação.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-28"
+    },
+    "29": {
+      "numero": "29º",
+      "titulo": "Leis nos",
+      "texto": "Art. 29. Revogam-se as Leis nos 1.533, de 31 de dezembro de 1951, 4.166, de 4 de dezembro de 1962, 4.348, de 26 de junho de 1964, 5.021, de 9 de junho de 1966; o art. 3o da Lei no 6.014, de 27 de dezembro de 1973, o art. 1o da Lei no 6.071, de 3 de julho de 1974, o art. 12 da Lei no 6.978, de 19 de janeiro de 1982, e o art. 2o da Lei no 9.259, de 9 de janeiro de 1996.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-29"
+    },
+    "267": {
+      "numero": "267º",
+      "titulo": "segurança nos casos previstos pelo art. 267 da Lei no 5.869,",
+      "texto": "§ 5o Denega-se o mandado de segurança nos casos previstos pelo art. 267 da Lei no 5.869, de 11 de janeiro de 1973 - Código de Processo Civil.",
+      "incisos": [],
+      "paragrafos": [
+        "5º"
+      ],
+      "anchor": "#art-267"
+    },
+    "330": {
+      "numero": "330º",
+      "titulo": "do art. 330 do Decreto-Lei no 2.848, de 7 de dezembro de 1940,",
+      "texto": "Art. 26. Constitui crime de desobediência, nos termos do art. 330 do Decreto-Lei no 2.848, de 7 de dezembro de 1940, o não cumprimento das decisões proferidas em mandado de segurança, sem prejuízo das sanções administrativas e da aplicação da Lei no 1.079, de 10 de abril de 1950, quando cabíveis.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-330"
+    }
+  },
+  "indice": [],
+  "totalArtigos": 31,
+  "resumo": "Presidência da República Casa Civil Subchefia para Assuntos Jurídicos LEI Nº 12.016, DE 7 DE AGOSTO DE 2009. Disciplina o mandado de segurança individual e coletivo e dá outras providências. O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:"
+};

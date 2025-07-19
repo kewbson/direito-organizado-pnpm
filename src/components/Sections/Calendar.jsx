@@ -414,7 +414,7 @@ export function Calendar() {
 
   return (
     <div className="min-h-screen w-full max-w-full overflow-x-hidden px-2 sm:px-4 md:px-8 box-border">
-      <div className="space-y-6 animate-slide-up">
+      <div className="space-y-6 animate-slide-up max-w-7xl mx-auto">
         {/* Header melhorado */}
         <div className="text-center">
           <div className="flex items-center justify-center gap-3 mb-4">
@@ -466,19 +466,19 @@ export function Calendar() {
               </div>
 
               {/* Busca e Filtros */}
-              <div className="flex items-center gap-3">
-                <div className="relative">
+              <div className="flex flex-col sm:flex-row items-center gap-3 w-full lg:w-auto">
+                <div className="relative w-full sm:w-auto">
                   <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-muted-foreground" />
                   <Input
                     placeholder="Buscar eventos..."
                     value={searchTerm}
                     onChange={(e) => setSearchTerm(e.target.value)}
-                    className="pl-10 w-64 text-base"
+                    className="pl-10 w-full sm:w-64 text-base"
                   />
                 </div>
                 
                 <Select value={filterType} onValueChange={setFilterType}>
-                  <SelectTrigger className="w-40">
+                  <SelectTrigger className="w-full sm:w-40">
                     <Filter className="h-4 w-4 mr-2" />
                     <SelectValue />
                   </SelectTrigger>
@@ -493,7 +493,7 @@ export function Calendar() {
 
                 <Button 
                   onClick={handleOpenNewEventDialog}
-                  className="bg-orange-600 hover:bg-orange-700 text-white shadow-lg hover:shadow-xl transition-all duration-200"
+                  className="bg-orange-600 hover:bg-orange-700 text-white shadow-lg hover:shadow-xl transition-all duration-200 w-full sm:w-auto"
                 >
                   <Plus className="h-4 w-4 mr-2" />
                   Novo Evento
@@ -504,58 +504,58 @@ export function Calendar() {
         </Card>
 
         {/* Estatísticas Rápidas */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-4 w-full max-w-full md:max-w-6xl mx-auto">
-          <GradientCard className="text-center p-4 hover-lift hover:shadow-md transition-all duration-200 bg-gradient-orange-300 from-orange-50 to-orange-100 dark:from-orange-950/20 dark:to-orange-900/20">
-            <CalendarIcon className="h-6 w-6 mx-auto mb-2 text-orange-600" />
-            <div className="text-2xl font-bold text-orange-600">
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-7 gap-2 sm:gap-4 w-full max-w-full">
+          <GradientCard className="text-center p-2 sm:p-4 hover-lift hover:shadow-md transition-all duration-200 bg-gradient-orange-300 from-orange-50 to-orange-100 dark:from-orange-950/20 dark:to-orange-900/20">
+            <CalendarIcon className="h-4 w-4 sm:h-6 sm:w-6 mx-auto mb-1 sm:mb-2 text-orange-600" />
+            <div className="text-lg sm:text-2xl font-bold text-orange-600">
               <AnimatedCounter value={stats.total} />
             </div>
             <div className="text-xs text-muted-foreground">Total</div>
           </GradientCard>
 
-          <GradientCard className="text-center p-4 hover-lift over:shadow-md transition-all duration-200 bg-gradient-green-300 from-green-50 to-green-100 dark:from-green-950/20 dark:to-green-900/20">
-            <Activity className="h-6 w-6 mx-auto mb-2 text-green-600" />
-            <div className="text-2xl font-bold text-green-600">
+          <GradientCard className="text-center p-2 sm:p-4 hover-lift hover:shadow-md transition-all duration-200 bg-gradient-green-300 from-green-50 to-green-100 dark:from-green-950/20 dark:to-green-900/20">
+            <Activity className="h-4 w-4 sm:h-6 sm:w-6 mx-auto mb-1 sm:mb-2 text-green-600" />
+            <div className="text-lg sm:text-2xl font-bold text-green-600">
               <AnimatedCounter value={stats.today} />
             </div>
             <div className="text-xs text-muted-foreground">Hoje</div>
           </GradientCard>
 
-          <GradientCard className="text-center p-4 hover-lift hover:shadow-md transition-all duration-200 bg-gradient-blue-400 from-blue-50 to-blue-100 dark:from-blue-950/20 dark:to-blue-900/20">
-            <TrendingUp className="h-6 w-6 mx-auto mb-2 text-blue-600" />
-            <div className="text-2xl font-bold text-blue-600">
+          <GradientCard className="text-center p-2 sm:p-4 hover-lift hover:shadow-md transition-all duration-200 bg-gradient-blue-400 from-blue-50 to-blue-100 dark:from-blue-950/20 dark:to-blue-900/20">
+            <TrendingUp className="h-4 w-4 sm:h-6 sm:w-6 mx-auto mb-1 sm:mb-2 text-blue-600" />
+            <div className="text-lg sm:text-2xl font-bold text-blue-600">
               <AnimatedCounter value={stats.thisWeek} />
             </div>
             <div className="text-xs text-muted-foreground">Esta Semana</div>
           </GradientCard>
 
-          <GradientCard className="text-center p-4 hover-lift hover:shadow-md transition-all duration-200 bg-gradient-purple-300 from-purple-50 to-purple-100 dark:from-purple-950/20 dark:to-purple-900/20">
-            <BarChart3 className="h-6 w-6 mx-auto mb-2 text-purple-600" />
-            <div className="text-2xl font-bold text-purple-600">
+          <GradientCard className="text-center p-2 sm:p-4 hover-lift hover:shadow-md transition-all duration-200 bg-gradient-purple-300 from-purple-50 to-purple-100 dark:from-purple-950/20 dark:to-purple-900/20">
+            <BarChart3 className="h-4 w-4 sm:h-6 sm:w-6 mx-auto mb-1 sm:mb-2 text-purple-600" />
+            <div className="text-lg sm:text-2xl font-bold text-purple-600">
               <AnimatedCounter value={stats.thisMonth} />
             </div>
             <div className="text-xs text-muted-foreground">Este Mês</div>
           </GradientCard>
 
-          <GradientCard className="text-center p-4 hover-lift over:shadow-md transition-all duration-200 bg-gradient-red-300 from-red-50 to-red-100 dark:from-red-950/20 dark:to-red-900/20">
-            <AlertCircle className="h-6 w-6 mx-auto mb-2 text-red-600" />
-            <div className="text-2xl font-bold text-red-600">
+          <GradientCard className="text-center p-2 sm:p-4 hover-lift hover:shadow-md transition-all duration-200 bg-gradient-red-300 from-red-50 to-red-100 dark:from-red-950/20 dark:to-red-900/20">
+            <AlertCircle className="h-4 w-4 sm:h-6 sm:w-6 mx-auto mb-1 sm:mb-2 text-red-600" />
+            <div className="text-lg sm:text-2xl font-bold text-red-600">
               <AnimatedCounter value={stats.provas} />
             </div>
             <div className="text-xs text-muted-foreground">Provas</div>
           </GradientCard>
 
-          <GradientCard className="text-center p-4 hover-lift hover:shadow-md transition-all duration-200 bg-gradient-blue-400 from-blue-50 to-blue-100 dark:from-blue-950/20 dark:to-blue-900/20">
-            <BookOpen className="h-6 w-6 mx-auto mb-2 text-blue-600" />
-            <div className="text-2xl font-bold text-blue-600">
+          <GradientCard className="text-center p-2 sm:p-4 hover-lift hover:shadow-md transition-all duration-200 bg-gradient-blue-400 from-blue-50 to-blue-100 dark:from-blue-950/20 dark:to-blue-900/20">
+            <BookOpen className="h-4 w-4 sm:h-6 sm:w-6 mx-auto mb-1 sm:mb-2 text-blue-600" />
+            <div className="text-lg sm:text-2xl font-bold text-blue-600">
               <AnimatedCounter value={stats.aulas} />
             </div>
             <div className="text-xs text-muted-foreground">Aulas</div>
           </GradientCard>
 
-          <GradientCard className="text-center p-4 hover-lift over:shadow-md transition-all duration-200 bg-gradient-green-300 from-green-50 to-green-100 dark:from-green-950/20 dark:to-green-900/20">
-            <CheckCircle className="h-6 w-6 mx-auto mb-2 text-green-600" />
-            <div className="text-2xl font-bold text-green-600">
+          <GradientCard className="text-center p-2 sm:p-4 hover-lift hover:shadow-md transition-all duration-200 bg-gradient-green-300 from-green-50 to-green-100 dark:from-green-950/20 dark:to-green-900/20">
+            <CheckCircle className="h-4 w-4 sm:h-6 sm:w-6 mx-auto mb-1 sm:mb-2 text-green-600" />
+            <div className="text-lg sm:text-2xl font-bold text-green-600">
               <AnimatedCounter value={stats.estudos} />
             </div>
             <div className="text-xs text-muted-foreground">Estudos</div>
@@ -563,9 +563,9 @@ export function Calendar() {
         </div>
 
         {/* Conteúdo Principal */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 w-full max-w-full md:max-w-6xl mx-auto">
+        <div className="grid grid-cols-1 lg:grid-cols-4 gap-4 sm:gap-6 w-full max-w-full">
           {/* Área Principal do Calendário */}
-          <div className="lg:col-span-3 space-y-6 w-full overflow-x-auto">
+          <div className="lg:col-span-3 space-y-4 sm:space-y-6 w-full overflow-x-auto">
             {viewMode === 'month' && (
               <GradientCard className="p-4 sm:p-6 hover:shadow-md transition-all duration-200 bg-gradient-blue-400 from-blue-50 to-blue-100 dark:from-blue-950/20 dark:to-blue-900/20">
                 <CardHeader className="pb-4">
@@ -575,14 +575,16 @@ export function Calendar() {
                   </CardTitle>
                 </CardHeader>
                 <CardContent className="flex justify-center">
-                  <CalendarComponent
-                    mode="single"
-                    selected={selectedDate}
-                    onSelect={setSelectedDate}
-                    className="rounded-md border"
-                    modifiers={{ hasEngagements: getDatesWithEngagements() }}
-                    modifiersClassNames={{ hasEngagements: 'day-with-engagement' }}
-                  />
+                  <div className="w-full max-w-full overflow-x-auto">
+                    <CalendarComponent
+                      mode="single"
+                      selected={selectedDate}
+                      onSelect={setSelectedDate}
+                      className="rounded-md border w-full"
+                      modifiers={{ hasEngagements: getDatesWithEngagements() }}
+                      modifiersClassNames={{ hasEngagements: 'day-with-engagement' }}
+                    />
+                  </div>
                 </CardContent>
               </GradientCard>
             )}
@@ -758,9 +760,9 @@ export function Calendar() {
           </div>
 
           {/* Sidebar com Informações */}
-          <div className="space-y-6 w-full overflow-x-auto">
+          <div className="space-y-4 sm:space-y-6 w-full overflow-x-auto">
             {/* Eventos de Hoje */}
-            <GradientCard className="p-4 sm:p-6 over:shadow-md transition-all duration-200 bg-gradient-red-300 from-red-50 to-red-100 dark:from-red-950/20 dark:to-red-900/20">
+            <GradientCard className="p-4 sm:p-6 hover:shadow-md transition-all duration-200 bg-gradient-red-300 from-red-50 to-red-100 dark:from-red-950/20 dark:to-red-900/20">
               <CardHeader className="pb-4">
                 <CardTitle className="flex items-center gap-2 text-orange-600">
                   <Zap className="h-5 w-5" />

@@ -1,0 +1,654 @@
+// 📁 Arquivo: confea.js (L5194)
+// 🤖 Gerado automaticamente pelo Lei Scraper V2.0
+// 📅 Data de extração: 2025-07-18T21:21:23.463Z
+// 🔗 Fonte: http://www.planalto.gov.br/ccivil_03/leis/l5194.htm
+
+export default {
+  "id": "confea",
+  "titulo": "L5194",
+  "ano": 2025,
+  "dataPublicacao": "1966-12-24",
+  "status": "vigente",
+  "orgaoResponsavel": "Congresso Nacional",
+  "area": "administrativo",
+  "categoria": "especial",
+  "jurisdicao": "federal",
+  "fonte": "http://www.planalto.gov.br/ccivil_03/leis/l5194.htm",
+  "url": "http://www.planalto.gov.br/ccivil_03/leis/l5194.htm",
+  "nome": "Lei do Sistema CONFEA/CREA",
+  "alias": "Lei do CONFEA",
+  "prioridade": 96,
+  "scraping": {
+    "dataExtracao": "2025-07-18T21:21:23.463Z",
+    "versao": "2.0",
+    "tamanhoOriginal": 87258,
+    "hash": "69ba9801"
+  },
+  "conteudo": "<div class='lei-conteudo'>\n      <h1>L5194</h1>\n      \n<div><center>\n\n<table>\n  <tbody><tr>\n    <td><p><img></p></td>\n    <td><p><font><strong><big><big>Presid&#xea;ncia\n    da Rep&#xfa;blica</big></big><br>\n    <big>Casa Civil<br>\n    </big>Subchefia para Assuntos Jur&#xed;dicos</strong></font></p></td>\n  </tr>\n</tbody></table>\n</center></div>\n\n<p><a href=\"http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/lei%205.194-1966?OpenDocument\"><font><small><strong>LEI N&#xba; 5.194, DE 24 DE DEZEMBRO DE 1966.</strong></small></font></a></p>\n\n<table>\n  <tbody><tr>\n    <td><a href=\"#veto\"><font>Partes mantidas \n\tpelo Congresso Nacional</font></a><p><font>\n\t<a href=\"1950-1969/MSG/VepL5194-66.pdf\">Mensagem de veto</a></font></p>\n\t<p><font>\n\t<a href=\"../Decreto-Lei/Del0241.htm\">Vide Decreto Lei n&#xba; 241, de 1967</a></font><br>\n\t<font><a href=\"../decreto/Antigos/D79137.htm\">Vide \n\tDecreto 79.137, de 1977</a></font><br>\n\t<font><a href=\"1989_1994/L8195.htm\">Vide Lei n&#xba; \n\t8.195, de 1991</a></font><br>\n\t<font>\n\t<a href=\"../_Ato2007-2010/2010/Lei/L12378.htm#art64\">Vide Lei n&#xba; 12.378, de 2010</a></font></p></td>\n    <td>\n\t<p><font>Regula o exerc&#xed;cio das\n    profiss&#xf5;es de Engenheiro, Arquiteto e Engenheiro-Agr&#xf4;nomo, e d&#xe1; outras provid&#xea;ncias.</font></p></td>\n  </tr>\n</tbody></table>\n<font id=\"art-1\">\n\n<p><strong>O PRESIDENTE DA REP&#xda;BLICA</strong>,\nFa&#xe7;o saber que o <b>CONGRESSO NACIONAL</b> decreta e eu sanciono a seguinte Lei: </p>\n\n<p>O CONGRESSO NACIONAL DECRETA: </p>\n\n<p><a name=\"tituloi\"></a>T&#xcd;TULO I </p>\n\n<p>Do Exerc&#xed;cio Profissional da Engenharia, da Arquitetura e da Agronomia </p>\n\n<p><a name=\"tituloicapituloi\"></a>Cap&#xed;tulo I </p>\n\n<p>Das Atividades Profissionais </p>\n\n<p><span>\n<a name=\"tituloicapituloisecaoi\"></a> </span> Se&#xe7;&#xe3;o<span>\nI </span> </p>\n\n<p>Caracteriza&#xe7;&#xe3;o e Exerc&#xed;cio das\nProfiss&#xf5;es </p>\n\n<p id=\"art-1\"><span>\n<a name=\"art1\"></a></span>Art. 1&#xba; As profiss&#xf5;es de engenheiro,\narquiteto e engenheiro-agr&#xf4;nomo s&#xe3;o caracterizadas pelas realiza&#xe7;&#xf5;es de inter&#xea;sse\nsocial e humano que importem na realiza&#xe7;&#xe3;o dos seguintes empreendimentos: </p>\n\n<p>a) aproveitamento e utiliza&#xe7;&#xe3;o de recursos\nnaturais; </p>\n\n<p>b) meios de locomo&#xe7;&#xe3;o e comunica&#xe7;&#xf5;es; </p>\n\n<p>c) edifica&#xe7;&#xf5;es, servi&#xe7;os e equipamentos\nurbanos, rurais e regionais, nos seus aspectos t&#xe9;cnicos e art&#xed;sticos; </p>\n\n<p>d) instala&#xe7;&#xf5;es e meios de acesso a costas,\ncursos e massas de &#xe1;gua e extens&#xf5;es terrestres; </p>\n\n<p>e) desenvolvimento industrial e\nagropecu&#xe1;rio. </p>\n\n<p id=\"art-2\"><span>\n<a name=\"art2\"></a></span>Art. 2&#xba; O exerc&#xed;cio, no Pa&#xed;s, da\nprofiss&#xe3;o de engenheiro, arquiteto ou engenheiro-agr&#xf4;nomo, observadas as condi&#xe7;&#xf5;es de\ncapacidade e demais exig&#xea;ncias legais, &#xe9; assegurado: </p>\n\n<p>a) aos que possuam, devidamente registrado,\ndiploma de faculdade ou escola superior de engenharia, arquitetura ou agronomia, oficiais\nou reconhecidas, existentes no Pa&#xed;s; </p>\n\n<p>b) aos que possuam, devidamente revalidado e\nregistrado no Pa&#xed;s, diploma de faculdade ou escola estrangeira de ensino superior de\nengenharia, arquitetura ou agronomia, bem como os que tenham &#xea;sse exerc&#xed;cio amparado por\nconv&#xea;nios internacionais de interc&#xe2;mbio; </p>\n\n<p>c) aos estrangeiros contratados que, a\ncrit&#xe9;rio dos Conselhos Federal e Regionais de Engenharia, Arquitetura e Agronomia,\nconsiderados a escassez de profissionais de determinada especialidade e o inter&#xea;sse\nnacional, tenham seus t&#xed;tulos registrados tempor&#xe0;riamente. </p>\n\n<p>Par&#xe1;grafo &#xfa;nico. O exerc&#xed;cio das\natividades de engenheiro, arquiteto e engenheiro-agr&#xf4;nomo &#xe9; garantido, obedecidos os\nlimites das respectivas licen&#xe7;as e exclu&#xed;das as expedidas, a t&#xed;tulo prec&#xe1;rio, at&#xe9; a\npublica&#xe7;&#xe3;o desta Lei, aos que, nesta data, estejam registrados nos Conselhos Regionais. </p>\n\n<p><span>\n<a name=\"tituloicapituloisecaoii\"></a> </span>Se&#xe7;&#xe3;o<span>\nII </span> </p>\n\n<p>Do uso do T&#xed;tulo Profissional </p>\n\n<p id=\"art-3\"><span>\n<a name=\"art3\"></a></span>Art. 3&#xba; S&#xe3;o reservadas exclusivamente aos\nprofissionais referidos nesta Lei as denomina&#xe7;&#xf5;es de engenheiro, arquiteto ou\nengenheiro-agr&#xf4;nomo, acrescidas obrigat&#xf2;riamente, das caracter&#xed;sticas de sua forma&#xe7;&#xe3;o\nb&#xe1;sica. </p>\n\n<p>Par&#xe1;grafo &#xfa;nico. As qualifica&#xe7;&#xf5;es de que\ntrata &#xea;ste artigo poder&#xe3;o ser acompanhadas de designa&#xe7;&#xf5;es outras referentes a cursos\nde especializa&#xe7;&#xe3;o, aperfei&#xe7;oamento e p&#xf3;s-gradua&#xe7;&#xe3;o. </p>\n\n<p id=\"art-4\"><span>\n<a name=\"art4\"></a></span>Art. 4&#xba; As qualifica&#xe7;&#xf5;es de engenheiro,\narquiteto ou engenheiro-agr&#xf4;nomo s&#xf3; podem ser acrescidas &#xe0; denomina&#xe7;&#xe3;o de pessoa\njur&#xed;dica composta exclusivamente de profissionais que possuam tais t&#xed;tulos. </p>\n\n<p id=\"art-5\"><span>\n<a name=\"art5\"></a></span>Art. 5&#xba; S&#xf3; poder&#xe1; ter em sua\ndenomina&#xe7;&#xe3;o as palavras engenharia, arquitetura ou agronomia a firma comercial ou\nindustrial cuja diretoria f&#xf4;r composta, em sua maioria, de profissionais registrados nos\nConselhos Regionais. </p>\n\n<p><span>\n<a name=\"tituloicapituloisecaoiii\"></a> </span>Se&#xe7;&#xe3;o<span>\nIII </span> </p>\n\n<p>Do exerc&#xed;cio ilegal da profiss&#xe3;o </p>\n\n<p id=\"art-6\"><span>\n<a name=\"art6\"></a></span>Art. 6&#xba; Exerce ilegalmente a profiss&#xe3;o de\nengenheiro, arquiteto ou engenheiro-agr&#xf4;nomo: </p>\n\n<p>a) a pessoa f&#xed;sica ou jur&#xed;dica que\nrealizar atos ou prestar servi&#xe7;os p&#xfa;blico ou privado reservados aos profissionais de que\ntrata esta lei e que n&#xe3;o possua registro nos Conselhos Regionais; </p>\n\n<p>b) o profissional que se incumbir de\natividades estranhas &#xe0;s atribui&#xe7;&#xf5;es discriminadas em seu registro; </p>\n\n<p>c) o profissional que emprestar seu nome a\npessoas, firmas, organiza&#xe7;&#xf5;es ou empr&#xea;sas executoras de obras e servi&#xe7;os sem sua real\nparticipa&#xe7;&#xe3;o nos trabalhos delas; </p>\n\n<p>d) o profissional que, suspenso de seu\nexerc&#xed;cio, continue em atividade; </p>\n\n<p id=\"art-8\">e) a firma, organiza&#xe7;&#xe3;o ou sociedade que,\nna qualidade de pessoa jur&#xed;dica, exercer atribui&#xe7;&#xf5;es reservadas aos profissionais da\nengenharia, da arquitetura e da agronomia, com infring&#xea;ncia do disposto no par&#xe1;grafo\n&#xfa;nico do art. 8&#xba; desta lei. </p>\n\n<p><span>\n<a name=\"tituloicapituloisecaoiv\"></a> </span>Se&#xe7;&#xe3;o<span>\nIV </span> </p>\n\n<p>Atribui&#xe7;&#xf5;es profissionais e coordena&#xe7;&#xe3;o de suas atividades </p>\n\n<p id=\"art-7\"><span>\n<a name=\"art7\"></a></span>Art. 7&#xba; As atividades e atribui&#xe7;&#xf5;es\nprofissionais do engenheiro, do arquiteto e do engenheiro-agr&#xf4;nomo consistem em:</p>\n\n<p>a) desempenho de cargos, fun&#xe7;&#xf5;es e\ncomiss&#xf5;es em entidades estatais, paraestatais, aut&#xe1;rquicas, de economia mista e privada;\n</p>\n\n<p>b) planejamento ou projeto, em geral, de\nregi&#xf5;es, zonas, cidades, obras, estruturas, transportes, explora&#xe7;&#xf5;es de recursos\nnaturais e desenvolvimento da produ&#xe7;&#xe3;o industrial e agropecu&#xe1;ria; </p>\n\n<p>c) estudos, projetos, an&#xe1;lises,\navalia&#xe7;&#xf5;es, vistorias, per&#xed;cias, pareceres e divulga&#xe7;&#xe3;o t&#xe9;cnica; </p>\n\n<p>d) ensino, pesquisas, experimenta&#xe7;&#xe3;o e\nensaios; </p>\n\n<p>e) fiscaliza&#xe7;&#xe3;o de obras e servi&#xe7;os\nt&#xe9;cnicos; </p>\n\n<p>f) dire&#xe7;&#xe3;o de obras e servi&#xe7;os t&#xe9;cnicos;\n</p>\n\n<p>g) execu&#xe7;&#xe3;o de obras e servi&#xe7;os\nt&#xe9;cnicos; </p>\n\n<p>h) produ&#xe7;&#xe3;o t&#xe9;cnica especializada,\nindustrial ou agro-pecu&#xe1;ria. </p>\n\n<p>Par&#xe1;grafo &#xfa;nico. Os engenheiros,\narquitetos e engenheiros-agr&#xf4;nomos poder&#xe3;o exercer qualquer outra atividade que, por sua\nnatureza, se inclua no &#xe2;mbito de suas profiss&#xf5;es. </p>\n\n<p id=\"art-8\"><span>\n<a name=\"art8\"></a></span>Art. 8&#xba; As atividades e atribui&#xe7;&#xf5;es\nenunciadas nas al&#xed;neas a , b , c , d , e e f do artigo anterior s&#xe3;o da compet&#xea;ncia de\npessoas f&#xed;sicas, para tanto legalmente habilitadas.</p>\n\n<p id=\"art-7\">Par&#xe1;grafo &#xfa;nico. As pessoas \njur&#xed;dicas e organiza&#xe7;&#xf5;es estatais s&#xf3; poder&#xe3;o exercer as atividades discriminadas \nnos art. 7&#xba;, com excess&#xe3;o das contidas na al&#xed;nea &quot; a &quot;, com a participa&#xe7;&#xe3;o \nefetiva e autoria declarada de profissional legalmente habilitado e registrado \npelo Conselho Regional, assegurados os direitos que esta lei Ihe confere.</p>\n\n<p id=\"art-9\"><span>\n<a name=\"art9\"></a></span>Art.&#xa0; 9&#xba; As atividades enunciadas nas\nal&#xed;neas g e h do art. 7&#xba;, observados os preceitos desta lei, poder&#xe3;o ser exercidas,\nindistintamente, por profissionais ou por pessoas jur&#xed;dicas.</p>\n\n<p id=\"art-10\"><span>\n<a name=\"art10\"></a></span>Art. 10. Cabe &#xe0;s Congrega&#xe7;&#xf5;es das\nescolas e faculdades de engenharia, arquitetura e agronomia indicar, ao Conselho Federal,\nem fun&#xe7;&#xe3;o dos t&#xed;tulos apreciados atrav&#xe9;s da forma&#xe7;&#xe3;o profissional, em t&#xea;rmos\ngen&#xe9;ricos, as caracter&#xed;sticas dos profissionais por ela diplomados.</p>\n\n<p id=\"art-11\"><span>\n<a name=\"art11\"></a></span>Art. 11. O Conselho Federal organizar&#xe1; e\nmanter&#xe1; atualizada a rela&#xe7;&#xe3;o dos t&#xed;tulos concedidos pelas escolas e faculdades, bem\ncomo seus cursos e curr&#xed;culos, com a indica&#xe7;&#xe3;o das suas caracter&#xed;sticas.</p>\n\n<p id=\"art-12\"><span>\n<a name=\"art12\"></a></span>Art. 12. Na Uni&#xe3;o, nos Estados e nos\nMunic&#xed;pios, nas entidades aut&#xe1;rquicas, paraestatais e de economia mista, os cargos e\nfun&#xe7;&#xf5;es que exijam conhecimentos de engenharia, arquitetura e agronomia, relacionados\nconforme o disposto na al&#xed;nea &quot; g &quot; do art. 27, s&#xf2;mente poder&#xe3;o ser exercidos\npor profissionais habilitados de ac&#xf4;rdo com esta lei.</p>\n\n<p id=\"art-13\"><span>\n<a name=\"art13\"></a></span>Art. 13. Os estudos, plantas, projetos,\nlaudos e qualquer outro trabalho de engenharia, de arquitetura e de agronomia, quer\np&#xfa;blico, quer particular, s&#xf2;mente poder&#xe3;o ser submetidos ao julgamento das autoridades\ncompetentes e s&#xf3; ter&#xe3;o valor jur&#xed;dico quando seus autores forem profissionais\nhabilitados de ac&#xf4;rdo com esta lei.</p>\n\n<p id=\"art-14\"><span>\n<a name=\"art14\"></a></span>Art. 14. Nos trabalhos gr&#xe1;ficos,\nespecifica&#xe7;&#xf5;es, or&#xe7;amentos, pareceres, laudos e atos judiciais ou administrativos, &#xe9;\nobrigat&#xf3;ria al&#xe9;m da assinatura, precedida do nome da empr&#xea;sa, sociedade, institui&#xe7;&#xe3;o\nou firma a que interessarem, a men&#xe7;&#xe3;o expl&#xed;cita do t&#xed;tulo do profissional que os\nsubscrever e do n&#xfa;mero da carteira referida no art. 56.</p>\n\n<p id=\"art-15\"><span>\n<a name=\"art15\"></a></span>Art. 15. S&#xe3;o nulos de pleno direito os\ncontratos referentes a qualquer ramo da engenharia, arquitetura ou da agronomia, inclusive\na elabora&#xe7;&#xe3;o de projeto, dire&#xe7;&#xe3;o ou execu&#xe7;&#xe3;o de obras, quando firmados por entidade\np&#xfa;blica ou particular com pessoa f&#xed;sica ou jur&#xed;dica n&#xe3;o legalmente habilitada a\npraticar a atividade nos t&#xea;rmos desta lei.</p>\n\n<p id=\"art-16\"><span>\n<a name=\"art16\"></a></span>Art. 16. Enquanto durar a execu&#xe7;&#xe3;o de\nobras, instala&#xe7;&#xf5;es e servi&#xe7;os de qualquer natureza, &#xe9; obrigat&#xf3;ria a coloca&#xe7;&#xe3;o e\nmanuten&#xe7;&#xe3;o de placas vis&#xed;veis e leg&#xed;veis ao p&#xfa;blico, contendo o nome do autor e\nco-autores do projeto, em todos os seus aspectos t&#xe9;cnicos e art&#xed;sticos, assim como os\ndos respons&#xe1;veis pela execu&#xe7;&#xe3;o dos trabalhos.</p>\n\n<p><span>\n<a name=\"tituloicapituloii\"></a> </span>Cap&#xed;tulo<span>\nII </span> </p>\n\n<p>Da responsabilidade e autoria </p>\n\n<p id=\"art-17\"><span>\n<a name=\"art17\"></a></span>Art. 17. Os direitos de autoria de um plano\nou projeto de engenharia, arquitetura ou agronomia, respeitadas as rela&#xe7;&#xf5;es contratuais\nexpressas entre o autor e outros interessados, s&#xe3;o do profissional que os elaborar.</p>\n\n<p>Par&#xe1;grafo &#xfa;nico. Cabem ao profissional que\nos tenha elaborado os pr&#xea;mios ou distin&#xe7;&#xf5;es honor&#xed;ficas concedidas a projetos, planos,\nobras ou servi&#xe7;os t&#xe9;cnicos. </p>\n\n<p id=\"art-18\"><span>\n<a name=\"art18\"></a></span>Art. 18. As altera&#xe7;&#xf5;es do projeto ou\nplano original s&#xf3; poder&#xe3;o ser feitas pelo profissional que o tenha elaborado.</p>\n\n<p>Par&#xe1;grafo &#xfa;nico. Estando impedido ou\nrecusando-se o autor do projeto ou plano original a prestar sua colabora&#xe7;&#xe3;o\nprofissional, comprovada a solicita&#xe7;&#xe3;o, as altera&#xe7;&#xf5;es ou modifica&#xe7;&#xf5;es d&#xea;les\npoder&#xe3;o ser feitas por outro profissional habilitado, a quem caber&#xe1; a responsabilidade\npelo projeto ou plano modificado.</p>\n\n<p id=\"art-19\"><span>\n<a name=\"art19\"></a></span>Art. 19. Quando a concep&#xe7;&#xe3;o geral que\ncaracteriza um plano ou, projeto f&#xf4;r elaborada em conjunto por profissionais legalmente\nhabilitados, todos ser&#xe3;o considerados co-autores do projeto, com os direitos e deveres\ncorrespondentes.</p>\n\n<p id=\"art-20\"><span>\n<a name=\"art20\"></a></span>Art. 20. Os profissionais ou organiza&#xe7;&#xf5;es\nde t&#xe9;cnicos especializados que colaborarem numa parte do projeto, dever&#xe3;o ser\nmencionados explicitamente como autores da parte que lhes tiver sido confiada, tornando-se\nmister que todos os documentos, como plantas, desenhos, c&#xe1;lculos, pareceres, relat&#xf3;rios,\nan&#xe1;lises, normas, especifica&#xe7;&#xf5;es e outros documentos relativos ao projeto, sejam por\n&#xea;les assinados.</p>\n\n<p>Par&#xe1;grafo &#xfa;nico. A responsabilidade\nt&#xe9;cnica pela amplia&#xe7;&#xe3;o, prosseguimento ou conclus&#xe3;o de qualquer empreendimento de\nengenharia, arquitetura ou agronomia caber&#xe1; ao profissional ou entidade registrada que\naceitar&#xa0; &#xea;sse encargo, sendo-lhe, tamb&#xe9;m, atribu&#xed;da a responsabilidade das obras,\ndevendo o Conselho Federal adotar resolu&#xe7;&#xe3;o quanto &#xe0;s responsabilidades das partes j&#xe1;\nexecutadas ou conclu&#xed;das por outros profissionais.</p>\n\n<p id=\"art-21\"><span>\n<a name=\"art21\"></a></span>Art. 21. Sempre que o autor do projeto\nconvocar, para o desempenho do seu encargo, o concurso de profissionais da organiza&#xe7;&#xe3;o\nde profissionais, especializados e legalmente habilitados, ser&#xe3;o &#xea;stes havidos como\nco-respons&#xe1;veis na parte que lhes diga respeito. </p>\n\n<p id=\"art-22\"><span>\n<a name=\"art22\"></a></span>Art. 22. Ao autor do projeto ou a seus\nprepostos &#xe9; assegurado o direito de acompanhar a execu&#xe7;&#xe3;o da obra, de modo a garantir a\nsua realiza&#xe7;&#xe3;o de ac&#xf4;rdo com as condi&#xe7;&#xf5;es, especifica&#xe7;&#xf5;es e demais pormenores\nt&#xe9;cnicos n&#xea;le estabelecidos.</p>\n\n<p>Par&#xe1;grafo &#xfa;nico. Ter&#xe3;o o direito\nassegurado neste artigo, ao autor do projeto, na parte que lhes diga respeito, os\nprofissionais especializados que participarem, como co-respons&#xe1;veis, na sua elabora&#xe7;&#xe3;o.</p>\n\n<p id=\"art-23\"><span>\n<a name=\"art23\"></a></span>Art. 23. Os Conselhos Regionais criar&#xe3;o\nregistros de autoria de planos e projetos, para salvaguarda dos direitos autorais dos\nprofissionais que o desejarem.</p>\n\n<p><span><a name=\"tituloii\">\n</a> </span>T&#xcd;TULO<span> II </span> </p>\n\n<p>Da fiscaliza&#xe7;&#xe3;o do exerc&#xed;cio das profiss&#xf5;es </p>\n\n<p><span>\n<a name=\"tituloiicapituloi\"></a> </span>Cap&#xed;tulo<span>\nI </span> </p>\n\n<p>Dos &#xf3;rg&#xe3;os fiscalizadores </p>\n\n<p id=\"art-24\"> \n<a name=\"art24.\"></a><strike id=\"art-24\">Art. 24. A aplica&#xe7;&#xe3;o do que disp&#xf5;e esta\nlei, a verifica&#xe7;&#xe3;o e fiscaliza&#xe7;&#xe3;o do exerc&#xed;cio e atividades das profiss&#xf5;es nela\nreguladas ser&#xe3;o exercidas por um Conselho Federal de Engenharia, Arquitetura e Agronomia\n(CONFEA) e Conselhos Regionais de Engenharia, Arquitetura e Agronomia (CREA), organizados\nde forma a assegurarem unidade de a&#xe7;&#xe3;o.</strike></p>\n<p id=\"art-24\">\n<span><a name=\"art24\">\n</a></span><strike id=\"art-24\">Art. 24. A aplica&#xe7;&#xe3;o do que disp&#xf5;e esta lei e a fiscaliza&#xe7;&#xe3;o do exerc&#xed;cio \ndas profiss&#xf5;es nela referidas ser&#xe3;o, para a necess&#xe1;ria harmonia e unidade de \na&#xe7;&#xe3;o reguladas pelo Conselho Federal de Engenharia, Arquitetura e Agronomia (CONFEA).&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"../Decreto-Lei/1965-1988/Del0620.htm#art1\">(Reda&#xe7;&#xe3;o dada pelo Decreto \nLei n&#xba; 620, de 1969)</a></strike></p>\n<p id=\"art-24\"><a name=\"art24..\"></a>Art. 24. A aplica&#xe7;&#xe3;o do que disp&#xf5;e esta\nlei, a verifica&#xe7;&#xe3;o e fiscaliza&#xe7;&#xe3;o do exerc&#xed;cio e atividades das profiss&#xf5;es nela\nreguladas ser&#xe3;o exercidas por um Conselho Federal de Engenharia, Arquitetura e Agronomia\n(CONFEA) e Conselhos Regionais de Engenharia, Arquitetura e Agronomia (CREA), organizados\nde forma a assegurarem unidade de a&#xe7;&#xe3;o.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"../Decreto-Lei/1965-1988/Del0711.htm#art1\">(Revigorado pelo Decreto-Lei \nn&#xba; 711, de 1969).</a></p>\n\n<p id=\"art-25\"><span>\n<a name=\"art25\"></a></span>Art. 25. Mantidos os j&#xe1; existentes, o\nConselho Federal de Engenharia, Arquitetura e Agronomia promover&#xe1; a instala&#xe7;&#xe3;o, nos\nEstados, Distrito Federal e Territ&#xf3;rios Federais, dos Conselhos Regionais necess&#xe1;rios &#xe0;\nexecu&#xe7;&#xe3;o desta lei, podendo, a a&#xe7;&#xe3;o de qualquer d&#xea;les, estender-se a mais de um\nEstado. </p>\n\n<p>&#xa7; 1&#xba; A proposta de cria&#xe7;&#xe3;o de novos\nConselhos Regionais ser&#xe1; feita pela maioria das entidades de classe e escolas ou\nfaculdades com sede na nova Regi&#xe3;o, cabendo aos Conselhos atingidos pela iniciativa\nopinar e encaminhar a proposta &#xe0; aprova&#xe7;&#xe3;o do Conselho Federal.</p>\n\n<p>&#xa7; 2&#xba; Cada unidade da Federa&#xe7;&#xe3;o s&#xf3;\npoder&#xe1; ficar na jurisdi&#xe7;&#xe3;o de um Conselho Regional. </p>\n\n<p>&#xa7; 3&#xba; A sede dos Conselhos Regionais ser&#xe1;\nno Distrito Federal, em capital de Estado ou de Territ&#xf3;rio Federal.</p>\n\n<p><span>\n<a name=\"tituloiicapituloii\"></a> </span>Cap&#xed;tulo<span>\nII </span> </p>\n\n<p>Do Conselho Federal de Engenharia, Arquitetura e Agronomia </p>\n\n<p><span>\n<a name=\"tituloiicapituloiisecaoi\"></a> </span>Se&#xe7;&#xe3;o<span>\nI </span> </p>\n\n<p>Da institui&#xe7;&#xe3;o do Conselho e suas atribui&#xe7;&#xf5;es </p>\n\n<p id=\"art-26\"><span>\n<a name=\"art26\"></a></span>Art. 26. O Conselho Federal de Engenharia,\nArquitetura e Agronomia, (CONFEA), &#xe9; a inst&#xe2;ncia superior da fiscaliza&#xe7;&#xe3;o do\nexerc&#xed;cio profissional da engenharia, da arquitetura e da agronomia.</p>\n\n<p id=\"art-27\"><span>\n<a name=\"art27\"></a></span>Art. 27. S&#xe3;o atribui&#xe7;&#xf5;es do Conselho\nFederal: </p>\n\n<p>a) organizar o seu regimento interno e\nestabelecer normas gerais para os regimentos dos Conselhos Regionais; </p>\n\n<p>b) homologar os regimentos internos\norganizados pelos Conselhos Regionais; </p>\n\n<p>c) examinar e decidir em &#xfa;ltima inst&#xe2;ncia\nos assuntos relativos no exerc&#xed;cio das profiss&#xf5;es de engenharia, arquitetura e\nagronomia, podendo anular qualquer ato que n&#xe3;o estiver de ac&#xf4;rclo com a presente lei; </p>\n\n<p>d) tomar conhecimento e dirimir quaisquer\nd&#xfa;vidas suscitadas nos Conselhos Regionais; </p>\n\n<p>e) julgar em &#xfa;ltima inst&#xe2;ncia os recursos\ns&#xf4;bre registros, decis&#xf5;es e penalidades impostas pelos Conselhos Regionais; </p>\n\n<p>f) baixar e fazer publicar as resolu&#xe7;&#xf5;es\nprevistas para regulamenta&#xe7;&#xe3;o e execu&#xe7;&#xe3;o da presente lei, e, ouvidos os Conselhos\nRegionais, resolver os casos omissos; </p>\n\n<p>g) relacionar os cargos e fun&#xe7;&#xf5;es dos\nservi&#xe7;os estatais, paraestatais, aut&#xe1;rquicos e de economia mista, para cujo exerc&#xed;cio\nseja necess&#xe1;rio o t&#xed;tulo de engenheiro, arquiteto ou engenheiro-agr&#xf4;nomo; </p>\n\n<p>h) incorporar ao seu balancete de receita e\ndespesa os dos Conselhos Regionais; </p>\n\n<p>i) enviar aos Conselhos Regionais c&#xf3;pia do\nexpediente encaminhado ao Tribunal de Contas, at&#xe9; 30 (trinta) dias ap&#xf3;s a remessa; </p>\n\n<p>j) publicar anualmente a rela&#xe7;&#xe3;o de\nt&#xed;tulos, cursos e escolas de ensino superior, assim como, peri&#xf2;dicamente, rela&#xe7;&#xe3;o de\nprofissionais habilitados; </p>\n\n<p>k) fixar, ouvido o respectivo Conselho\nRegional, as condi&#xe7;&#xf5;es para que as entidades de classe da regi&#xe3;o tenham n&#xea;le direito a\nrepresenta&#xe7;&#xe3;o; </p>\n\n<p id=\"art-53\">l) promover, pelo menos uma vez por ano, as\nreuni&#xf5;es de representantes dos Conselhos Federal e Regionais previstas no art. 53 desta\nlei; </p>\n\n<p>m) examinar e aprovar a propor&#xe7;&#xe3;o das\nrepresenta&#xe7;&#xf5;es dos grupos profissionais nos Conselhos Regionais; </p>\n\n<p>n) julgar, em grau de recurso, as\ninfra&#xe7;&#xf5;es do C&#xf3;digo de &#xc9;tica Profissional do engenheiro, arquiteto e\nengenheiro-agr&#xf4;nomo, elaborado pelas entidades de classe; </p>\n\n<p>o) aprovar ou n&#xe3;o as propostas de \ncria&#xe7;&#xe3;o de novos Conselhos Regionais;</p>\n\n<p id=\"art-63\">p) fixar e alterar as anuidades, emolumentos\ne taxas a pagar pelos profissionais e pessoas jur&#xed;dicas referidos no art. 63. </p>\n<p> <strike>\n<a name=\"art27q.\"></a>q) promover auditoria e outras dilig&#xea;ncias, inqu&#xe9;ritos ou \nverifica&#xe7;&#xf5;es s&#xf4;bre o funcionamento dos Conselhos Regionais e adotar medidas para \nsua efici&#xea;ncia e regularidade.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"../Decreto-Lei/1965-1988/Del0620.htm#art2\">(Inclu&#xed;da pelo Decreto Lei \nn&#xba; 620, de 1969)</a></strike></p>\n<p> <strike>\nq) promover auditoria e outras dilig&#xea;ncias, inqu&#xe9;ritos ou \nverifica&#xe7;&#xf5;es s&#xf4;bre o funcionamento dos Conselhos Regionais e adotar medidas para \nsua efici&#xea;ncia e regularidade.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"../Decreto-Lei/1965-1988/Del0711.htm#art1\">(Revigorado pelo Decreto-Lei \nn&#xba; 711, de 1969).</a></strike></p>\n<p> <a name=\"art27q\">\n</a>q) autorizar o presidente a adquirir, onerar ou, mediante licita&#xe7;&#xe3;o, alienar \nbens im&#xf3;veis.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"1970-1979/L6619.htm#art1\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; \n6.619, de 1978)</a></p>\n\n<p>Par&#xe1;grafo &#xfa;nico. Nas quest&#xf5;es relativas a\natribui&#xe7;&#xf5;es profissionais, a decis&#xe3;o do Conselho Federal s&#xf3; ser&#xe1; tomada com o m&#xed;nimo de\n12 (doze) votos favor&#xe1;veis. </p>\n\n<p id=\"art-28\"> \n<a name=\"art28.\"></a><strike id=\"art-28\">Art. 28. Constituem renda do Conselho\nFederal: </strike></p>\n<p>\n<strike><a name=\"art28a.\"></a>a) um d&#xe9;cimo da renda bruta dos Conselhos\nRegionais; </strike></p>\n<p id=\"art-36\">\n<strike id=\"art-36\"><a name=\"art28a\"></a>a) a parcela a \nque se refere art. 36, da renda bruta arrecadada pelos Conselhos Regionais;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"../Decreto-Lei/1965-1988/Del0620.htm#art1\">(Reda&#xe7;&#xe3;o dada pelo Decreto \nLei n&#xba; 620, de 1969)</a></strike></p>\n<p>\n<strike><a name=\"art28a..\"></a>a) um d&#xe9;cimo da renda bruta dos Conselhos Regionais;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"../Decreto-Lei/1965-1988/Del0711.htm#art1\">(Revigorado pelo Decreto-Lei \nn&#xba; 711, de 1969).</a></strike></p>\n<p>\n<strike><a name=\"art28b\"></a>b) doa&#xe7;&#xf5;es, legados, juros e receitas\npatrimoniais; </strike></p>\n<p>\n<strike><a name=\"art28c\"></a>c) subven&#xe7;&#xf5;es.</strike></p>\n<p id=\"art-28\"><span>\n<a name=\"art28\"></a></span>Art. 28 - Constituem renda do Conselho Federal:&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"1970-1979/L6619.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; 6.619, de 1978)</a></p>\n<p id=\"art-35\"><a name=\"art28i\"></a>I - quinze por cento do produto \nda arrecada&#xe7;&#xe3;o prevista nos itens I a V do art. 35;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"1970-1979/L6619.htm#art2\">(Inclu&#xed;do pela Lei n&#xba; 6.619, de 1978)</a></p>\n<p><a name=\"art28ii\"></a>II - doa&#xe7;&#xf5;es, legados, juros e \nreceitas patrimoniais;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"1970-1979/L6619.htm#art2\">(Inclu&#xed;do pela Lei n&#xba; \n6.619, de 1978)</a></p>\n<p><a name=\"art28iii\"></a>III - subven&#xe7;&#xf5;es;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"1970-1979/L6619.htm#art2\">(Inclu&#xed;do pela Lei n&#xba; 6.619, de 1978)</a></p>\n<p><a name=\"art28iv\"></a>IV - outros rendimentos \neventuais.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"1970-1979/L6619.htm#art2\">(Inclu&#xed;do pela Lei n&#xba; 6.619, de \n1978)</a></p>\n\n<p><span>\n<a name=\"tituloiicapituloiisecaoii\"></a> </span>Se&#xe7;&#xe3;o<span>\nII </span> </p>\n\n<p>Da composi&#xe7;&#xe3;o e organiza&#xe7;&#xe3;o </p>\n\n<p id=\"art-29\"><span>\n<a name=\"art29\"></a></span>Art. 29. O Conselho Federal ser&#xe1;\nconstitu&#xed;do por 18 (dezoito) membros, brasileiros, diplomados em Engenharia, Arquitetura\nou Agronomia, habilitados de ac&#xf4;rdo com esta lei, obedecida a seguinte composi&#xe7;&#xe3;o: </p>\n\n<p>a) 15 (quinze) representantes de grupos\nprofissionais, sendo 9 (nove) engenheiros representantes de modalidades de engenharia\nestabelecida em t&#xea;rmos gen&#xe9;ricos pelo Conselho Federal, no m&#xed;nimo de 3 (tr&#xea;s)\nmodalidades, de maneira a corresponderem &#xe0;s forma&#xe7;&#xf5;es t&#xe9;cnicas constantes dos\nregistros n&#xea;le existentes; 3 (tr&#xea;s) arquitetos e 3 (tr&#xea;s) engenheiros-agr&#xf4;nomos; </p>\n\n<p>b) 1 (um) representante das escolas de\nengenharia, 1 (um) representante das escolas de arquitetura e 1 (um) representante das\nescolas de agronomia. </p>\n\n<p>&#xa7; 1&#xba; Cada membro do Conselho Federal ter&#xe1;\n1 (um) suplente. </p>\n\n<p>&#xa7; 2&#xba; O presidente do Conselho Federal\nser&#xe1; eleito, por maioria absoluta, dentre os seus membros. </p>\n\n<p>&#xa7; 3&#xba; A vaga do representante nomeado\npresidente do Conselho ser&#xe1; preenchida por seu suplente. </p>\n\n<p id=\"art-30\"><span>\n<a name=\"art30\"></a></span>Art. 30. Os representantes dos grupos\nprofissionais referidos na al&#xed;nea &quot; a &quot; do art. 29 e seus suplentes ser&#xe3;o\neleitos pelas respectivas entidades de classe registradas nas regi&#xf5;es, em assembl&#xe9;ias\nespecialmente convocadas para &#xea;ste fim pelos Conselhos Regionais, cabendo a cada regi&#xe3;o\nindicar, em forma de rod&#xed;zio, um membro do Conselho Federal. </p>\n\n<p>Par&#xe1;grafo &#xfa;nico. Os representantes das\nentidades de classe nas assembl&#xe9;ias referidas neste artigo ser&#xe3;o por elas eleitos, na\nforma dos respectivos estatutos. </p>\n\n<p id=\"art-31\"><span>\n<a name=\"art31\"></a></span>Art. 31. Os representantes das escolas ou\nfaculdades e seus suplentes ser&#xe3;o eleitos por maioria absoluta de votos em assembl&#xe9;ia\ndos delegados de cada grupo profissional, designados pelas respectivas Congrega&#xe7;&#xf5;es. </p>\n\n<p id=\"art-32\"><span>\n<a name=\"art32\"></a></span>Art. 32. Os mandatos dos membros do\nConselho Federal e do Presidente ser&#xe3;o de 3 (tr&#xea;s) anos.&#xa0; </p>\n\n<p>Par&#xe1;grafo &#xfa;nico. O Conselho Federal se\nrenovar&#xe1; anualmente pelo t&#xea;r&#xe7;o de seus membros. </p>\n\n<p><span>\n<a name=\"tituloiicapituloiii\"></a> </span>Cap&#xed;tulo<span>\nIII </span> </p>\n\n<p>Dos Conselhos Regionais de Engenharia, Arquitetura e Agronomia </p>\n\n<p><span>\n<a name=\"tituloiicapituloiiisecaoi\"></a> </span>Se&#xe7;&#xe3;o<span>\nI </span> </p>\n\n<p>Da institui&#xe7;&#xe3;o dos Conselhos Regionais e suas atribui&#xe7;&#xf5;es </p>\n\n<p><span>\n<a name=\"art33\"></a></span>Art . 33. Os Conselhos Regionais de\nEngenharia, Arquitetura e Agronomia (CREA) s&#xe3;o &#xf3;rg&#xe3;os de fiscaliza&#xe7;&#xe3;o do exerc&#xed;cio\ndas profiss&#xf5;es de engenharia, arquitetura e agronomia, em suas regi&#xf5;es. </p>\n\n<p><span>\n<a name=\"art34\"></a></span>Art . 34. S&#xe3;o atribui&#xe7;&#xf5;es dos Conselhos\nRegionais: </p>\n\n<p>a) elaborar e alterar seu regimento interno,\nsubmetendo-o &#xe0; homologa&#xe7;&#xe3;o do Conselho Federal. </p>\n\n<p>b) criar as C&#xe2;maras Especializadas\natendendo &#xe0;s condi&#xe7;&#xf5;es de maior efici&#xea;ncia da fiscaliza&#xe7;&#xe3;o estabelecida na presente\nlei; </p>\n\n<p>c) examinar reclama&#xe7;&#xf5;es e representa&#xe7;&#xf5;es\nac&#xea;rca de registros; </p>\n\n<p>d) julgar e decidir, em grau de recurso, os\nprocessos de infra&#xe7;&#xe3;o da presente lei e do C&#xf3;digo de &#xc9;tica, enviados pelas C&#xe2;maras\nEspecializadas; </p>\n\n<p>e) julgar em grau de recurso, os processos\nde imposi&#xe7;&#xe3;o de penalidades e multas; </p>\n\n<p>f) organizar o sistema de fiscaliza&#xe7;&#xe3;o do\nexerc&#xed;cio das profiss&#xf5;es reguladas pela presente lei; </p>\n\n<p>g) publicar relat&#xf3;rios de seus trabalhos e\nrela&#xe7;&#xf5;es dos profissionais e firmas registrados; </p>\n\n<p>h) examinar os requerimentos e processos de\nregistro em geral, expedindo as carteiras profissionais ou documentos de registro; </p>\n\n<p>i) sugerir ao Conselho Federal m&#xe9;dias\nnecess&#xe1;rias &#xe0; regularidade dos servi&#xe7;os e &#xe0; fiscaliza&#xe7;&#xe3;o do exerc&#xed;cio das\nprofiss&#xf5;es reguladas nesta lei; </p>\n\n<p>j) agir, com a colabora&#xe7;&#xe3;o das sociedades\nde classe e das escolas ou faculdades de engenharia, arquitetura e agronomia, nos assuntos\nrelacionados com a presente lei; </p>\n\n<p>k) cumprir e fazer cumprir a presente lei,\nas resolu&#xe7;&#xf5;es baixadas pelo Conselho Federal, bem como expedir atos que para isso\njulguem necess&#xe1;rios; </p>\n\n<p>l) criar inspetorias e nomear inspetores\nespeciais para maior efici&#xea;ncia da fiscaliza&#xe7;&#xe3;o; </p>\n\n<p>m) deliberar s&#xf4;bre assuntos de inter&#xea;sse\ngeral e administrativos e s&#xf4;bre os casos comuns a duas ou mais especializa&#xe7;&#xf5;es\nprofissionais; </p>\n\n<p>n) julgar, decidir ou dirimir as quest&#xf5;es\nda atribui&#xe7;&#xe3;o ou compet&#xea;ncia, das C&#xe2;maras Especializadas referidas no artigo 45,\nquando n&#xe3;o possuir o Conselho Regional n&#xfa;mero suficiente de profissionais do mesmo grupo\npara constituir a respectiva C&#xe2;mara, como estabelece o artigo 48; </p>\n\n<p>o) organizar, disciplinar e manter\natualizado o registro dos profissionais e pessoas jur&#xed;dicas que, nos t&#xea;rmos desta lei,\nse inscrevam para exercer atividades de engenharia, arquitetura ou agronomia, na Regi&#xe3;o; </p>\n\n<p>p) organizar e manter atualizado o registro\ndas entidades de classe referidas no artigo 62 e das escolas e faculdades que, de ac&#xf4;rdo\ncom esta lei, devam participar da elei&#xe7;&#xe3;o de representantes destinada a compor o\nConselho Regional e o Conselho Federal; </p>\n\n<p>q) organizar, regulamentar e manter o\nregistro de projetos e planos a que se refere o artigo 23; </p>\n\n<p>r) registrar as tabelas b&#xe1;sicas de\nhonor&#xe1;rios profissionais elaboradas pelos &#xf3;rg&#xe3;os de classe.</p>\n<p> <a name=\"art34s\">\n</a>s) autorizar o presidente a adquirir, onerar ou, mediante licita&#xe7;&#xe3;o, alienar \nbens im&#xf3;veis.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"1970-1979/L6619.htm#art1\">(Inclu&#xed;da pela Lei n&#xba; 6.619, de \n1978)</a></p>\n\n<p> \n<a name=\"art35.\"></a><strike>Art . 35. Constituem renda dos Conselhos\nRegionais: </strike> </p>\n<p>\n<strike><a name=\"art35a\"></a>a) as taxas de expedi&#xe7;&#xe3;o das carteiras\nprofissionais e de registros;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"../Decreto-Lei/1965-1988/Del0711.htm#art2\">(Vide Del 711, de 1966)</a></strike></p>\n<p>\n<strike><a name=\"art35b\"></a>b) as multas aplicadas de conformidade com a\npresente lei;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"../Decreto-Lei/1965-1988/Del0711.htm#art2\">(Vide Del 711, \nde 1966)</a></strike></p>\n<p>\n<strike><a name=\"art35c\"></a>c) doa&#xe7;&#xf5;es, legados, juros e receitas\npatrimoniais; </strike> </p>\n<p>\n<strike><a name=\"art35d\"></a>d) subven&#xe7;&#xf5;es. </strike> </p>\n<p id=\"art-35\"><span>\n<a name=\"art35\"></a></span>Art. 35 - Constituem renda dos Conselhos Regionais:&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"1970-1979/L6619.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; 6.619, de 1978)</a></p>\n<p><a name=\"art35i\"></a>I - anuidades cobradas de \nprofissionais e pessoas jur&#xed;dicas;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"1970-1979/L6619.htm#art2\">(Inclu&#xed;do \npela Lei n&#xba; 6.619, de 1978)</a></p>\n<p><a name=\"art35ii\"></a>II - taxas de expedi&#xe7;&#xe3;o de \ncarteiras profissionais e documentos diversos;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"1970-1979/L6619.htm#art2\">(Inclu&#xed;do pela Lei n&#xba; 6.619, de 1978)</a></p>\n<p><a name=\"art35iii\"></a>III - emolumentos sobre \nregistros, vistos e outros procedimentos;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"1970-1979/L6619.htm#art2\">\n(Inclu&#xed;do pela Lei n&#xba; 6.619, de 1978)</a></p>\n<p><a name=\"art35iv\"></a>IV - quatro quintos da \narrecada&#xe7;&#xe3;o da taxa institu&#xed;da pela <a href=\"L6496.htm\">Lei n&#xba; 6.496, de 7 de dezembro de 1977</a>;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"1970-1979/L6619.htm#art2\">(Inclu&#xed;do pela Lei n&#xba; 6.619, de 1978)</a></p>\n<p><a name=\"art35v\"></a>V - multas aplicadas de \nconformidade com esta Lei e com a <a href=\"L6496.htm\">Lei n&#xba; 6.496, de 7 de dezembro de 1977</a>;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"1970-1979/L6619.htm#art2\">(Inclu&#xed;do pela Lei n&#xba; 6.619, de 1978)</a></p>\n<p><a name=\"art35vi\"></a>VI - doa&#xe7;&#xf5;es, legados, juros e \nreceitas patrimoniais;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"1970-1979/L6619.htm#art2\">(Inclu&#xed;do pela Lei n&#xba; \n6.619, de 1978)</a></p>\n<p><a name=\"art35vii\"></a>VII - subven&#xe7;&#xf5;es;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"1970-1979/L6619.htm#art2\">(Inclu&#xed;do pela Lei n&#xba; 6.619, de 1978)</a></p>\n<p><a name=\"art35viii\"></a>VIII - outros rendimentos \neventuais.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"1970-1979/L6619.htm#art2\">(Inclu&#xed;do pela Lei n&#xba; 6.619, de \n1978)</a></p>\n\n<p> \n<a name=\"art36...\"></a><strike>Art . 36. Da renda bruta proveniente da\narrecada&#xe7;&#xe3;o das taxas e multas referidas nas al&#xed;neas &quot; a &quot; e &quot; b &quot;\ndo artigo anterior, o Conselho Regional recolher&#xe1; um d&#xe9;cimo ao Conselho Federal, de\nac&#xf4;rdo com o artigo 28.</strike></p>\n<p>\n<a name=\"art36p\"></a><strike>Par&#xe1;grafo &#xfa;nico. Os Conselhos Regionais\ndestinar&#xe3;o anualmente a renda l&#xed;quida provinda da arrecada&#xe7;&#xe3;o das multas a medidas que\nobjetivem o aperfei&#xe7;oamento t&#xe9;cnico e cultural do engenheiro, do arquiteto e do\nengenheiro-agr&#xf4;nomo.</strike></p>\n<p id=\"art-36\"> <span>\n<a name=\"art36\"></a></span><strike id=\"art-36\">Art. 36. Cada Conselho Regional recolher&#xe1; ao Conselho Federal a \nparcela de 15% (quinze por cento) da renda bruta proveniente da arrecada&#xe7;&#xe3;o das \ntaxas e multas referidas nas al&#xed;neas &quot;<i>a</i>&quot; e &quot;<i>b</i>&quot; do artigo anterior.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"../Decreto-Lei/1965-1988/Del0620.htm#art1\">(Reda&#xe7;&#xe3;o dada pelo Decreto \nLei n&#xba; 620, de 1969)</a></strike></p>\n<p> \n<a name=\"art36..\"></a><strike>Art . 36. Da renda bruta proveniente da\narrecada&#xe7;&#xe3;o das taxas e multas referidas nas al&#xed;neas &quot; a &quot; e &quot; b &quot;\ndo artigo anterior, o Conselho Regional recolher&#xe1; um d&#xe9;cimo ao Conselho Federal, de\nac&#xf4;rdo com o artigo 28.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"../Decreto-Lei/1965-1988/Del0711.htm#art1\">\n(Revigorado pelo Decreto-Lei n&#xba; 711, de 1969).</a></strike></p>\n<p id=\"art-36\"><a name=\"art36.\">\n</a>Art. 36 - Os Conselhos Regionais recolher&#xe3;o ao Conselho Federal, at&#xe9; o dia \ntrinta do m&#xea;s subsequente ao da arrecada&#xe7;&#xe3;o, a quota de participa&#xe7;&#xe3;o \nestabelecida no item I do art. 28.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"1970-1979/L6619.htm#art2\">(Reda&#xe7;&#xe3;o \ndada pela Lei n&#xba; 6.619, de 1978)</a></p>\n<p><a name=\"art36p.\"></a>Par&#xe1;grafo &#xfa;nico - Os Conselhos \nRegionais poder&#xe3;o destinar parte de sua renda l&#xed;quida, proveniente da \narrecada&#xe7;&#xe3;o das multas, a medidas que objetivem o aperfei&#xe7;oamento t&#xe9;cnico e \ncultura do engenheiro, do arquiteto e do engenheiro-agr&#xf4;nomo.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"1970-1979/L6619.htm#art2\">(Inclu&#xed;do pela Lei n&#xba; 6.619, de 1978)</a></p>\n\n<p><span>\n<a name=\"tituloiicapituloiiisecaoii\"></a> </span>Se&#xe7;&#xe3;o<span>\nII </span> </p>\n\n<p>Da composi&#xe7;&#xe3;o e organiza&#xe7;&#xe3;o </p>\n\n<p><span>\n<a name=\"art37\"></a></span>Art . 37. Os Conselhos Regionais ser&#xe3;o\nconstitu&#xed;dos de brasileiros diplomados em curso superior, legalmente habilitados de\nac&#xf4;rdo com a presente lei, obedecida a seguinte composi&#xe7;&#xe3;o: </p>\n\n<p>a) um presidente, eleito por maioria\nabsoluta pelos membros do Conselho, com mandato de 3 (tr&#xea;s) anos; </p>\n\n<p>b) um representante de cada escola ou\nfaculdade de engenharia, arquitetura e agronomia com sede na Regi&#xe3;o; </p>\n\n<p>c) representantes diretos das entidades de\nclasse de engenheiro, arquiteto e engenheiro-agr&#xf4;nomo, registradas na Regi&#xe3;o de\nconformidade com o artigo 62. </p>\n\n<p>Par&#xe1;grafo &#xfa;nico. Cada membro do Conselho\nter&#xe1; um suplente. </p>\n\n<p><span>\n<a name=\"art38\"></a></span>Art . 38. Os representantes das escolas e\nfaculdades e seus respectivos suplentes ser&#xe3;o indicados por suas congrega&#xe7;&#xf5;es. </p>\n\n<p><span>\n<a name=\"art39\"></a></span>Art . 39. Os representantes das entidades de\nclasse e respectivos suplentes ser&#xe3;o eleitos por aquelas entidades na forma de seus\nEstatutos. </p>\n\n<p><span>\n<a name=\"art40\"></a></span>Art . 40. O n&#xfa;mero de conselheiros\nrepresentativos das entidades de classe ser&#xe1; fixado nos respectivos Conselhos Regionais,\nassegurados o m&#xed;nimo de um representante por entidade de classe e a proporcionalidade\nentre os representantes das diferentes categorias profissionais. </p>\n\n<p><span>\n<a name=\"art41\"></a></span>Art . 41. A proporcionalidade dos\nrepresentantes de cada categoria profissional ser&#xe1; estabelecida em face dos n&#xfa;meros\ntotais dos registros no Conselho Regional, de engenheiros das modalidades gen&#xe9;ricas\nprevistas na al&#xed;nea &quot; a &quot; do artigo 29, de arquitetos e de\nengenheiros-agr&#xf4;nomos, que houver em cada regi&#xe3;o, cabendo a cada entidade de classe\nregistrada no Conselho Regional um n&#xfa;mero de representantes proporcional &#xe0; quantidade de\nseus associados, assegurando o m&#xed;nimo de um representante por entidade. </p>\n\n<p>Par&#xe1;grafo &#xfa;nico. A proporcionalidade de\nque trata &#xea;ste artigo ser&#xe1; submetida &#xe0; pr&#xe9;via aprova&#xe7;&#xe3;o do Conselho Federal.</p>\n\n<p id=\"art-29\"><span>\n<a name=\"art42\"></a></span>Art . 42. Os Conselhos Regionais\nfuncionar&#xe3;o em pleno e, para os assuntos espec&#xed;ficos, organizados em C&#xe2;maras\nEspecializadas correspondentes &#xe0;s seguintes categorias profissionais: engenharia nas\nmodalidades correspondentes &#xe0;s forma&#xe7;&#xf5;es t&#xe9;cnicas referidas na al&#xed;nea a do art. 29,\narquitetura e agronomia.</p>\n\n<p><span>\n<a name=\"art43\"></a></span>Art . 43. O mandato dos conselheiros\nregionais ser&#xe1; de 3 (tr&#xea;s) anos e se renovar&#xe1;, anualmente pelo t&#xea;r&#xe7;o de seus membros.\n</p>\n\n<p><span>\n<a name=\"art44\"></a></span>Art . 44. Cada Conselho Regional ter&#xe1;\ninspetorias, para fins de fiscaliza&#xe7;&#xe3;o, nas cidades ou zonas onde se fizerem\nnecess&#xe1;rias. </p>\n\n<p><span>\n<a name=\"tituloiicapituloiv\"></a> </span>Cap&#xed;tulo<span>\nIV </span> </p>\n\n<p>Das C&#xe2;maras Especializadas </p>\n\n<p><span>\n<a name=\"tituloiicapituloivsecaoi\"></a> </span>Se&#xe7;&#xe3;o<span>\nI </span> </p>\n<p>Da Institui&#xe7;&#xe3;o das C&#xe2;maras e suas\natribui&#xe7;&#xf5;es </p>\n\n<p><span>\n<a name=\"art45\"></a></span>Art . 45. As C&#xe2;maras Especializadas s&#xe3;o os\n&#xf3;rg&#xe3;os dos Conselhos Regionais encarregados de julgar e decidir s&#xf4;bre os assuntos de\nfiscaliza&#xe7;&#xe3;o pertinentes &#xe0;s respectivas especializa&#xe7;&#xf5;es profissionais e infra&#xe7;&#xf5;es\ndo C&#xf3;digo de &#xc9;tica. </p>\n\n<p><span>\n<a name=\"art46\"></a></span>Art . 46. S&#xe3;o atribui&#xe7;&#xf5;es das C&#xe2;maras\nEspecializadas: </p>\n\n<p>a) julgar os casos de infra&#xe7;&#xe3;o da presente\nlei, no &#xe2;mbito de sua compet&#xea;ncia profissional espec&#xed;fica; </p>\n\n<p>b) julgar as infra&#xe7;&#xf5;es do C&#xf3;digo de\n&#xc9;tica; </p>\n\n<p>c) aplicar as penalidades e multas\nprevistas; </p>\n\n<p>d) apreciar e julgar os pedidos de registro\nde profissionais, das firmas, das entidades de direito p&#xfa;blico, das entidades de classe e\ndas escolas ou faculdades na Regi&#xe3;o; </p>\n\n<p>e) elaborar as normas para a fiscaliza&#xe7;&#xe3;o\ndas respectivas especializa&#xe7;&#xf5;es profissionais; </p>\n\n<p>f) opinar s&#xf4;bre os assuntos de inter&#xea;sse\ncomum de duas ou mais especializa&#xe7;&#xf5;es profissionais, encaminhando-os ao Conselho\nRegional. </p>\n\n<p><span>\n<a name=\"tituloiicapituloivsecaoii\"></a> </span>Se&#xe7;&#xe3;o<span>\nII </span> </p>\n\n<p>Da Composi&#xe7;&#xe3;o e organiza&#xe7;&#xe3;o </p>\n\n<p><span>\n<a name=\"art47\"></a></span>Art . 47. As C&#xe2;maras Especializadas ser&#xe3;o\nconstitu&#xed;das pelos conselheiros regionais. </p>\n\n<p>Par&#xe1;grafo &#xfa;nico. Em cada C&#xe2;mara\nEspecializada haver&#xe1; um membro, eleito pelo Conselho Regional, representando as demais\ncategorias profissionais. </p>\n\n<p><span>\n<a name=\"art48\"></a></span>Art . 48. Ser&#xe1; constitu&#xed;da C&#xe2;mara\nEspecializada desde que entre os conselheiros regionais haja um m&#xed;nimo de 3 (tr&#xea;s) do\nmesmo grupo profissional.</p>\n\n<p><a name=\"tituloiicapitulov\"></a>Cap&#xed;tulo V </p>\n\n<p>Generalidades</p>\n\n<p><span>\n<a name=\"art49\"></a></span>Art . 49. Aos Presidentes dos Conselhos\nFederal e Regionais, compete, al&#xe9;m da dire&#xe7;&#xe3;o do respectivo Conselho, sua\nrepresenta&#xe7;&#xe3;o em ju&#xed;zo. </p>\n\n<p><span>\n<a name=\"art50\"></a></span>Art . 50. O conselheiro federal ou regional\nque durante 1 (um) ano faltar, sem licen&#xe7;a pr&#xe9;via, a 6 (seis) sess&#xf5;es, consecutivas ou\nn&#xe3;o, perder&#xe1; autom&#xe0;ticamente o mandato passando este a ser exercido, em car&#xe1;ter\nefetivo, pelo respectivo suplente. </p>\n\n<p><span>\n<a name=\"art51\"></a></span>Art . 51. O mandato dos Presidentes e dos\nconselheiros ser&#xe1; honor&#xed;fico. </p>\n\n<p><span>\n<a name=\"art52\"></a></span>Art . 52. O exerc&#xed;cio da fun&#xe7;&#xe3;o de membro\ndos Conselhos por espa&#xe7;o de tempo n&#xe3;o inferior a dois t&#xea;r&#xe7;os do respectivo mandato\nser&#xe1; considerado servi&#xe7;o relevante prestado &#xe0; Na&#xe7;&#xe3;o. </p>\n\n<p>&#xa7; 1&#xba; O Conselho Federal conceder&#xe1; aos que\nse acharem nas condi&#xe7;&#xf5;es d&#xea;sse artigo o certificado de servi&#xe7;o relevante,\nindependentemente de requerimento do interessado, dentro de 12 (doze) meses contados a\npartir da comunica&#xe7;&#xe3;o dos Conselhos. </p>\n\n<p> <strike> <a href=\"#veto\">&#xa7; 2&#xba; VETADO </a>\n</strike></p>\n<p>&#xa7; 2&#xba; Ser&#xe1; \nconsiderado como servi&#xe7;o p&#xfa;blico efetivo, para efeito de aposentadoria e \ndisponibilidade, o tempo de servi&#xe7;o como Presidente ou Conselheiro, vedada, \npor&#xe9;m, a contagem comutativa com tempo exercido em cargo p&#xfa;blico.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"#veto\">\n(mantido pelo CN)</a></p>\n\n<p id=\"art-53\"><span>\n<a name=\"art53\"></a></span>Art. 53. Os representantes dos Conselhos\nFederal e Regionais reunir-se-&#xe3;o pelo menos uma vez por ano para, conjuntamente, estudar\ne estabelecer provid&#xea;ncias que assegurem ou aperfei&#xe7;oem a aplica&#xe7;&#xe3;o da presente lei,\ndevendo o Conselho Federal remeter aos Conselhos Regionais, com a devida anteced&#xea;ncia, o\ntem&#xe1;rio respectivo. </p>\n\n<p id=\"art-54\"> <span>\n<a name=\"art54\"></a></span><strike id=\"art-54\">Art. 54. Aos Conselhos Regionais &#xe9;\ncometido o encargo de dirimir qualquer d&#xfa;vida ou omiss&#xe3;o s&#xf4;bre a aplica&#xe7;&#xe3;o desta lei,\ncom recurso &quot; ex off&#xed;cio &quot;, de efeito suspensivo, para o Conselho Federal, ao\nqual compete decidir, em &#xfa;ltima inst&#xe2;ncia, em car&#xe1;ter geral.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"../Decreto-Lei/1965-1988/Del0620.htm#art3\">(Revogado pelo Decreto Lei \nn&#xba; 620, de 1969)</a></strike> </p>\n<p id=\"art-54\"><a name=\"art54.\"></a>Art. 54. Aos Conselhos Regionais &#xe9;\ncometido o encargo de dirimir qualquer d&#xfa;vida ou omiss&#xe3;o s&#xf4;bre a aplica&#xe7;&#xe3;o desta lei,\ncom recurso &quot; ex off&#xed;cio &quot;, de efeito suspensivo, para o Conselho Federal, ao\nqual compete decidir, em &#xfa;ltima inst&#xe2;ncia, em car&#xe1;ter geral.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; &#xa0;\n<a href=\"../Decreto-Lei/1965-1988/Del0711.htm#art1\">(Revigorado pelo Decreto-Lei \nn&#xba; 711, de 1969).</a></p>\n\n<p><span><a name=\"tituloiii\">\n</a> </span>T&#xcd;TULO<span> III </span> </p>\n\n<p>Do registro e fiscaliza&#xe7;&#xe3;o profissional </p>\n\n<p><span>\n<a name=\"tituloiiicapituloi\"></a> </span>Cap&#xed;tulo<span>\nI </span> </p>\n\n<p>Do registro dos profissionais </p>\n\n<p id=\"art-55\"><span>\n<a name=\"art55\"></a></span>Art. 55. Os profissionais habilitados na\nforma estabelecida nesta lei s&#xf3; poder&#xe3;o exercer a profiss&#xe3;o ap&#xf3;s o registro no\nConselho Regional, sob cuja jurisdi&#xe7;&#xe3;o se achar o local de sua atividade. </p>\n\n<p id=\"art-56\"><span>\n<a name=\"art56\"></a></span>Art. 56. Aos profissionais registrados de\nac&#xf4;rdo com esta lei ser&#xe1; fornecida carteira profissional, conforme modelo, adotado pelo\nConselho Federal, contendo o n&#xfa;mero do registro, a natureza do t&#xed;tulo, especializa&#xe7;&#xf5;es\ne todos os elementos necess&#xe1;rios &#xe0; sua identifica&#xe7;&#xe3;o. </p>\n\n<p>&#xa7; 1&#xba; A expedi&#xe7;&#xe3;o da carteira a que se\nrefere o presente artigo fica sujeita &#xe0; taxa que f&#xf4;r arbitrada pelo Conselho Federal. </p>\n\n<p>&#xa7; 2&#xba; A carteira profissional, para os\nefeitos desta lei, substituir&#xe1; o diploma, valer&#xe1; como documento de identidade e ter&#xe1;\nf&#xe9; p&#xfa;blica. </p>\n\n<p>&#xa7; 3&#xba; Para emiss&#xe3;o da carteira\nprofissional os Conselhos Regionais dever&#xe3;o exigir do interessado a prova de\nhabilita&#xe7;&#xe3;o profissional e de identidade, bem como outros elementos julgados\nconvenientes, de ac&#xf4;rdo com instru&#xe7;&#xf5;es baixadas pelo Conselho Federal. </p>\n\n<p id=\"art-57\"><span>\n<a name=\"art57\"></a></span>Art. 57. Os diplomados por escolas ou\nfaculdades de engenharia, arquitetura ou agronomia, oficiais ou reconhecidas, cujos\ndiplomas n&#xe3;o tenham sido registrados, mas estejam em processamento na reparti&#xe7;&#xe3;o\nfederal competente, poder&#xe3;o exercer as respectivas profiss&#xf5;es mediante registro\nprovis&#xf3;rio no Conselho Regional. </p>\n\n<p id=\"art-58\"><span>\n<a name=\"art58\"></a></span>Art. 58. Se o profissional, firma ou\norganiza&#xe7;&#xe3;o, registrado em qualquer Conselho Regional, exercer atividade em outra\nRegi&#xe3;o, ficar&#xe1; obrigado a visar, nela, o seu registro. </p>\n\n<p><span>\n<a name=\"tituloiiicapituloii\"></a> </span>Cap&#xed;tulo<span>\nII </span> </p>\n\n<p>Do registro de firmas e entidades </p>\n\n<p id=\"art-59\"><span>\n<a name=\"art59\"></a></span>Art. 59. As firmas, sociedades,\nassocia&#xe7;&#xf5;es, companhias, cooperativas e empresas em geral, que se organizem para\nexecutar obras ou servi&#xe7;os relacionados na forma estabelecida nesta lei, s&#xf3; poder&#xe3;o\niniciar suas atividades depois de promoverem o competente registro nos Conselhos\nRegionais, bem como o dos profissionais do seu quadro t&#xe9;cnico. </p>\n\n<p>&#xa7; 1&#xba; O registro de firmas, sociedades,\nassocia&#xe7;&#xf5;es, companhias, cooperativas e empr&#xea;sas em geral s&#xf3; ser&#xe1; concedido se sua\ndenomina&#xe7;&#xe3;o f&#xf4;r realmente condizente com sua finalidade e qualifica&#xe7;&#xe3;o de seus\ncomponentes. </p>\n\n<p>&#xa7; 2&#xba; As entidades estatais, paraestatais,\naut&#xe1;rquicas e de economia mista que tenham atividade na engenharia, na arquitetura ou na\nagronomia, ou se utilizem dos trabalhos de profissionais dessas categorias, s&#xe3;o\nobrigadas, sem quaisquer &#xf4;nus, a fornecer aos Conselhos Regionais todos os elementos\nnecess&#xe1;rios &#xe0; verifica&#xe7;&#xe3;o e fiscaliza&#xe7;&#xe3;o da presente lei. </p>\n\n<p>&#xa7; 3&#xba; O Conselho Federal estabelecer&#xe1;, em\nresolu&#xe7;&#xf5;es, os requisitos que as firmas ou demais organiza&#xe7;&#xf5;es previstas neste artigo\ndever&#xe3;o preencher para o seu registro. </p>\n\n<p id=\"art-60\"><span>\n<a name=\"art60\"></a></span>Art. 60. Toda e qualquer firma ou\norganiza&#xe7;&#xe3;o que, embora n&#xe3;o enquadrada no artigo anterior tenha alguma se&#xe7;&#xe3;o ligada\nao exerc&#xed;cio profissional da engenharia, arquitetura e agronomia, na forma estabelecida\nnesta lei, &#xe9; obrigada a requerer o seu registro e a anota&#xe7;&#xe3;o dos profissionais,\nlegalmente habilitados, delas encarregados. </p>\n\n<p id=\"art-61\"><span>\n<a name=\"art61\"></a></span>Art. 61. Quando os servi&#xe7;os forem\nexecutados em lugares distantes da sede da entidade, dever&#xe1; esta manter, junto a cada um\ndos servi&#xe7;os, um profissional devidamente habilitado naquela jurisdi&#xe7;&#xe3;o. </p>\n\n<p id=\"art-62\"><span>\n<a name=\"art62\"></a></span>Art. 62. Os membros dos Conselhos Regionais\ns&#xf3; poder&#xe3;o ser eleitos pelas entidades de classe que estiverem pr&#xe8;viamente registradas\nno Conselho em cuja jurisdi&#xe7;&#xe3;o tenham sede. </p>\n\n<p>&#xa7; 1&#xba; Para obterem registro, as entidades\nreferidas neste artigo dever&#xe3;o estar legalizadas, ter objetivo definido permanente,\ncontar no m&#xed;nimo trinta associados engenheiros, arquitetos ou engenheiros-agr&#xf4;nomos e\nsatisfazer as exig&#xea;ncias que forem estabelecidas pelo Conselho Regional. </p>\n\n<p>&#xa7; 2&#xba; Quando a entidade reunir associados\nengenheiros, arquitetos e engenheiros-agr&#xf4;nomos, em conjunto, o limite m&#xed;nimo referido\nno par&#xe1;grafo anterior dever&#xe1; ser de sessenta. </p>\n\n<p><span>\n<a name=\"tituloiiicapituloiii\"></a> </span>Cap&#xed;tulo<span>\nIII </span> </p>\n\n<p>Das anuidades, emolumentos e taxas </p>\n\n<p id=\"art-63\"><span>\n<a name=\"art63\"></a></span>Art. 63. Os profissionais e pessoas\njur&#xed;dicas registrados de conformidade com o que preceitua a presente lei s&#xe3;o obrigados\nao pagamento de uma anuidade ao Conselho Regional, a cuja jurisdi&#xe7;&#xe3;o pertencerem. </p>\n\n<p> <strike>\n<a name=\"art63&#xa7;1.\"></a>&#xa7; 1&#xba; A anuidade a que se refere &#xea;ste\nartigo ser&#xe1; paga at&#xe9; 31 de mar&#xe7;o de cada ano.</strike></p>\n<p>\n<strike><a name=\"art63&#xa7;2.\"></a>&#xa7; 2&#xba; O pagamento da anuidade fora d&#xea;sse\nprazo ter&#xe1; o acr&#xe9;scimo de 10% (dez por cento), a t&#xed;tulo de mora. </strike> </p>\n<p>\n<strike><a name=\"art63&#xa7;3.\"></a>&#xa7; 3&#xba; O pagamento da anuidade inicial ser&#xe1;\nfeito por ocasi&#xe3;o do registro. </strike> </p>\n<p><a name=\"art63&#xa7;1\"></a>&#xa7; 1&#xba; - A anuidade a que se refere este artigo ser&#xe1; devida \na partir de 1&#xba; de janeiro de cada ano.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"1970-1979/L6619.htm#art2\">\n(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; 6.619, de 1978)</a></p>\n<p><a name=\"art63&#xa7;2\"></a>&#xa7; 2&#xba; - O pagamento da anuidade \nap&#xf3;s 31 de mar&#xe7;o ter&#xe1; o acr&#xe9;scimo de vinte por cento, a t&#xed;tulo de mora, quando \nefetuado no mesmo exerc&#xed;cio.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"1970-1979/L6619.htm#art2\">(Reda&#xe7;&#xe3;o dada \npela Lei n&#xba; 6.619, de 1978)</a></p>\n<p><a name=\"art63&#xa7;3\"></a>&#xa7; 3&#xba; - A anuidade paga ap&#xf3;s o \nexerc&#xed;cio respectivo ter&#xe1; o seu valor atualizado para o vigente &#xe0; &#xe9;poca do \npagamento, acrescido de vinte por cento, a t&#xed;tulo de mora.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"1970-1979/L6619.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; 6.619, de 1978)</a></p>\n\n<p id=\"art-64\"><span>\n<a name=\"art64\"></a></span>Art. 64. Ser&#xe1; autom&#xe0;ticamente cancelado o\nregistro do profissional ou da pessoa jur&#xed;dica que deixar de efetuar o pagamento da\nanuidade, a que estiver sujeito, durante 2 (dois) anos consecutivos sem preju&#xed;zo da\nobrigatoriedade do pagamento da d&#xed;vida. </p>\n\n<p>Par&#xe1;grafo &#xfa;nico. O profissional ou pessoa\njur&#xed;dica que tiver seu registro cancelado nos termos deste artigo, se desenvolver\nqualquer atividade regulada nesta lei, estar&#xe1; exercendo ilegalmente a profiss&#xe3;o, podendo\nreabilitar-se mediante novo registro, satisfeitas, al&#xe9;m das anuidades em d&#xe9;bito, as\nmultas que lhe tenham sido impostas e os demais emolumentos e taxas regulamentares.</p>\n\n<p id=\"art-65\"><span>\n<a name=\"art65\"></a></span>Art. 65. T&#xf4;da vez que o profissional\ndiplomado apresentar a um Conselho Regional sua carteira para o competente\n&quot;visto&quot; e registro, dever&#xe1; fazer, prova de ter pago a sua anuidade na Regi&#xe3;o\nde origem ou naquela onde passar a residir. </p>\n\n<p id=\"art-66\"><span>\n<a name=\"art66\"></a></span>Art. 66. O pagamento da anuidade devida por\nprofissional ou pessoa jur&#xed;dica s&#xf2;mente ser&#xe1; aceito ap&#xf3;s verificada a aus&#xea;ncia, de\nquaisquer d&#xe9;bitos concernentes a multas, emolumentos, taxas ou anuidades de exerc&#xed;cios\nanteriores.</p>\n\n<p id=\"art-67\"><span>\n<a name=\"art67\"></a></span>Art. 67. Embora legalmente registrado, s&#xf3;\nser&#xe1; considerado no leg&#xed;timo exerc&#xed;cio da profiss&#xe3;o e atividades de que trata a\npresente lei o profissional ou pessoa jur&#xed;dica que esteja em dia com o pagamento da\nrespectiva anuidade.</p>\n<p id=\"art-68\"><span>\n<a name=\"art68\"></a></span>Art. 68. As autoridades administrativas e judici&#xe1;rias, as\nreparti&#xe7;&#xf5;es estatais, paraestatais, aut&#xe1;rquicas ou de economia mista n&#xe3;o receber&#xe3;o\nestudos, projetos, laudos, per&#xed;cias, arbitramentos e quaisquer outros trabalhos, sem que\nos autores, profissionais ou pessoas jur&#xed;dicas; fa&#xe7;am prova de estar em dia com o\npagamento da respectiva anuidade. </p>\n\n<p id=\"art-69\"><span>\n<a name=\"art69\"></a></span>Art. 69. S&#xf3; poder&#xe3;o ser admitidos nas\nconcorr&#xea;ncias p&#xfa;blicas para obras ou servi&#xe7;os t&#xe9;cnicos e para concursos de projetos,\nprofissionais e pessoas jur&#xed;dicas que apresentarem prova de quita&#xe7;&#xe3;o de d&#xe9;bito ou\nvisto do Conselho Regional da jurisdi&#xe7;&#xe3;o onde a obra, o servi&#xe7;o t&#xe9;cnico ou projeto\ndeva ser executado.</p>\n\n<p id=\"art-70\"><span>\n<a name=\"art70\"></a></span>Art. 70. O Conselho Federal baixar&#xe1;\nresolu&#xe7;&#xf5;es estabelecendo o Regimento de Custas e, peri&#xf2;dicamente, quando julgar\noportuno, promover&#xe1; sua revis&#xe3;o.</p>\n\n<p><span><a name=\"tituloiv\">\n</a> </span>T&#xcd;TULO<span> IV </span> </p>\n\n<p>Das penalidades </p>\n\n<p id=\"art-71\"><span>\n<a name=\"art71\"></a></span>Art. 71. As penalidades aplic&#xe1;veis por\ninfra&#xe7;&#xe3;o da presente lei s&#xe3;o as seguintes, de ac&#xf4;rdo com a gravidade da falta: </p>\n\n<p>a) advert&#xea;ncia reservada; </p>\n\n<p>b) censura p&#xfa;blica; </p>\n\n<p>c) multa; </p>\n\n<p>d) suspens&#xe3;o tempor&#xe1;ria do exerc&#xed;cio\nprofissional; </p>\n\n<p>e) cancelamento definitivo do registro. </p>\n\n<p>Par&#xe1;grafo &#xfa;nico. As penalidades para cada\ngrupo profissional ser&#xe3;o impostas pelas respectivas C&#xe2;maras Especializadas ou, na falta\ndestas, pelos Conselhos Regionais. </p>\n\n<p id=\"art-72\"><span>\n<a name=\"art72\"></a></span>Art. 72. As penas de advert&#xea;ncia reservada\ne de censura p&#xfa;blica s&#xe3;o aplic&#xe1;veis aos profissionais que deixarem de cumprir\ndisposi&#xe7;&#xf5;es do C&#xf3;digo de &#xc9;tica, tendo em vista a gravidade da falta e os casos de\nreincid&#xea;ncia, a crit&#xe9;rio das respectivas C&#xe2;maras Especializadas. </p>\n\n<p id=\"art-73\"> \n<a name=\"art73.\"></a><strike id=\"art-73\">Art. 73. As multas s&#xe3;o estabelecidas em\nfun&#xe7;&#xe3;o do maior sal&#xe1;rio-m&#xed;nimo vigente no Pa&#xed;s e ter&#xe3;o os seguintes val&#xf4;res,\ndesprezadas as fra&#xe7;&#xf5;es de mil cruzeiros: </strike> </p>\n<p>\n<strike><a name=\"art73a.\"></a>a) multas de um a tr&#xea;s d&#xe9;cimos do\nsal&#xe1;r&#xed;o-m&#xed;mino, aos infratores dos artigos 17 e 58 e das disposi&#xe7;&#xf5;es para as quais\nn&#xe3;o haja indica&#xe7;&#xe3;o expressa de penalidade; </strike> </p>\n<p>\n<strike><a name=\"art73b.\"></a>b) multas de tr&#xea;s a seis d&#xe9;cimos do\nsal&#xe1;rio-m&#xed;nimo &#xe0;s pessoas f&#xed;sicas, por infra&#xe7;&#xe3;o da al&#xed;nea &quot; b &quot; do artigo\n6&#xba;, dos artigos 13, 14 e 55 ou do par&#xe1;grafo &#xfa;nico do artigo 64; </strike> </p>\n<p>\n<strike><a name=\"art73c.\"></a>c) multas de meio a um sal&#xe1;rio-m&#xed;nimo &#xe0;s\npessoas jur&#xed;dicas, por infra&#xe7;&#xe3;o dos artigos 13, 14, 59/60 e par&#xe1;grafo &#xfa;nico do artigo\n64; </strike> </p>\n<p>\n<strike><a name=\"art73d.\"></a>d) multa de meio a um sal&#xe1;rio-m&#xed;nimo &#xe0;s\npessoa f&#xed;sicas por infra&#xe7;&#xe3;o das al&#xed;neas &quot; a &quot;, &quot; c &quot; e &quot; d\n&quot; do artigo 6&#xba;; </strike> </p>\n<p>\n<strike><a name=\"art73e.\"></a>e) multas de meio a tr&#xea;s sal&#xe1;rios-m&#xed;nimos\n&#xe0;s pessoas jur&#xed;dicas, por infra&#xe7;&#xe3;o do artigo 6&#xba;. </strike> </p>\n<p id=\"art-73\"><span>\n<a name=\"art73\"></a></span>Art. 73 - As multas s&#xe3;o estipuladas em fun&#xe7;&#xe3;o do maior valor de refer&#xea;ncia \nfixado pelo Poder Executivo e ter&#xe3;o os seguintes valores, desprezadas as fra&#xe7;&#xf5;es \nde um cruzeiro:&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"1970-1979/L6619.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; \n6.619, de 1978)</a></p>\n<p><a name=\"art73a\"></a>a) de um a tr&#xea;s d&#xe9;cimos do \nvalor de refer&#xea;ncia, aos infratores dos arts. 17 e 58 e das disposi&#xe7;&#xf5;es para as \nquais n&#xe3;o haja indica&#xe7;&#xe3;o expressa de penalidade;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"1970-1979/L6619.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; 6.619, de 1978)</a>&#xa0;\n<a href=\"L6496.htm#art3\">(Vide Lei n&#xba; 6.496, de 1977)</a></p>\n<p id=\"art-6\"><a name=\"art73b\"></a>b) de tr&#xea;s a seis d&#xe9;cimos do \nvalor de refer&#xea;ncia, &#xe0;s pessoas f&#xed;sicas, por infra&#xe7;&#xe3;o da al&#xed;nea <i><u>b</u></i><u>\n</u>do art. 6&#xba;, dos arts. 13, 14 e 55 ou do par&#xe1;grafo &#xfa;nico do art. 64;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"1970-1979/L6619.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; 6.619, de 1978)</a></p>\n<p id=\"art-64\"><a name=\"art73c\"></a>c) de meio a um valor de \nrefer&#xea;ncia, &#xe0;s pessoas jur&#xed;dicas, por infra&#xe7;&#xe3;o dos arts. 13, 14, 59 e 60, e \npar&#xe1;grafo &#xfa;nico do art. 64;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"1970-1979/L6619.htm#art2\">\n(Reda&#xe7;&#xe3;o dada \npela Lei n&#xba; 6.619, de 1978)</a></p>\n<p id=\"art-6\"><a name=\"art73d\"></a>d) de meio a um valor de \nrefer&#xea;ncia, &#xe0;s pessoas f&#xed;sicas, por infra&#xe7;&#xe3;o das al&#xed;neas <i><u>a</u></i>, <i><u>\nc</u></i> e <i><u>d</u></i> do art. 6&#xba;;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"1970-1979/L6619.htm#art2\">\n(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; 6.619, de 1978)</a></p>\n<p id=\"art-6\"><a name=\"art73e\"></a>e) de meio a tr&#xea;s valores de \nrefer&#xea;ncia, &#xe0;s pessoas jur&#xed;dicas, por infra&#xe7;&#xe3;o do art. 6&#xba;.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"1970-1979/L6619.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; 6.619, de 1978)</a></p>\n\n<p><a name=\"art73p\"></a>Par&#xe1;grafo &#xfa;nico. As multas referidas neste\nartigo ser&#xe3;o aplicadas em d&#xf4;bro nos casos de reincid&#xea;ncia.</p>\n\n<p id=\"art-74\"><span>\n<a name=\"art74\"></a></span>Art. 74. Nos casos de nova reincid&#xea;ncia\ndas infra&#xe7;&#xf5;es previstas no artigo anterior, al&#xed;neas &quot;c&quot;, &quot;d&quot; e\n&quot; e&quot; , ser&#xe1; imposta, a crit&#xe9;rio das C&#xe2;maras Especializadas, suspens&#xe3;o\ntempor&#xe1;ria do exerc&#xed;cio profissional, por prazos vari&#xe1;veis de 6 (seis) meses a 2 (dois)\nanos e, pelos Conselhos Regionais em pleno, de 2 (dois) a 5 (cinco) anos.</p>\n\n<p id=\"art-75\"><span>\n<a name=\"art75\"></a></span>Art. 75. O cancelamento do registro ser&#xe1;\nefetuado por m&#xe1; conduta p&#xfa;blica e esc&#xe2;ndalos praticados pelo profissional ou sua\ncondena&#xe7;&#xe3;o definitiva por crime considerado infamante. </p>\n\n<p id=\"art-76\"><span>\n<a name=\"art76\"></a></span>Art. 76. As pessoas n&#xe3;o habilitadas que\nexercerem as profiss&#xf5;es reguladas nesta lei, independentemente da multa estabelecida,\nest&#xe3;o sujeitas &#xe0;s penalidades previstas na Lei de Contraven&#xe7;&#xf5;es Penais.</p>\n\n<p id=\"art-77\"><span>\n<a name=\"art77\"></a></span>Art. 77. S&#xe3;o competentes para lavrar autos\nde infra&#xe7;&#xe3;o das disposi&#xe7;&#xf5;es a que se refere a presente lei, os funcion&#xe1;rios\ndesignados para &#xea;sse fim pelos Conselhos Regionais de Engenharia, Arquitetura e Agronomia\nnas respectivas Regi&#xf5;es. </p>\n\n<p id=\"art-78\"><span>\n<a name=\"art78\"></a></span>\nArt. 78. Das penalidades impostas pelas\nC&#xe2;maras especializadas, poder&#xe1; o interessado, dentro do prazo de 60 (sessenta) dias,\ncontados da data da notifica&#xe7;&#xe3;o, interpor recurso que ter&#xe1; efeito suspensivo, para o\nConselho Regional e, no mesmo prazo, d&#xea;ste para o Conselho Federal.</p>\n\n<p><span>\n<a name=\"art78&#xa7;1\"></a></span>\n&#xa7; 1&#xba; N&#xe3;o se efetuando o pagamento das\nmultas, amig&#xe0;velmente, estas ser&#xe3;o cobradas por via executiva. </p>\n\n<p><span>\n<a name=\"art78&#xa7;2\"></a></span>\n&#xa7; 2&#xba; Os autros de infra&#xe7;&#xe3;o, depois de\njulgados definitivamente contra o infrator, constituem t&#xed;tulos de d&#xed;vida l&#xed;quida e\ncerta. </p>\n\n<p id=\"art-79\"><span>\n<a name=\"art79\"></a></span>Art. 79. O profissional punido por falta de\nregistro n&#xe3;o poder&#xe1; obter a carteira profissional, sem antes efetuar o pagamento das\nmultas em que houver incorrido. </p>\n\n<p><span><a name=\"titulov\"></a> </span>\nT&#xcd;TULO<span> V </span> </p>\n\n<p>Das disposi&#xe7;&#xf5;es gerais </p>\n\n<p id=\"art-80\"> \n<a name=\"art80..\"></a><strike id=\"art-80\">Art. 80. Os Conselhos Federal e Regionais\nde Engenharia, Arquitetura e Agronomia, autarquias dotadas de personalidade jur&#xed;dica de\ndireito p&#xfa;blico, constituem servi&#xe7;o p&#xfa;blico federal, gozando os seus bens, rendas e\nservi&#xe7;os de imunidade tribut&#xe1;ria total (art.&#xa0; 31, inciso V, al&#xed;nea a da Constitui&#xe7;&#xe3;o\nFederal) e franquia postal e telegr&#xe1;fica.</strike></p>\n<p id=\"art-80\"> <span>\n<a name=\"art80\"></a></span><strike id=\"art-80\">Art. 80. O Conselho Federal de Engenharia e Arquitetura e Agronomia \nconstitui servi&#xe7;o p&#xfa;blico federal descentralizado sob forma aut&#xe1;rquica, gozando \nos seus bens, rendas e servi&#xe7;os, bem como os dos CREAs, que lhe s&#xe3;o \nsubordinados, de imunidade tribut&#xe1;ria (art. 20, inciso III, al&#xed;nea &quot;<i>a</i>&quot; e \nseu &#xa7; 1&#xba;, da Constitui&#xe7;&#xe3;o do Brasil).&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"../Decreto-Lei/1965-1988/Del0620.htm#art1\">(Reda&#xe7;&#xe3;o dada pelo Decreto \nLei n&#xba; 620, de 1969)</a></strike></p>\n<p id=\"art-80\"><a name=\"art80.\"></a>Art. 80. Os Conselhos Federal e Regionais\nde Engenharia, Arquitetura e Agronomia, autarquias dotadas de personalidade jur&#xed;dica de\ndireito p&#xfa;blico, constituem servi&#xe7;o p&#xfa;blico federal, gozando os seus bens, rendas e\nservi&#xe7;os de imunidade tribut&#xe1;ria total (art. 31, inciso V, al&#xed;nea a da Constitui&#xe7;&#xe3;o\nFederal) e franquia postal e telegr&#xe1;fica.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"../Decreto-Lei/1965-1988/Del0711.htm#art1\">(Revigorado pelo Decreto-Lei \nn&#xba; 711, de 1969).</a></p>\n\n<p id=\"art-81\"><span>\n<a name=\"art81\"></a></span>Art. 81. Nenhum profissional poder&#xe1;\nexercer fun&#xe7;&#xf5;es eletivas em Conselhos por mais de dois per&#xed;odos sucessivos. </p>\n\n<p id=\"art-82\"> <span>\n<a name=\"art82\"></a></span><strike id=\"art-82\"> Art. 82. <a href=\"#veto\">VETADO</a></strike> </p>\n<p id=\"art-82\"><span>\n<a name=\"art82.\"></a></span>Art 82. As\nremunera&#xe7;&#xf5;es iniciais dos engenheiros, arquitetos e engenheiros-agr&#xf4;nomos, qualquer que\nseja a fonte pagadora, n&#xe3;o poder&#xe3;o ser inferiores a 6 (seis) v&#xea;zes o sal&#xe1;rio-m&#xed;nimo\nda respectiva regi&#xe3;o.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"#veto\">(mantido pelo CN)</a></p>\n\n<p id=\"art-83\"> <span>\n<a name=\"art83\"></a></span><strike id=\"art-83\">Art. 83. Os\ntrabalhos profissionais relativos a projetos n&#xe3;o poder&#xe3;o ser sujeitos a concorr&#xea;ncia de\npre&#xe7;o, devendo, quando f&#xf4;r o caso, ser objeto de concurso.</strike>&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; <a href=\"L8666cons.htm#art126\">(Revogado pela Lei n&#xba; 8.666,de 21.6.93)</a></p>\n\n<p id=\"art-84\">\n<strike id=\"art-84\"><span>\n<a name=\"art84\"></a></span>Art. 84. O graduado por estabelecimento de\nensino agr&#xed;cola, ou industrial de grau m&#xe9;dio, oficial ou reconhecido, cujo diploma ou\ncertificado esteja registrado nas reparti&#xe7;&#xf5;es competentes, s&#xf3; poder&#xe1; exercer suas\nfun&#xe7;&#xf5;es ou atividades ap&#xf3;s registro nos Conselhos Regionais.</strike>&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"../_Ato2015-2018/2018/Lei/L13639.htm#art38\">(Revogado pela Lei n&#xba; \n13.639, de 2018)</a></p>\n\n<p>\n<strike><a name=\"art84p\"></a>Par&#xe1;grafo &#xfa;nico. As atribui&#xe7;&#xf5;es do\ngraduado referido neste artigo ser&#xe3;o regulamentadas pelo Conselho Federal, tendo em vista\nseus curr&#xed;culos e graus de escolaridade.</strike>&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"../_Ato2015-2018/2018/Lei/L13639.htm#art38\">(Revogado pela Lei n&#xba; \n13.639, de 2018)</a></p>\n\n<p id=\"art-85\"><span>\n<a name=\"art85\"></a></span>Art. 85. As entidades que contratarem\nprofissionais nos t&#xea;rmos da al&#xed;nea &quot; c &quot; do artigo 2&#xba; s&#xe3;o obrigadas a\nmanter, junto a &#xea;les, um assistente brasileiro do ramo profissional respectivo.</p>\n\n<p><a name=\"titulovi\"></a>T&#xcd;TULO VI </p>\n\n<p>Das disposi&#xe7;&#xf5;es transit&#xf3;rias </p>\n\n<p id=\"art-86\"><span>\n<a name=\"art86\"></a></span>Art. 86. S&#xe3;o assegurados aos atuais\nprofissionais de engenharia, arquitetura e agronomia e aos que se encontrem matriculados\nnas escolas respectivas, na data da publica&#xe7;&#xe3;o desta lei, os direitos at&#xe9; ent&#xe3;o\nusufru&#xed;dos e que venham de qualquer forma a ser atingidos por suas disposi&#xe7;&#xf5;es.</p>\n\n<p><a name=\"art86p\"></a>Par&#xe1;grafo &#xfa;nico. Fica estabelecidos o\nprazo de 12 (doze) meses, a contar da publica&#xe7;&#xe3;o desta lei, para os interessados\npromoverem a devida anota&#xe7;&#xe3;o nos registros dos Conselhos Regionais.</p>\n\n<p id=\"art-87\"><span>\n<a name=\"art87\"></a></span>Art. 87. Os membros atuais dos Conselhos\nFederal e Regionais completar&#xe3;o os mandatos para os quais foram eleitos. </p>\n\n<p><a name=\"art87p\"></a>Par&#xe1;grafo &#xfa;nico. Os atuais presidentes dos\nConselhos Federal e Regionais completar&#xe3;o seus mandatos, ficando o presidente do primeiro\nd&#xea;sses Conselhos com o car&#xe1;ter de membro do mesmo.</p>\n\n<p id=\"art-88\"><span>\n<a name=\"art88\"></a></span>Art. 88. O Conselho Federal baixar&#xe1;\nresolu&#xe7;&#xf5;es, dentro de 60 (sessenta) dias a partir da data da presente lei, destinadas a\ncompletar a composi&#xe7;&#xe3;o dos Conselhos Federal e Regionais.</p>\n\n<p id=\"art-89\"><span>\n<a name=\"art89\"></a></span>Art. 89. Na constitui&#xe7;&#xe3;o do primeiro\nConselho Federal ap&#xf3;s a publica&#xe7;&#xe3;o desta lei ser&#xe3;o escolhidos por meio de sorteio as\nRegi&#xf5;es e os grupos profissionais que as representar&#xe3;o.</p>\n\n<p id=\"art-90\"><span>\n<a name=\"art90\"></a></span>Art. 90. Os Conselhos Federal e Regionais,\ncompletados na forma desta lei, ter&#xe3;o o prazo de 180 (cento e oitenta) dias, ap&#xf3;s a\nposse, para elaborar seus regimentos internos, vigorando, at&#xe9; a expira&#xe7;&#xe3;o d&#xea;ste prazo,\nos regulamentos e resolu&#xe7;&#xf5;es vigentes no que n&#xe3;o colidam com os dispositivos da\npresente lei.</p>\n\n<p id=\"art-91\"><span>\n<a name=\"art91\"></a></span>Art. 91. Esta Lei entra em vigor na data de\nsua publica&#xe7;&#xe3;o.</p>\n\n<p id=\"art-92\"><span>\n<a name=\"art92\"></a></span>Art. 92. Revogam-se as disposi&#xe7;&#xf5;es em\ncontr&#xe1;rio.</p>\n\n<p>Bras&#xed;lia, 24 de dezembro de 1966; 145&#xba; da\nIndepend&#xea;ncia e 78&#xba; da Rep&#xfa;blica. </p>\n\n<p>H. CASTELLO BRANCO <br>\n<em>L. G. do Nascimento e Silva </em></p>\n</font>\n\n<p><font>Este texto n&#xe3;o substitui o publicado no\nDOU de 27.12.1966 e <a href=\"1950-1969/Ret/RETL5194-66.htm\">\n<font>retificado em 4.1.1967</font></a></font></p>\n<div><center>\n\n<table>\n  <tbody><tr>\n    <td><p><img></p></td>\n    <td><p><font><strong><big><big>Presid&#xea;ncia\n    da Rep&#xfa;blica</big></big><br>\n    <big>Casa Civil<br>\n    </big>Subchefia para Assuntos Jur&#xed;dicos</strong></font></p></td>\n  </tr>\n</tbody></table>\n</center></div>\n\n<p><small><strong><font><a name=\"veto\"></a>&#xa0;</font><a href=\"http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/lei%205.194-1966?OpenDocument\"><font>LEI N&#xba; 5.194, DE 24 DE DEZEMBRO DE 1966.</font></a></strong></small></p>\n\n<table>\n  <tbody><tr>\n    <td>&#xa0;</td>\n    <td>\n\t<p><font>Partes\nmantidas pelo Congresso Nacional, ap&#xf3;s veto presidencial, do projeto que se transformou\nna Lei n&#xba; 5.194, de 24 de dezembro de 1966, que regula o exerc&#xed;cio das profiss&#xf5;es de\nEngenheiro, Arquiteto e Engenheiro-Agron&#xf4;mo e d&#xe1; outras provid&#xea;ncias. </font></p></td>\n  </tr>\n</tbody></table>\n<font id=\"art-52\">\n\n<p><b><font>O PRESIDENTE DA\nREP&#xda;BLICA:</font></b></p>\n<p><font>Fa&#xe7;o saber que o CONGRESSO NACIONAL manteve e eu promulgo, nos t&#xea;rmos da\nparte final do &#xa7; 3&#xba; do artigo 62, da Constitui&#xe7;&#xe3;o Federal os seguintes dispositivos da\nLei 5.194, de 24 de dezembro de 1966: </font></p>\n\n<blockquote id=\"art-52\">\n\t<blockquote id=\"art-52\">\n\t\t<p id=\"art-52\"><font id=\"art-52\">&quot;Art 52\n.........................................................\n.........................................</font></p>\n\t\t<p><font>............................................................\n.....................................................</font></p>\n\t\t<p><font>&#xa7; 2&#xba; Ser&#xe1; considerado\ncomo servi&#xe7;o p&#xfa;blico efetivo, para efeito de aposentadoria e disponibilidade, o tempo de\nservi&#xe7;o como Presidente ou Conselheiro, vedada, por&#xe9;m, a contagem comutativa com tempo\nexercido em cargo p&#xfa;blico. </font></p>\n\t\t<p id=\"art-82\"><font id=\"art-82\">Art 82. As\nremunera&#xe7;&#xf5;es iniciais dos engenheiros, arquitetos e engenheiros-agr&#xf4;nomos, qualquer que\nseja a fonte pagadora, n&#xe3;o poder&#xe3;o ser inferiores a 6 (seis) v&#xea;zes o sal&#xe1;rio-m&#xed;nimo\nda respectiva regi&#xe3;o.</font></p>\n\t</blockquote>\n</blockquote>\n\n<p><font>Bras&#xed;lia, 20 de abril de\n1967; 146&#xba; da Independ&#xea;ncia e 79&#xba; da Rep&#xfa;blica. </font></p>\n\n<p><font>A. COSTA E SILVA </font></p>\n<p><font>Este texto n&#xe3;o substitui o \npublicado no DOU de 24.4.1967</font></p>\n</font><p><font><font>*</font></font></p>\n<p>&#xa0;</p>\n<p>&#xa0;</p>\n<p>&#xa0;</p>\n<p>&#xa0;</p>\n<p>&#xa0;</p>\n<p>&#xa0;</p>\n<p>&#xa0;</p>\n<p>&#xa0;</p>\n<p>&#xa0;</p>\n\n\n\n    </div>",
+  "artigos": {
+    "1": {
+      "numero": "1º",
+      "titulo": "arquiteto e engenheiro-agrônomo são caracterizadas pelas realizações de interêsse",
+      "texto": "Art. 1º As profissões de engenheiro, arquiteto e engenheiro-agrônomo são caracterizadas pelas realizações de interêsse social e humano que importem na realização dos seguintes empreendimentos:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-1"
+    },
+    "2": {
+      "numero": "2º",
+      "titulo": "profissão de engenheiro, arquiteto ou engenheiro-agrônomo, observadas as condições de",
+      "texto": "Art. 2º O exercício, no País, da profissão de engenheiro, arquiteto ou engenheiro-agrônomo, observadas as condições de capacidade e demais exigências legais, é assegurado:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-2"
+    },
+    "3": {
+      "numero": "3º",
+      "titulo": "profissionais referidos nesta Lei as denominações de engenheiro, arquiteto ou",
+      "texto": "Art. 3º São reservadas exclusivamente aos profissionais referidos nesta Lei as denominações de engenheiro, arquiteto ou engenheiro-agrônomo, acrescidas obrigatòriamente, das características de sua formação básica.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-3"
+    },
+    "4": {
+      "numero": "4º",
+      "titulo": "arquiteto ou engenheiro-agrônomo só podem ser acrescidas à denominação de pessoa",
+      "texto": "Art. 4º As qualificações de engenheiro, arquiteto ou engenheiro-agrônomo só podem ser acrescidas à denominação de pessoa jurídica composta exclusivamente de profissionais que possuam tais títulos.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-4"
+    },
+    "5": {
+      "numero": "5º",
+      "titulo": "denominação as palavras engenharia, arquitetura ou agronomia a firma comercial ou",
+      "texto": "Art. 5º Só poderá ter em sua denominação as palavras engenharia, arquitetura ou agronomia a firma comercial ou industrial cuja diretoria fôr composta, em sua maioria, de profissionais registrados nos Conselhos Regionais.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-5"
+    },
+    "6": {
+      "numero": "6º",
+      "titulo": "engenheiro, arquiteto ou engenheiro-agrônomo:",
+      "texto": "Art. 6º Exerce ilegalmente a profissão de engenheiro, arquiteto ou engenheiro-agrônomo:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-6"
+    },
+    "7": {
+      "numero": "7º",
+      "titulo": "profissionais do engenheiro, do arquiteto e do engenheiro-agrônomo consistem em:",
+      "texto": "Art. 7º As atividades e atribuições profissionais do engenheiro, do arquiteto e do engenheiro-agrônomo consistem em:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-7"
+    },
+    "8": {
+      "numero": "8º",
+      "titulo": "na qualidade de pessoa jurídica, exercer atribuições reservadas aos profissionais da",
+      "texto": "e) a firma, organização ou sociedade que, na qualidade de pessoa jurídica, exercer atribuições reservadas aos profissionais da engenharia, da arquitetura e da agronomia, com infringência do disposto no parágrafo único do art. 8º desta lei.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-8"
+    },
+    "9": {
+      "numero": "9º",
+      "titulo": "alíneas g e h do art. 7º, observados os preceitos desta lei, poderão ser exercidas,",
+      "texto": "Art. 9º As atividades enunciadas nas alíneas g e h do art. 7º, observados os preceitos desta lei, poderão ser exercidas, indistintamente, por profissionais ou por pessoas jurídicas.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-9"
+    },
+    "10": {
+      "numero": "10º",
+      "titulo": "escolas e faculdades de engenharia, arquitetura e agronomia indicar, ao Conselho Federal,",
+      "texto": "Art. 10. Cabe às Congregações das escolas e faculdades de engenharia, arquitetura e agronomia indicar, ao Conselho Federal, em função dos títulos apreciados através da formação profissional, em têrmos genéricos, as características dos profissionais por ela diplomados.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-10"
+    },
+    "11": {
+      "numero": "11º",
+      "titulo": "manterá atualizada a relação dos títulos concedidos pelas escolas e faculdades, bem",
+      "texto": "Art. 11. O Conselho Federal organizará e manterá atualizada a relação dos títulos concedidos pelas escolas e faculdades, bem como seus cursos e currículos, com a indicação das suas características.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-11"
+    },
+    "12": {
+      "numero": "12º",
+      "titulo": "Municípios, nas entidades autárquicas, paraestatais e de economia mista, os cargos e",
+      "texto": "Art. 12. Na União, nos Estados e nos Municípios, nas entidades autárquicas, paraestatais e de economia mista, os cargos e funções que exijam conhecimentos de engenharia, arquitetura e agronomia, relacionados conforme o disposto na alínea \" g \" do art. 27, sòmente poderão ser exercidos por profissionais habilitados de acôrdo com esta lei.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-12"
+    },
+    "13": {
+      "numero": "13º",
+      "titulo": "laudos e qualquer outro trabalho de engenharia, de arquitetura e de agronomia, quer",
+      "texto": "Art. 13. Os estudos, plantas, projetos, laudos e qualquer outro trabalho de engenharia, de arquitetura e de agronomia, quer público, quer particular, sòmente poderão ser submetidos ao julgamento das autoridades competentes e só terão valor jurídico quando seus autores forem profissionais habilitados de acôrdo com esta lei.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-13"
+    },
+    "14": {
+      "numero": "14º",
+      "titulo": "especificações, orçamentos, pareceres, laudos e atos judiciais ou administrativos, é",
+      "texto": "Art. 14. Nos trabalhos gráficos, especificações, orçamentos, pareceres, laudos e atos judiciais ou administrativos, é obrigatória além da assinatura, precedida do nome da emprêsa, sociedade, instituição ou firma a que interessarem, a menção explícita do título do profissional que os subscrever e do número da carteira referida no art. 56.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-14"
+    },
+    "15": {
+      "numero": "15º",
+      "titulo": "contratos referentes a qualquer ramo da engenharia, arquitetura ou da agronomia, inclusive",
+      "texto": "Art. 15. São nulos de pleno direito os contratos referentes a qualquer ramo da engenharia, arquitetura ou da agronomia, inclusive a elaboração de projeto, direção ou execução de obras, quando firmados por entidade pública ou particular com pessoa física ou jurídica não legalmente habilitada a praticar a atividade nos têrmos desta lei.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-15"
+    },
+    "16": {
+      "numero": "16º",
+      "titulo": "obras, instalações e serviços de qualquer natureza, é obrigatória a colocação e",
+      "texto": "Art. 16. Enquanto durar a execução de obras, instalações e serviços de qualquer natureza, é obrigatória a colocação e manutenção de placas visíveis e legíveis ao público, contendo o nome do autor e co-autores do projeto, em todos os seus aspectos técnicos e artísticos, assim como os dos responsáveis pela execução dos trabalhos.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-16"
+    },
+    "17": {
+      "numero": "17º",
+      "titulo": "ou projeto de engenharia, arquitetura ou agronomia, respeitadas as relações contratuais",
+      "texto": "Art. 17. Os direitos de autoria de um plano ou projeto de engenharia, arquitetura ou agronomia, respeitadas as relações contratuais expressas entre o autor e outros interessados, são do profissional que os elaborar.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-17"
+    },
+    "18": {
+      "numero": "18º",
+      "titulo": "plano original só poderão ser feitas pelo profissional que o tenha elaborado.",
+      "texto": "Art. 18. As alterações do projeto ou plano original só poderão ser feitas pelo profissional que o tenha elaborado.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-18"
+    },
+    "19": {
+      "numero": "19º",
+      "titulo": "caracteriza um plano ou, projeto fôr elaborada em conjunto por profissionais legalmente",
+      "texto": "Art. 19. Quando a concepção geral que caracteriza um plano ou, projeto fôr elaborada em conjunto por profissionais legalmente habilitados, todos serão considerados co-autores do projeto, com os direitos e deveres correspondentes.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-19"
+    },
+    "20": {
+      "numero": "20º",
+      "titulo": "de técnicos especializados que colaborarem numa parte do projeto, deverão ser",
+      "texto": "Art. 20. Os profissionais ou organizações de técnicos especializados que colaborarem numa parte do projeto, deverão ser mencionados explicitamente como autores da parte que lhes tiver sido confiada, tornando-se mister que todos os documentos, como plantas, desenhos, cálculos, pareceres, relatórios, análises, normas, especificações e outros documentos relativos ao projeto, sejam por êles assinados.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-20"
+    },
+    "21": {
+      "numero": "21º",
+      "titulo": "convocar, para o desempenho do seu encargo, o concurso de profissionais da organização",
+      "texto": "Art. 21. Sempre que o autor do projeto convocar, para o desempenho do seu encargo, o concurso de profissionais da organização de profissionais, especializados e legalmente habilitados, serão êstes havidos como co-responsáveis na parte que lhes diga respeito.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-21"
+    },
+    "22": {
+      "numero": "22º",
+      "titulo": "prepostos é assegurado o direito de acompanhar a execução da obra, de modo a garantir a",
+      "texto": "Art. 22. Ao autor do projeto ou a seus prepostos é assegurado o direito de acompanhar a execução da obra, de modo a garantir a sua realização de acôrdo com as condições, especificações e demais pormenores técnicos nêle estabelecidos.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-22"
+    },
+    "23": {
+      "numero": "23º",
+      "titulo": "registros de autoria de planos e projetos, para salvaguarda dos direitos autorais dos",
+      "texto": "Art. 23. Os Conselhos Regionais criarão registros de autoria de planos e projetos, para salvaguarda dos direitos autorais dos profissionais que o desejarem.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-23"
+    },
+    "24": {
+      "numero": "24º",
+      "titulo": "lei, a verificação e fiscalização do exercício e atividades das profissões nela",
+      "texto": "Art. 24. A aplicação do que dispõe esta lei, a verificação e fiscalização do exercício e atividades das profissões nela reguladas serão exercidas por um Conselho Federal de Engenharia, Arquitetura e Agronomia (CONFEA) e Conselhos Regionais de Engenharia, Arquitetura e Agronomia (CREA), organizados de forma a assegurarem unidade de ação.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-24"
+    },
+    "25": {
+      "numero": "25º",
+      "titulo": "Conselho Federal de Engenharia, Arquitetura e Agronomia promoverá a instalação, nos",
+      "texto": "Art. 25. Mantidos os já existentes, o Conselho Federal de Engenharia, Arquitetura e Agronomia promoverá a instalação, nos Estados, Distrito Federal e Territórios Federais, dos Conselhos Regionais necessários à execução desta lei, podendo, a ação de qualquer dêles, estender-se a mais de um Estado.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-25"
+    },
+    "26": {
+      "numero": "26º",
+      "titulo": "Arquitetura e Agronomia, (CONFEA), é a instância superior da fiscalização do",
+      "texto": "Art. 26. O Conselho Federal de Engenharia, Arquitetura e Agronomia, (CONFEA), é a instância superior da fiscalização do exercício profissional da engenharia, da arquitetura e da agronomia.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-26"
+    },
+    "27": {
+      "numero": "27º",
+      "titulo": "Municípios, nas entidades autárquicas, paraestatais e de economia mista, os cargos e",
+      "texto": "Art. 12. Na União, nos Estados e nos Municípios, nas entidades autárquicas, paraestatais e de economia mista, os cargos e funções que exijam conhecimentos de engenharia, arquitetura e agronomia, relacionados conforme o disposto na alínea \" g \" do art. 27, sòmente poderão ser exercidos por profissionais habilitados de acôrdo com esta lei.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-27"
+    },
+    "28": {
+      "numero": "28º",
+      "titulo": "Federal:",
+      "texto": "Art. 28. Constituem renda do Conselho Federal:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-28"
+    },
+    "29": {
+      "numero": "29º",
+      "titulo": "constituído por 18 (dezoito) membros, brasileiros, diplomados em Engenharia, Arquitetura",
+      "texto": "Art. 29. O Conselho Federal será constituído por 18 (dezoito) membros, brasileiros, diplomados em Engenharia, Arquitetura ou Agronomia, habilitados de acôrdo com esta lei, obedecida a seguinte composição:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-29"
+    },
+    "30": {
+      "numero": "30º",
+      "titulo": "profissionais referidos na alínea \" a \" do art. 29 e seus suplentes serão",
+      "texto": "Art. 30. Os representantes dos grupos profissionais referidos na alínea \" a \" do art. 29 e seus suplentes serão eleitos pelas respectivas entidades de classe registradas nas regiões, em assembléias especialmente convocadas para êste fim pelos Conselhos Regionais, cabendo a cada região indicar, em forma de rodízio, um membro do Conselho Federal.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-30"
+    },
+    "31": {
+      "numero": "31º",
+      "titulo": "faculdades e seus suplentes serão eleitos por maioria absoluta de votos em assembléia",
+      "texto": "Art. 31. Os representantes das escolas ou faculdades e seus suplentes serão eleitos por maioria absoluta de votos em assembléia dos delegados de cada grupo profissional, designados pelas respectivas Congregações.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-31"
+    },
+    "32": {
+      "numero": "32º",
+      "titulo": "Conselho Federal e do Presidente serão de 3 (três) anos.",
+      "texto": "Art. 32. Os mandatos dos membros do Conselho Federal e do Presidente serão de 3 (três) anos.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-32"
+    },
+    "35": {
+      "numero": "35º",
+      "titulo": "da arrecadação prevista nos itens I a V do art. 35;",
+      "texto": "I - quinze por cento do produto da arrecadação prevista nos itens I a V do art. 35; (Incluído pela Lei nº 6.619, de 1978)",
+      "incisos": [
+        "I"
+      ],
+      "paragrafos": [],
+      "anchor": "#art-35"
+    },
+    "36": {
+      "numero": "36º",
+      "titulo": "que se refere art. 36, da renda bruta arrecadada pelos Conselhos Regionais;",
+      "texto": "a) a parcela a que se refere art. 36, da renda bruta arrecadada pelos Conselhos Regionais; (Redação dada pelo Decreto Lei nº 620, de 1969)",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-36"
+    },
+    "45": {
+      "numero": "45º",
+      "titulo": "da atribuição ou competência, das Câmaras Especializadas referidas no artigo 45,",
+      "texto": "n) julgar, decidir ou dirimir as questões da atribuição ou competência, das Câmaras Especializadas referidas no artigo 45, quando não possuir o Conselho Regional número suficiente de profissionais do mesmo grupo para constituir a respectiva Câmara, como estabelece o artigo 48;",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-45"
+    },
+    "48": {
+      "numero": "48º",
+      "titulo": "da atribuição ou competência, das Câmaras Especializadas referidas no artigo 45,",
+      "texto": "n) julgar, decidir ou dirimir as questões da atribuição ou competência, das Câmaras Especializadas referidas no artigo 45, quando não possuir o Conselho Regional número suficiente de profissionais do mesmo grupo para constituir a respectiva Câmara, como estabelece o artigo 48;",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-48"
+    },
+    "52": {
+      "numero": "52º",
+      "titulo": "REPÚBLICA:",
+      "texto": "O PRESIDENTE DA REPÚBLICA: Faço saber que o CONGRESSO NACIONAL manteve e eu promulgo, nos têrmos da parte final do § 3º do artigo 62, da Constituição Federal os seguintes dispositivos da Lei 5.194, de 24 de dezembro de 1966: \"Art 52 ......................................................... ......................................... ............................................................ ..................................................... § 2º Será considerado como serviço público efetivo, para efeito de aposentadoria e disponibilidade, o tempo de serviço como Presidente ou Conselheiro, vedada, porém, a contagem comutativa com tempo exercido em cargo público. Art 82. As remunerações iniciais dos engenheiros, arquitetos e engenheiros-agrônomos, qualquer que seja a fonte pagadora, não poderão ser inferiores a 6 (seis) vêzes o salário-mínimo da respectiva região. Brasília, 20 de abril de 1967; 146º da Independência e 79º da República. A. COSTA E SILVA Este texto não substitui o publicado no DOU de 24.4.1967",
+      "incisos": [],
+      "paragrafos": [
+        "3º",
+        "2º"
+      ],
+      "anchor": "#art-52"
+    },
+    "53": {
+      "numero": "53º",
+      "titulo": "reuniões de representantes dos Conselhos Federal e Regionais previstas no art. 53 desta",
+      "texto": "l) promover, pelo menos uma vez por ano, as reuniões de representantes dos Conselhos Federal e Regionais previstas no art. 53 desta lei;",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-53"
+    },
+    "54": {
+      "numero": "54º",
+      "titulo": "cometido o encargo de dirimir qualquer dúvida ou omissão sôbre a aplicação desta lei,",
+      "texto": "Art. 54. Aos Conselhos Regionais é cometido o encargo de dirimir qualquer dúvida ou omissão sôbre a aplicação desta lei, com recurso \" ex offício \", de efeito suspensivo, para o Conselho Federal, ao qual compete decidir, em última instância, em caráter geral. (Revogado pelo Decreto Lei nº 620, de 1969)",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-54"
+    },
+    "55": {
+      "numero": "55º",
+      "titulo": "forma estabelecida nesta lei só poderão exercer a profissão após o registro no",
+      "texto": "Art. 55. Os profissionais habilitados na forma estabelecida nesta lei só poderão exercer a profissão após o registro no Conselho Regional, sob cuja jurisdição se achar o local de sua atividade.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-55"
+    },
+    "56": {
+      "numero": "56º",
+      "titulo": "especificações, orçamentos, pareceres, laudos e atos judiciais ou administrativos, é",
+      "texto": "Art. 14. Nos trabalhos gráficos, especificações, orçamentos, pareceres, laudos e atos judiciais ou administrativos, é obrigatória além da assinatura, precedida do nome da emprêsa, sociedade, instituição ou firma a que interessarem, a menção explícita do título do profissional que os subscrever e do número da carteira referida no art. 56.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-56"
+    },
+    "57": {
+      "numero": "57º",
+      "titulo": "faculdades de engenharia, arquitetura ou agronomia, oficiais ou reconhecidas, cujos",
+      "texto": "Art. 57. Os diplomados por escolas ou faculdades de engenharia, arquitetura ou agronomia, oficiais ou reconhecidas, cujos diplomas não tenham sido registrados, mas estejam em processamento na repartição federal competente, poderão exercer as respectivas profissões mediante registro provisório no Conselho Regional.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-57"
+    },
+    "58": {
+      "numero": "58º",
+      "titulo": "organização, registrado em qualquer Conselho Regional, exercer atividade em outra",
+      "texto": "Art. 58. Se o profissional, firma ou organização, registrado em qualquer Conselho Regional, exercer atividade em outra Região, ficará obrigado a visar, nela, o seu registro.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-58"
+    },
+    "59": {
+      "numero": "59º",
+      "titulo": "associações, companhias, cooperativas e empresas em geral, que se organizem para",
+      "texto": "Art. 59. As firmas, sociedades, associações, companhias, cooperativas e empresas em geral, que se organizem para executar obras ou serviços relacionados na forma estabelecida nesta lei, só poderão iniciar suas atividades depois de promoverem o competente registro nos Conselhos Regionais, bem como o dos profissionais do seu quadro técnico.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-59"
+    },
+    "60": {
+      "numero": "60º",
+      "titulo": "organização que, embora não enquadrada no artigo anterior tenha alguma seção ligada",
+      "texto": "Art. 60. Toda e qualquer firma ou organização que, embora não enquadrada no artigo anterior tenha alguma seção ligada ao exercício profissional da engenharia, arquitetura e agronomia, na forma estabelecida nesta lei, é obrigada a requerer o seu registro e a anotação dos profissionais, legalmente habilitados, delas encarregados.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-60"
+    },
+    "61": {
+      "numero": "61º",
+      "titulo": "executados em lugares distantes da sede da entidade, deverá esta manter, junto a cada um",
+      "texto": "Art. 61. Quando os serviços forem executados em lugares distantes da sede da entidade, deverá esta manter, junto a cada um dos serviços, um profissional devidamente habilitado naquela jurisdição.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-61"
+    },
+    "62": {
+      "numero": "62º",
+      "titulo": "das entidades de classe referidas no artigo 62 e das escolas e faculdades que, de acôrdo",
+      "texto": "p) organizar e manter atualizado o registro das entidades de classe referidas no artigo 62 e das escolas e faculdades que, de acôrdo com esta lei, devam participar da eleição de representantes destinada a compor o Conselho Regional e o Conselho Federal;",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-62"
+    },
+    "63": {
+      "numero": "63º",
+      "titulo": "e taxas a pagar pelos profissionais e pessoas jurídicas referidos no art. 63.",
+      "texto": "p) fixar e alterar as anuidades, emolumentos e taxas a pagar pelos profissionais e pessoas jurídicas referidos no art. 63.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-63"
+    },
+    "64": {
+      "numero": "64º",
+      "titulo": "registro do profissional ou da pessoa jurídica que deixar de efetuar o pagamento da",
+      "texto": "Art. 64. Será automàticamente cancelado o registro do profissional ou da pessoa jurídica que deixar de efetuar o pagamento da anuidade, a que estiver sujeito, durante 2 (dois) anos consecutivos sem prejuízo da obrigatoriedade do pagamento da dívida.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-64"
+    },
+    "65": {
+      "numero": "65º",
+      "titulo": "diplomado apresentar a um Conselho Regional sua carteira para o competente",
+      "texto": "Art. 65. Tôda vez que o profissional diplomado apresentar a um Conselho Regional sua carteira para o competente \"visto\" e registro, deverá fazer, prova de ter pago a sua anuidade na Região de origem ou naquela onde passar a residir.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-65"
+    },
+    "66": {
+      "numero": "66º",
+      "titulo": "profissional ou pessoa jurídica sòmente será aceito após verificada a ausência, de",
+      "texto": "Art. 66. O pagamento da anuidade devida por profissional ou pessoa jurídica sòmente será aceito após verificada a ausência, de quaisquer débitos concernentes a multas, emolumentos, taxas ou anuidades de exercícios anteriores.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-66"
+    },
+    "67": {
+      "numero": "67º",
+      "titulo": "será considerado no legítimo exercício da profissão e atividades de que trata a",
+      "texto": "Art. 67. Embora legalmente registrado, só será considerado no legítimo exercício da profissão e atividades de que trata a presente lei o profissional ou pessoa jurídica que esteja em dia com o pagamento da respectiva anuidade.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-67"
+    },
+    "68": {
+      "numero": "68º",
+      "titulo": "repartições estatais, paraestatais, autárquicas ou de economia mista não receberão",
+      "texto": "Art. 68. As autoridades administrativas e judiciárias, as repartições estatais, paraestatais, autárquicas ou de economia mista não receberão estudos, projetos, laudos, perícias, arbitramentos e quaisquer outros trabalhos, sem que os autores, profissionais ou pessoas jurídicas; façam prova de estar em dia com o pagamento da respectiva anuidade.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-68"
+    },
+    "69": {
+      "numero": "69º",
+      "titulo": "concorrências públicas para obras ou serviços técnicos e para concursos de projetos,",
+      "texto": "Art. 69. Só poderão ser admitidos nas concorrências públicas para obras ou serviços técnicos e para concursos de projetos, profissionais e pessoas jurídicas que apresentarem prova de quitação de débito ou visto do Conselho Regional da jurisdição onde a obra, o serviço técnico ou projeto deva ser executado.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-69"
+    },
+    "70": {
+      "numero": "70º",
+      "titulo": "resoluções estabelecendo o Regimento de Custas e, periòdicamente, quando julgar",
+      "texto": "Art. 70. O Conselho Federal baixará resoluções estabelecendo o Regimento de Custas e, periòdicamente, quando julgar oportuno, promoverá sua revisão.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-70"
+    },
+    "71": {
+      "numero": "71º",
+      "titulo": "infração da presente lei são as seguintes, de acôrdo com a gravidade da falta:",
+      "texto": "Art. 71. As penalidades aplicáveis por infração da presente lei são as seguintes, de acôrdo com a gravidade da falta:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-71"
+    },
+    "72": {
+      "numero": "72º",
+      "titulo": "e de censura pública são aplicáveis aos profissionais que deixarem de cumprir",
+      "texto": "Art. 72. As penas de advertência reservada e de censura pública são aplicáveis aos profissionais que deixarem de cumprir disposições do Código de Ética, tendo em vista a gravidade da falta e os casos de reincidência, a critério das respectivas Câmaras Especializadas.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-72"
+    },
+    "73": {
+      "numero": "73º",
+      "titulo": "função do maior salário-mínimo vigente no País e terão os seguintes valôres,",
+      "texto": "Art. 73. As multas são estabelecidas em função do maior salário-mínimo vigente no País e terão os seguintes valôres, desprezadas as frações de mil cruzeiros:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-73"
+    },
+    "74": {
+      "numero": "74º",
+      "titulo": "das infrações previstas no artigo anterior, alíneas \"c\", \"d\" e",
+      "texto": "Art. 74. Nos casos de nova reincidência das infrações previstas no artigo anterior, alíneas \"c\", \"d\" e \" e\" , será imposta, a critério das Câmaras Especializadas, suspensão temporária do exercício profissional, por prazos variáveis de 6 (seis) meses a 2 (dois) anos e, pelos Conselhos Regionais em pleno, de 2 (dois) a 5 (cinco) anos.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-74"
+    },
+    "75": {
+      "numero": "75º",
+      "titulo": "efetuado por má conduta pública e escândalos praticados pelo profissional ou sua",
+      "texto": "Art. 75. O cancelamento do registro será efetuado por má conduta pública e escândalos praticados pelo profissional ou sua condenação definitiva por crime considerado infamante.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-75"
+    },
+    "76": {
+      "numero": "76º",
+      "titulo": "exercerem as profissões reguladas nesta lei, independentemente da multa estabelecida,",
+      "texto": "Art. 76. As pessoas não habilitadas que exercerem as profissões reguladas nesta lei, independentemente da multa estabelecida, estão sujeitas às penalidades previstas na Lei de Contravenções Penais.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-76"
+    },
+    "77": {
+      "numero": "77º",
+      "titulo": "de infração das disposições a que se refere a presente lei, os funcionários",
+      "texto": "Art. 77. São competentes para lavrar autos de infração das disposições a que se refere a presente lei, os funcionários designados para êsse fim pelos Conselhos Regionais de Engenharia, Arquitetura e Agronomia nas respectivas Regiões.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-77"
+    },
+    "78": {
+      "numero": "78º",
+      "titulo": "Câmaras especializadas, poderá o interessado, dentro do prazo de 60 (sessenta) dias,",
+      "texto": "Art. 78. Das penalidades impostas pelas Câmaras especializadas, poderá o interessado, dentro do prazo de 60 (sessenta) dias, contados da data da notificação, interpor recurso que terá efeito suspensivo, para o Conselho Regional e, no mesmo prazo, dêste para o Conselho Federal.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-78"
+    },
+    "79": {
+      "numero": "79º",
+      "titulo": "registro não poderá obter a carteira profissional, sem antes efetuar o pagamento das",
+      "texto": "Art. 79. O profissional punido por falta de registro não poderá obter a carteira profissional, sem antes efetuar o pagamento das multas em que houver incorrido.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-79"
+    },
+    "80": {
+      "numero": "80º",
+      "titulo": "de Engenharia, Arquitetura e Agronomia, autarquias dotadas de personalidade jurídica de",
+      "texto": "Art. 80. Os Conselhos Federal e Regionais de Engenharia, Arquitetura e Agronomia, autarquias dotadas de personalidade jurídica de direito público, constituem serviço público federal, gozando os seus bens, rendas e serviços de imunidade tributária total (art. 31, inciso V, alínea a da Constituição Federal) e franquia postal e telegráfica.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-80"
+    },
+    "81": {
+      "numero": "81º",
+      "titulo": "exercer funções eletivas em Conselhos por mais de dois períodos sucessivos.",
+      "texto": "Art. 81. Nenhum profissional poderá exercer funções eletivas em Conselhos por mais de dois períodos sucessivos.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-81"
+    },
+    "82": {
+      "numero": "82º",
+      "titulo": "remunerações iniciais dos engenheiros, arquitetos e engenheiros-agrônomos, qualquer que",
+      "texto": "Art 82. As remunerações iniciais dos engenheiros, arquitetos e engenheiros-agrônomos, qualquer que seja a fonte pagadora, não poderão ser inferiores a 6 (seis) vêzes o salário-mínimo da respectiva região. (mantido pelo CN)",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-82"
+    },
+    "83": {
+      "numero": "83º",
+      "titulo": "trabalhos profissionais relativos a projetos não poderão ser sujeitos a concorrência de",
+      "texto": "Art. 83. Os trabalhos profissionais relativos a projetos não poderão ser sujeitos a concorrência de preço, devendo, quando fôr o caso, ser objeto de concurso. (Revogado pela Lei nº 8.666,de 21.6.93)",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-83"
+    },
+    "84": {
+      "numero": "84º",
+      "titulo": "ensino agrícola, ou industrial de grau médio, oficial ou reconhecido, cujo diploma ou",
+      "texto": "Art. 84. O graduado por estabelecimento de ensino agrícola, ou industrial de grau médio, oficial ou reconhecido, cujo diploma ou certificado esteja registrado nas repartições competentes, só poderá exercer suas funções ou atividades após registro nos Conselhos Regionais. (Revogado pela Lei nº 13.639, de 2018)",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-84"
+    },
+    "85": {
+      "numero": "85º",
+      "titulo": "profissionais nos têrmos da alínea \" c \" do artigo 2º são obrigadas a",
+      "texto": "Art. 85. As entidades que contratarem profissionais nos têrmos da alínea \" c \" do artigo 2º são obrigadas a manter, junto a êles, um assistente brasileiro do ramo profissional respectivo.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-85"
+    },
+    "86": {
+      "numero": "86º",
+      "titulo": "profissionais de engenharia, arquitetura e agronomia e aos que se encontrem matriculados",
+      "texto": "Art. 86. São assegurados aos atuais profissionais de engenharia, arquitetura e agronomia e aos que se encontrem matriculados nas escolas respectivas, na data da publicação desta lei, os direitos até então usufruídos e que venham de qualquer forma a ser atingidos por suas disposições.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-86"
+    },
+    "87": {
+      "numero": "87º",
+      "titulo": "Federal e Regionais completarão os mandatos para os quais foram eleitos.",
+      "texto": "Art. 87. Os membros atuais dos Conselhos Federal e Regionais completarão os mandatos para os quais foram eleitos.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-87"
+    },
+    "88": {
+      "numero": "88º",
+      "titulo": "resoluções, dentro de 60 (sessenta) dias a partir da data da presente lei, destinadas a",
+      "texto": "Art. 88. O Conselho Federal baixará resoluções, dentro de 60 (sessenta) dias a partir da data da presente lei, destinadas a completar a composição dos Conselhos Federal e Regionais.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-88"
+    },
+    "89": {
+      "numero": "89º",
+      "titulo": "Conselho Federal após a publicação desta lei serão escolhidos por meio de sorteio as",
+      "texto": "Art. 89. Na constituição do primeiro Conselho Federal após a publicação desta lei serão escolhidos por meio de sorteio as Regiões e os grupos profissionais que as representarão.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-89"
+    },
+    "90": {
+      "numero": "90º",
+      "titulo": "completados na forma desta lei, terão o prazo de 180 (cento e oitenta) dias, após a",
+      "texto": "Art. 90. Os Conselhos Federal e Regionais, completados na forma desta lei, terão o prazo de 180 (cento e oitenta) dias, após a posse, para elaborar seus regimentos internos, vigorando, até a expiração dêste prazo, os regulamentos e resoluções vigentes no que não colidam com os dispositivos da presente lei.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-90"
+    },
+    "91": {
+      "numero": "91º",
+      "titulo": "sua publicação.",
+      "texto": "Art. 91. Esta Lei entra em vigor na data de sua publicação.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-91"
+    },
+    "92": {
+      "numero": "92º",
+      "titulo": "contrário.",
+      "texto": "Art. 92. Revogam-se as disposições em contrário.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-92"
+    }
+  },
+  "indice": [],
+  "totalArtigos": 77,
+  "resumo": "Presidência da República Casa Civil Subchefia para Assuntos JurídicosLEI Nº 5.194, DE 24 DE DEZEMBRO DE 1966. Mensagem de vetoRegula o exercício das profissões de Engenheiro, Arquiteto e Engenheiro-Agrônomo, e dá outras providências.O PRESIDENTE DA REPÚBLICA, Faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei: Presidência da República Casa Civil Subchefia para Assuntos JurídicosPartes mantidas pelo Congresso Nacional, após veto presidencial, do projeto que se transformou na Lei nº 5.194, de 24 de dezembro de 1966, que regula o exercício das profissões de Engenheiro, Arquiteto e Engenheiro-Agronômo e dá outras providências. O PRESIDENTE DA REPÚBLICA:\"Art 52 ......................................................... ........................................."
+};

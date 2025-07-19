@@ -3,7 +3,7 @@ import { FileText, Calendar, Tag, Heart, Copy, X, ExternalLink, BookOpen, Scale,
 import { Card, CardContent, CardHeader, CardTitle } from '../ui/card'
 import { Badge } from '../ui/badge'
 import { Button } from '../ui/button'
-import { Dialog, DialogContent, DialogHeader, DialogTitle } from '../ui/dialog'
+import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from '../ui/dialog'
 import { ScrollArea } from '../ui/scroll-area'
 import { Separator } from '../ui/separator'
 import { toast } from 'sonner'
@@ -19,6 +19,23 @@ const VadeMecumListImproved = ({
   onCloseModal 
 }) => {
   const [isModalOpen, setIsModalOpen] = useState(false)
+
+  // Log para confirmar que a versão atualizada está sendo usada
+  console.log('🔄 VadeMecumListImproved ATUALIZADO carregado - versão com melhor formatação visual');
+  
+  // Log específico quando um documento é selecionado
+  if (selectedDocument) {
+    console.log('📄 Documento selecionado:', {
+      id: selectedDocument.id,
+      titulo: selectedDocument.titulo,
+      temConteudo: !!selectedDocument.conteudo,
+      temArtigos: !!selectedDocument.artigos,
+      tipoConteudo: selectedDocument.conteudo ? (selectedDocument.conteudo.includes('<') ? 'HTML' : 'Texto') : 'Sem conteúdo',
+      tamanhoConteudo: selectedDocument.conteudo?.length || 0,
+      primeiros200chars: selectedDocument.conteudo?.slice(0, 200),
+      todosOsCampos: Object.keys(selectedDocument)
+    });
+  }
 
   const formatDate = (date) => {
     if (!date) return 'Data não disponível'
@@ -99,42 +116,41 @@ const VadeMecumListImproved = ({
       let textToCopy = `${document.titulo}\n`
       textToCopy += `${'='.repeat(document.titulo.length)}\n\n`
       
-      // Adicionar metadados
-      if (document.referencia) {
-        textToCopy += `Referência: ${document.referencia}\n`
-      }
-      if (document.data) {
-        textToCopy += `Data: ${formatDate(document.data)}\n`
-      }
-      if (document.origem) {
-        textToCopy += `Origem: ${document.origem}\n`
-      }
-      if (document.situacao) {
-        textToCopy += `Situação: ${document.situacao}\n`
-      }
+      // Adiciona metadados básicos
+      if (document.ano) textToCopy += `Ano: ${document.ano}\n`
+      if (document.categoria) textToCopy += `Categoria: ${document.categoria}\n`
+      if (document.orgaoResponsavel) textToCopy += `Órgão: ${document.orgaoResponsavel}\n`
+      if (document.referencia) textToCopy += `Referência: ${document.referencia}\n`
+      if (document.status) textToCopy += `Status: ${document.status}\n`
       textToCopy += '\n'
       
-      // Adicionar ementa se existir
-      if (document.ementa) {
-        textToCopy += `EMENTA\n`
-        textToCopy += `${document.ementa}\n\n`
-      }
-      
-      // Adicionar artigos se existirem
+      // Usa a nova estrutura de artigos se disponível
       if (document.artigos && document.artigos.length > 0) {
-        textToCopy += `ARTIGOS\n\n`
-        document.artigos.forEach((artigo, index) => {
-          textToCopy += `Art. ${artigo.numero}\n`
-          textToCopy += `${artigo.texto}\n\n`
+        textToCopy += 'ARTIGOS\n\n'
+        document.artigos.forEach(artigo => {
+          textToCopy += `Art. ${artigo.numero} - ${artigo.texto}\n`
+          
+          // Adiciona incisos se existirem
+          if (artigo.incisos && artigo.incisos.length > 0) {
+            artigo.incisos.forEach(inciso => {
+              textToCopy += `  ${inciso.numero} - ${inciso.texto}\n`
+            })
+          }
+          
+          // Adiciona parágrafos se existirem
+          if (artigo.paragrafos && artigo.paragrafos.length > 0) {
+            artigo.paragrafos.forEach(paragrafo => {
+              textToCopy += `  ${paragrafo.numero} - ${paragrafo.texto}\n`
+            })
+          }
+          
+          textToCopy += '\n'
         })
-      }
-      
-      // Adicionar conteúdo se existir e não houver artigos
-      if (document.conteudo && (!document.artigos || document.artigos.length === 0)) {
-        textToCopy += `CONTEÚDO\n\n`
-        // Remover tags HTML se existirem
+      } else if (document.conteudo) {
+        // Fallback para estrutura antiga
+        textToCopy += 'CONTEÚDO\n\n'
         const cleanContent = document.conteudo.replace(/<[^>]*>/g, '')
-        textToCopy += `${cleanContent}\n\n`
+        textToCopy += cleanContent + '\n\n'
       }
       
       // Adicionar palavras-chave se existirem
@@ -142,20 +158,19 @@ const VadeMecumListImproved = ({
         textToCopy += `Palavras-chave: ${document.palavrasChave.join(', ')}\n`
       }
       
-      // Adicionar link se existir
-      if (document.link || document.url) {
-        textToCopy += `\nLink: ${document.link || document.url}\n`
+      // Adicionar fonte se existir
+      if (document.fonte) {
+        textToCopy += `\nFonte: ${document.fonte}\n`
       }
       
       // Adicionar rodapé
       textToCopy += `\n---\nCopiado do Direito Organizado - ${new Date().toLocaleDateString('pt-BR')}`
       
-      // Copiar para a área de transferência
       await navigator.clipboard.writeText(textToCopy)
-      toast.success('Documento copiado para a área de transferência!')
+      toast.success("Conteúdo copiado para a área de transferência!")
     } catch (error) {
-      console.error('Erro ao copiar documento:', error)
-      toast.error('Erro ao copiar documento. Tente novamente.')
+      console.error('Erro ao copiar:', error)
+      toast.error("Erro ao copiar conteúdo")
     }
   }
 
@@ -216,12 +231,29 @@ const VadeMecumListImproved = ({
                 <TypeIcon className="h-4 w-4 text-orange-600 dark:text-orange-400" />
               </div>
               <div className="flex-1 min-w-0">
-                <Badge className={`${getTypeColor(document.tipo)} text-xs mb-1`}>
-                  {getTypeLabel(document.tipo)}
-                </Badge>
+                <div className="flex items-center gap-2 mb-1">
+                  <Badge className={`${getTypeColor(document.tipo)} text-xs`}>
+                    {getTypeLabel(document.tipo)}
+                  </Badge>
+                  {document.ano && (
+                    <Badge variant="outline" className="text-xs">
+                      {document.ano}
+                    </Badge>
+                  )}
+                  {document.status && document.status !== 'vigente' && (
+                    <Badge variant="destructive" className="text-xs">
+                      {document.status}
+                    </Badge>
+                  )}
+                </div>
                 <CardTitle className="text-sm font-semibold line-clamp-2 group-hover:text-orange-600 transition-colors">
                   {document.titulo}
                 </CardTitle>
+                {document.referencia && document.referencia !== document.titulo && (
+                  <p className="text-xs text-muted-foreground mt-1">
+                    {document.referencia}
+                  </p>
+                )}
               </div>
             </div>
             <Button
@@ -238,17 +270,21 @@ const VadeMecumListImproved = ({
           </div>
         </CardHeader>
         <CardContent className="pt-0">
-          {document.ementa && (
-            <p className="text-sm text-muted-foreground mb-3 line-clamp-3">
-              {truncateText(document.ementa, 120)}
-            </p>
+          {/* Mostrar informações adicionais da nova estrutura */}
+          {(document.area || document.jurisdicao || document.orgaoResponsavel) && (
+            <div className="mb-3 space-y-1">
+              {document.area && (
+                <p className="text-xs text-muted-foreground">📋 {document.area}</p>
+              )}
+              {document.jurisdicao && (
+                <p className="text-xs text-muted-foreground">🏛️ {document.jurisdicao}</p>
+              )}
+              {document.orgaoResponsavel && (
+                <p className="text-xs text-muted-foreground">🏢 {document.orgaoResponsavel}</p>
+              )}
+            </div>
           )}
-          {/* Mostrar referência se disponível */}
-          {document.referencia && (
-            <p className="text-xs text-muted-foreground mb-2 font-mono bg-gray-100 dark:bg-gray-800 px-2 py-1 rounded">
-              {document.referencia}
-            </p>
-          )}
+          
           {/* Mostrar número de artigos se disponível */}
           {document.artigos && document.artigos.length > 0 && (
             <div className="flex items-center gap-1 mb-2">
@@ -257,16 +293,43 @@ const VadeMecumListImproved = ({
               </Badge>
             </div>
           )}
+          
+          {/* Palavras-chave */}
+          {document.palavrasChave && document.palavrasChave.length > 0 && (
+            <div className="mb-2">
+              <div className="flex flex-wrap gap-1">
+                {document.palavrasChave.slice(0, 3).map((keyword, index) => (
+                  <Badge key={index} variant="outline" className="text-xs">
+                    {keyword}
+                  </Badge>
+                ))}
+                {document.palavrasChave.length > 3 && (
+                  <Badge variant="outline" className="text-xs">
+                    +{document.palavrasChave.length - 3}
+                  </Badge>
+                )}
+              </div>
+            </div>
+          )}
+          
           <div className="flex items-center justify-between text-xs text-muted-foreground">
             <div className="flex items-center gap-1">
               <Calendar className="h-3 w-3" />
-              {formatDate(document.data)}
+              {document.dataPublicacao ? formatDate(document.dataPublicacao) : 'Data não disponível'}
             </div>
-            {document.numero && (
-              <span className="font-mono bg-gray-100 dark:bg-gray-800 px-2 py-1 rounded">
-                {document.numero}
-              </span>
-            )}
+            <div className="flex items-center gap-2">
+              <Button
+                variant="ghost"
+                size="sm"
+                onClick={(e) => {
+                  e.stopPropagation()
+                  handleCopyLink(document)
+                }}
+                className="opacity-0 group-hover:opacity-100 transition-opacity h-6 w-6 p-0"
+              >
+                <Copy className="h-3 w-3" />
+              </Button>
+            </div>
           </div>
         </CardContent>
       </Card>
@@ -370,7 +433,7 @@ const VadeMecumListImproved = ({
 
       {/* Modal de visualização do documento */}
       <Dialog open={isModalOpen} onOpenChange={handleCloseModal}>
-        <DialogContent className="max-w-4xl max-h-[90vh] flex flex-col">
+        <DialogContent className="w-[95vw] max-w-[1200px] md:w-[70vw] max-h-[90vh] flex flex-col">
           {selectedDocument && (
             <>
               <DialogHeader className="pb-4 flex-shrink-0">
@@ -389,6 +452,9 @@ const VadeMecumListImproved = ({
                     <DialogTitle className="text-xl font-bold leading-tight">
                       {selectedDocument.titulo}
                     </DialogTitle>
+                    <DialogDescription className="text-sm text-muted-foreground mt-1">
+                      Visualização completa do documento legal
+                    </DialogDescription>
                   </div>
                   <div className="flex items-center gap-2 ml-4">
                     <Button
@@ -469,9 +535,11 @@ const VadeMecumListImproved = ({
 
                   {/* Ementa */}
                   {selectedDocument.ementa && (
-                    <div>
-                      <h4 className="font-semibold mb-2">Ementa</h4>
-                      <p className="text-sm text-muted-foreground leading-relaxed">
+                    <div className="p-4 bg-yellow-50 dark:bg-yellow-900/20 border border-yellow-200 dark:border-yellow-800 rounded-lg">
+                      <h4 className="font-semibold mb-3 text-lg flex items-center gap-2 text-yellow-700 dark:text-yellow-300">
+                        📝 Ementa
+                      </h4>
+                      <p className="text-sm text-foreground leading-relaxed text-justify italic">
                         {selectedDocument.ementa}
                       </p>
                     </div>
@@ -482,12 +550,54 @@ const VadeMecumListImproved = ({
                   {/* Conteúdo */}
                   {selectedDocument.conteudo && (
                     <div>
-                      <h4 className="font-semibold mb-2">Conteúdo</h4>
+                      <h4 className="font-semibold mb-4 text-lg">📄 Conteúdo</h4>
                       <div className="prose prose-sm max-w-none dark:prose-invert">
-                        <div 
-                          className="text-sm leading-relaxed whitespace-pre-wrap"
-                          dangerouslySetInnerHTML={{ __html: selectedDocument.conteudo }}
-                        />
+                        {/* Versão melhorada com formatação visual */}
+                        {selectedDocument.conteudo.includes('<') ? (
+                          // Se contém HTML, usa dangerouslySetInnerHTML
+                          <div 
+                            className="text-sm leading-relaxed whitespace-pre-wrap"
+                            dangerouslySetInnerHTML={{ __html: selectedDocument.conteudo }}
+                          />
+                        ) : (
+                          // Se é texto puro, aplica formatação melhorada
+                          <div className="space-y-4">
+                            {selectedDocument.conteudo.split('\n\n').map((paragraph, index) => {
+                              const text = paragraph.trim()
+                              if (!text) return null
+                              
+                              // Detecta se é um artigo (começa com "Art." ou "Artigo")
+                              const isArticle = /^(Art\.|Artigo)\s*\d+/i.test(text)
+                              
+                              // Detecta se é uma seção ou capítulo
+                              const isSection = /^(Seção|Capítulo|Título|Parte)\s+[IVX\d]+/i.test(text)
+                              
+                              if (isArticle) {
+                                return (
+                                  <div key={index} className="p-4 my-4 border border-emerald-200 dark:border-emerald-800 rounded-lg bg-gradient-to-r from-emerald-50 to-white dark:from-emerald-950/20 dark:to-gray-900/50 shadow-sm">
+                                    <div className="text-foreground leading-relaxed text-justify font-medium">
+                                      {text}
+                                    </div>
+                                  </div>
+                                )
+                              } else if (isSection) {
+                                return (
+                                  <div key={index} className="p-3 my-3 bg-blue-50 dark:bg-blue-900/20 border-l-4 border-blue-500 rounded-r">
+                                    <h4 className="font-semibold text-base text-blue-700 dark:text-blue-300">
+                                      {text}
+                                    </h4>
+                                  </div>
+                                )
+                              } else {
+                                return (
+                                  <div key={index} className="my-2 text-muted-foreground leading-relaxed text-justify">
+                                    {text}
+                                  </div>
+                                )
+                              }
+                            })}
+                          </div>
+                        )}
                       </div>
                     </div>
                   )}
@@ -495,18 +605,73 @@ const VadeMecumListImproved = ({
                   {/* Artigos - Nova seção para mostrar os artigos do documento */}
                   {selectedDocument.artigos && selectedDocument.artigos.length > 0 && (
                     <div>
-                      <h4 className="font-semibold mb-2">Artigos</h4>
-                      <div className="space-y-4">
+                      <h4 className="font-semibold mb-4 text-lg flex items-center gap-2">
+                        📋 Artigos 
+                        <Badge variant="secondary" className="text-xs">
+                          {selectedDocument.artigos.length} artigo{selectedDocument.artigos.length !== 1 ? 's' : ''}
+                        </Badge>
+                      </h4>
+                      <div className="space-y-6">
                         {selectedDocument.artigos.map((artigo, index) => (
-                          <div key={index} className="border-l-4 border-orange-200 pl-4 py-2 bg-gray-50 dark:bg-gray-900/50 rounded-r-lg">
-                            <div className="flex items-center gap-2 mb-2">
-                              <Badge variant="outline" className="text-xs font-mono">
-                                Art. {artigo.numero}
-                              </Badge>
+                          <div key={index} className="p-6 border border-emerald-200 dark:border-emerald-800 rounded-lg bg-gradient-to-r from-emerald-50 to-white dark:from-emerald-950/20 dark:to-gray-900/50 shadow-sm hover:shadow-md transition-shadow">
+                            <div className="flex items-center gap-3 mb-4">
+                              <span className="inline-flex items-center justify-center w-10 h-10 bg-emerald-500 text-white rounded-full text-sm font-bold shadow-md">
+                                {artigo.numero}
+                              </span>
+                              <h5 className="font-semibold text-xl text-foreground">Artigo {artigo.numero}</h5>
                             </div>
-                            <p className="text-sm leading-relaxed text-gray-700 dark:text-gray-300">
-                              {artigo.texto}
-                            </p>
+                            
+                            {/* Título/resumo do artigo se disponível */}
+                            {artigo.titulo && artigo.titulo !== artigo.texto && (
+                              <p className="text-sm text-emerald-600 mb-3 italic font-medium bg-emerald-50 dark:bg-emerald-950/30 p-2 rounded">
+                                {artigo.titulo}
+                              </p>
+                            )}
+                            
+                            {/* Texto principal do artigo */}
+                            <div className="prose prose-base dark:prose-invert max-w-none">
+                              <p className="text-foreground leading-relaxed text-justify">
+                                {artigo.texto}
+                              </p>
+                            </div>
+                            
+                            {/* Incisos se existirem */}
+                            {artigo.incisos && artigo.incisos.length > 0 && (
+                              <div className="mt-6 p-4 bg-gray-50 dark:bg-gray-800/50 rounded-lg border border-gray-200 dark:border-gray-700">
+                                <h6 className="text-sm font-semibold text-gray-700 dark:text-gray-300 mb-3 flex items-center gap-2">
+                                  📝 Incisos:
+                                </h6>
+                                <ul className="list-none space-y-3">
+                                  {artigo.incisos.map((inciso, idx) => (
+                                    <li key={idx} className="flex items-start gap-3 p-2 rounded hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
+                                      <span className="inline-flex items-center justify-center w-6 h-6 bg-emerald-500 text-white rounded-full text-xs font-bold flex-shrink-0 mt-0.5">
+                                        {inciso.numero}
+                                      </span>
+                                      <span className="text-sm text-foreground leading-relaxed">{inciso.texto}</span>
+                                    </li>
+                                  ))}
+                                </ul>
+                              </div>
+                            )}
+                            
+                            {/* Parágrafos se existirem */}
+                            {artigo.paragrafos && artigo.paragrafos.length > 0 && (
+                              <div className="mt-6 p-4 bg-blue-50 dark:bg-blue-900/20 rounded-lg border border-blue-200 dark:border-blue-800">
+                                <h6 className="text-sm font-semibold text-blue-700 dark:text-blue-300 mb-3 flex items-center gap-2">
+                                  📄 Parágrafos:
+                                </h6>
+                                <div className="space-y-4">
+                                  {artigo.paragrafos.map((paragrafo, idx) => (
+                                    <div key={idx} className="border-l-4 border-blue-400 pl-4 py-2 bg-white dark:bg-gray-800/30 rounded-r">
+                                      <span className="inline-block bg-blue-500 text-white px-2 py-1 rounded text-xs font-semibold mb-2">
+                                        {paragrafo.numero}
+                                      </span>
+                                      <p className="text-sm text-foreground leading-relaxed">{paragrafo.texto}</p>
+                                    </div>
+                                  ))}
+                                </div>
+                              </div>
+                            )}
                           </div>
                         ))}
                       </div>

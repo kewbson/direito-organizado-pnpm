@@ -1,0 +1,552 @@
+// 📁 Arquivo: startups.js (Lcp 182)
+// 🤖 Gerado automaticamente pelo Lei Scraper V2.0
+// 📅 Data de extração: 2025-07-18T21:21:06.540Z
+// 🔗 Fonte: http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp182.htm
+
+export default {
+  "id": "startups",
+  "titulo": "Lcp 182",
+  "ano": 2025,
+  "dataPublicacao": "1976-12-15",
+  "status": "vigente",
+  "orgaoResponsavel": "Congresso Nacional",
+  "area": "administrativo",
+  "categoria": "empresarial",
+  "jurisdicao": "federal",
+  "fonte": "http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp182.htm",
+  "url": "http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp182.htm",
+  "nome": "Marco Legal das Startups",
+  "alias": "Marco Legal das Startups",
+  "prioridade": 87,
+  "scraping": {
+    "dataExtracao": "2025-07-18T21:21:06.540Z",
+    "versao": "2.0",
+    "tamanhoOriginal": 92257,
+    "hash": "71cc63a8"
+  },
+  "conteudo": "<div class='lei-conteudo'>\n      <h1>Lcp 182</h1>\n      \n\n  <div>\n   <center>\n    <table>\n     <tbody><tr>\n      <td>\n       <p>\n        <font>\n         <img>\n        </font>\n       </p>\n      </td>\n      <td>\n       <p>\n        <font>\n         <strong>\n          <big>\n           <big>\n            Presid&#xea;ncia da Rep&#xfa;blica</big></big><br>\n          <big>\n           Secretaria-Geral<br>\n          </big>\n          Subchefia para Assuntos Jur&#xed;dicos</strong></font></p>\n      </td>\n     </tr>\n    </tbody></table>\n   </center>\n  </div>\n\n<p><font><small><strong>\n<a href=\"http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/lcp%20182-2021?OpenDocument\">\n<font>LEI COMPLEMENTAR N&#xba; 182, DE 1&#xba; DE JUNHO DE\n2021</font></a></strong></small></font></p>\n\n<table>\n  <tbody><tr>\n    <td>\n\n<font><a href=\"#art19\">Vig&#xea;ncia</a></font><p>\n<font>\n<a href=\"../../_Ato2019-2022/2021/Msg/VEP/VEP-236.htm\">Mensagem de veto</a></font></p></td>\n    <td>\n\n<p><span>\n<font>Institui o marco legal das <b>startups</b><i> </i>\ne do empreendedorismo inovador; e altera a Lei n&#xba; 6.404, de 15 de dezembro de \n1976, e a Lei Complementar n&#xba; 123, de 14 de dezembro de 2006.</font></span></p></td>\n  </tr>\n</tbody></table>\n\n<p>\n<b><span><font>\nO&#xa0;PRESIDENTE&#xa0;DA&#xa0;REP&#xda;BLICA</font></span></b><span><font> \nFa&#xe7;o saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei \nComplementar:</font></span><i><span><font>&#xa0;</font></span></i></p>\n<p>\n<span>CAP&#xcd;TULO I</span></p>\n<p>\n<span>DAS DEFINI&#xc7;&#xd5;ES, DOS PRINC&#xcd;PIOS \nE DAS DIRETRIZES FUNDAMENTAIS</span><span>&#xa0;</span></p>\n<p id=\"art-1\">\n<span id=\"art-1\">\n<a name=\"art1\"></a>Art. 1&#xba; Esta Lei Complementar institui o marco legal das\n</span><span>\nstartups</span><span> \ne do empreendedorismo inovador.</span></p>\n<p>\n<span>\n<a name=\"art1p\"></a>Par&#xe1;grafo &#xfa;nico. Esta Lei Complementar:</span></p>\n<p>\n<span>\n<a name=\"art1pi\"></a>I &#x2013; estabelece os princ&#xed;pios e as diretrizes para a atua&#xe7;&#xe3;o da administra&#xe7;&#xe3;o \np&#xfa;blica no &#xe2;mbito da Uni&#xe3;o, dos Estados, do Distrito Federal e dos Munic&#xed;pios;</span></p>\n<p>\n<span>\n<a name=\"art1pii\"></a>II - apresenta medidas de fomento ao ambiente de neg&#xf3;cios e ao aumento da oferta \nde capital para investimento em empreendedorismo inovador; e</span></p>\n<p>\n<span>\n<a name=\"art1piii\"></a>III - disciplina a licita&#xe7;&#xe3;o e a contrata&#xe7;&#xe3;o de solu&#xe7;&#xf5;es inovadoras pela \nadministra&#xe7;&#xe3;o p&#xfa;blica.</span></p>\n<p id=\"art-2\">\n<span id=\"art-2\">\n<a name=\"art2\"></a>Art. 2&#xba; Para os efeitos desta Lei Complementar, considera-se:</span></p>\n<p>\n<span>\n<a name=\"art2i\"></a>I - investidor-anjo: investidor que n&#xe3;o &#xe9; considerado s&#xf3;cio nem tem qualquer \ndireito a ger&#xea;ncia ou a voto na administra&#xe7;&#xe3;o da empresa, n&#xe3;o responde por \nqualquer obriga&#xe7;&#xe3;o da empresa e &#xe9; remunerado por seus aportes;</span></p>\n<p>\n<span>\n<a name=\"art2ii\"></a>II - ambiente regulat&#xf3;rio experimental (</span><span>sandbox</span><i><span> </span></i>\n<span>regulat&#xf3;rio): conjunto de condi&#xe7;&#xf5;es especiais simplificadas \npara que as pessoas jur&#xed;dicas participantes possam receber autoriza&#xe7;&#xe3;o \ntempor&#xe1;ria dos &#xf3;rg&#xe3;os ou das entidades com compet&#xea;ncia de regulamenta&#xe7;&#xe3;o \nsetorial para desenvolver modelos de neg&#xf3;cios inovadores e testar t&#xe9;cnicas e \ntecnologias experimentais, mediante o cumprimento de crit&#xe9;rios e de limites \npreviamente estabelecidos pelo &#xf3;rg&#xe3;o ou entidade reguladora e por meio de \nprocedimento facilitado.</span></p>\n<p id=\"art-3\">\n<span id=\"art-3\">\n<a name=\"art3\"></a>Art. 3&#xba; Esta Lei Complementar &#xe9; pautada pelos seguintes \nprinc&#xed;pios e diretrizes:</span></p>\n<p>\n<span>\n<a name=\"art3i\"></a>I - reconhecimento do empreendedorismo inovador como vetor de desenvolvimento \necon&#xf4;mico, social e ambiental;</span></p>\n<p>\n<span>\n<a name=\"art3ii\"></a>II - incentivo &#xe0; constitui&#xe7;&#xe3;o de ambientes favor&#xe1;veis ao empreendedorismo \ninovador, com valoriza&#xe7;&#xe3;o da seguran&#xe7;a jur&#xed;dica e da liberdade contratual como \npremissas para a promo&#xe7;&#xe3;o do investimento e do aumento da oferta de capital \ndirecionado a iniciativas inovadoras;</span></p>\n<p>\n<span>\n<a name=\"art3iii\"></a>III - import&#xe2;ncia das empresas como agentes centrais do impulso inovador em \ncontexto de livre mercado;</span></p>\n<p>\n<span>\n<a name=\"art3iv\"></a>IV - moderniza&#xe7;&#xe3;o do ambiente de neg&#xf3;cios brasileiro, &#xe0; luz dos modelos de \nneg&#xf3;cios emergentes;</span></p>\n<p>\n<span>\n<a name=\"art3v\"></a>V - fomento ao empreendedorismo inovador como meio de promo&#xe7;&#xe3;o da produtividade \ne da competitividade da economia brasileira e de gera&#xe7;&#xe3;o de postos de trabalho \nqualificados;</span></p>\n<p>\n<span>\n<a name=\"art3vi\"></a>VI - aperfei&#xe7;oamento das pol&#xed;ticas p&#xfa;blicas e dos instrumentos de fomento ao \nempreendedorismo inovador;</span></p>\n<p>\n<span>\n<a name=\"art3vii\"></a>VII - promo&#xe7;&#xe3;o da coopera&#xe7;&#xe3;o e da intera&#xe7;&#xe3;o entre os entes p&#xfa;blicos, entre os \nsetores p&#xfa;blico e privado e entre empresas, como rela&#xe7;&#xf5;es fundamentais para a \nconforma&#xe7;&#xe3;o de ecossistema de empreendedorismo inovador efetivo;</span></p>\n<p>\n<span>\n<a name=\"art3viii\"></a>VIII - incentivo &#xe0; contrata&#xe7;&#xe3;o, pela administra&#xe7;&#xe3;o p&#xfa;blica, de solu&#xe7;&#xf5;es \ninovadoras elaboradas ou desenvolvidas por </span>\n<span>startups</span><span>, reconhecidos o \npapel do Estado no fomento &#xe0; inova&#xe7;&#xe3;o e as potenciais oportunidades de \neconomicidade, de benef&#xed;cio e de solu&#xe7;&#xe3;o de problemas p&#xfa;blicos com solu&#xe7;&#xf5;es \ninovadoras; e</span></p>\n<p>\n<span>\n<a name=\"art3ix\"></a>IX - promo&#xe7;&#xe3;o da competitividade das empresas brasileiras e da \ninternacionaliza&#xe7;&#xe3;o e da atra&#xe7;&#xe3;o de investimentos estrangeiros.&#xa0;</span></p>\n<p>\n<span>CAP&#xcd;TULO II</span></p>\n<p>\n<span>DO ENQUADRAMENTO DE EMPRESAS\n</span><span>\nSTARTUPS</span><span>&#xa0;</span></p>\n<p id=\"art-4\">\n<span id=\"art-4\">\n<a name=\"art4\"></a>Art. 4&#xba; S&#xe3;o enquadradas como </span>\n<span>startups</span><i><span> </span></i>\n<span>as organiza&#xe7;&#xf5;es \nempresariais ou societ&#xe1;rias, nascentes ou em opera&#xe7;&#xe3;o recente, cuja atua&#xe7;&#xe3;o \ncaracteriza-se pela inova&#xe7;&#xe3;o aplicada a modelo de neg&#xf3;cios ou a produtos ou \nservi&#xe7;os ofertados.</span></p>\n<p>\n<span>\n<a name=\"art4&#xa7;1\"></a>&#xa7; 1&#xba; Para fins de aplica&#xe7;&#xe3;o desta Lei Complementar, s&#xe3;o eleg&#xed;veis para o \nenquadramento na modalidade de tratamento especial destinada ao fomento de\n</span><span>\nstartup</span><span> \no empres&#xe1;rio individual, a empresa individual de responsabilidade limitada, as \nsociedades empres&#xe1;rias, as sociedades cooperativas e as sociedades simples:</span></p>\n<p>\n<span>\n<a name=\"art4&#xa7;1i\"></a>I - com receita bruta de at&#xe9; R&#x24; 16.000.000,00 (dezesseis milh&#xf5;es de reais) no \nano-calend&#xe1;rio anterior ou de R&#x24; 1.333.334,00 (um milh&#xe3;o, trezentos e trinta e \ntr&#xea;s mil trezentos e trinta e quatro reais) multiplicado pelo n&#xfa;mero de meses de \natividade no ano-calend&#xe1;rio anterior, quando inferior a 12 (doze) meses, \nindependentemente da forma societ&#xe1;ria adotada;</span></p>\n<p>\n<span>\n<a name=\"art4&#xa7;1ii\"></a>II - com at&#xe9; 10 (dez) anos de inscri&#xe7;&#xe3;o no Cadastro Nacional da Pessoa Jur&#xed;dica \n(CNPJ) da Secretaria Especial da Receita Federal do Brasil do Minist&#xe9;rio da \nEconomia; e</span></p>\n<p>\n<span>\n<a name=\"art4&#xa7;1iii\"></a>III - que atendam a um dos seguintes requisitos, no m&#xed;nimo:</span></p>\n<p id=\"art-2\">\n<span>\n<a name=\"art4&#xa7;1iiia\"></a>a) declara&#xe7;&#xe3;o em seu ato constitutivo ou alterador e utiliza&#xe7;&#xe3;o de modelos de \nneg&#xf3;cios inovadores para a gera&#xe7;&#xe3;o de produtos ou servi&#xe7;os, nos termos do \n<a href=\"../../_Ato2004-2006/2004/Lei/L10.973.htm#art2iv\">inciso \nIV do </a> </span>\n<a href=\"../../_Ato2004-2006/2004/Lei/L10.973.htm#art2iv\" id=\"art-2\">\n<span>caput\n</span>\n<span id=\"art-2\">do art. 2&#xba; da Lei n&#xba; 10.973, de 2 de dezembro de 2004</span></a><span>; ou</span></p>\n<p id=\"art-65\">\n<span id=\"art-65\">\n<a name=\"art4&#xa7;1iiib\"></a>b) enquadramento no regime especial Inova Simples, nos termos do \n<a href=\"Lcp123.htm#art65a\" id=\"art-65\">art. 65-A da \nLei Complementar n&#xba; 123, de 14 de dezembro de 2006</a>.</span></p>\n<p>\n<span>\n<a name=\"art4&#xa7;2\"></a>&#xa7; 2&#xba; Para fins de contagem do prazo estabelecido no inciso II do &#xa7; 1&#xba; deste \nartigo, dever&#xe1; ser observado o seguinte:</span></p>\n<p>\n<span>\n<a name=\"art4&#xa7;2i\"></a>I - para as empresas decorrentes de incorpora&#xe7;&#xe3;o, ser&#xe1; considerado o tempo de \ninscri&#xe7;&#xe3;o da empresa incorporadora;</span></p>\n<p>\n<span>\n<a name=\"art4&#xa7;2ii\"></a>II - para as empresas decorrentes de fus&#xe3;o, ser&#xe1; considerado o maior tempo de \ninscri&#xe7;&#xe3;o entre as empresas fundidas; e</span></p>\n<p>\n<span>\n<a name=\"art4&#xa7;2iii\"></a>III - para as empresas decorrentes de cis&#xe3;o, ser&#xe1; considerado o tempo de \ninscri&#xe7;&#xe3;o da empresa cindida, na hip&#xf3;tese de cria&#xe7;&#xe3;o de nova sociedade, ou da \nempresa que a absorver, na hip&#xf3;tese de transfer&#xea;ncia de patrim&#xf4;nio para a \nempresa existente.&#xa0;</span></p>\n<p>\n<span>CAP&#xcd;TULO III</span></p>\n<p>\n<span>DOS INSTRUMENTOS DE \nINVESTIMENTO EM INOVA&#xc7;&#xc3;O</span><span>&#xa0;</span></p>\n<p id=\"art-5\">\n<span id=\"art-5\">\n<a name=\"art5\"></a>Art. 5&#xba; As </span>\n<span>startups</span><span> \npoder&#xe3;o admitir aporte de capital por pessoa f&#xed;sica ou jur&#xed;dica, que poder&#xe1; \nresultar ou n&#xe3;o em participa&#xe7;&#xe3;o no capital social da </span>\n<span>startup</span><span>, \na depender da modalidade de investimento escolhida pelas partes.</span></p>\n<p>\n<span>\n<a name=\"art5&#xa7;1\"></a>&#xa7; 1&#xba; N&#xe3;o ser&#xe1; considerado como integrante do capital social da empresa o aporte \nrealizado na </span>\n<span>startup</span><span> \npor meio dos seguintes instrumentos:</span></p>\n<p>\n<span>\n<a name=\"art5&#xa7;1i\"></a>I - contrato de op&#xe7;&#xe3;o de subscri&#xe7;&#xe3;o de a&#xe7;&#xf5;es ou de quotas celebrado entre o \ninvestidor e a empresa;</span></p>\n<p>\n<span>\n<a name=\"art5&#xa7;1ii\"></a>II - contrato de op&#xe7;&#xe3;o de compra de a&#xe7;&#xf5;es ou de quotas celebrado entre o \ninvestidor e os acionistas ou s&#xf3;cios da empresa;</span></p>\n<p>\n<span>\n<a name=\"art5&#xa7;1iii\"></a>III - deb&#xea;nture convers&#xed;vel emitida pela empresa nos termos da \n<a href=\"../L6404consol.htm\">Lei n&#xba; 6.404, de \n15 de dezembro de 1976</a>;</span></p>\n<p>\n<span>\n<a name=\"art5&#xa7;1iv\"></a>IV - contrato de m&#xfa;tuo convers&#xed;vel em participa&#xe7;&#xe3;o societ&#xe1;ria celebrado entre o \ninvestidor e a empresa;</span></p>\n<p>\n<span>\n<a name=\"art5&#xa7;1v\"></a>V - estrutura&#xe7;&#xe3;o de sociedade em conta de participa&#xe7;&#xe3;o celebrada entre o \ninvestidor e a empresa;</span></p>\n<p>\n<span>\n<a name=\"art5&#xa7;1vi\"></a>VI - contrato de investimento-anjo na forma da <a href=\"Lcp123.htm\">Lei Complementar n&#xba; 123, de 14 de \ndezembro 2006;</a></span></p>\n<p>\n<span>\n<a name=\"art5&#xa7;1vii\"></a>VII - outros instrumentos de aporte de capital em que o investidor, pessoa \nf&#xed;sica ou jur&#xed;dica, n&#xe3;o integre formalmente o quadro de s&#xf3;cios da </span>\n<span>startup</span><span> \ne/ou n&#xe3;o tenha subscrito qualquer participa&#xe7;&#xe3;o representativa do capital social \nda empresa.</span></p>\n<p>\n<span>\n<a name=\"art5&#xa7;2\"></a>&#xa7; 2&#xba; Realizado o aporte por qualquer das formas previstas neste artigo, a pessoa \nf&#xed;sica ou jur&#xed;dica somente ser&#xe1; considerada quotista, acionista ou s&#xf3;cia da </span>\n<span>\nstartup</span><i><span> </span></i>\n<span>ap&#xf3;s a convers&#xe3;o do \ninstrumento do aporte em efetiva e formal participa&#xe7;&#xe3;o societ&#xe1;ria.</span></p>\n<p>\n<span>\n<a name=\"art5&#xa7;3\"></a>&#xa7; 3&#xba; Os valores recebidos por empresa e oriundos dos instrumentos jur&#xed;dicos \nestabelecidos neste artigo ser&#xe3;o registrados contabilmente, de acordo com a \nnatureza cont&#xe1;bil do instrumento.</span></p>\n<p id=\"art-6\">\n<span id=\"art-6\">\n<a name=\"art6\"></a>Art. 6&#xba; A Comiss&#xe3;o de Valores Mobili&#xe1;rios (CVM) estabelecer&#xe1; \nem regulamento as regras para aporte de capital na forma do art. 5&#xba; desta Lei \nComplementar por parte de fundos de investimento.</span></p>\n<p id=\"art-7\">\n<span id=\"art-7\">\n<a name=\"art7\"></a>Art. 7&#xba; (VETADO).</span></p>\n<p id=\"art-8\">\n<span id=\"art-8\">\n<a name=\"art8\"></a>Art. 8&#xba; O investidor que realizar o aporte de capital a que \nse refere o art. 5&#xba; desta Lei Complementar:</span></p>\n<p>\n<span>\n<a name=\"art8i\"></a>I - n&#xe3;o ser&#xe1; considerado s&#xf3;cio ou acionista nem possuir&#xe1; direito a ger&#xea;ncia ou a \nvoto na administra&#xe7;&#xe3;o da empresa, conforme pactua&#xe7;&#xe3;o contratual;</span></p>\n<p id=\"art-50\">\n<span id=\"art-50\">\n<a name=\"art8ii\"></a>II - n&#xe3;o responder&#xe1; por qualquer d&#xed;vida da empresa, inclusive em recupera&#xe7;&#xe3;o \njudicial, e a ele n&#xe3;o se estender&#xe1; o disposto no \n<a href=\"../2002/L10406.htm#art50.0\" id=\"art-50\">art. 50 da Lei n&#xba; 10.406, de 10 \nde janeiro de 2002</a> (C&#xf3;digo Civil), no \n<a href=\"../../Decreto-Lei/Del5452.htm#art855a\" id=\"art-855\">art. 855-A da Consolida&#xe7;&#xe3;o das Leis do \nTrabalho (CLT), aprovada pelo Decreto-Lei n&#xba; 5.452, de 1&#xba; de maio de 1943</a>, nos\n<a href=\"../L5172.htm#art124\">arts. 124</a>, <a href=\"../L5172.htm#art134\">134</a> e \n<a href=\"../L5172.htm#art135\">135 da Lei n&#xba; 5.172, de 25 de outubro de 1966</a> (C&#xf3;digo \nTribut&#xe1;rio Nacional), e em outras disposi&#xe7;&#xf5;es atinentes &#xe0; desconsidera&#xe7;&#xe3;o da \npersonalidade jur&#xed;dica existentes na legisla&#xe7;&#xe3;o vigente.</span></p>\n<p>\n<span>\n<a name=\"art8p\"></a>Par&#xe1;grafo &#xfa;nico. As disposi&#xe7;&#xf5;es do inciso II do </span>\n<span>caput</span><span> deste artigo n&#xe3;o \nse aplicam &#xe0;s hip&#xf3;teses de dolo, de fraude ou de simula&#xe7;&#xe3;o com o envolvimento do \ninvestidor.</span><span>&#xa0;</span></p>\n<p>\n<span>CAP&#xcd;TULO IV</span></p>\n<p>\n<span>DO FOMENTO &#xc0; PESQUISA, AO \nDESENVOLVIMENTO E &#xc0; INOVA&#xc7;&#xc3;O</span><span>&#xa0;</span></p>\n<p id=\"art-9\">\n<span id=\"art-9\">\n<a name=\"art9\"></a>Art. 9&#xba; As empresas que possuem obriga&#xe7;&#xf5;es de investimento em \npesquisa, desenvolvimento e inova&#xe7;&#xe3;o, decorrentes de outorgas ou de delega&#xe7;&#xf5;es \nfirmadas por meio de ag&#xea;ncias reguladoras, ficam autorizadas a cumprir seus \ncompromissos com aporte de recursos em </span>\n<span>startups</span><span> por meio de:</span></p>\n<p>\n<span>\n<a name=\"art9i\"></a>I - fundos patrimoniais de que trata a \n<a href=\"../../_Ato2019-2022/2019/Lei/L13800.htm\">Lei n&#xba; 13.800, de 4 de janeiro de 2019</a>, \ndestinados &#xe0; inova&#xe7;&#xe3;o, na forma do regulamento; </span></p>\n<p>\n<span>\n<a name=\"art9ii\"></a>II - Fundos de Investimento em Participa&#xe7;&#xf5;es (FIP), autorizados pela CVM, nas \ncategorias:</span></p>\n<p>\n<span>\n<a name=\"art9iia\"></a>a) capital semente;</span></p>\n<p>\n<span>\n<a name=\"art9iib\"></a>b) empresas emergentes; e</span></p>\n<p>\n<span>\n<a name=\"art9iic\"></a>c) empresas com produ&#xe7;&#xe3;o econ&#xf4;mica intensiva em pesquisa, desenvolvimento e \ninova&#xe7;&#xe3;o; e</span></p>\n<p>\n<span>\n<a name=\"art9iii\"></a>III - investimentos em programas, em editais ou em concursos destinados a \nfinanciamento, a acelera&#xe7;&#xe3;o e a escalabilidade de </span>\n<span>startups</span><span>, \ngerenciados por institui&#xe7;&#xf5;es p&#xfa;blicas, tais como empresas p&#xfa;blicas direcionadas \nao desenvolvimento de pesquisa, inova&#xe7;&#xe3;o e novas tecnologias, funda&#xe7;&#xf5;es \nuniversit&#xe1;rias, entidades paraestatais e bancos de fomento que tenham como \nfinalidade o desenvolvimento de empresas de base tecnol&#xf3;gica, de ecossistemas \nempreendedores e de est&#xed;mulo &#xe0; inova&#xe7;&#xe3;o.</span></p>\n<p>\n<span>\n<a name=\"art9&#xa7;1\"></a>&#xa7; 1&#xba; O disposto no </span>\n<span>caput</span><span> \ndeste artigo n&#xe3;o se aplica aos percentuais m&#xed;nimos legais ou contratuais \nestabelecidos para serem aportados em fundos p&#xfa;blicos.</span></p>\n<p>\n<span>\n<a name=\"art9&#xa7;2\"></a>&#xa7; 2&#xba; O representante legal do FIP, do fundo patrimonial ou da institui&#xe7;&#xe3;o \np&#xfa;blica que receber recursos nos termos do </span>\n<span>caput</span><span> deste artigo \nemitir&#xe1; certificado comprobat&#xf3;rio para fins de efic&#xe1;cia liberat&#xf3;ria quanto &#xe0;s \nobriga&#xe7;&#xf5;es legais ou contratuais de investimento em pesquisa, desenvolvimento e \ninova&#xe7;&#xe3;o, na exata propor&#xe7;&#xe3;o do seu aporte, por ocasi&#xe3;o:</span></p>\n<p>\n<span>\n<a name=\"art9&#xa7;2i\"></a>I - da efetiva transfer&#xea;ncia do recurso ao fundo patrimonial, ap&#xf3;s a celebra&#xe7;&#xe3;o \nde instrumento de transfer&#xea;ncia de recursos, no valor das despesas qualificadas \npara esse fim;</span></p>\n<p>\n<span>\n<a name=\"art9&#xa7;2ii\"></a>II - do efetivo comprometimento do recurso, ap&#xf3;s a assinatura do boletim de \nsubscri&#xe7;&#xe3;o do FIP, nos termos do regulamento editado pela CVM; e</span></p>\n<p id=\"art-9\">\n<span>\n<a name=\"art9&#xa7;2iii\"></a>III - do efetivo recebimento do recurso pela institui&#xe7;&#xe3;o p&#xfa;blica para efetiva&#xe7;&#xe3;o \nde programas e de editais direcionados &#xe0;s atividades referidas no inciso III do\n</span><span>\ncaput</span><i><span> </span></i>\n<span id=\"art-9\">do art. 9&#xba; desta \nLei Complementar.</span></p>\n<p>\n<span>\n<a name=\"art9&#xa7;3\"></a>&#xa7; 3&#xba; Para que o fundo patrimonial ou o FIP capte recursos perante as empresas \nque possuem obriga&#xe7;&#xf5;es legais ou contratuais de investimento em pesquisa, \ndesenvolvimento e inova&#xe7;&#xe3;o, e para que essa capta&#xe7;&#xe3;o tenha efic&#xe1;cia liberat&#xf3;ria \nquanto &#xe0;s obriga&#xe7;&#xf5;es, a sua destina&#xe7;&#xe3;o estar&#xe1; adstrita &#xe0;s diretivas indicadas \npela entidade setorial respons&#xe1;vel por fiscalizar tais obriga&#xe7;&#xf5;es.</span></p>\n<p id=\"art-10\">\n<span id=\"art-10\">\n<a name=\"art10\"></a>Art. 10. Ato do Poder Executivo federal regulamentar&#xe1; a \nforma de presta&#xe7;&#xe3;o de contas do FIP, do fundo patrimonial ou da institui&#xe7;&#xe3;o \np&#xfa;blica que receber recursos nos termos do art. 9&#xba; desta Lei Complementar e a \nfiscaliza&#xe7;&#xe3;o das obriga&#xe7;&#xf5;es legais ou contratuais de investimento em pesquisa, \ndesenvolvimento e inova&#xe7;&#xe3;o.&#xa0;</span></p>\n<p>\n<span>CAP&#xcd;TULO V</span></p>\n<p>\n<span>DOS PROGRAMAS DE AMBIENTE \nREGULAT&#xd3;RIO EXPERIMENTAL</span></p>\n<p>\n<span>(</span><span>SANDBOX</span><i><span> </span></i>\n<span>REGULAT&#xd3;RIO)</span><span>&#xa0;</span></p>\n<p id=\"art-11\">\n<span id=\"art-11\">\n<a name=\"art11\"></a>Art. 11. Os &#xf3;rg&#xe3;os e as entidades da administra&#xe7;&#xe3;o p&#xfa;blica \ncom compet&#xea;ncia de regulamenta&#xe7;&#xe3;o setorial poder&#xe3;o, individualmente ou em \ncolabora&#xe7;&#xe3;o, no &#xe2;mbito de programas de ambiente regulat&#xf3;rio experimental <i>(</i></span><span>sandbox</span><span> \nregulat&#xf3;rio), afastar a incid&#xea;ncia de normas sob sua compet&#xea;ncia em rela&#xe7;&#xe3;o &#xe0; \nentidade regulada ou aos grupos de entidades reguladas.</span></p>\n<p>\n<span>\n<a name=\"art11&#xa7;1\"></a>&#xa7; 1&#xba; A colabora&#xe7;&#xe3;o a que se refere o </span>\n<span>caput</span><i><span>\n</span></i>\n<span>\ndeste artigo poder&#xe1; ser firmada entre os &#xf3;rg&#xe3;os e as entidades, observadas suas \ncompet&#xea;ncias.</span></p>\n<p id=\"art-2\">\n<span>\n<a name=\"art11&#xa7;2\"></a>&#xa7; 2&#xba; Entende-se por ambiente regulat&#xf3;rio experimental (</span><span>sandbox</span><i><span> </span></i>\n<span>regulat&#xf3;rio) o \ndisposto no inciso II do </span>\n<span>caput</span><span id=\"art-2\"> \ndo art. 2&#xba; desta Lei Complementar.</span></p>\n<p>\n<span>\n<a name=\"art11&#xa7;3\"></a>&#xa7; 3&#xba; O &#xf3;rg&#xe3;o ou a entidade a que se refere o </span>\n<span>caput</span><span> deste artigo \ndispor&#xe1; sobre o funcionamento do programa de ambiente regulat&#xf3;rio experimental e \nestabelecer&#xe1;:</span></p>\n<p>\n<span>\n<a name=\"art11&#xa7;3i\"></a>I - os crit&#xe9;rios para sele&#xe7;&#xe3;o ou para qualifica&#xe7;&#xe3;o do regulado;</span></p>\n<p>\n<span>\n<a name=\"art11&#xa7;3ii\"></a>II - a dura&#xe7;&#xe3;o e o alcance da suspens&#xe3;o da incid&#xea;ncia das normas; e</span></p>\n<p>\n<span>\n<a name=\"art11&#xa7;3iii\"></a>III - as normas abrangidas.&#xa0;</span></p>\n<p>\n<span>CAP&#xcd;TULO VI</span></p>\n<p>\n<span>DA CONTRATA&#xc7;&#xc3;O DE SOLU&#xc7;&#xd5;ES \nINOVADORAS PELO ESTADO</span><span>&#xa0;</span></p>\n<p>\n<span>Se&#xe7;&#xe3;o I</span></p>\n<p>\n<span>Disposi&#xe7;&#xf5;es Gerais&#xa0;</span></p>\n<p id=\"art-12\">\n<span id=\"art-12\">\n<a name=\"art12\"></a>Art. 12. As licita&#xe7;&#xf5;es e os contratos a que se refere este \nCap&#xed;tulo t&#xea;m por finalidade:</span></p>\n<p>\n<span>\n<a name=\"art12i\"></a>I - resolver demandas p&#xfa;blicas que exijam solu&#xe7;&#xe3;o inovadora com emprego de \ntecnologia; e</span></p>\n<p>\n<span>\n<a name=\"art12ii\"></a>II - promover a inova&#xe7;&#xe3;o no setor produtivo por meio do uso do poder de compra \ndo Estado.</span></p>\n<p>\n<span>\n<a name=\"art12&#xa7;1\"></a>&#xa7; 1&#xba; Os &#xf3;rg&#xe3;os e as entidades da administra&#xe7;&#xe3;o p&#xfa;blica direta, aut&#xe1;rquica e \nfundacional de quaisquer dos Poderes da Uni&#xe3;o, dos Estados, do Distrito Federal \ne dos Munic&#xed;pios subordinam-se ao regime disposto neste Cap&#xed;tulo.</span></p>\n<p id=\"art-40\">\n<span id=\"art-40\">\n<a name=\"art12&#xa7;2\"></a>&#xa7; 2&#xba; As empresas p&#xfa;blicas, as sociedades de economia mista e suas subsidi&#xe1;rias \npoder&#xe3;o adotar, no que couber, as disposi&#xe7;&#xf5;es deste Cap&#xed;tulo, nos termos do \nregulamento interno de licita&#xe7;&#xf5;es e contrata&#xe7;&#xf5;es de que trata o \n<a href=\"../../_Ato2015-2018/2016/Lei/L13303.htm#art40\" id=\"art-40\">art. 40 da Lei n&#xba; 13.303, de 30 de junho de 2016</a>, e seus conselhos de administra&#xe7;&#xe3;o poder&#xe3;o \nestabelecer valores diferenciados para os limites de que tratam o &#xa7; 2&#xba; do art. \n14 e o &#xa7; 3&#xba; do art. 15 desta Lei Complementar.</span></p>\n<p>\n<span>\n<a name=\"art12&#xa7;3\"></a>&#xa7; 3&#xba; Os valores estabelecidos neste Cap&#xed;tulo poder&#xe3;o ser anualmente atualizados \npelo Poder Executivo federal, de acordo com o &#xcd;ndice Nacional de Pre&#xe7;os ao \nConsumidor Amplo (IPCA) ou outro que venha a substitu&#xed;-lo.&#xa0;</span></p>\n<p>\n<span>Se&#xe7;&#xe3;o II</span></p>\n<p>\n<span>Da Licita&#xe7;&#xe3;o&#xa0;</span></p>\n<p id=\"art-13\">\n<span id=\"art-13\">\n<a name=\"art13\"></a>Art. 13. A administra&#xe7;&#xe3;o p&#xfa;blica poder&#xe1; contratar pessoas \nf&#xed;sicas ou jur&#xed;dicas, isoladamente ou em cons&#xf3;rcio, para o teste de solu&#xe7;&#xf5;es \ninovadoras por elas desenvolvidas ou a ser desenvolvidas, com ou sem risco \ntecnol&#xf3;gico, por meio de licita&#xe7;&#xe3;o na modalidade especial regida por esta Lei \nComplementar.</span></p>\n<p>\n<span>\n<a name=\"art13&#xa7;1\"></a>&#xa7; 1&#xba; A delimita&#xe7;&#xe3;o do escopo da licita&#xe7;&#xe3;o poder&#xe1; restringir-se &#xe0; indica&#xe7;&#xe3;o do \nproblema a ser resolvido e dos resultados esperados pela administra&#xe7;&#xe3;o p&#xfa;blica, \ninclu&#xed;dos os desafios tecnol&#xf3;gicos a serem superados, dispensada a descri&#xe7;&#xe3;o de \neventual solu&#xe7;&#xe3;o t&#xe9;cnica previamente mapeada e suas especifica&#xe7;&#xf5;es t&#xe9;cnicas, e \ncaber&#xe1; aos licitantes propor diferentes meios para a resolu&#xe7;&#xe3;o do problema.</span></p>\n<p>\n<span>\n<a name=\"art13&#xa7;2\"></a>&#xa7; 2&#xba; O edital da licita&#xe7;&#xe3;o ser&#xe1; divulgado, com anteced&#xea;ncia de, no m&#xed;nimo, 30 \n(trinta) dias corridos at&#xe9; a data de recebimento das propostas:</span></p>\n<p>\n<span>\n<a name=\"art13&#xa7;2i\"></a>I - em s&#xed;tio eletr&#xf4;nico oficial centralizado de divulga&#xe7;&#xe3;o de licita&#xe7;&#xf5;es ou \nmantido pelo ente p&#xfa;blico licitante; e</span></p>\n<p>\n<span>\n<a name=\"art13&#xa7;2ii\"></a>II - no di&#xe1;rio oficial do ente federativo.</span></p>\n<p>\n<span>\n<a name=\"art13&#xa7;3\"></a>&#xa7; 3&#xba; As propostas ser&#xe3;o avaliadas e julgadas por comiss&#xe3;o especial integrada \npor, no m&#xed;nimo, 3 (tr&#xea;s) pessoas de reputa&#xe7;&#xe3;o ilibada e reconhecido conhecimento \nno assunto, das quais:</span></p>\n<p>\n<span>\n<a name=\"art13&#xa7;3i\"></a>I - 1 (uma) dever&#xe1; ser servidor p&#xfa;blico integrante do &#xf3;rg&#xe3;o para o qual o \nservi&#xe7;o est&#xe1; sendo contratado; e</span></p>\n<p>\n<span>\n<a name=\"art13&#xa7;3ii\"></a>II &#x2013; 1 (uma) dever&#xe1; ser professor de institui&#xe7;&#xe3;o p&#xfa;blica de educa&#xe7;&#xe3;o superior na \n&#xe1;rea relacionada ao tema da contrata&#xe7;&#xe3;o.</span></p>\n<p>\n<span>\n<a name=\"art13&#xa7;4\"></a>&#xa7; 4&#xba; Os crit&#xe9;rios para julgamento das propostas dever&#xe3;o considerar, sem preju&#xed;zo \nde outros definidos no edital:</span></p>\n<p>\n<span>\n<a name=\"art13&#xa7;4i\"></a>I - o potencial de resolu&#xe7;&#xe3;o do problema pela solu&#xe7;&#xe3;o proposta e, se for o caso, \nda prov&#xe1;vel economia para a administra&#xe7;&#xe3;o p&#xfa;blica;</span></p>\n<p>\n<span>\n<a name=\"art13&#xa7;4ii\"></a>II - o grau de desenvolvimento da solu&#xe7;&#xe3;o proposta;</span></p>\n<p>\n<span>\n<a name=\"art13&#xa7;4iii\"></a>III - a viabilidade e a maturidade do modelo de neg&#xf3;cio da solu&#xe7;&#xe3;o;</span></p>\n<p>\n<span>\n<a name=\"art13&#xa7;4iv\"></a>IV - a viabilidade econ&#xf4;mica da proposta, considerados os recursos financeiros \ndispon&#xed;veis para a celebra&#xe7;&#xe3;o dos contratos; e</span></p>\n<p>\n<span>\n<a name=\"art13&#xa7;4v\"></a>V - a demonstra&#xe7;&#xe3;o comparativa de custo e benef&#xed;cio da proposta em rela&#xe7;&#xe3;o &#xe0;s \nop&#xe7;&#xf5;es funcionalmente equivalentes.</span></p>\n<p>\n<span>\n<a name=\"art13&#xa7;5\"></a>&#xa7; 5&#xba; O pre&#xe7;o indicado pelos proponentes para execu&#xe7;&#xe3;o do objeto ser&#xe1; crit&#xe9;rio de \njulgamento somente na forma disposta nos incisos IV e V do &#xa7; 4&#xba; deste artigo.</span></p>\n<p id=\"art-14\">\n<span id=\"art-14\">\n<a name=\"art13&#xa7;6\"></a>&#xa7; 6&#xba; A licita&#xe7;&#xe3;o poder&#xe1; selecionar mais de uma proposta para a celebra&#xe7;&#xe3;o do \ncontrato de que trata o art. 14 desta Lei Complementar, hip&#xf3;tese em que caber&#xe1; \nao edital limitar a quantidade de propostas selecion&#xe1;veis.</span></p>\n<p>\n<span>\n<a name=\"art13&#xa7;7\"></a>&#xa7; 7&#xba; A an&#xe1;lise da documenta&#xe7;&#xe3;o relativa aos requisitos de habilita&#xe7;&#xe3;o ser&#xe1; \nposterior &#xe0; fase de julgamento das propostas e contemplar&#xe1; somente os \nproponentes selecionados.</span></p>\n<p id=\"art-195\">\n<span id=\"art-195\">\n<a name=\"art13&#xa7;8\"></a>&#xa7; 8&#xba; Ressalvado o disposto no &#xa7; 3&#xba; do art. 195 da Constitui&#xe7;&#xe3;o Federal, a \nadministra&#xe7;&#xe3;o p&#xfa;blica poder&#xe1;, mediante justificativa expressa, dispensar, no \ntodo ou em parte:</span></p>\n<p id=\"art-27\">\n<span id=\"art-27\">\n<a name=\"art13&#xa7;8i\"></a>I - a documenta&#xe7;&#xe3;o de habilita&#xe7;&#xe3;o de que tratam os incisos I, II e III, bem como \na regularidade fiscal prevista no <a href=\"../L8666cons.htm#art27iv.\" id=\"art-27\">inciso IV do caput do art. 27 da Lei n&#xba; 8.666, \nde 21 de junho de 1993</a>; e</span></p>\n<p>\n<span>\n<a name=\"art13&#xa7;8ii\"></a>II - a presta&#xe7;&#xe3;o de garantia para a contrata&#xe7;&#xe3;o.</span></p>\n<p id=\"art-14\">\n<span id=\"art-14\">\n<a name=\"art13&#xa7;9\"></a>&#xa7; 9&#xba; Ap&#xf3;s a fase de julgamento das propostas, a administra&#xe7;&#xe3;o p&#xfa;blica poder&#xe1; \nnegociar com os selecionados as condi&#xe7;&#xf5;es econ&#xf4;micas mais vantajosas para a \nadministra&#xe7;&#xe3;o e os crit&#xe9;rios de remunera&#xe7;&#xe3;o que ser&#xe3;o adotados, observado o \ndisposto no &#xa7; 3&#xba; do art. 14 desta Lei Complementar.</span></p>\n<p>\n<span>\n<a name=\"art13&#xa7;10\"></a>&#xa7; 10. Encerrada a fase de julgamento e de negocia&#xe7;&#xe3;o de que trata o &#xa7; 9&#xba; deste \nartigo, na hip&#xf3;tese de o pre&#xe7;o ser superior &#xe0; estimativa, a administra&#xe7;&#xe3;o \np&#xfa;blica poder&#xe1;, mediante justificativa expressa, com base na demonstra&#xe7;&#xe3;o \ncomparativa entre o custo e o benef&#xed;cio da proposta, aceitar o pre&#xe7;o ofertado, \ndesde que seja superior em termos de inova&#xe7;&#xf5;es, de redu&#xe7;&#xe3;o do prazo de execu&#xe7;&#xe3;o \nou de facilidade de manuten&#xe7;&#xe3;o ou opera&#xe7;&#xe3;o, limitado ao valor m&#xe1;ximo que se \nprop&#xf5;e a pagar.&#xa0;</span></p>\n<p>\n<span>Se&#xe7;&#xe3;o III</span></p>\n<p>\n<span>Do Contrato P&#xfa;blico para Solu&#xe7;&#xe3;o Inovadora&#xa0;</span></p>\n<p id=\"art-14\">\n<span id=\"art-14\">\n<a name=\"art14\"></a>Art. 14. Ap&#xf3;s homologa&#xe7;&#xe3;o do resultado da licita&#xe7;&#xe3;o, a \nadministra&#xe7;&#xe3;o p&#xfa;blica celebrar&#xe1; Contrato P&#xfa;blico para Solu&#xe7;&#xe3;o Inovadora (CPSI) \ncom as proponentes selecionadas, com vig&#xea;ncia limitada a 12 (doze) meses, \nprorrog&#xe1;vel por mais um per&#xed;odo de at&#xe9; 12 (doze) meses.</span></p>\n<p>\n<span>\n<a name=\"art14&#xa7;1\"></a>&#xa7; 1&#xba; O CPSI dever&#xe1; conter, entre outras cl&#xe1;usulas:</span></p>\n<p>\n<span>\n<a name=\"art14&#xa7;1i\"></a>I - as metas a serem atingidas para que seja poss&#xed;vel a valida&#xe7;&#xe3;o do &#xea;xito da \nsolu&#xe7;&#xe3;o inovadora e a metodologia para a sua aferi&#xe7;&#xe3;o;</span></p>\n<p>\n<span>\n<a name=\"art14&#xa7;1ii\"></a>II - a forma e a periodicidade da entrega &#xe0; administra&#xe7;&#xe3;o p&#xfa;blica de relat&#xf3;rios \nde andamento da execu&#xe7;&#xe3;o contratual, que servir&#xe3;o de instrumento de \nmonitoramento, e do relat&#xf3;rio final a ser entregue pela contratada ap&#xf3;s a \nconclus&#xe3;o da &#xfa;ltima etapa ou meta do projeto;</span></p>\n<p>\n<span>\n<a name=\"art14&#xa7;1iii\"></a>III - a matriz de riscos entre as partes, inclu&#xed;dos os riscos referentes a caso \nfortuito, for&#xe7;a maior, risco tecnol&#xf3;gico, fato do pr&#xed;ncipe e &#xe1;lea econ&#xf4;mica \nextraordin&#xe1;ria;</span></p>\n<p>\n<span>\n<a name=\"art14&#xa7;1iv\"></a>IV - a defini&#xe7;&#xe3;o da titularidade dos direitos de propriedade intelectual das \ncria&#xe7;&#xf5;es resultantes do CPSI; e</span></p>\n<p>\n<span>\n<a name=\"art14&#xa7;1v\"></a>V - a participa&#xe7;&#xe3;o nos resultados de sua explora&#xe7;&#xe3;o, assegurados &#xe0;s partes os \ndireitos de explora&#xe7;&#xe3;o comercial, de licenciamento e de transfer&#xea;ncia da \ntecnologia de que s&#xe3;o titulares.</span></p>\n<p id=\"art-13\">\n<span id=\"art-13\">\n<a name=\"art14&#xa7;2\"></a>&#xa7; 2&#xba; O valor m&#xe1;ximo a ser pago &#xe0; contratada ser&#xe1; de R&#x24; 1.600.000,00 (um milh&#xe3;o e \nseiscentos mil reais) por CPSI, sem preju&#xed;zo da possibilidade de o edital de que \ntrata o art. 13 desta Lei Complementar estabelecer limites inferiores.</span></p>\n<p>\n<span>\n<a name=\"art14&#xa7;3\"></a>&#xa7; 3&#xba; A remunera&#xe7;&#xe3;o da contratada dever&#xe1; ser feita de acordo com um dos seguintes \ncrit&#xe9;rios:</span></p>\n<p>\n<span>\n<a name=\"art14&#xa7;3i\"></a>I - pre&#xe7;o fixo;</span></p>\n<p>\n<span>\n<a name=\"art14&#xa7;3ii\"></a>II - pre&#xe7;o fixo mais remunera&#xe7;&#xe3;o vari&#xe1;vel de incentivo;</span></p>\n<p>\n<span>\n<a name=\"art14&#xa7;3iii\"></a>III - reembolso de custos sem remunera&#xe7;&#xe3;o adicional;</span></p>\n<p>\n<span>\n<a name=\"art14&#xa7;3iv\"></a>IV - reembolso de custos mais remunera&#xe7;&#xe3;o vari&#xe1;vel de incentivo; ou</span></p>\n<p>\n<span>\n<a name=\"art14&#xa7;3v\"></a>V - reembolso de custos mais remunera&#xe7;&#xe3;o fixa de incentivo.</span></p>\n<p>\n<span>\n<a name=\"art14&#xa7;4\"></a>&#xa7; 4&#xba; Nas hip&#xf3;teses em que houver risco tecnol&#xf3;gico, os pagamentos ser&#xe3;o \nefetuados proporcionalmente aos trabalhos executados, de acordo com o cronograma \nf&#xed;sico-financeiro aprovado, observado o crit&#xe9;rio de remunera&#xe7;&#xe3;o previsto \ncontratualmente.</span></p>\n<p>\n<span>\n<a name=\"art14&#xa7;5\"></a>&#xa7; 5&#xba; Com exce&#xe7;&#xe3;o das remunera&#xe7;&#xf5;es vari&#xe1;veis de incentivo vinculadas ao \ncumprimento das metas contratuais, a administra&#xe7;&#xe3;o p&#xfa;blica dever&#xe1; efetuar o \npagamento conforme o crit&#xe9;rio adotado, ainda que os resultados almejados n&#xe3;o \nsejam atingidos em decorr&#xea;ncia do risco tecnol&#xf3;gico, sem preju&#xed;zo da rescis&#xe3;o \nantecipada do contrato caso seja comprovada a inviabilidade t&#xe9;cnica ou econ&#xf4;mica \nda solu&#xe7;&#xe3;o.</span></p>\n<p>\n<span>\n<a name=\"art14&#xa7;6\"></a>&#xa7; 6&#xba; Na hip&#xf3;tese de a execu&#xe7;&#xe3;o do objeto ser dividida em etapas, o pagamento \nrelativo a cada etapa poder&#xe1; adotar crit&#xe9;rios distintos de remunera&#xe7;&#xe3;o.</span></p>\n<p>\n<span>\n<a name=\"art14&#xa7;7\"></a>&#xa7; 7&#xba; Os pagamentos ser&#xe3;o feitos ap&#xf3;s a execu&#xe7;&#xe3;o dos trabalhos, e, a fim de \ngarantir os meios financeiros para que a contratada implemente a etapa inicial \ndo projeto, a administra&#xe7;&#xe3;o p&#xfa;blica dever&#xe1; prever em edital o pagamento \nantecipado de uma parcela do pre&#xe7;o anteriormente ao in&#xed;cio da execu&#xe7;&#xe3;o do \nobjeto, mediante justificativa expressa.</span></p>\n<p>\n<span>\n<a name=\"art14&#xa7;8\"></a>&#xa7; 8&#xba; Na hip&#xf3;tese prevista no &#xa7; 7&#xba; deste artigo, a administra&#xe7;&#xe3;o p&#xfa;blica \ncertificar-se-&#xe1; da execu&#xe7;&#xe3;o da etapa inicial e, se houver inexecu&#xe7;&#xe3;o \ninjustificada, exigir&#xe1; a devolu&#xe7;&#xe3;o do valor antecipado ou efetuar&#xe1; as glosas \nnecess&#xe1;rias nos pagamentos subsequentes, se houver.&#xa0;</span></p>\n<p>\n<span>Se&#xe7;&#xe3;o IV</span></p>\n<p>\n<span>Do Contrato de Fornecimento&#xa0;</span></p>\n<p id=\"art-15\">\n<span id=\"art-15\">\n<a name=\"art15\"></a>Art. 15. Encerrado o contrato de que trata o art. 14 desta \nLei Complementar, a administra&#xe7;&#xe3;o p&#xfa;blica poder&#xe1; celebrar com a mesma \ncontratada, sem nova licita&#xe7;&#xe3;o, contrato para o fornecimento do produto, do \nprocesso ou da solu&#xe7;&#xe3;o resultante do CPSI ou, se for o caso, para integra&#xe7;&#xe3;o da \nsolu&#xe7;&#xe3;o &#xe0; infraestrutura tecnol&#xf3;gica ou ao processo de trabalho da administra&#xe7;&#xe3;o \np&#xfa;blica.</span></p>\n<p id=\"art-13\">\n<span id=\"art-13\">\n<a name=\"art15&#xa7;1\"></a>&#xa7; 1&#xba; Na hip&#xf3;tese prevista no &#xa7; 6&#xba; do art. 13 desta Lei Complementar, quando mais \nde uma contratada cumprir satisfatoriamente as metas estabelecidas no CPSI, o \ncontrato de fornecimento ser&#xe1; firmado, mediante justificativa, com aquela cujo \nproduto, processo ou solu&#xe7;&#xe3;o atenda melhor &#xe0;s demandas p&#xfa;blicas em termos de \nrela&#xe7;&#xe3;o de custo e benef&#xed;cio com dimens&#xf5;es de qualidade e pre&#xe7;o.</span></p>\n<p>\n<span>\n<a name=\"art15&#xa7;2\"></a>&#xa7; 2&#xba; A vig&#xea;ncia do contrato de fornecimento ser&#xe1; limitada a 24 (vinte e quatro) \nmeses, prorrog&#xe1;vel por mais um per&#xed;odo de at&#xe9; 24 (vinte e quatro) meses.</span></p>\n<p id=\"art-14\">\n<span id=\"art-14\">\n<a name=\"art15&#xa7;3\"></a>&#xa7; 3&#xba; Os contratos de fornecimento ser&#xe3;o limitados a 5 (cinco) vezes o valor \nm&#xe1;ximo definido no &#xa7; 2&#xba; do art. 14 desta Lei Complementar para o CPSI, inclu&#xed;das \nas eventuais prorroga&#xe7;&#xf5;es, hip&#xf3;tese em que o limite poder&#xe1; ser ultrapassado nos \ncasos de reajuste de pre&#xe7;os e dos acr&#xe9;scimos de que trata o \n<a href=\"../L8666cons.htm#art65&#xa7;1\" id=\"art-65\">&#xa7; 1&#xba; do art. 65 da \nLei n&#xba; 8.666, de 21 de junho de 1993</a>.&#xa0;</span></p>\n<p>\n<span>CAP&#xcd;TULO VII</span></p>\n<p>\n<span>DISPOSI&#xc7;&#xd5;ES FINAIS</span><span>&#xa0;</span></p>\n<p id=\"art-16\">\n<span id=\"art-16\">\n<a name=\"art16\"></a>Art. 16. A <a href=\"../L6404consol.htm\">Lei n&#xba; 6.404, de 15 de dezembro de 1976</a>, passa a \nvigorar com as seguintes altera&#xe7;&#xf5;es:</span></p>\n<blockquote id=\"art-143\">\n\t<blockquote id=\"art-143\">\n\t\t<p id=\"art-143\">\n\t\t<span id=\"art-143\">\n\t\t&#x201c;<span id=\"art-143\"><a href=\"../L6404consol.htm#art143.0\" id=\"art-143\">Art. 143.\n\t\t</a></span>A Diretoria ser&#xe1; composta por 1 (um) ou mais membros eleitos \n\t\te destitu&#xed;veis a qualquer tempo pelo conselho de administra&#xe7;&#xe3;o ou, se \n\t\tinexistente, pela assembleia geral, e o estatuto estabelecer&#xe1;:</span></p>\n\t\t<p>\n\t\t<span>\n\t\t...................................................................................................................&#x201d; \n\t\t(NR)</span></p>\n\t\t<p id=\"art-294\">\n\t\t<span id=\"art-294\">\n\t\t&#x201c;<a href=\"../L6404consol.htm#art294.1\" id=\"art-294\">Art. 294. </a>A companhia fechada que tiver receita bruta anual de at&#xe9; R&#x24; \n\t\t78.000.000,00 (setenta e oito milh&#xf5;es de reais) poder&#xe1;:</span></p>\n\t\t<p>\n\t\t<span>\n\t\tI &#x2013; (revogado);</span></p>\n\t\t<p>\n\t\t<span>\n\t\tII &#x2013; (revogado);</span></p>\n\t\t<p id=\"art-289\">\n\t\t<span id=\"art-289\">\n\t\tIII - realizar as publica&#xe7;&#xf5;es ordenadas por esta Lei de forma \n\t\teletr&#xf4;nica, em exce&#xe7;&#xe3;o ao disposto no art. 289 desta Lei; e</span></p>\n\t\t<p id=\"art-100\">\n\t\t<span id=\"art-100\">\n\t\tIV - substituir os livros de que trata o art. 100 desta Lei por \n\t\tregistros mecanizados ou eletr&#xf4;nicos.</span></p>\n\t\t<p>\n\t\t<span>\n\t\t...........................................................................................................................</span></p>\n\t\t<p id=\"art-202\">\n\t\t<span id=\"art-202\">\n\t\t<a href=\"../L6404consol.htm#art294&#xa7;4\">&#xa7; 4&#xba; </a>Na hip&#xf3;tese de omiss&#xe3;o do estatuto quanto &#xe0; distribui&#xe7;&#xe3;o de \n\t\tdividendos, estes ser&#xe3;o estabelecidos livremente pela assembleia geral, \n\t\thip&#xf3;tese em que n&#xe3;o se aplicar&#xe1; o disposto no art. 202 desta Lei, desde \n\t\tque n&#xe3;o seja prejudicado o direito dos acionistas preferenciais de \n\t\treceber os dividendos fixos ou m&#xed;nimos a que tenham prioridade.</span></p>\n\t\t<p>\n\t\t<span>\n\t\t&#xa7; 5&#xba; Ato do Ministro de Estado da Economia disciplinar&#xe1; o disposto neste \n\t\tartigo.&#x201d;(NR)</span></p>\n\t\t<p id=\"art-294\">\n\t\t<span id=\"art-294\">\n\t\t&#x201c;<a href=\"../L6404consol.htm#art294a.0\" id=\"art-294\">Art. 294-A. </a>A Comiss&#xe3;o de Valores Mobili&#xe1;rios regulamentar&#xe1; as \n\t\tcondi&#xe7;&#xf5;es facilitadas para o acesso de companhias de menor porte ao \n\t\tmercado de capitais, e ser&#xe1; permitido dispensar ou modular a observ&#xe2;ncia \n\t\tao disposto:</span></p>\n\t\t<p id=\"art-161\">\n\t\t<span id=\"art-161\">\n\t\tI - no art. 161 desta Lei, quanto &#xe0; obrigatoriedade de instala&#xe7;&#xe3;o do \n\t\tconselho fiscal a pedido de acionistas;</span></p>\n\t\t<p id=\"art-170\">\n\t\t<span id=\"art-170\">\n\t\tII - no &#xa7; 5&#xba; do art. 170 desta Lei, quanto &#xe0; obrigatoriedade de \n\t\tintermedia&#xe7;&#xe3;o de institui&#xe7;&#xe3;o financeira em distribui&#xe7;&#xf5;es p&#xfa;blicas de \n\t\tvalores mobili&#xe1;rios, sem preju&#xed;zo da compet&#xea;ncia prevista no \n\t\t<a href=\"../L6385.htm#art2&#xa7;3iii\" id=\"art-2\">inciso III \n\t\tdo &#xa7; 3&#xba; do art. 2&#xba; da Lei n&#xba; 6.385, de 7 de dezembro de 1976</a>;</span></p>\n\t\t<p id=\"art-109\">\n\t\t<span id=\"art-109\">\n\t\tIII - no inciso I do <b>caput</b> do art. 109, nos &#xa7;&#xa7; 1&#xba; e 2&#xba; do art. \n\t\t111 e no art. 202 desta Lei, quanto ao recebimento de dividendo \n\t\tobrigat&#xf3;rio;</span></p>\n\t\t<p id=\"art-289\">\n\t\t<span id=\"art-289\">\n\t\tIV - no art. 289 desta Lei, quanto &#xe0; forma de realiza&#xe7;&#xe3;o das publica&#xe7;&#xf5;es \n\t\tordenadas por esta Lei; e</span></p>\n\t\t<p>\n\t\t<span>\n\t\tV &#x2013; (VETADO).&#x201d;</span></p>\n\t\t<p id=\"art-294\">\n\t\t<span id=\"art-294\">\n\t\t&#x201c;<a href=\"../L6404consol.htm#art294b\" id=\"art-294\">Art. 294-B. </a>Para fins do disposto nesta Lei, considera-se companhia de \n\t\tmenor porte aquela que aufira receita bruta anual inferior a R&#x24; \n\t\t500.000.000,00 (quinhentos milh&#xf5;es de reais).</span></p>\n\t\t<p>\n\t\t<span>\n\t\t&#xa7; 1&#xba; A regulamenta&#xe7;&#xe3;o editada n&#xe3;o prejudica o estabelecimento de \n\t\tprocedimentos simplificados aplic&#xe1;veis &#xe0;s companhias de menor porte, \n\t\tpela Comiss&#xe3;o de Valores Mobili&#xe1;rios, com base nas compet&#xea;ncias \n\t\tprevistas na <a href=\"../L6385.htm\">Lei n&#xba; 6.385, de 7 de dezembro de 1976</a>, especialmente \n\t\tquanto:</span></p>\n\t\t<p>\n\t\t<span>\n\t\tI - &#xe0; obten&#xe7;&#xe3;o de registro de emissor;</span></p>\n\t\t<p>\n\t\t<span>\n\t\tII - &#xe0;s distribui&#xe7;&#xf5;es p&#xfa;blicas de valores mobili&#xe1;rios de sua emiss&#xe3;o; e</span></p>\n\t\t<p>\n\t\t<span>\n\t\tIII - &#xe0; elabora&#xe7;&#xe3;o e &#xe0; presta&#xe7;&#xe3;o de informa&#xe7;&#xf5;es peri&#xf3;dicas e eventuais.</span></p>\n\t\t<p>\n\t\t<span>\n\t\t&#xa7; 2&#xba; A Comiss&#xe3;o de Valores Mobili&#xe1;rios poder&#xe1;:</span></p>\n\t\t<p>\n\t\t<span>\n\t\tI - estabelecer a forma de atualiza&#xe7;&#xe3;o do valor previsto no <b>caput </b>\n\t\tdeste artigo e os crit&#xe9;rios adicionais para a manuten&#xe7;&#xe3;o da condi&#xe7;&#xe3;o de \n\t\tcompanhia de menor porte ap&#xf3;s seu acesso ao mercado de capitais; e</span></p>\n\t\t<p>\n\t\t<span>\n\t\tII - disciplinar o tratamento a ser empregado &#xe0;s companhias abertas que \n\t\tse caracterizem como de menor porte nos termos do <b>caput</b><i> </i>\n\t\tdeste artigo.&#x201d;</span></p>\n\t</blockquote>\n</blockquote>\n<p id=\"art-17\">\n<span id=\"art-17\">\n<a name=\"art17\"></a>Art. 17. A <a href=\"Lcp123.htm#art65a\">Lei Complementar n&#xba; 123, de 14 de dezembro de \n2006</a>, passa a vigorar com as seguintes altera&#xe7;&#xf5;es:</span></p>\n<blockquote id=\"art-61\">\n\t<blockquote id=\"art-61\">\n\t\t<p id=\"art-61\">\n\t\t<span id=\"art-61\">\n\t\t&#x201c;Art. 61-A. \n\t\t........................................................................................................</span></p>\n\t\t<p>\n\t\t<span>\n\t\t..........................................................................................................................</span></p>\n\t\t<p>\n\t\t<span>\n\t\t<a href=\"Lcp123.htm#art61a&#xa7;2.0\">&#xa7; 2&#xba; </a>O aporte de capital poder&#xe1; ser realizado por pessoa f&#xed;sica, por \n\t\tpessoa jur&#xed;dica ou por fundos de investimento, conforme regulamento da \n\t\tComiss&#xe3;o de Valores Mobili&#xe1;rios, que ser&#xe3;o denominados \n\t\tinvestidores-anjos.</span></p>\n\t\t<p>\n\t\t<span>\n\t\t..........................................................................................................................</span></p>\n\t\t<p>\n\t\t<span>\n\t\t&#xa7; 4&#xba; \n\t\t..................................................................................................................</span></p>\n\t\t<p>\n\t\t<span>\n\t\t<a href=\"Lcp123.htm#art61a&#xa7;4i.0\">I - </a>n&#xe3;o ser&#xe1; considerado s&#xf3;cio nem ter&#xe1; qualquer direito a ger&#xea;ncia ou a \n\t\tvoto na administra&#xe7;&#xe3;o da empresa, resguardada a possibilidade de \n\t\tparticipa&#xe7;&#xe3;o nas delibera&#xe7;&#xf5;es em car&#xe1;ter estritamente consultivo, \n\t\tconforme pactua&#xe7;&#xe3;o contratual;</span></p>\n\t\t<p>\n\t\t<span>\n\t\t..........................................................................................................................</span></p>\n\t\t<p>\n\t\t<span>\n\t\t<a href=\"Lcp123.htm#art61a&#xa7;4iii.0\">III - </a>ser&#xe1; remunerado por seus aportes, nos termos do contrato de \n\t\tparticipa&#xe7;&#xe3;o, pelo prazo m&#xe1;ximo de 7 (sete) anos;</span></p>\n\t\t<p>\n\t\t<span>\n\t\tIV - poder&#xe1; exigir dos administradores as contas justificadas de sua \n\t\tadministra&#xe7;&#xe3;o e, anualmente, o invent&#xe1;rio, o balan&#xe7;o patrimonial e o \n\t\tbalan&#xe7;o de resultado econ&#xf4;mico; e</span></p>\n\t\t<p>\n\t\t<span>\n\t\tV - poder&#xe1; examinar, a qualquer momento, os livros, os documentos e o \n\t\testado do caixa e da carteira da sociedade, exceto se houver pactua&#xe7;&#xe3;o \n\t\tcontratual que determine &#xe9;poca pr&#xf3;pria para isso.</span></p>\n\t\t<p>\n\t\t<span>\n\t\t...........................................................................................................................</span></p>\n\t\t<p>\n\t\t<span>\n\t\t<a href=\"Lcp123.htm#art61a&#xa7;6.0\">&#xa7; 6&#xba; </a>As partes contratantes poder&#xe3;o:</span></p>\n\t\t<p>\n\t\t<span>\n\t\tI - estipular remunera&#xe7;&#xe3;o peri&#xf3;dica, ao final de cada per&#xed;odo, ao \n\t\tinvestidor-anjo, conforme contrato de participa&#xe7;&#xe3;o; ou</span></p>\n\t\t<p>\n\t\t<span>\n\t\tII - prever a possibilidade de convers&#xe3;o do aporte de capital em \n\t\tparticipa&#xe7;&#xe3;o societ&#xe1;ria.</span></p>\n\t\t<p id=\"art-1\">\n\t\t<span id=\"art-1\">\n\t\t<a href=\"Lcp123.htm#art61a&#xa7;7.0\">&#xa7; 7&#xba;</a> O investidor-anjo somente poder&#xe1; exercer o direito de resgate \n\t\tdepois de decorridos, no m&#xed;nimo, 2 (dois) anos do aporte de capital, ou \n\t\tprazo superior estabelecido no contrato de participa&#xe7;&#xe3;o, e seus haveres \n\t\tser&#xe3;o pagos na forma prevista no <a href=\"../2002/L10406.htm#art1031\" id=\"art-1\">art. 1.031 da Lei n&#xba; 10.406, de 10 de \n\t\tjaneiro de 2002 (C&#xf3;digo Civil)</a>, n&#xe3;o permitido ultrapassar o valor \n\t\tinvestido devidamente corrigido por &#xed;ndice previsto em contrato.</span></p>\n\t\t<p>\n\t\t<span>\n\t\t................................................................................................................&#x201d; \n\t\t(NR)</span></p>\n\t\t<p id=\"art-61\">\n\t\t<span id=\"art-61\">\n\t\t&#x201c;<a href=\"Lcp123.htm#art61d.0\" id=\"art-61\">Art. 61-D. </a>Os fundos de investimento poder&#xe3;o aportar capital como \n\t\tinvestidores-anjos em microempresas e em empresas de pequeno porte, \n\t\tconforme regulamenta&#xe7;&#xe3;o da Comiss&#xe3;o de Valores Mobili&#xe1;rios.&#x201d; (NR)</span></p>\n\t\t<p id=\"art-65\">\n\t\t<span id=\"art-65\">\n\t\t&#x201c;<a href=\"Lcp123.htm#art65a.0\" id=\"art-65\">Art. 65-A. </a>Fica criado o Inova Simples, regime especial simplificado \n\t\tque concede &#xe0;s iniciativas empresariais de car&#xe1;ter incremental ou disruptivo que se autodeclarem como empresas de inova&#xe7;&#xe3;o tratamento \n\t\tdiferenciado com vistas a estimular sua cria&#xe7;&#xe3;o, formaliza&#xe7;&#xe3;o, \n\t\tdesenvolvimento e consolida&#xe7;&#xe3;o como agentes indutores de avan&#xe7;os \n\t\ttecnol&#xf3;gicos e da gera&#xe7;&#xe3;o de emprego e renda.</span></p>\n\t\t<p>\n\t\t<span>\n\t\t<a href=\"Lcp123.htm#art65a&#xa7;1.0\">&#xa7; 1&#xba; </a>(Revogado).</span></p>\n\t\t<p>\n\t\t<span>\n\t\t<a href=\"Lcp123.htm#art65a&#xa7;2.0\">&#xa7; 2&#xba;</a> (Revogado).</span></p>\n\t\t<p>\n\t\t<span>\n\t\t........................................................................................................................</span></p>\n\t\t<p>\n\t\t<span>\n\t\t&#xa7; 4&#xba; \n\t\t................................................................................................................</span></p>\n\t\t<p>\n\t\t<span>\n\t\t........................................................................................................................</span></p>\n\t\t<p>\n\t\t<span>\n\t\t<a href=\"Lcp123.htm#art65a&#xa7;4ii.0\">II - </a>descri&#xe7;&#xe3;o do escopo da inten&#xe7;&#xe3;o empresarial inovadora, que utilize \n\t\tmodelos de neg&#xf3;cios inovadores para a gera&#xe7;&#xe3;o de produtos ou servi&#xe7;os, e \n\t\tdefini&#xe7;&#xe3;o do nome empresarial, que conter&#xe1; a express&#xe3;o &#x2018;Inova Simples \n\t\t(I.S.)&#x2019;;</span></p>\n\t\t<p>\n\t\t<span>\n\t\t.......................................................................................................................</span></p>\n\t\t<p>\n\t\t<span>\n\t\t<a href=\"Lcp123.htm#art65a&#xa7;7.0\">&#xa7; 7&#xba; </a>No portal da Redesim, no espa&#xe7;o destinado ao preenchimento de dados \n\t\tdo Inova Simples, ser&#xe1; disponibilizado &#xed;cone que direcionar&#xe1; a ambiente \n\t\tvirtual do Instituto Nacional da Propriedade Industrial (INPI), do qual \n\t\tconstar&#xe3;o orienta&#xe7;&#xf5;es para o dep&#xf3;sito de pedido de patente ou de \n\t\tregistro de marca.</span></p>\n\t\t<p>\n\t\t<span>\n\t\t&#xa7; 8&#xba; O exame dos pedidos de patente ou de registro de marca, nos termos \n\t\tdeste artigo, que tenham sido depositados por empresas participantes do \n\t\tInova Simples ser&#xe1; realizado em car&#xe1;ter priorit&#xe1;rio.</span></p>\n\t\t<p>\n\t\t<span>\n\t\t<a href=\"Lcp123.htm#art65a&#xa7;9.0\">&#xa7; 9&#xba; </a>(Revogado).</span></p>\n\t\t<p>\n\t\t<span>\n\t\t..............................................................................................................&#x201d; \n\t\t(NR)</span></p>\n\t</blockquote>\n</blockquote>\n<p id=\"art-18\">\n<span id=\"art-18\">\n<a name=\"art18\"></a>Art. 18. Ficam revogados os seguintes dispositivos:</span></p>\n<p id=\"art-294\">\n<span>\nI - <a href=\"../L6404consol.htm#art294i\">incisos I</a> e </span>\n<span id=\"art-294\">\n<a href=\"../L6404consol.htm#art294ii\" id=\"art-294\">II do caput<span id=\"art-294\"> \ndo art. 294 da Lei n&#xba; 6.404, de 15 de dezembro de 1976</span></a></span><span>; \ne</span></p>\n<p id=\"art-65\">\n<span id=\"art-65\">\nII - os <a href=\"Lcp123.htm#art65a&#xa7;1.0\">&#xa7;&#xa7; 1&#xba;,</a>\n<a href=\"Lcp123.htm#art65a&#xa7;2.0\">2&#xba;</a> e \n<a href=\"Lcp123.htm#art65a&#xa7;9.0\" id=\"art-65\">9&#xba; do art. 65-A da Lei Complementar n&#xba; 123, de 14 de \ndezembro de 2006.</a></span></p>\n<p id=\"art-19\">\n<span>\n<a name=\"art19\"></a></span>\n<span id=\"art-19\">Art. 19. \nEsta Lei Complementar entra em vigor ap&#xf3;s decorridos 90 (noventa) dias de sua \npublica&#xe7;&#xe3;o oficial.</span></p>\n<p>\n<span><font>Bras&#xed;lia,&#xa0; \n1&#xba;&#xa0; de &#xa0;junho&#xa0; de 2021; 200<u><sup>o</sup></u> da Independ&#xea;ncia e 133<u><sup>o</sup></u> \nda Rep&#xfa;blica.</font></span></p>\n<p>\n<span><font>JAIR \nMESSIAS BOLSONARO<br>\n<i>Paulo Guedes<br>\n</i></font></span>\n<span><i>\nSergio Freitas de Almeida</i></span></p>\n<p>\n  <font>Este texto n&#xe3;o substitui o \n\tpublicado no DOU de 2.6.2021 e\n\t<a href=\"../../_Ato2019-2022/2021/Ret/LCP182-ret.docx\"><font>\n\tretificado em 4.6.2021 - Edi&#xe7;&#xe3;o extra</font></a></font></p>\n<font>\n<p><font>*</font></p>\n<p><span>&#xa0;</span></p>\n<p><span>&#xa0;</span></p>\n<p>&#xa0;</p>\n<p>&#xa0;</p>\n<p>&#xa0;</p>\n<p>&#xa0;</p>\n<p>&#xa0;</p>\n</font>\n\n\n\n    </div>",
+  "artigos": {
+    "1": {
+      "numero": "1º",
+      "titulo": "startups",
+      "texto": "Art. 1º Esta Lei Complementar institui o marco legal das startups e do empreendedorismo inovador.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-1"
+    },
+    "2": {
+      "numero": "2º",
+      "titulo": "Artigo 2",
+      "texto": "Art. 2º Para os efeitos desta Lei Complementar, considera-se:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-2"
+    },
+    "3": {
+      "numero": "3º",
+      "titulo": "princípios e diretrizes:",
+      "texto": "Art. 3º Esta Lei Complementar é pautada pelos seguintes princípios e diretrizes:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-3"
+    },
+    "4": {
+      "numero": "4º",
+      "titulo": "startups",
+      "texto": "Art. 4º São enquadradas como startups as organizações empresariais ou societárias, nascentes ou em operação recente, cuja atuação caracteriza-se pela inovação aplicada a modelo de negócios ou a produtos ou serviços ofertados.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-4"
+    },
+    "5": {
+      "numero": "5º",
+      "titulo": "startups",
+      "texto": "Art. 5º As startups poderão admitir aporte de capital por pessoa física ou jurídica, que poderá resultar ou não em participação no capital social da startup, a depender da modalidade de investimento escolhida pelas partes.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-5"
+    },
+    "6": {
+      "numero": "6º",
+      "titulo": "em regulamento as regras para aporte de capital na forma do art. 5º desta Lei",
+      "texto": "Art. 6º A Comissão de Valores Mobiliários (CVM) estabelecerá em regulamento as regras para aporte de capital na forma do art. 5º desta Lei Complementar por parte de fundos de investimento.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-6"
+    },
+    "8": {
+      "numero": "8º",
+      "titulo": "se refere o art. 5º desta Lei Complementar:",
+      "texto": "Art. 8º O investidor que realizar o aporte de capital a que se refere o art. 5º desta Lei Complementar:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-8"
+    },
+    "9": {
+      "numero": "9º",
+      "titulo": "pesquisa, desenvolvimento e inovação, decorrentes de outorgas ou de delegações",
+      "texto": "Art. 9º As empresas que possuem obrigações de investimento em pesquisa, desenvolvimento e inovação, decorrentes de outorgas ou de delegações firmadas por meio de agências reguladoras, ficam autorizadas a cumprir seus compromissos com aporte de recursos em startups por meio de:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-9"
+    },
+    "10": {
+      "numero": "10º",
+      "titulo": "forma de prestação de contas do FIP, do fundo patrimonial ou da instituição",
+      "texto": "Art. 10. Ato do Poder Executivo federal regulamentará a forma de prestação de contas do FIP, do fundo patrimonial ou da instituição pública que receber recursos nos termos do art. 9º desta Lei Complementar e a fiscalização das obrigações legais ou contratuais de investimento em pesquisa, desenvolvimento e inovação.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-10"
+    },
+    "11": {
+      "numero": "11º",
+      "titulo": "com competência de regulamentação setorial poderão, individualmente ou em",
+      "texto": "Art. 11. Os órgãos e as entidades da administração pública com competência de regulamentação setorial poderão, individualmente ou em colaboração, no âmbito de programas de ambiente regulatório experimental (sandbox regulatório), afastar a incidência de normas sob sua competência em relação à entidade regulada ou aos grupos de entidades reguladas.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-11"
+    },
+    "12": {
+      "numero": "12º",
+      "titulo": "Capítulo têm por finalidade:",
+      "texto": "Art. 12. As licitações e os contratos a que se refere este Capítulo têm por finalidade:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-12"
+    },
+    "13": {
+      "numero": "13º",
+      "titulo": "físicas ou jurídicas, isoladamente ou em consórcio, para o teste de soluções",
+      "texto": "Art. 13. A administração pública poderá contratar pessoas físicas ou jurídicas, isoladamente ou em consórcio, para o teste de soluções inovadoras por elas desenvolvidas ou a ser desenvolvidas, com ou sem risco tecnológico, por meio de licitação na modalidade especial regida por esta Lei Complementar.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-13"
+    },
+    "14": {
+      "numero": "14º",
+      "titulo": "poderão adotar, no que couber, as disposições deste Capítulo, nos termos do",
+      "texto": "§ 2º As empresas públicas, as sociedades de economia mista e suas subsidiárias poderão adotar, no que couber, as disposições deste Capítulo, nos termos do regulamento interno de licitações e contratações de que trata o art. 40 da Lei nº 13.303, de 30 de junho de 2016, e seus conselhos de administração poderão estabelecer valores diferenciados para os limites de que tratam o § 2º do art. 14 e o § 3º do art. 15 desta Lei Complementar.",
+      "incisos": [],
+      "paragrafos": [
+        "2º",
+        "2º",
+        "3º"
+      ],
+      "anchor": "#art-14"
+    },
+    "15": {
+      "numero": "15º",
+      "titulo": "poderão adotar, no que couber, as disposições deste Capítulo, nos termos do",
+      "texto": "§ 2º As empresas públicas, as sociedades de economia mista e suas subsidiárias poderão adotar, no que couber, as disposições deste Capítulo, nos termos do regulamento interno de licitações e contratações de que trata o art. 40 da Lei nº 13.303, de 30 de junho de 2016, e seus conselhos de administração poderão estabelecer valores diferenciados para os limites de que tratam o § 2º do art. 14 e o § 3º do art. 15 desta Lei Complementar.",
+      "incisos": [],
+      "paragrafos": [
+        "2º",
+        "2º",
+        "3º"
+      ],
+      "anchor": "#art-15"
+    },
+    "16": {
+      "numero": "16º",
+      "titulo": "vigorar com as seguintes alterações:",
+      "texto": "Art. 16. A Lei nº 6.404, de 15 de dezembro de 1976, passa a vigorar com as seguintes alterações:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-16"
+    },
+    "17": {
+      "numero": "17º",
+      "titulo": "2006, passa a vigorar com as seguintes alterações:",
+      "texto": "Art. 17. A Lei Complementar nº 123, de 14 de dezembro de 2006, passa a vigorar com as seguintes alterações:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-17"
+    },
+    "18": {
+      "numero": "18º",
+      "titulo": "Artigo 18",
+      "texto": "Art. 18. Ficam revogados os seguintes dispositivos:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-18"
+    },
+    "19": {
+      "numero": "19º",
+      "titulo": "Esta Lei Complementar entra em vigor após decorridos 90 (noventa) dias de sua",
+      "texto": "Art. 19. Esta Lei Complementar entra em vigor após decorridos 90 (noventa) dias de sua publicação oficial.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-19"
+    },
+    "27": {
+      "numero": "27º",
+      "titulo": "a regularidade fiscal prevista no inciso IV do caput do art. 27 da Lei nº 8.666,",
+      "texto": "I - a documentação de habilitação de que tratam os incisos I, II e III, bem como a regularidade fiscal prevista no inciso IV do caput do art. 27 da Lei nº 8.666, de 21 de junho de 1993; e",
+      "incisos": [
+        "I"
+      ],
+      "paragrafos": [],
+      "anchor": "#art-27"
+    },
+    "40": {
+      "numero": "40º",
+      "titulo": "poderão adotar, no que couber, as disposições deste Capítulo, nos termos do",
+      "texto": "§ 2º As empresas públicas, as sociedades de economia mista e suas subsidiárias poderão adotar, no que couber, as disposições deste Capítulo, nos termos do regulamento interno de licitações e contratações de que trata o art. 40 da Lei nº 13.303, de 30 de junho de 2016, e seus conselhos de administração poderão estabelecer valores diferenciados para os limites de que tratam o § 2º do art. 14 e o § 3º do art. 15 desta Lei Complementar.",
+      "incisos": [],
+      "paragrafos": [
+        "2º",
+        "2º",
+        "3º"
+      ],
+      "anchor": "#art-40"
+    },
+    "50": {
+      "numero": "50º",
+      "titulo": "judicial, e a ele não se estenderá o disposto no",
+      "texto": "II - não responderá por qualquer dívida da empresa, inclusive em recuperação judicial, e a ele não se estenderá o disposto no art. 50 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), no art. 855-A da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, nos arts. 124, 134 e 135 da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), e em outras disposições atinentes à desconsideração da personalidade jurídica existentes na legislação vigente.",
+      "incisos": [
+        "II"
+      ],
+      "paragrafos": [],
+      "anchor": "#art-50"
+    },
+    "61": {
+      "numero": "61º",
+      "titulo": "........................................................................................................",
+      "texto": "“Art. 61-A. ........................................................................................................ .......................................................................................................................... § 2º O aporte de capital poderá ser realizado por pessoa física, por pessoa jurídica ou por fundos de investimento, conforme regulamento da Comissão de Valores Mobiliários, que serão denominados investidores-anjos. .......................................................................................................................... § 4º .................................................................................................................. I - não será considerado sócio nem terá qualquer direito a gerência ou a voto na administração da empresa, resguardada a possibilidade de participação nas deliberações em caráter estritamente consultivo, conforme pactuação contratual; .......................................................................................................................... III - será remunerado por seus aportes, nos termos do contrato de participação, pelo prazo máximo de 7 (sete) anos; IV - poderá exigir dos administradores as contas justificadas de sua administração e, anualmente, o inventário, o balanço patrimonial e o balanço de resultado econômico; e V - poderá examinar, a qualquer momento, os livros, os documentos e o estado do caixa e da carteira da sociedade, exceto se houver pactuação contratual que determine época própria para isso. ........................................................................................................................... § 6º As partes contratantes poderão: I - estipular remuneração periódica, ao final de cada período, ao investidor-anjo, conforme contrato de participação; ou II - prever a possibilidade de conversão do aporte de capital em participação societária. § 7º O investidor-anjo somente poderá exercer o direito de resgate depois de decorridos, no mínimo, 2 (dois) anos do aporte de capital, ou prazo superior estabelecido no contrato de participação, e seus haveres serão pagos na forma prevista no art. 1.031 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), não permitido ultrapassar o valor investido devidamente corrigido por índice previsto em contrato. ................................................................................................................” (NR) “Art. 61-D. Os fundos de investimento poderão aportar capital como investidores-anjos em microempresas e em empresas de pequeno porte, conforme regulamentação da Comissão de Valores Mobiliários.” (NR) “Art. 65-A. Fica criado o Inova Simples, regime especial simplificado que concede às iniciativas empresariais de caráter incremental ou disruptivo que se autodeclarem como empresas de inovação tratamento diferenciado com vistas a estimular sua criação, formalização, desenvolvimento e consolidação como agentes indutores de avanços tecnológicos e da geração de emprego e renda. § 1º (Revogado). § 2º (Revogado). ........................................................................................................................ § 4º ................................................................................................................ ........................................................................................................................ II - descrição do escopo da intenção empresarial inovadora, que utilize modelos de negócios inovadores para a geração de produtos ou serviços, e definição do nome empresarial, que conterá a expressão ‘Inova Simples (I.S.)’; ....................................................................................................................... § 7º No portal da Redesim, no espaço destinado ao preenchimento de dados do Inova Simples, será disponibilizado ícone que direcionará a ambiente virtual do Instituto Nacional da Propriedade Industrial (INPI), do qual constarão orientações para o depósito de pedido de patente ou de registro de marca. § 8º O exame dos pedidos de patente ou de registro de marca, nos termos deste artigo, que tenham sido depositados por empresas participantes do Inova Simples será realizado em caráter prioritário. § 9º (Revogado). ..............................................................................................................” (NR)",
+      "incisos": [
+        "I",
+        "III",
+        "IV",
+        "V",
+        "I",
+        "II",
+        "II"
+      ],
+      "paragrafos": [
+        "2º",
+        "4º",
+        "6º",
+        "7º",
+        "1º",
+        "2º",
+        "4º",
+        "7º",
+        "8º",
+        "9º"
+      ],
+      "anchor": "#art-61"
+    },
+    "65": {
+      "numero": "65º",
+      "titulo": "art. 65-A da",
+      "texto": "b) enquadramento no regime especial Inova Simples, nos termos do art. 65-A da Lei Complementar nº 123, de 14 de dezembro de 2006.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-65"
+    },
+    "100": {
+      "numero": "100º",
+      "titulo": "A Diretoria será composta por 1 (um) ou mais membros eleitos",
+      "texto": "“Art. 143. A Diretoria será composta por 1 (um) ou mais membros eleitos e destituíveis a qualquer tempo pelo conselho de administração ou, se inexistente, pela assembleia geral, e o estatuto estabelecerá: ...................................................................................................................” (NR) “Art. 294. A companhia fechada que tiver receita bruta anual de até R$ 78.000.000,00 (setenta e oito milhões de reais) poderá: I – (revogado); II – (revogado); III - realizar as publicações ordenadas por esta Lei de forma eletrônica, em exceção ao disposto no art. 289 desta Lei; e IV - substituir os livros de que trata o art. 100 desta Lei por registros mecanizados ou eletrônicos. ........................................................................................................................... § 4º Na hipótese de omissão do estatuto quanto à distribuição de dividendos, estes serão estabelecidos livremente pela assembleia geral, hipótese em que não se aplicará o disposto no art. 202 desta Lei, desde que não seja prejudicado o direito dos acionistas preferenciais de receber os dividendos fixos ou mínimos a que tenham prioridade. § 5º Ato do Ministro de Estado da Economia disciplinará o disposto neste artigo.”(NR) “Art. 294-A. A Comissão de Valores Mobiliários regulamentará as condições facilitadas para o acesso de companhias de menor porte ao mercado de capitais, e será permitido dispensar ou modular a observância ao disposto: I - no art. 161 desta Lei, quanto à obrigatoriedade de instalação do conselho fiscal a pedido de acionistas; II - no § 5º do art. 170 desta Lei, quanto à obrigatoriedade de intermediação de instituição financeira em distribuições públicas de valores mobiliários, sem prejuízo da competência prevista no inciso III do § 3º do art. 2º da Lei nº 6.385, de 7 de dezembro de 1976; III - no inciso I do caput do art. 109, nos §§ 1º e 2º do art. 111 e no art. 202 desta Lei, quanto ao recebimento de dividendo obrigatório; IV - no art. 289 desta Lei, quanto à forma de realização das publicações ordenadas por esta Lei; e V – (VETADO).” “Art. 294-B. Para fins do disposto nesta Lei, considera-se companhia de menor porte aquela que aufira receita bruta anual inferior a R$ 500.000.000,00 (quinhentos milhões de reais). § 1º A regulamentação editada não prejudica o estabelecimento de procedimentos simplificados aplicáveis às companhias de menor porte, pela Comissão de Valores Mobiliários, com base nas competências previstas na Lei nº 6.385, de 7 de dezembro de 1976, especialmente quanto: I - à obtenção de registro de emissor; II - às distribuições públicas de valores mobiliários de sua emissão; e III - à elaboração e à prestação de informações periódicas e eventuais. § 2º A Comissão de Valores Mobiliários poderá: I - estabelecer a forma de atualização do valor previsto no caput deste artigo e os critérios adicionais para a manutenção da condição de companhia de menor porte após seu acesso ao mercado de capitais; e II - disciplinar o tratamento a ser empregado às companhias abertas que se caracterizem como de menor porte nos termos do caput deste artigo.”",
+      "incisos": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "I",
+        "II",
+        "III",
+        "I",
+        "II"
+      ],
+      "paragrafos": [
+        "4º",
+        "5º",
+        "5º",
+        "3º",
+        "1º",
+        "1º",
+        "2º"
+      ],
+      "anchor": "#art-100"
+    },
+    "109": {
+      "numero": "109º",
+      "titulo": "A Diretoria será composta por 1 (um) ou mais membros eleitos",
+      "texto": "“Art. 143. A Diretoria será composta por 1 (um) ou mais membros eleitos e destituíveis a qualquer tempo pelo conselho de administração ou, se inexistente, pela assembleia geral, e o estatuto estabelecerá: ...................................................................................................................” (NR) “Art. 294. A companhia fechada que tiver receita bruta anual de até R$ 78.000.000,00 (setenta e oito milhões de reais) poderá: I – (revogado); II – (revogado); III - realizar as publicações ordenadas por esta Lei de forma eletrônica, em exceção ao disposto no art. 289 desta Lei; e IV - substituir os livros de que trata o art. 100 desta Lei por registros mecanizados ou eletrônicos. ........................................................................................................................... § 4º Na hipótese de omissão do estatuto quanto à distribuição de dividendos, estes serão estabelecidos livremente pela assembleia geral, hipótese em que não se aplicará o disposto no art. 202 desta Lei, desde que não seja prejudicado o direito dos acionistas preferenciais de receber os dividendos fixos ou mínimos a que tenham prioridade. § 5º Ato do Ministro de Estado da Economia disciplinará o disposto neste artigo.”(NR) “Art. 294-A. A Comissão de Valores Mobiliários regulamentará as condições facilitadas para o acesso de companhias de menor porte ao mercado de capitais, e será permitido dispensar ou modular a observância ao disposto: I - no art. 161 desta Lei, quanto à obrigatoriedade de instalação do conselho fiscal a pedido de acionistas; II - no § 5º do art. 170 desta Lei, quanto à obrigatoriedade de intermediação de instituição financeira em distribuições públicas de valores mobiliários, sem prejuízo da competência prevista no inciso III do § 3º do art. 2º da Lei nº 6.385, de 7 de dezembro de 1976; III - no inciso I do caput do art. 109, nos §§ 1º e 2º do art. 111 e no art. 202 desta Lei, quanto ao recebimento de dividendo obrigatório; IV - no art. 289 desta Lei, quanto à forma de realização das publicações ordenadas por esta Lei; e V – (VETADO).” “Art. 294-B. Para fins do disposto nesta Lei, considera-se companhia de menor porte aquela que aufira receita bruta anual inferior a R$ 500.000.000,00 (quinhentos milhões de reais). § 1º A regulamentação editada não prejudica o estabelecimento de procedimentos simplificados aplicáveis às companhias de menor porte, pela Comissão de Valores Mobiliários, com base nas competências previstas na Lei nº 6.385, de 7 de dezembro de 1976, especialmente quanto: I - à obtenção de registro de emissor; II - às distribuições públicas de valores mobiliários de sua emissão; e III - à elaboração e à prestação de informações periódicas e eventuais. § 2º A Comissão de Valores Mobiliários poderá: I - estabelecer a forma de atualização do valor previsto no caput deste artigo e os critérios adicionais para a manutenção da condição de companhia de menor porte após seu acesso ao mercado de capitais; e II - disciplinar o tratamento a ser empregado às companhias abertas que se caracterizem como de menor porte nos termos do caput deste artigo.”",
+      "incisos": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "I",
+        "II",
+        "III",
+        "I",
+        "II"
+      ],
+      "paragrafos": [
+        "4º",
+        "5º",
+        "5º",
+        "3º",
+        "1º",
+        "1º",
+        "2º"
+      ],
+      "anchor": "#art-109"
+    },
+    "111": {
+      "numero": "111º",
+      "titulo": "A Diretoria será composta por 1 (um) ou mais membros eleitos",
+      "texto": "“Art. 143. A Diretoria será composta por 1 (um) ou mais membros eleitos e destituíveis a qualquer tempo pelo conselho de administração ou, se inexistente, pela assembleia geral, e o estatuto estabelecerá: ...................................................................................................................” (NR) “Art. 294. A companhia fechada que tiver receita bruta anual de até R$ 78.000.000,00 (setenta e oito milhões de reais) poderá: I – (revogado); II – (revogado); III - realizar as publicações ordenadas por esta Lei de forma eletrônica, em exceção ao disposto no art. 289 desta Lei; e IV - substituir os livros de que trata o art. 100 desta Lei por registros mecanizados ou eletrônicos. ........................................................................................................................... § 4º Na hipótese de omissão do estatuto quanto à distribuição de dividendos, estes serão estabelecidos livremente pela assembleia geral, hipótese em que não se aplicará o disposto no art. 202 desta Lei, desde que não seja prejudicado o direito dos acionistas preferenciais de receber os dividendos fixos ou mínimos a que tenham prioridade. § 5º Ato do Ministro de Estado da Economia disciplinará o disposto neste artigo.”(NR) “Art. 294-A. A Comissão de Valores Mobiliários regulamentará as condições facilitadas para o acesso de companhias de menor porte ao mercado de capitais, e será permitido dispensar ou modular a observância ao disposto: I - no art. 161 desta Lei, quanto à obrigatoriedade de instalação do conselho fiscal a pedido de acionistas; II - no § 5º do art. 170 desta Lei, quanto à obrigatoriedade de intermediação de instituição financeira em distribuições públicas de valores mobiliários, sem prejuízo da competência prevista no inciso III do § 3º do art. 2º da Lei nº 6.385, de 7 de dezembro de 1976; III - no inciso I do caput do art. 109, nos §§ 1º e 2º do art. 111 e no art. 202 desta Lei, quanto ao recebimento de dividendo obrigatório; IV - no art. 289 desta Lei, quanto à forma de realização das publicações ordenadas por esta Lei; e V – (VETADO).” “Art. 294-B. Para fins do disposto nesta Lei, considera-se companhia de menor porte aquela que aufira receita bruta anual inferior a R$ 500.000.000,00 (quinhentos milhões de reais). § 1º A regulamentação editada não prejudica o estabelecimento de procedimentos simplificados aplicáveis às companhias de menor porte, pela Comissão de Valores Mobiliários, com base nas competências previstas na Lei nº 6.385, de 7 de dezembro de 1976, especialmente quanto: I - à obtenção de registro de emissor; II - às distribuições públicas de valores mobiliários de sua emissão; e III - à elaboração e à prestação de informações periódicas e eventuais. § 2º A Comissão de Valores Mobiliários poderá: I - estabelecer a forma de atualização do valor previsto no caput deste artigo e os critérios adicionais para a manutenção da condição de companhia de menor porte após seu acesso ao mercado de capitais; e II - disciplinar o tratamento a ser empregado às companhias abertas que se caracterizem como de menor porte nos termos do caput deste artigo.”",
+      "incisos": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "I",
+        "II",
+        "III",
+        "I",
+        "II"
+      ],
+      "paragrafos": [
+        "4º",
+        "5º",
+        "5º",
+        "3º",
+        "1º",
+        "1º",
+        "2º"
+      ],
+      "anchor": "#art-111"
+    },
+    "143": {
+      "numero": "143º",
+      "titulo": "A Diretoria será composta por 1 (um) ou mais membros eleitos",
+      "texto": "“Art. 143. A Diretoria será composta por 1 (um) ou mais membros eleitos e destituíveis a qualquer tempo pelo conselho de administração ou, se inexistente, pela assembleia geral, e o estatuto estabelecerá: ...................................................................................................................” (NR) “Art. 294. A companhia fechada que tiver receita bruta anual de até R$ 78.000.000,00 (setenta e oito milhões de reais) poderá: I – (revogado); II – (revogado); III - realizar as publicações ordenadas por esta Lei de forma eletrônica, em exceção ao disposto no art. 289 desta Lei; e IV - substituir os livros de que trata o art. 100 desta Lei por registros mecanizados ou eletrônicos. ........................................................................................................................... § 4º Na hipótese de omissão do estatuto quanto à distribuição de dividendos, estes serão estabelecidos livremente pela assembleia geral, hipótese em que não se aplicará o disposto no art. 202 desta Lei, desde que não seja prejudicado o direito dos acionistas preferenciais de receber os dividendos fixos ou mínimos a que tenham prioridade. § 5º Ato do Ministro de Estado da Economia disciplinará o disposto neste artigo.”(NR) “Art. 294-A. A Comissão de Valores Mobiliários regulamentará as condições facilitadas para o acesso de companhias de menor porte ao mercado de capitais, e será permitido dispensar ou modular a observância ao disposto: I - no art. 161 desta Lei, quanto à obrigatoriedade de instalação do conselho fiscal a pedido de acionistas; II - no § 5º do art. 170 desta Lei, quanto à obrigatoriedade de intermediação de instituição financeira em distribuições públicas de valores mobiliários, sem prejuízo da competência prevista no inciso III do § 3º do art. 2º da Lei nº 6.385, de 7 de dezembro de 1976; III - no inciso I do caput do art. 109, nos §§ 1º e 2º do art. 111 e no art. 202 desta Lei, quanto ao recebimento de dividendo obrigatório; IV - no art. 289 desta Lei, quanto à forma de realização das publicações ordenadas por esta Lei; e V – (VETADO).” “Art. 294-B. Para fins do disposto nesta Lei, considera-se companhia de menor porte aquela que aufira receita bruta anual inferior a R$ 500.000.000,00 (quinhentos milhões de reais). § 1º A regulamentação editada não prejudica o estabelecimento de procedimentos simplificados aplicáveis às companhias de menor porte, pela Comissão de Valores Mobiliários, com base nas competências previstas na Lei nº 6.385, de 7 de dezembro de 1976, especialmente quanto: I - à obtenção de registro de emissor; II - às distribuições públicas de valores mobiliários de sua emissão; e III - à elaboração e à prestação de informações periódicas e eventuais. § 2º A Comissão de Valores Mobiliários poderá: I - estabelecer a forma de atualização do valor previsto no caput deste artigo e os critérios adicionais para a manutenção da condição de companhia de menor porte após seu acesso ao mercado de capitais; e II - disciplinar o tratamento a ser empregado às companhias abertas que se caracterizem como de menor porte nos termos do caput deste artigo.”",
+      "incisos": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "I",
+        "II",
+        "III",
+        "I",
+        "II"
+      ],
+      "paragrafos": [
+        "4º",
+        "5º",
+        "5º",
+        "3º",
+        "1º",
+        "1º",
+        "2º"
+      ],
+      "anchor": "#art-143"
+    },
+    "161": {
+      "numero": "161º",
+      "titulo": "A Diretoria será composta por 1 (um) ou mais membros eleitos",
+      "texto": "“Art. 143. A Diretoria será composta por 1 (um) ou mais membros eleitos e destituíveis a qualquer tempo pelo conselho de administração ou, se inexistente, pela assembleia geral, e o estatuto estabelecerá: ...................................................................................................................” (NR) “Art. 294. A companhia fechada que tiver receita bruta anual de até R$ 78.000.000,00 (setenta e oito milhões de reais) poderá: I – (revogado); II – (revogado); III - realizar as publicações ordenadas por esta Lei de forma eletrônica, em exceção ao disposto no art. 289 desta Lei; e IV - substituir os livros de que trata o art. 100 desta Lei por registros mecanizados ou eletrônicos. ........................................................................................................................... § 4º Na hipótese de omissão do estatuto quanto à distribuição de dividendos, estes serão estabelecidos livremente pela assembleia geral, hipótese em que não se aplicará o disposto no art. 202 desta Lei, desde que não seja prejudicado o direito dos acionistas preferenciais de receber os dividendos fixos ou mínimos a que tenham prioridade. § 5º Ato do Ministro de Estado da Economia disciplinará o disposto neste artigo.”(NR) “Art. 294-A. A Comissão de Valores Mobiliários regulamentará as condições facilitadas para o acesso de companhias de menor porte ao mercado de capitais, e será permitido dispensar ou modular a observância ao disposto: I - no art. 161 desta Lei, quanto à obrigatoriedade de instalação do conselho fiscal a pedido de acionistas; II - no § 5º do art. 170 desta Lei, quanto à obrigatoriedade de intermediação de instituição financeira em distribuições públicas de valores mobiliários, sem prejuízo da competência prevista no inciso III do § 3º do art. 2º da Lei nº 6.385, de 7 de dezembro de 1976; III - no inciso I do caput do art. 109, nos §§ 1º e 2º do art. 111 e no art. 202 desta Lei, quanto ao recebimento de dividendo obrigatório; IV - no art. 289 desta Lei, quanto à forma de realização das publicações ordenadas por esta Lei; e V – (VETADO).” “Art. 294-B. Para fins do disposto nesta Lei, considera-se companhia de menor porte aquela que aufira receita bruta anual inferior a R$ 500.000.000,00 (quinhentos milhões de reais). § 1º A regulamentação editada não prejudica o estabelecimento de procedimentos simplificados aplicáveis às companhias de menor porte, pela Comissão de Valores Mobiliários, com base nas competências previstas na Lei nº 6.385, de 7 de dezembro de 1976, especialmente quanto: I - à obtenção de registro de emissor; II - às distribuições públicas de valores mobiliários de sua emissão; e III - à elaboração e à prestação de informações periódicas e eventuais. § 2º A Comissão de Valores Mobiliários poderá: I - estabelecer a forma de atualização do valor previsto no caput deste artigo e os critérios adicionais para a manutenção da condição de companhia de menor porte após seu acesso ao mercado de capitais; e II - disciplinar o tratamento a ser empregado às companhias abertas que se caracterizem como de menor porte nos termos do caput deste artigo.”",
+      "incisos": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "I",
+        "II",
+        "III",
+        "I",
+        "II"
+      ],
+      "paragrafos": [
+        "4º",
+        "5º",
+        "5º",
+        "3º",
+        "1º",
+        "1º",
+        "2º"
+      ],
+      "anchor": "#art-161"
+    },
+    "170": {
+      "numero": "170º",
+      "titulo": "A Diretoria será composta por 1 (um) ou mais membros eleitos",
+      "texto": "“Art. 143. A Diretoria será composta por 1 (um) ou mais membros eleitos e destituíveis a qualquer tempo pelo conselho de administração ou, se inexistente, pela assembleia geral, e o estatuto estabelecerá: ...................................................................................................................” (NR) “Art. 294. A companhia fechada que tiver receita bruta anual de até R$ 78.000.000,00 (setenta e oito milhões de reais) poderá: I – (revogado); II – (revogado); III - realizar as publicações ordenadas por esta Lei de forma eletrônica, em exceção ao disposto no art. 289 desta Lei; e IV - substituir os livros de que trata o art. 100 desta Lei por registros mecanizados ou eletrônicos. ........................................................................................................................... § 4º Na hipótese de omissão do estatuto quanto à distribuição de dividendos, estes serão estabelecidos livremente pela assembleia geral, hipótese em que não se aplicará o disposto no art. 202 desta Lei, desde que não seja prejudicado o direito dos acionistas preferenciais de receber os dividendos fixos ou mínimos a que tenham prioridade. § 5º Ato do Ministro de Estado da Economia disciplinará o disposto neste artigo.”(NR) “Art. 294-A. A Comissão de Valores Mobiliários regulamentará as condições facilitadas para o acesso de companhias de menor porte ao mercado de capitais, e será permitido dispensar ou modular a observância ao disposto: I - no art. 161 desta Lei, quanto à obrigatoriedade de instalação do conselho fiscal a pedido de acionistas; II - no § 5º do art. 170 desta Lei, quanto à obrigatoriedade de intermediação de instituição financeira em distribuições públicas de valores mobiliários, sem prejuízo da competência prevista no inciso III do § 3º do art. 2º da Lei nº 6.385, de 7 de dezembro de 1976; III - no inciso I do caput do art. 109, nos §§ 1º e 2º do art. 111 e no art. 202 desta Lei, quanto ao recebimento de dividendo obrigatório; IV - no art. 289 desta Lei, quanto à forma de realização das publicações ordenadas por esta Lei; e V – (VETADO).” “Art. 294-B. Para fins do disposto nesta Lei, considera-se companhia de menor porte aquela que aufira receita bruta anual inferior a R$ 500.000.000,00 (quinhentos milhões de reais). § 1º A regulamentação editada não prejudica o estabelecimento de procedimentos simplificados aplicáveis às companhias de menor porte, pela Comissão de Valores Mobiliários, com base nas competências previstas na Lei nº 6.385, de 7 de dezembro de 1976, especialmente quanto: I - à obtenção de registro de emissor; II - às distribuições públicas de valores mobiliários de sua emissão; e III - à elaboração e à prestação de informações periódicas e eventuais. § 2º A Comissão de Valores Mobiliários poderá: I - estabelecer a forma de atualização do valor previsto no caput deste artigo e os critérios adicionais para a manutenção da condição de companhia de menor porte após seu acesso ao mercado de capitais; e II - disciplinar o tratamento a ser empregado às companhias abertas que se caracterizem como de menor porte nos termos do caput deste artigo.”",
+      "incisos": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "I",
+        "II",
+        "III",
+        "I",
+        "II"
+      ],
+      "paragrafos": [
+        "4º",
+        "5º",
+        "5º",
+        "3º",
+        "1º",
+        "1º",
+        "2º"
+      ],
+      "anchor": "#art-170"
+    },
+    "195": {
+      "numero": "195º",
+      "titulo": "administração pública poderá, mediante justificativa expressa, dispensar, no",
+      "texto": "§ 8º Ressalvado o disposto no § 3º do art. 195 da Constituição Federal, a administração pública poderá, mediante justificativa expressa, dispensar, no todo ou em parte:",
+      "incisos": [],
+      "paragrafos": [
+        "8º",
+        "3º"
+      ],
+      "anchor": "#art-195"
+    },
+    "202": {
+      "numero": "202º",
+      "titulo": "A Diretoria será composta por 1 (um) ou mais membros eleitos",
+      "texto": "“Art. 143. A Diretoria será composta por 1 (um) ou mais membros eleitos e destituíveis a qualquer tempo pelo conselho de administração ou, se inexistente, pela assembleia geral, e o estatuto estabelecerá: ...................................................................................................................” (NR) “Art. 294. A companhia fechada que tiver receita bruta anual de até R$ 78.000.000,00 (setenta e oito milhões de reais) poderá: I – (revogado); II – (revogado); III - realizar as publicações ordenadas por esta Lei de forma eletrônica, em exceção ao disposto no art. 289 desta Lei; e IV - substituir os livros de que trata o art. 100 desta Lei por registros mecanizados ou eletrônicos. ........................................................................................................................... § 4º Na hipótese de omissão do estatuto quanto à distribuição de dividendos, estes serão estabelecidos livremente pela assembleia geral, hipótese em que não se aplicará o disposto no art. 202 desta Lei, desde que não seja prejudicado o direito dos acionistas preferenciais de receber os dividendos fixos ou mínimos a que tenham prioridade. § 5º Ato do Ministro de Estado da Economia disciplinará o disposto neste artigo.”(NR) “Art. 294-A. A Comissão de Valores Mobiliários regulamentará as condições facilitadas para o acesso de companhias de menor porte ao mercado de capitais, e será permitido dispensar ou modular a observância ao disposto: I - no art. 161 desta Lei, quanto à obrigatoriedade de instalação do conselho fiscal a pedido de acionistas; II - no § 5º do art. 170 desta Lei, quanto à obrigatoriedade de intermediação de instituição financeira em distribuições públicas de valores mobiliários, sem prejuízo da competência prevista no inciso III do § 3º do art. 2º da Lei nº 6.385, de 7 de dezembro de 1976; III - no inciso I do caput do art. 109, nos §§ 1º e 2º do art. 111 e no art. 202 desta Lei, quanto ao recebimento de dividendo obrigatório; IV - no art. 289 desta Lei, quanto à forma de realização das publicações ordenadas por esta Lei; e V – (VETADO).” “Art. 294-B. Para fins do disposto nesta Lei, considera-se companhia de menor porte aquela que aufira receita bruta anual inferior a R$ 500.000.000,00 (quinhentos milhões de reais). § 1º A regulamentação editada não prejudica o estabelecimento de procedimentos simplificados aplicáveis às companhias de menor porte, pela Comissão de Valores Mobiliários, com base nas competências previstas na Lei nº 6.385, de 7 de dezembro de 1976, especialmente quanto: I - à obtenção de registro de emissor; II - às distribuições públicas de valores mobiliários de sua emissão; e III - à elaboração e à prestação de informações periódicas e eventuais. § 2º A Comissão de Valores Mobiliários poderá: I - estabelecer a forma de atualização do valor previsto no caput deste artigo e os critérios adicionais para a manutenção da condição de companhia de menor porte após seu acesso ao mercado de capitais; e II - disciplinar o tratamento a ser empregado às companhias abertas que se caracterizem como de menor porte nos termos do caput deste artigo.”",
+      "incisos": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "I",
+        "II",
+        "III",
+        "I",
+        "II"
+      ],
+      "paragrafos": [
+        "4º",
+        "5º",
+        "5º",
+        "3º",
+        "1º",
+        "1º",
+        "2º"
+      ],
+      "anchor": "#art-202"
+    },
+    "289": {
+      "numero": "289º",
+      "titulo": "A Diretoria será composta por 1 (um) ou mais membros eleitos",
+      "texto": "“Art. 143. A Diretoria será composta por 1 (um) ou mais membros eleitos e destituíveis a qualquer tempo pelo conselho de administração ou, se inexistente, pela assembleia geral, e o estatuto estabelecerá: ...................................................................................................................” (NR) “Art. 294. A companhia fechada que tiver receita bruta anual de até R$ 78.000.000,00 (setenta e oito milhões de reais) poderá: I – (revogado); II – (revogado); III - realizar as publicações ordenadas por esta Lei de forma eletrônica, em exceção ao disposto no art. 289 desta Lei; e IV - substituir os livros de que trata o art. 100 desta Lei por registros mecanizados ou eletrônicos. ........................................................................................................................... § 4º Na hipótese de omissão do estatuto quanto à distribuição de dividendos, estes serão estabelecidos livremente pela assembleia geral, hipótese em que não se aplicará o disposto no art. 202 desta Lei, desde que não seja prejudicado o direito dos acionistas preferenciais de receber os dividendos fixos ou mínimos a que tenham prioridade. § 5º Ato do Ministro de Estado da Economia disciplinará o disposto neste artigo.”(NR) “Art. 294-A. A Comissão de Valores Mobiliários regulamentará as condições facilitadas para o acesso de companhias de menor porte ao mercado de capitais, e será permitido dispensar ou modular a observância ao disposto: I - no art. 161 desta Lei, quanto à obrigatoriedade de instalação do conselho fiscal a pedido de acionistas; II - no § 5º do art. 170 desta Lei, quanto à obrigatoriedade de intermediação de instituição financeira em distribuições públicas de valores mobiliários, sem prejuízo da competência prevista no inciso III do § 3º do art. 2º da Lei nº 6.385, de 7 de dezembro de 1976; III - no inciso I do caput do art. 109, nos §§ 1º e 2º do art. 111 e no art. 202 desta Lei, quanto ao recebimento de dividendo obrigatório; IV - no art. 289 desta Lei, quanto à forma de realização das publicações ordenadas por esta Lei; e V – (VETADO).” “Art. 294-B. Para fins do disposto nesta Lei, considera-se companhia de menor porte aquela que aufira receita bruta anual inferior a R$ 500.000.000,00 (quinhentos milhões de reais). § 1º A regulamentação editada não prejudica o estabelecimento de procedimentos simplificados aplicáveis às companhias de menor porte, pela Comissão de Valores Mobiliários, com base nas competências previstas na Lei nº 6.385, de 7 de dezembro de 1976, especialmente quanto: I - à obtenção de registro de emissor; II - às distribuições públicas de valores mobiliários de sua emissão; e III - à elaboração e à prestação de informações periódicas e eventuais. § 2º A Comissão de Valores Mobiliários poderá: I - estabelecer a forma de atualização do valor previsto no caput deste artigo e os critérios adicionais para a manutenção da condição de companhia de menor porte após seu acesso ao mercado de capitais; e II - disciplinar o tratamento a ser empregado às companhias abertas que se caracterizem como de menor porte nos termos do caput deste artigo.”",
+      "incisos": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "I",
+        "II",
+        "III",
+        "I",
+        "II"
+      ],
+      "paragrafos": [
+        "4º",
+        "5º",
+        "5º",
+        "3º",
+        "1º",
+        "1º",
+        "2º"
+      ],
+      "anchor": "#art-289"
+    },
+    "294": {
+      "numero": "294º",
+      "titulo": "A Diretoria será composta por 1 (um) ou mais membros eleitos",
+      "texto": "“Art. 143. A Diretoria será composta por 1 (um) ou mais membros eleitos e destituíveis a qualquer tempo pelo conselho de administração ou, se inexistente, pela assembleia geral, e o estatuto estabelecerá: ...................................................................................................................” (NR) “Art. 294. A companhia fechada que tiver receita bruta anual de até R$ 78.000.000,00 (setenta e oito milhões de reais) poderá: I – (revogado); II – (revogado); III - realizar as publicações ordenadas por esta Lei de forma eletrônica, em exceção ao disposto no art. 289 desta Lei; e IV - substituir os livros de que trata o art. 100 desta Lei por registros mecanizados ou eletrônicos. ........................................................................................................................... § 4º Na hipótese de omissão do estatuto quanto à distribuição de dividendos, estes serão estabelecidos livremente pela assembleia geral, hipótese em que não se aplicará o disposto no art. 202 desta Lei, desde que não seja prejudicado o direito dos acionistas preferenciais de receber os dividendos fixos ou mínimos a que tenham prioridade. § 5º Ato do Ministro de Estado da Economia disciplinará o disposto neste artigo.”(NR) “Art. 294-A. A Comissão de Valores Mobiliários regulamentará as condições facilitadas para o acesso de companhias de menor porte ao mercado de capitais, e será permitido dispensar ou modular a observância ao disposto: I - no art. 161 desta Lei, quanto à obrigatoriedade de instalação do conselho fiscal a pedido de acionistas; II - no § 5º do art. 170 desta Lei, quanto à obrigatoriedade de intermediação de instituição financeira em distribuições públicas de valores mobiliários, sem prejuízo da competência prevista no inciso III do § 3º do art. 2º da Lei nº 6.385, de 7 de dezembro de 1976; III - no inciso I do caput do art. 109, nos §§ 1º e 2º do art. 111 e no art. 202 desta Lei, quanto ao recebimento de dividendo obrigatório; IV - no art. 289 desta Lei, quanto à forma de realização das publicações ordenadas por esta Lei; e V – (VETADO).” “Art. 294-B. Para fins do disposto nesta Lei, considera-se companhia de menor porte aquela que aufira receita bruta anual inferior a R$ 500.000.000,00 (quinhentos milhões de reais). § 1º A regulamentação editada não prejudica o estabelecimento de procedimentos simplificados aplicáveis às companhias de menor porte, pela Comissão de Valores Mobiliários, com base nas competências previstas na Lei nº 6.385, de 7 de dezembro de 1976, especialmente quanto: I - à obtenção de registro de emissor; II - às distribuições públicas de valores mobiliários de sua emissão; e III - à elaboração e à prestação de informações periódicas e eventuais. § 2º A Comissão de Valores Mobiliários poderá: I - estabelecer a forma de atualização do valor previsto no caput deste artigo e os critérios adicionais para a manutenção da condição de companhia de menor porte após seu acesso ao mercado de capitais; e II - disciplinar o tratamento a ser empregado às companhias abertas que se caracterizem como de menor porte nos termos do caput deste artigo.”",
+      "incisos": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V",
+        "I",
+        "II",
+        "III",
+        "I",
+        "II"
+      ],
+      "paragrafos": [
+        "4º",
+        "5º",
+        "5º",
+        "3º",
+        "1º",
+        "1º",
+        "2º"
+      ],
+      "anchor": "#art-294"
+    },
+    "855": {
+      "numero": "855º",
+      "titulo": "judicial, e a ele não se estenderá o disposto no",
+      "texto": "II - não responderá por qualquer dívida da empresa, inclusive em recuperação judicial, e a ele não se estenderá o disposto no art. 50 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), no art. 855-A da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, nos arts. 124, 134 e 135 da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), e em outras disposições atinentes à desconsideração da personalidade jurídica existentes na legislação vigente.",
+      "incisos": [
+        "II"
+      ],
+      "paragrafos": [],
+      "anchor": "#art-855"
+    }
+  },
+  "indice": [],
+  "totalArtigos": 34,
+  "resumo": "Presidência da República Secretaria-Geral Subchefia para Assuntos Jurídicos LEI COMPLEMENTAR Nº 182, DE 1º DE JUNHO DE 2021 Mensagem de veto Institui o marco legal das startups e do empreendedorismo inovador; e altera a Lei nº 6.404, de 15 de dezembro de 1976, e a Lei Complementar nº 123, de 14 de dezembro de 2006. “Art. 143. A Diretoria será composta por 1 (um) ou mais membros eleitos e destituíveis a qualquer tempo pelo conselho de administração ou, se inexistente, pela assembleia geral, e o estatuto estabelecerá: “Art. 61-A. ........................................................................................................*"
+};

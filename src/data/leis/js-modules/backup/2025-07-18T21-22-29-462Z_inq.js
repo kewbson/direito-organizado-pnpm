@@ -1,0 +1,800 @@
+// 📁 Arquivo: inq.js (L8245)
+// 🤖 Gerado automaticamente pelo Lei Scraper V2.0
+// 📅 Data de extração: 2025-07-18T20:51:28.139Z
+// 🔗 Fonte: http://www.planalto.gov.br/ccivil_03/leis/l8245.htm
+
+export default {
+  "id": "inq",
+  "titulo": "L8245",
+  "ano": 2025,
+  "dataPublicacao": "1973-12-31",
+  "status": "vigente",
+  "orgaoResponsavel": "Congresso Nacional",
+  "area": "administrativo",
+  "categoria": "civil",
+  "jurisdicao": "federal",
+  "fonte": "http://www.planalto.gov.br/ccivil_03/leis/l8245.htm",
+  "url": "http://www.planalto.gov.br/ccivil_03/leis/l8245.htm",
+  "nome": "Lei do Inquilinato",
+  "alias": "Lei do Inquilinato",
+  "prioridade": 45,
+  "scraping": {
+    "dataExtracao": "2025-07-18T20:51:28.139Z",
+    "versao": "2.0",
+    "tamanhoOriginal": 105980,
+    "hash": "3c21e352"
+  },
+  "conteudo": "<div class='lei-conteudo'>\n      <h1>L8245</h1>\n      \n<div><center>\n\n<table>\n  <tbody><tr>\n    <td><p><img></p></td>\n    <td><p><font><strong><big><big>Presid&#xea;ncia\n    da Rep&#xfa;blica</big></big><br>\n    <big>Casa Civil<br>\n    </big>Subchefia para Assuntos Jur&#xed;dicos</strong></font></p></td>\n  </tr>\n</tbody></table>\n</center></div>\n\n<p><a href=\"http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/lei%208.245-1991?OpenDocument\"><font><small><strong>LEI N<sup>o</sup> 8.245, DE 18&#xa0; DE\nOUTUBRO DE 1991.</strong></small></font></a></p>\n\n<table>\n  <tbody><tr>\n    <td><font>\n    <a href=\"Mensagem_Veto/anterior_98/VEP-LEI-8245-1991.pdf\">Mensagem de veto</a></font><p>\n\t<font><a href=\"L8245compilado.htm\">Texto compilado</a></font></p></td>\n    <td><p><font><span>Disp&#xf5;e sobre as loca&#xe7;&#xf5;es dos im&#xf3;veis urbanos e os\n    procedimentos a elas pertinentes. </span></font></p></td>\n  </tr>\n</tbody></table>\n<b>\n\n</b><p><b><font>O PRESIDENTE DA REP&#xda;BLICA </font> </b>\n<font>Fa&#xe7;o saber que o Congresso Nacional decreta e eu sanciono\na seguinte lei: </font></p>\n<font>\n\n<p>T&#xcd;TULO I </p>\n\n<p>Da Loca&#xe7;&#xe3;o</p>\n\n<p>CAP&#xcd;TULO I </p>\n\n<p>Disposi&#xe7;&#xf5;es Gerais</p>\n\n<p>SE&#xc7;&#xc3;O I</p>\n\n</font><p><font>Da loca&#xe7;&#xe3;o em geral</font></p>\n\n<p id=\"art-1\"><font id=\"art-1\">\n<a name=\"art1\"></a>Art. 1&#xba; A loca&#xe7;&#xe3;o de im&#xf3;vel urbano regula <i>-</i> se pelo disposto nesta lei: </font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. Continuam regulados pelo C&#xf3;digo Civil e pelas leis especiais: </font></p>\n\n<p><font>a)\nas loca&#xe7;&#xf5;es: </font></p>\n\n<p><font>1.\nde im&#xf3;veis de propriedade da Uni&#xe3;o, dos Estados e dos Munic&#xed;pios, de suas autarquias e\nfunda&#xe7;&#xf5;es p&#xfa;blicas; </font></p>\n\n<p><font>2.\nde vagas aut&#xf4;nomas de garagem ou de espa&#xe7;os para estacionamento de ve&#xed;culos; </font></p>\n\n<p><font>3.\nde espa&#xe7;os destinados &#xe0; publicidade; </font></p>\n\n<p><font>4.\nem <i>apart-</i> hot&#xe9;is, hot&#xe9;is <i>-</i> resid&#xea;ncia ou equiparados, assim considerados\naqueles que prestam servi&#xe7;os regulares a seus usu&#xe1;rios e como tais sejam autorizados a\nfuncionar; </font></p>\n\n<p><font>b)\no arrendamento mercantil, em qualquer de suas modalidades. </font></p>\n\n<p id=\"art-2\"><font id=\"art-2\">\n<a name=\"art2\"></a>Art. 2&#xba; Havendo mais de um locador ou mais de um locat&#xe1;rio, entende <i>-</i> se que s&#xe3;o\nsolid&#xe1;rios se o contr&#xe1;rio n&#xe3;o se estipulou. </font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. Os ocupantes de habita&#xe7;&#xf5;es coletivas multifamiliares presumem <i>-</i>\nse locat&#xe1;rios ou sublocat&#xe1;rios. </font></p>\n\n<p id=\"art-3\"><font id=\"art-3\">\n<a name=\"art3\"></a>Art. 3&#xba; O contrato de loca&#xe7;&#xe3;o pode ser ajustado por qualquer prazo, dependendo de\nv&#xea;nia conjugal, se igual ou superior a dez anos. </font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. Ausente a v&#xea;nia conjugal, o c&#xf4;njuge n&#xe3;o estar&#xe1; obrigado a observar\no prazo excedente. </font></p>\n\n<p id=\"art-4\">\n<font id=\"art-4\"><strike id=\"art-4\"><a name=\"art4..\"></a>Art. 4&#xba; Durante o prazo estipulado para a dura&#xe7;&#xe3;o do contrato, n&#xe3;o poder&#xe1; o locador\nreaver o im&#xf3;vel alugado. O locat&#xe1;rio, todavia, poder&#xe1; devolv&#xea; <i>-</i> lo, pagando a\nmulta pactuada, segundo a propor&#xe7;&#xe3;o prevista no art. 924 do\nC&#xf3;digo Civil e, na sua falta, a que for judicialmente estipulada. </strike> </font></p>\n<p id=\"art-4\">\n<font id=\"art-4\">\n<span id=\"art-4\">\n<a name=\"art4\"></a>Art. 4<u><sup>o</sup></u>&#xa0; Durante o prazo estipulado \npara a dura&#xe7;&#xe3;o do contrato, n&#xe3;o poder&#xe1; o locador reaver o im&#xf3;vel alugado. O \nlocat&#xe1;rio, todavia, poder&#xe1; devolv&#xea;-lo, pagando a multa pactuada, \nproporcionalmente ao per&#xed;odo de cumprimento do contrato, ou, na sua falta, a que \nfor judicialmente estipulada.&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; \n12.112, de 2009)</a></span></font></p>\n<p id=\"art-4\">\n\n<font id=\"art-4\">\n\n<a name=\"art4.\"></a>Art. 4<u><sup>o</sup></u> &#xa0;Durante o prazo estipulado para a dura&#xe7;&#xe3;o do \n\t\tcontrato, n&#xe3;o poder&#xe1; o locador reaver o im&#xf3;vel alugado. Com exce&#xe7;&#xe3;o ao \n\t\tque estipula o &#xa7; 2<u><sup>o</sup></u> do art. 54-A, o locat&#xe1;rio, \n\t\ttodavia, poder&#xe1; devolv&#xea;-lo, pagando a multa pactuada, proporcional ao \n\t\tper&#xed;odo de cumprimento do contrato, ou, na sua falta, a que for \n\t\tjudicialmente estipulada.<span>&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n<a href=\"../_Ato2011-2014/2012/Lei/L12744.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; \n12.744, de 2012)</a></span></font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. O locat&#xe1;rio ficar&#xe1; dispensado da multa se a devolu&#xe7;&#xe3;o do im&#xf3;vel\ndecorrer de transfer&#xea;ncia, pelo seu empregador, privado ou p&#xfa;blico, para prestar\nservi&#xe7;os em localidades diversas daquela do in&#xed;cio do contrato, e se notificar, por\nescrito, o locador com prazo de, no m&#xed;nimo, trinta dias de anteced&#xea;ncia. </font></p>\n\n<p id=\"art-5\"><font id=\"art-5\">\n<a name=\"art5\"></a>Art. 5&#xba; Seja qual for o fundamento do t&#xe9;rmino da loca&#xe7;&#xe3;o, a a&#xe7;&#xe3;o do locador para\nreaver o im&#xf3;vel &#xe9; a de despejo. </font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. O disposto neste artigo n&#xe3;o se aplica se a loca&#xe7;&#xe3;o termina em\ndecorr&#xea;ncia de desapropria&#xe7;&#xe3;o, com a imiss&#xe3;o do expropriante na posse do im&#xf3;vel.</font></p>\n\n<p id=\"art-6\"><font id=\"art-6\">\n<a name=\"art6\"></a>Art. 6&#xba; O locat&#xe1;rio poder&#xe1; denunciar a loca&#xe7;&#xe3;o por prazo indeterminado mediante aviso\npor escrito ao locador, com anteced&#xea;ncia m&#xed;nima de trinta dias. </font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. Na aus&#xea;ncia do aviso, o locador poder&#xe1; exigir quantia correspondente\na um m&#xea;s de aluguel e encargos, vigentes quando da resili&#xe7;&#xe3;o. </font></p>\n\n<p id=\"art-7\"><font id=\"art-7\">\n<a name=\"art7\"></a>Art. 7&#xba; Nos casos de extin&#xe7;&#xe3;o de usufruto ou de fideicomisso, a loca&#xe7;&#xe3;o celebrada\npelo usufrutu&#xe1;rio ou fiduci&#xe1;rio poder&#xe1; ser denunciada, com o prazo de trinta dias para\na desocupa&#xe7;&#xe3;o, salvo se tiver havido aquiesc&#xea;ncia escrita do nupropriet&#xe1;rio ou do\nfideicomiss&#xe1;rio, ou se a propriedade estiver consolidada em m&#xe3;os do usufrutu&#xe1;rio ou do\nfiduci&#xe1;rio. </font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. A den&#xfa;ncia dever&#xe1; ser exercitada no prazo de noventa dias contados da\nextin&#xe7;&#xe3;o do fideicomisso ou da averba&#xe7;&#xe3;o da extin&#xe7;&#xe3;o do usufruto, presumindo <i>-</i>\nse, ap&#xf3;s esse prazo, a concord&#xe2;ncia na manuten&#xe7;&#xe3;o da loca&#xe7;&#xe3;o. </font></p>\n\n<p id=\"art-8\"><font id=\"art-8\">\n<a name=\"art8.\"></a>Art. 8&#xba; Se o im&#xf3;vel for alienado durante a loca&#xe7;&#xe3;o, o adquirente poder&#xe1; denunciar o\ncontrato, com o prazo de noventa dias para a desocupa&#xe7;&#xe3;o, salvo se a loca&#xe7;&#xe3;o for por\ntempo determinado e o contrato contiver cl&#xe1;usula de vig&#xea;ncia em caso de aliena&#xe7;&#xe3;o e\nestiver averbado junto &#xe0; matr&#xed;cula do im&#xf3;vel. </font></p>\n\n<p><font>&#xa7;\n1&#xba; Id&#xea;ntico direito ter&#xe1; o promiss&#xe1;rio comprador e o promiss&#xe1;rio cession&#xe1;rio, em\ncar&#xe1;ter irrevog&#xe1;vel, com imiss&#xe3;o na posse do im&#xf3;vel e t&#xed;tulo registrado junto &#xe0;\nmatr&#xed;cula do mesmo. </font></p>\n\n<p><font>&#xa7;\n2&#xba; A den&#xfa;ncia dever&#xe1; ser exercitada no prazo de noventa dias contados do registro da\nvenda ou do compromisso, presumindo <i>-</i> se, ap&#xf3;s esse prazo, a concord&#xe2;ncia na\nmanuten&#xe7;&#xe3;o da loca&#xe7;&#xe3;o. </font></p>\n\n<p id=\"art-9\"><font id=\"art-9\">\n<a name=\"art9\"></a>Art. 9&#xba; A loca&#xe7;&#xe3;o tamb&#xe9;m poder&#xe1; ser desfeita: </font></p>\n\n<p><font>I -\npor m&#xfa;tuo acordo; </font></p>\n\n<p><font>II\n- em decorr&#xea;ncia da pr&#xe1;tica de infra&#xe7;&#xe3;o legal ou contratual; </font></p>\n\n<p><font>III\n- em decorr&#xea;ncia da falta de pagamento do aluguel e demais encargos; </font></p>\n\n<p><font>IV\n- para a realiza&#xe7;&#xe3;o de repara&#xe7;&#xf5;es urgentes determinadas pelo Poder P&#xfa;blico, que n&#xe3;o\npossam ser normalmente executadas com a perman&#xea;ncia do locat&#xe1;rio no im&#xf3;vel ou, podendo,\nele se recuse a consenti <i>-</i> las.</font></p>\n\n<p id=\"art-10\"><font id=\"art-10\">\n<a name=\"art10\"></a>Art. 10. Morrendo o locador, a loca&#xe7;&#xe3;o transmite <i>-</i> se aos herdeiros. </font></p>\n\n<p id=\"art-11\"><font id=\"art-11\">\n<a name=\"art11\"></a>Art. 11. Morrendo o locat&#xe1;rio, ficar&#xe3;o sub <i>-</i> rogados nos seus direitos e\nobriga&#xe7;&#xf5;es: </font></p>\n\n<p><font>I -\nnas loca&#xe7;&#xf5;es com finalidade residencial, o c&#xf4;njuge sobrevivente ou o companheiro e,\nsucessivamente, os herdeiros necess&#xe1;rios e as pessoas que viviam na depend&#xea;ncia\necon&#xf4;mica do <i>de</i> <i>cujus</i> , desde que residentes no im&#xf3;vel; </font></p>\n\n<p><font>II\n- nas loca&#xe7;&#xf5;es com finalidade n&#xe3;o residencial, o esp&#xf3;lio e, se for o caso, seu\nsucessor no neg&#xf3;cio. </font></p>\n\n<p id=\"art-12\">\n<font id=\"art-12\"><strike id=\"art-12\"><a name=\"art12.\"></a>Art. 12. Em casos de separa&#xe7;&#xe3;o de fato, separa&#xe7;&#xe3;o judicial, div&#xf3;rcio ou dissolu&#xe7;&#xe3;o\nda sociedade concubin&#xe1;ria, a loca&#xe7;&#xe3;o prosseguir&#xe1; automaticamente com o c&#xf4;njuge ou\ncompanheiro que permanecer no im&#xf3;vel. </strike> </font></p>\n\n<p>\n<strike><font>Par&#xe1;grafo &#xfa;nico. Nas hip&#xf3;teses previstas neste artigo, a sub <i>-</i> roga&#xe7;&#xe3;o ser&#xe1;\ncomunicada por escrito ao locador, o qual ter&#xe1; o direito de exigir, no prazo de trinta\ndias, a substitui&#xe7;&#xe3;o do fiador ou o oferecimento de qualquer das garantias previstas\nnesta lei. </font></strike></p>\n\n<font id=\"art-12\">\n\n\t\t<p id=\"art-12\">\n\t\t<span id=\"art-12\"><a name=\"art12\"></a>Art. 12.&#xa0; Em casos de separa&#xe7;&#xe3;o de fato, \n\t\tsepara&#xe7;&#xe3;o judicial, div&#xf3;rcio ou dissolu&#xe7;&#xe3;o da uni&#xe3;o est&#xe1;vel, a loca&#xe7;&#xe3;o \n\t\tresidencial prosseguir&#xe1; automaticamente com o c&#xf4;njuge ou companheiro que \n\t\tpermanecer no im&#xf3;vel.\n\t\t<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Reda&#xe7;&#xe3;o dada pela \n\t\tLei n&#xba; 12.112, de 2009)</a></span></p>\n\t\t<p id=\"art-11\">\n\t\t<span id=\"art-11\">&#xa7; 1<u><sup>o</sup></u>&#xa0; Nas hip&#xf3;teses previstas neste \nartigo e no art. 11, a sub-roga&#xe7;&#xe3;o ser&#xe1; comunicada por escrito ao locador e ao \nfiador, se esta for a modalidade de garantia locat&#xed;cia. \n\t\t<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Inclu&#xed;do pela Lei \n\t\tn&#xba; 12.112, de 2009)</a></span></p>\n\t\t</font><p><font>\n\t\t<span>&#xa7; 2<u><sup>o</sup></u>&#xa0; \n\t\tO fiador poder&#xe1; exonerar-se das suas responsabilidades no prazo de 30 \n\t\t(trinta) dias contado do recebimento da comunica&#xe7;&#xe3;o oferecida pelo \n\t\tsub-rogado, ficando respons&#xe1;vel pelos efeitos da fian&#xe7;a durante 120 \n\t\t(cento e vinte) dias ap&#xf3;s a notifica&#xe7;&#xe3;o ao locador. \n\t\t<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Inclu&#xed;do pela Lei \n\t\tn&#xba; 12.112, de 2009)</a></span></font></p>\n\n<p id=\"art-13\"><font id=\"art-13\">\n<a name=\"art13\"></a>Art. 13. A cess&#xe3;o da loca&#xe7;&#xe3;o, a subloca&#xe7;&#xe3;o e o empr&#xe9;stimo do im&#xf3;vel, total ou\nparcialmente, dependem do consentimento pr&#xe9;vio e escrito do locador. </font></p>\n\n<p><font>&#xa7; 1&#xba;\nN&#xe3;o se presume o consentimento pela simples demora do locador em manifestar formalmente a\nsua oposi&#xe7;&#xe3;o. </font></p>\n\n<p><font>&#xa7; 2&#xba;\nDesde que notificado por escrito pelo locat&#xe1;rio, de ocorr&#xea;ncia de uma das hip&#xf3;teses\ndeste artigo, o locador ter&#xe1; o prazo de trinta dias para manifestar formalmente a sua\noposi&#xe7;&#xe3;o. </font></p>\n<p>\n\n<font>\n\n<span><a name=\"art13&#xa7;3\"></a>&#xa7; 3<u><sup>o</sup></u>&#xa0; </span>\n<a href=\"../_Ato2007-2010/2009/Msg/VEP-1004-09.htm\">\n\t\t(VETADO)</a>&#xa0; <span>\n<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Inclu&#xed;do pela Lei n&#xba; \n12.112, de 2009)</a></span></font></p>\n<font>\n\n<p>SE&#xc7;&#xc3;O II</p>\n\n</font><p><font>Das subloca&#xe7;&#xf5;es</font></p>\n\n<p id=\"art-14\"><font id=\"art-14\">\n<a name=\"art14\"></a>Art. 14. Aplicam <i>-</i> se &#xe0;s subloca&#xe7;&#xf5;es, no que couber, as disposi&#xe7;&#xf5;es relativas\n&#xe0;s loca&#xe7;&#xf5;es. </font></p>\n\n<p id=\"art-15\"><font id=\"art-15\">\n<a name=\"art15\"></a>Art. 15. Rescindida ou finda a loca&#xe7;&#xe3;o, qualquer que seja sua causa, resolvem <i>-</i>\nse as subloca&#xe7;&#xf5;es, assegurado o direito de indeniza&#xe7;&#xe3;o do sublocat&#xe1;rio contra o\nsublocador. </font></p>\n\n<p id=\"art-16\"><font id=\"art-16\">\n<a name=\"art16\"></a>Art. 16. O sublocat&#xe1;rio responde subsidiariamente ao locador pela import&#xe2;ncia que dever\nao sublocador, quando este for demandado e, ainda, pelos alugu&#xe9;is que se vencerem durante\na lide. </font></p>\n<font>\n\n<p>SE&#xc7;&#xc3;O III</p>\n\n</font><p><font>Do aluguel</font></p>\n\n<p id=\"art-17\"><font id=\"art-17\">\n<a name=\"art17\"></a>Art. 17. &#xc9; livre a conven&#xe7;&#xe3;o do aluguel, vedada a sua estipula&#xe7;&#xe3;o em moeda\nestrangeira e a sua vincula&#xe7;&#xe3;o &#xe0; varia&#xe7;&#xe3;o cambial ou ao sal&#xe1;rio m&#xed;nimo. </font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. Nas loca&#xe7;&#xf5;es residenciais ser&#xe3;o observadas os crit&#xe9;rios de\nreajustes previstos na legisla&#xe7;&#xe3;o espec&#xed;fica. </font></p>\n\n<p id=\"art-18\"><font id=\"art-18\">\n<a name=\"art18\"></a>Art. 18. &#xc9; l&#xed;cito &#xe0;s partes fixar, de comum acordo, novo valor para o aluguel, bem como\ninserir ou modificar cl&#xe1;usula de &#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\nreajuste. </font></p>\n\n<p id=\"art-19\"><font id=\"art-19\">\n<a name=\"art19\"></a>Art. 19. N&#xe3;o havendo acordo, o locador ou locat&#xe1;rio, ap&#xf3;s tr&#xea;s anos de vig&#xea;ncia do\ncontrato ou do acordo anteriormente realizado, poder&#xe3;o pedir revis&#xe3;o judicial do\naluguel, a fim de ajust&#xe1; <i>-</i> lo ao pre&#xe7;o de mercado. </font></p>\n\n<p id=\"art-20\"><font id=\"art-20\">\n<a name=\"art20\"></a>Art. 20. Salvo as hip&#xf3;teses do art. 42 e da loca&#xe7;&#xe3;o para temporada, o locador n&#xe3;o\npoder&#xe1; exigir o pagamento antecipado do aluguel. </font></p>\n\n<p id=\"art-21\"><font id=\"art-21\">\n<a name=\"art21\"></a>Art. 21. O aluguel da subloca&#xe7;&#xe3;o n&#xe3;o poder&#xe1; exceder o da loca&#xe7;&#xe3;o; nas habita&#xe7;&#xf5;es\ncoletivas multifamiliares, a soma dos alugu&#xe9;is n&#xe3;o poder&#xe1; ser superior ao dobro do\nvalor da loca&#xe7;&#xe3;o. </font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. O descumprimento deste artigo autoriza o sublocat&#xe1;rio a reduzir o\naluguel at&#xe9; os limites nele estabelecidos. </font></p>\n<font>\n\n<p>SE&#xc7;&#xc3;O IV</p>\n\n</font><p><font>Dos deveres do locador e do locat&#xe1;rio</font></p>\n\n<p id=\"art-22\"><font id=\"art-22\">\n<a name=\"art22\"></a>Art. 22. O locador &#xe9; obrigado a: </font></p>\n\n<p><font>I -\nentregar ao locat&#xe1;rio o im&#xf3;vel alugado em estado de servir ao uso a que se destina; </font></p>\n\n<p><font>II\n- garantir, durante o tempo da loca&#xe7;&#xe3;o, o uso pac&#xed;fico do im&#xf3;vel locado; </font></p>\n\n<p><font>III\n- manter, durante a loca&#xe7;&#xe3;o, a forma e o destino do im&#xf3;vel; </font></p>\n\n<p><font>IV\n- responder pelos v&#xed;cios ou defeitos anteriores &#xe0; loca&#xe7;&#xe3;o; </font></p>\n\n<p><font>V -\nfornecer ao locat&#xe1;rio, caso este solicite, descri&#xe7;&#xe3;o minuciosa do estado do im&#xf3;vel,\nquando de sua entrega, com expressa refer&#xea;ncia aos eventuais defeitos existentes; </font></p>\n\n<p><font>VI\n- fornecer ao locat&#xe1;rio recibo discriminado das import&#xe2;ncias por este pagas, vedada a\nquita&#xe7;&#xe3;o gen&#xe9;rica; </font></p>\n\n<p><font>VII\n- pagar as taxas de administra&#xe7;&#xe3;o imobili&#xe1;ria, se houver, e de intermedia&#xe7;&#xf5;es, nestas\ncompreendidas as despesas necess&#xe1;rias &#xe0; aferi&#xe7;&#xe3;o da idoneidade do pretendente ou de\nseu fiador; </font></p>\n\n<p><font>VIII - pagar os impostos e taxas, e ainda o pr&#xea;mio de seguro complementar contra fogo,\nque incidam ou venham a incidir sobre o im&#xf3;vel, salvo disposi&#xe7;&#xe3;o expressa em contr&#xe1;rio\nno contrato; </font></p>\n\n<p><font>IX\n- exibir ao locat&#xe1;rio, quando solicitado, os comprovantes relativos &#xe0;s parcelas que\nestejam sendo exigidas; </font></p>\n\n<p><font>X -\npagar as despesas extraordin&#xe1;rias de condom&#xed;nio. </font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. Por despesas extraordin&#xe1;rias de condom&#xed;nio se entendem aquelas que\nn&#xe3;o se refiram aos gastos rotineiros de manuten&#xe7;&#xe3;o do edif&#xed;cio, especialmente: </font></p>\n\n<p><font>a)\nobras de reformas ou acr&#xe9;scimos que interessem &#xe0; estrutura integral do im&#xf3;vel; </font></p>\n\n<p><font>b)\npintura das fachadas, empenas, po&#xe7;os de aera&#xe7;&#xe3;o e ilumina&#xe7;&#xe3;o, bem como das esquadrias\nexternas; </font></p>\n\n<p><font>c)\nobras destinadas a repor as condi&#xe7;&#xf5;es de habitabilidade do edif&#xed;cio; </font></p>\n\n<p><font>d)\nindeniza&#xe7;&#xf5;es trabalhistas e previdenci&#xe1;rias pela dispensa de empregados, ocorridas em\ndata anterior ao in&#xed;cio da loca&#xe7;&#xe3;o; </font></p>\n\n<p><font>e)\ninstala&#xe7;&#xe3;o de equipamento de seguran&#xe7;a e de inc&#xea;ndio, de telefonia, de\nintercomunica&#xe7;&#xe3;o, de esporte e de lazer; </font></p>\n\n<p><font>f)\ndespesas de decora&#xe7;&#xe3;o e paisagismo nas partes de uso comum; </font></p>\n\n<p><font>g)\nconstitui&#xe7;&#xe3;o de fundo de reserva. </font></p>\n\n<p id=\"art-23\"><font id=\"art-23\">\n<a name=\"art23\"></a>Art. 23. O locat&#xe1;rio &#xe9; obrigado a: </font></p>\n\n<p><font>I -\npagar pontualmente o aluguel e os encargos da loca&#xe7;&#xe3;o, legal ou contratualmente\nexig&#xed;veis, no prazo estipulado ou, em sua falta, at&#xe9; o sexto dia &#xfa;til do m&#xea;s seguinte\nao vencido, no im&#xf3;vel locado, quando outro local n&#xe3;o tiver sido indicado no contrato; </font></p>\n\n<p><font>II\n- servir <i>-</i> se do im&#xf3;vel para o uso convencionado ou presumido, compat&#xed;vel com a\nnatureza deste e com o fim a que se destina, devendo trat&#xe1; <i>-</i> lo com o mesmo\ncuidado como se fosse seu; </font></p>\n\n<p><font>III\n- restituir o im&#xf3;vel, finda a loca&#xe7;&#xe3;o, no estado em que o recebeu, salvo as\ndeteriora&#xe7;&#xf5;es decorrentes do seu uso normal; </font></p>\n\n<p><font>IV\n- levar imediatamente ao conhecimento do locador o surgimento de qualquer dano ou defeito\ncuja repara&#xe7;&#xe3;o a este incumba, bem como as eventuais turba&#xe7;&#xf5;es de terceiros; </font></p>\n\n<p><font>V -\nrealizar a imediata repara&#xe7;&#xe3;o dos danos verificados no im&#xf3;vel, ou nas suas\ninstala&#xe7;&#xf5;es, provocadas por si, seus dependentes, familiares, visitantes ou prepostos; </font></p>\n\n<p><font>VI\n- n&#xe3;o modificar a forma interna ou externa do im&#xf3;vel sem o consentimento pr&#xe9;vio e por\nescrito do locador; </font></p>\n\n<p><font>VII\n- entregar imediatamente ao locador os documentos de cobran&#xe7;a de tributos e encargos\ncondominiais, bem como qualquer intima&#xe7;&#xe3;o, multa ou exig&#xea;ncia de autoridade p&#xfa;blica,\nainda que dirigida a ele, locat&#xe1;rio; </font></p>\n\n<p><font>VIII - pagar as despesas de telefone e de consumo de for&#xe7;a, luz e g&#xe1;s, &#xe1;gua e esgoto; </font></p>\n\n<p id=\"art-27\"><font id=\"art-27\">IX\n- permitir a vistoria do im&#xf3;vel pelo locador ou por seu mandat&#xe1;rio, mediante\ncombina&#xe7;&#xe3;o pr&#xe9;via de dia e hora, bem como admitir que seja o mesmo visitado e examinado\npor terceiros, na hip&#xf3;tese prevista no art. 27; </font></p>\n\n<p><font>X -\ncumprir integralmente a conven&#xe7;&#xe3;o de condom&#xed;nio e os regulamentos internos; </font></p>\n\n<p><font>XI\n- pagar o pr&#xea;mio do seguro de fian&#xe7;a; </font></p>\n\n<p><font>XII\n- pagar as despesas ordin&#xe1;rias de condom&#xed;nio. </font></p>\n\n<p><font>&#xa7; 1&#xba;\nPor despesas ordin&#xe1;rias de condom&#xed;nio se entendem as necess&#xe1;rias &#xe0; administra&#xe7;&#xe3;o\nrespectiva, especialmente: </font></p>\n\n<p><font>a)\nsal&#xe1;rios, encargos trabalhistas, contribui&#xe7;&#xf5;es previdenci&#xe1;rias e sociais dos\nempregados do condom&#xed;nio; </font></p>\n\n<p><font>b)\nconsumo de &#xe1;gua e esgoto, g&#xe1;s, luz e for&#xe7;a das &#xe1;reas de uso comum; </font></p>\n\n<p><font>c)\nlimpeza, conserva&#xe7;&#xe3;o e pintura das instala&#xe7;&#xf5;es e depend&#xea;ncias de uso comum; </font></p>\n\n<p><font>d)\nmanuten&#xe7;&#xe3;o e conserva&#xe7;&#xe3;o das instala&#xe7;&#xf5;es e equipamentos hidr&#xe1;ulicos, el&#xe9;tricos,\nmec&#xe2;nicos e de seguran&#xe7;a, de uso&#xa0;&#xa0;&#xa0;&#xa0; comum; </font></p>\n\n<p><font>e)\nmanuten&#xe7;&#xe3;o e conserva&#xe7;&#xe3;o das instala&#xe7;&#xf5;es e equipamentos de uso comum destinados &#xe0;\npr&#xe1;tica de esportes e lazer; </font></p>\n\n<p><font>f)\nmanuten&#xe7;&#xe3;o e conserva&#xe7;&#xe3;o de elevadores, porteiro eletr&#xf4;nico e antenas coletivas; </font></p>\n\n<p><font>g) \npequenos reparos nas depend&#xea;ncias e instala&#xe7;&#xf5;es el&#xe9;tricas e hidr&#xe1;ulicas de uso \ncomum;\n</font></p>\n\n<p><font>h)\nrateios de saldo devedor, salvo se referentes a per&#xed;odo anterior ao in&#xed;cio da loca&#xe7;&#xe3;o;\n</font></p>\n\n<p><font>i)\nreposi&#xe7;&#xe3;o do fundo de reserva, total ou parcialmente utilizado no custeio ou\ncomplementa&#xe7;&#xe3;o das despesas referidas nas al&#xed;neas anteriores, salvo se referentes a\nper&#xed;odo anterior ao in&#xed;cio da loca&#xe7;&#xe3;o. </font></p>\n\n<p><font>&#xa7; 2&#xba;\nO locat&#xe1;rio fica obrigado ao pagamento das despesas referidas no par&#xe1;grafo anterior,\ndesde que comprovadas a previs&#xe3;o or&#xe7;ament&#xe1;ria e o rateio mensal, podendo exigir a\nqualquer tempo a comprova&#xe7;&#xe3;o das mesmas. </font></p>\n\n<p><font>&#xa7; 3&#xba;\nNo edif&#xed;cio constitu&#xed;do por unidades imobili&#xe1;rias aut&#xf4;nomas, de propriedade da mesma\npessoa, os locat&#xe1;rios ficam obrigados ao pagamento das despesas referidas no &#xa7; 1&#xba; deste\nartigo, desde que comprovadas. </font></p>\n\n<p id=\"art-24\"><font id=\"art-24\">\n<a name=\"art24\"></a>Art. 24. Nos im&#xf3;veis utilizados como habita&#xe7;&#xe3;o coletiva multifamiliar, os locat&#xe1;rios\nou sublocat&#xe1;rios poder&#xe3;o depositar judicialmente o aluguel e encargos se a constru&#xe7;&#xe3;o\nfor considerada em condi&#xe7;&#xf5;es prec&#xe1;rias pelo Poder P&#xfa;blico. </font></p>\n\n<p><font>&#xa7; 1&#xba;\nO levantamento dos dep&#xf3;sitos somente ser&#xe1; deferido com a comunica&#xe7;&#xe3;o, pela autoridade\np&#xfa;blica, da regulariza&#xe7;&#xe3;o do im&#xf3;vel. </font></p>\n\n<p><font>&#xa7; 2&#xba;\nOs locat&#xe1;rios ou sublocat&#xe1;rios que deixarem o im&#xf3;vel estar&#xe3;o desobrigados do aluguel\ndurante a execu&#xe7;&#xe3;o das obras necess&#xe1;rias &#xe0; regulariza&#xe7;&#xe3;o. </font></p>\n\n<p><font>&#xa7; 3&#xba;\nOs dep&#xf3;sitos efetuados em ju&#xed;zo pelos locat&#xe1;rios e sublocat&#xe1;rios poder&#xe3;o ser\nlevantados, mediante ordem judicial, para realiza&#xe7;&#xe3;o das obras ou servi&#xe7;os necess&#xe1;rios\n&#xe0; regulariza&#xe7;&#xe3;o do im&#xf3;vel. </font></p>\n\n<p id=\"art-25\"><font id=\"art-25\">\n<a name=\"art25\"></a>Art. 25. Atribu&#xed;da ao locat&#xe1;rio a responsabilidade pelo pagamento dos tributos, encargos\ne despesas ordin&#xe1;rias de condom&#xed;nio, o locador poder&#xe1; cobrar tais verbas juntamente com\no aluguel do m&#xea;s a que se refiram. </font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. Se o locador antecipar os pagamentos, a ele pertencer&#xe3;o as vantagens\nda&#xed; advindas, salvo se o locat&#xe1;rio reembols&#xe1; <i>-</i> lo integralmente. </font></p>\n\n<p id=\"art-26\"><font id=\"art-26\">\n<a name=\"art26\"></a>Art. 26. Necessitando o im&#xf3;vel de reparos urgentes, cuja realiza&#xe7;&#xe3;o incumba ao locador,\no locat&#xe1;rio &#xe9; obrigado a consenti <i>-</i> los.</font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. Se os reparos durarem mais de dez dias, o locat&#xe1;rio ter&#xe1; direito ao\nabatimento do aluguel, proporcional ao per&#xed;odo excedente; se mais de trinta dias, poder&#xe1; resilir o contrato. </font></p>\n<font>\n\n<p>SE&#xc7;&#xc3;O V</p>\n\n</font><p><font>Do direito de prefer&#xea;ncia</font></p>\n\n<p id=\"art-27\"><font id=\"art-27\">\n<a name=\"art27\"></a>Art. 27. No caso de venda, promessa de venda, cess&#xe3;o ou promessa de cess&#xe3;o de direitos\nou da&#xe7;&#xe3;o em pagamento, o locat&#xe1;rio tem prefer&#xea;ncia para adquirir o im&#xf3;vel locado, em\nigualdade de condi&#xe7;&#xf5;es com terceiros, devendo o locador dar <i>-</i> lhe conhecimento do\nneg&#xf3;cio mediante notifica&#xe7;&#xe3;o judicial, extrajudicial ou outro meio de ci&#xea;ncia\ninequ&#xed;voca. </font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. A comunica&#xe7;&#xe3;o dever&#xe1; conter todas as condi&#xe7;&#xf5;es do neg&#xf3;cio e, em\nespecial, o pre&#xe7;o, a forma de pagamento, a exist&#xea;ncia de &#xf4;nus reais, bem como o local e\nhor&#xe1;rio em que pode ser examinada a documenta&#xe7;&#xe3;o pertinente. </font></p>\n\n<p id=\"art-28\"><font id=\"art-28\">\n<a name=\"art28\"></a>Art. 28. O direito de prefer&#xea;ncia do locat&#xe1;rio caducar&#xe1; se n&#xe3;o manifestada, de maneira\ninequ&#xed;voca, sua aceita&#xe7;&#xe3;o integral &#xe0; proposta, no prazo de trinta dias. </font></p>\n\n<p id=\"art-29\"><font id=\"art-29\">\n<a name=\"art29\"></a>Art. 29. Ocorrendo aceita&#xe7;&#xe3;o da proposta, pelo locat&#xe1;rio, a posterior desist&#xea;ncia do\nneg&#xf3;cio pelo locador acarreta, a este, responsabilidade pelos preju&#xed;zos ocasionados,\ninclusive lucros cessantes. </font></p>\n\n<p id=\"art-30\"><font id=\"art-30\">\n<a name=\"art30\"></a>Art. 30. Estando o im&#xf3;vel sublocado em sua totalidade, caber&#xe1; a prefer&#xea;ncia ao\nsublocat&#xe1;rio e, em seguida, ao locat&#xe1;rio. Se forem v&#xe1;rios os sublocat&#xe1;rios, a\nprefer&#xea;ncia caber&#xe1; a todos, em comum, ou a qualquer deles, se um s&#xf3; for o interessado. </font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. Havendo pluralidade de pretendentes, caber&#xe1; a prefer&#xea;ncia ao\nlocat&#xe1;rio mais antigo, e, se da mesma data, ao mais idoso. </font></p>\n\n<p id=\"art-31\"><font id=\"art-31\">\n<a name=\"art31\"></a>Art. 31. Em se tratando de aliena&#xe7;&#xe3;o de mais de uma unidade imobili&#xe1;ria, o direito de\nprefer&#xea;ncia incidir&#xe1; sobre a totalidade dos bens objeto da aliena&#xe7;&#xe3;o. </font></p>\n\n<p id=\"art-32\"><font id=\"art-32\">\n<a name=\"art32\"></a>Art. 32. O direito de prefer&#xea;ncia n&#xe3;o alcan&#xe7;a os casos de perda da\npropriedade ou venda por decis&#xe3;o judicial, permuta, doa&#xe7;&#xe3;o, integraliza&#xe7;&#xe3;o de\ncapital, cis&#xe3;o, fus&#xe3;o e incorpora&#xe7;&#xe3;o. </font></p>\n<p><strike><small><font> \n<a name=\"art32p\"></a>Par&#xe1;grafo &#xfa;nico.&#xa0;&#xa0;Nos contratos firmados a\n    partir de 1<sup><u>o</u></sup> de outubro de 2001, o direito de prefer&#xea;ncia \nde que trata este artigo n&#xe3;o alcan&#xe7;ar&#xe1; tamb&#xe9;m os casos de constitui&#xe7;&#xe3;o da \npropriedade fiduci&#xe1;ria e de perda da propriedade ou venda por quaisquer formas \nde realiza&#xe7;&#xe3;o de garantia, inclusive mediante leil&#xe3;o extrajudicial, devendo essa \ncondi&#xe7;&#xe3;o constar expressamente em cl&#xe1;usula contratual espec&#xed;fica, destacando-se \ndas demais por sua apresenta&#xe7;&#xe3;o gr&#xe1;fica.\n<a href=\"../MPV/Antigas_2001/2223.htm#art23\">(Inclu&#xed;do pela Medida Provis&#xf3;ria n&#xba; \n2.223, de 2001)</a></font></small></strike></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. Nos contratos firmados a partir de 1<sup><u>o</u></sup> de outubro de\n2001, o direito de prefer&#xea;ncia de que trata este artigo n&#xe3;o alcan&#xe7;ar&#xe1; tamb&#xe9;m os casos\nde constitui&#xe7;&#xe3;o da propriedade fiduci&#xe1;ria e de perda da propriedade ou venda por\nquaisquer formas de realiza&#xe7;&#xe3;o de garantia, inclusive mediante leil&#xe3;o extrajudicial,\ndevendo essa condi&#xe7;&#xe3;o constar expressamente em cl&#xe1;usula contratual espec&#xed;fica,\ndestacando-se das demais por sua apresenta&#xe7;&#xe3;o gr&#xe1;fica. <a href=\"../_Ato2004-2006/2004/Lei/L10.931.htm#art61\">(Inclu&#xed;do pela Lei n&#xba; 10.931, de\n2004)</a></font></p>\n\n<p id=\"art-33\"><font id=\"art-33\">\n<a name=\"art33\"></a>Art. 33. O locat&#xe1;rio preterido no seu direito de prefer&#xea;ncia poder&#xe1; reclamar do\nalienante as perdas e danos ou, depositando o pre&#xe7;o e demais despesas do ato de\ntransfer&#xea;ncia, haver para si o im&#xf3;vel locado, se o requerer no prazo de seis meses, a\ncontar do registro do ato no cart&#xf3;rio de im&#xf3;veis, desde que o contrato de loca&#xe7;&#xe3;o\nesteja averbado pelo menos trinta dias antes da aliena&#xe7;&#xe3;o junto &#xe0; matr&#xed;cula do\nim&#xf3;vel. </font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. A averba&#xe7;&#xe3;o far <i>-</i> se <i>-</i> &#xe1; &#xe0; vista de qualquer das vias\ndo contrato de loca&#xe7;&#xe3;o desde que subscrito tamb&#xe9;m por duas testemunhas. </font></p>\n\n<p id=\"art-34\"><font id=\"art-34\">\n<a name=\"art34\"></a>Art. 34. Havendo condom&#xed;nio no im&#xf3;vel, a prefer&#xea;ncia do cond&#xf4;mino ter&#xe1; prioridade\nsobre a do locat&#xe1;rio. </font></p>\n<font>\n\n<p>SE&#xc7;&#xc3;O VI</p>\n\n</font><p><font>Das benfeitorias</font></p>\n\n<p id=\"art-35\"><font id=\"art-35\">\n<a name=\"art35\"></a>Art. 35. Salvo expressa disposi&#xe7;&#xe3;o contratual em contr&#xe1;rio, as benfeitorias\nnecess&#xe1;rias introduzidas pelo locat&#xe1;rio, ainda que n&#xe3;o autorizadas pelo locador, bem\ncomo as &#xfa;teis, desde que autorizadas, ser&#xe3;o indeniz&#xe1;veis e permitem o exerc&#xed;cio do\ndireito de reten&#xe7;&#xe3;o. </font></p>\n\n<p id=\"art-36\"><font id=\"art-36\">\n<a name=\"art36\"></a>Art. 36. As benfeitorias voluptu&#xe1;rias n&#xe3;o ser&#xe3;o indeniz&#xe1;veis, podendo ser levantadas\npelo locat&#xe1;rio, finda a loca&#xe7;&#xe3;o, desde que sua retirada n&#xe3;o afete a estrutura e a\nsubst&#xe2;ncia do im&#xf3;vel. </font></p>\n<font>\n\n<p>SE&#xc7;&#xc3;O VII</p>\n\n</font><p><font>Das garantias locat&#xed;cias</font></p>\n\n<p id=\"art-37\"><font id=\"art-37\"><a name=\"art37\"></a>Art. 37. No contrato de loca&#xe7;&#xe3;o, pode o locador exigir do locat&#xe1;rio as seguintes\nmodalidades de garantia: </font></p>\n\n<p><font>I -\ncau&#xe7;&#xe3;o; </font></p>\n\n<p><font>II\n- fian&#xe7;a; </font></p>\n\n<p><font>III\n- seguro de fian&#xe7;a locat&#xed;cia. </font></p>\n\n<p><font><a name=\"art37iv\"></a>IV - cess&#xe3;o fiduci&#xe1;ria de quotas de fundo de investimento. <a href=\"../_Ato2004-2006/2005/Lei/L11196.htm#art89\">(Inclu&#xed;do pela Lei n&#xba; 11.196, de 2005)</a></font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. &#xc9; vedada, sob pena de nulidade, mais de uma das modalidades de\ngarantia num mesmo contrato de loca&#xe7;&#xe3;o. </font></p>\n\n<p id=\"art-38\"><font id=\"art-38\"><a name=\"art38\"></a>Art. 38. A cau&#xe7;&#xe3;o poder&#xe1; ser em bens m&#xf3;veis ou im&#xf3;veis. </font></p>\n\n<p><font>&#xa7;\n1&#xba; A cau&#xe7;&#xe3;o em bens m&#xf3;veis dever&#xe1; ser registrada em cart&#xf3;rio de t&#xed;tulos e\ndocumentos; a em bens im&#xf3;veis dever&#xe1; ser averbada &#xe0; margem da respectiva matr&#xed;cula. </font></p>\n\n<p><font>&#xa7;\n2&#xba; A cau&#xe7;&#xe3;o em dinheiro, que n&#xe3;o poder&#xe1; exceder o equivalente a tr&#xea;s meses de\naluguel, ser&#xe1; depositada em caderneta de poupan&#xe7;a, autorizada, pelo Poder P&#xfa;blico e por\nele regulamentada, revertendo em benef&#xed;cio do locat&#xe1;rio todas as vantagens dela\ndecorrentes por ocasi&#xe3;o do levantamento da soma respectiva. </font></p>\n\n<p><font>&#xa7;\n3&#xba; A cau&#xe7;&#xe3;o em t&#xed;tulos e a&#xe7;&#xf5;es dever&#xe1; ser substitu&#xed;da, no prazo de trinta dias, em\ncaso de concordata, fal&#xea;ncia ou liquida&#xe7;&#xe3;o das sociedades emissoras. </font></p>\n\n<p id=\"art-39\"><strike id=\"art-39\"><font id=\"art-39\"><a name=\"art39.\"></a>Art. 39. Salvo disposi&#xe7;&#xe3;o contratual em contr&#xe1;rio, qualquer das garantias da loca&#xe7;&#xe3;o\nse estende at&#xe9; a efetiva devolu&#xe7;&#xe3;o do im&#xf3;vel. </font></strike></p>\n<p id=\"art-39\">\n\n<font id=\"art-39\">\n\n<span id=\"art-39\"><a name=\"art39\">\n</a>Art. 39.&#xa0; Salvo disposi&#xe7;&#xe3;o contratual em contr&#xe1;rio, qualquer das \ngarantias da loca&#xe7;&#xe3;o se estende at&#xe9; a efetiva devolu&#xe7;&#xe3;o do im&#xf3;vel, ainda que \nprorrogada a loca&#xe7;&#xe3;o por prazo indeterminado, por for&#xe7;a desta Lei.&#xa0;\n<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; \n12.112, de 2009)</a></span></font></p>\n\n<p id=\"art-40\"><font id=\"art-40\"><a name=\"art40\"></a>Art. 40. O locador poder&#xe1; exigir novo fiador ou a substitui&#xe7;&#xe3;o da modalidade de\ngarantia, nos seguintes casos: </font></p>\n\n<p><font>I -\nmorte do fiador; </font></p>\n\n<p><font><strike> II\n- aus&#xea;ncia, interdi&#xe7;&#xe3;o, fal&#xea;ncia ou insolv&#xea;ncia do fiador, declaradas judicialmente;\n</strike> </font></p>\n<p><font><span>\n<a name=\"art40ii\"></a>II &#x2013; aus&#xea;ncia, interdi&#xe7;&#xe3;o, recupera&#xe7;&#xe3;o judicial, \nfal&#xea;ncia ou insolv&#xea;ncia do fiador, declaradas judicialmente;&#xa0; \n<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; \n12.112, de 2009)</a></span></font></p>\n\n<p><font>III\n- aliena&#xe7;&#xe3;o ou grava&#xe7;&#xe3;o de todos os bens im&#xf3;veis do fiador ou sua mudan&#xe7;a de\nresid&#xea;ncia sem comunica&#xe7;&#xe3;o ao locador; </font></p>\n\n<p><font>IV\n- exonera&#xe7;&#xe3;o do fiador; </font></p>\n\n<p><font>V -\nprorroga&#xe7;&#xe3;o da loca&#xe7;&#xe3;o por prazo indeterminado, sendo a fian&#xe7;a ajustada por prazo\ncerto; </font></p>\n\n<p><font>VI\n- desaparecimento dos bens m&#xf3;veis; </font></p>\n\n<p><font>VII\n- desapropria&#xe7;&#xe3;o ou aliena&#xe7;&#xe3;o do im&#xf3;vel. </font></p>\n<font id=\"art-37\">\n\n<p><a name=\"art40viii\"></a>VIII\n- exonera&#xe7;&#xe3;o de garantia constitu&#xed;da por quotas de fundo de investimento; <a href=\"../_Ato2004-2006/2005/Lei/L11196.htm#art89\">(Inclu&#xed;do pela Lei n&#xba; 11.196, de 2005)</a></p>\n\n<p id=\"art-37\"><a name=\"art40ix\">\n</a>IX - liquida&#xe7;&#xe3;o ou\nencerramento do fundo de investimento de que trata o inciso IV do art. 37 desta Lei. <a href=\"../_Ato2004-2006/2005/Lei/L11196.htm#art89\">(Inclu&#xed;do pela Lei n&#xba; 11.196, de 2005)</a></p>\n<p><span>\n<a name=\"art40x\"></a>X &#x2013; prorroga&#xe7;&#xe3;o da loca&#xe7;&#xe3;o por prazo indeterminado uma vez \nnotificado o locador pelo fiador de sua inten&#xe7;&#xe3;o de desonera&#xe7;&#xe3;o, ficando \nobrigado por todos os efeitos da fian&#xe7;a, durante 120 (cento e vinte) dias ap&#xf3;s a \nnotifica&#xe7;&#xe3;o ao locador. \n<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Inclu&#xed;do pela Lei n&#xba; \n12.112, de 2009)</a></span></p>\n<p><span>\nPar&#xe1;grafo &#xfa;nico.&#xa0; O locador poder&#xe1; notificar o locat&#xe1;rio para apresentar \nnova garantia locat&#xed;cia no prazo de 30 (trinta) dias, sob pena de desfazimento \nda loca&#xe7;&#xe3;o. \n<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Inclu&#xed;do pela Lei n&#xba; \n12.112, de 2009)</a></span></p>\n</font>\n\n<p id=\"art-41\"><font id=\"art-41\"><a name=\"art41\"></a>Art. 41. O seguro de fian&#xe7;a locat&#xed;cia abranger&#xe1; a totalidade das obriga&#xe7;&#xf5;es do\nlocat&#xe1;rio. </font></p>\n\n<p id=\"art-42\"><font id=\"art-42\"><a name=\"art42\"></a>Art. 42. N&#xe3;o estando a loca&#xe7;&#xe3;o garantida por qualquer das modalidades, o locador\npoder&#xe1; exigir do locat&#xe1;rio o pagamento do aluguel e encargos at&#xe9; o sexto dia &#xfa;til do\nm&#xea;s vincendo. </font></p>\n<font>\n\n<p>SE&#xc7;&#xc3;O VIII</p>\n\n</font><p><font>Das penalidades criminais e civis</font></p>\n\n<p id=\"art-43\"><font id=\"art-43\">\n<a name=\"art43\"></a>Art. 43. Constitui contraven&#xe7;&#xe3;o penal, pun&#xed;vel com pris&#xe3;o simples de cinco dias a seis\nmeses ou multa de tr&#xea;s a doze meses do valor do &#xfa;ltimo aluguel atualizado, revertida em\nfavor do locat&#xe1;rio: </font></p>\n\n<p><font>I -\nexigir, por motivo de loca&#xe7;&#xe3;o ou subloca&#xe7;&#xe3;o, quantia ou valor al&#xe9;m do aluguel e\nencargos permitidos; </font></p>\n\n<p><font>II\n- exigir, por motivo de loca&#xe7;&#xe3;o ou subloca&#xe7;&#xe3;o, mais de uma modalidade de garantia num\nmesmo contrato de loca&#xe7;&#xe3;o; </font></p>\n\n<p id=\"art-42\"><font id=\"art-42\">III\n- cobrar antecipadamente o aluguel, salvo a hip&#xf3;tese do art. 42 e da loca&#xe7;&#xe3;o para\ntemporada. </font></p>\n\n<p id=\"art-44\"><font id=\"art-44\">\n<a name=\"art44\"></a>Art. 44. Constitui crime de a&#xe7;&#xe3;o p&#xfa;blica, pun&#xed;vel com deten&#xe7;&#xe3;o de tr&#xea;s meses a um\nano, que poder&#xe1; ser substitu&#xed;da pela presta&#xe7;&#xe3;o de servi&#xe7;os &#xe0; comunidade: </font></p>\n\n<p><font>I -\nrecusar <i>-</i> se o locador ou sublocador, nas habita&#xe7;&#xf5;es coletivas multifamiliares, a\nfornecer recibo discriminado do aluguel e encargos; </font></p>\n\n<p id=\"art-47\"><font id=\"art-47\">II\n- deixar o retomante, dentro de cento e oitenta dias ap&#xf3;s a entrega do im&#xf3;vel, no caso\ndo inciso III do art. 47, de us&#xe1; <i>-</i> lo para o fim declarado ou, usando <i>-</i> o ,\nn&#xe3;o o fizer pelo prazo m&#xed;nimo de um ano; </font></p>\n\n<p id=\"art-9\"><font id=\"art-9\">III\n- n&#xe3;o iniciar o propriet&#xe1;rio, promiss&#xe1;rio comprador ou promiss&#xe1;rio cession&#xe1;rio, nos\ncasos do inciso IV do art. 9&#xba;, inciso IV do art. 47, inciso I do art. 52 e inciso II do\nart. 53, a demoli&#xe7;&#xe3;o ou a repara&#xe7;&#xe3;o do im&#xf3;vel, dentro de sessenta dias contados de\nsua entrega; </font></p>\n\n<p id=\"art-65\"><font id=\"art-65\">IV\n- executar o despejo com inobserv&#xe2;ncia do disposto no &#xa7; 2&#xba; do art. 65. </font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. Ocorrendo qualquer das hip&#xf3;teses previstas neste artigo, poder&#xe1; o\nprejudicado reclamar, em processo pr&#xf3;prio, multa equivalente a um m&#xed;nimo de doze e um\nm&#xe1;ximo de vinte e quatro meses do valor do &#xfa;ltimo aluguel atualizado ou do que esteja\nsendo cobrado do novo locat&#xe1;rio, se realugado o im&#xf3;vel. </font></p>\n<font>\n\n<p>SE&#xc7;&#xc3;O IX</p>\n\n</font><p><font>Das nulidades</font></p>\n\n<p id=\"art-45\"><font id=\"art-45\">\n<a name=\"art45\"></a>Art. 45. S&#xe3;o nulas de pleno direito as cl&#xe1;usulas do contrato de loca&#xe7;&#xe3;o que visem a\nelidir os objetivos da presente lei, notadamente as que pro&#xed;bam a prorroga&#xe7;&#xe3;o prevista\nno art. 47, ou que afastem o direito &#xe0; renova&#xe7;&#xe3;o, na hip&#xf3;tese do art. 51, ou que\nimponham obriga&#xe7;&#xf5;es pecuni&#xe1;rias para tanto. </font></p>\n<font>\n\n<p>CAP&#xcd;TULO II</p>\n\n<p>Das Disposi&#xe7;&#xf5;es Especiais</p>\n\n<p>SE&#xc7;&#xc3;O I</p>\n\n</font><p><font>Da loca&#xe7;&#xe3;o residencial</font></p>\n\n<p id=\"art-46\"><font id=\"art-46\">\n<a name=\"art46\"></a>Art. 46. Nas loca&#xe7;&#xf5;es ajustadas por escrito e por prazo igual ou superior a trinta\nmeses, a resolu&#xe7;&#xe3;o do contrato ocorrer&#xe1; findo o prazo estipulado, independentemente de\nnotifica&#xe7;&#xe3;o ou aviso. </font></p>\n\n<p><font>&#xa7;\n1&#xba; Findo o prazo ajustado, se o locat&#xe1;rio continuar na posse do im&#xf3;vel alugado por mais\nde trinta dias sem oposi&#xe7;&#xe3;o do locador, presumir <i>-</i> se <i>-</i> &#xe1; prorrogada a\nloca&#xe7;&#xe3;o por prazo indeterminado, mantidas as demais cl&#xe1;usulas e condi&#xe7;&#xf5;es do\ncontrato. </font></p>\n\n<p><font>&#xa7;\n2&#xba; Ocorrendo a prorroga&#xe7;&#xe3;o, o locador poder&#xe1; denunciar o contrato a qualquer tempo,\nconcedido o prazo de trinta dias para desocupa&#xe7;&#xe3;o. </font></p>\n\n<p id=\"art-47\"><font id=\"art-47\">\n<a name=\"art47\"></a>Art. 47. Quando ajustada verbalmente ou por escrito e como prazo inferior a trinta meses,\nfindo o prazo estabelecido, a loca&#xe7;&#xe3;o prorroga <i>-</i> se automaticamente, por prazo\nindeterminado, somente podendo ser retomado o im&#xf3;vel: </font></p>\n\n<p id=\"art-9\"><font id=\"art-9\">I -\nNos casos do art. 9&#xba;; </font></p>\n\n<p><font>II - em \ndecorr&#xea;ncia de extin&#xe7;&#xe3;o do contrato de trabalho, se a ocupa&#xe7;&#xe3;o do im&#xf3;vel pelo \nlocat&#xe1;rio relacionada com o seu&#xa0;&#xa0;&#xa0;&#xa0; emprego; </font></p>\n\n<p><font>III\n- se for pedido para uso pr&#xf3;prio, de seu c&#xf4;njuge ou companheiro, ou para uso residencial\nde ascendente ou descendente que n&#xe3;o disponha, assim como seu c&#xf4;njuge ou companheiro, de\nim&#xf3;vel residencial pr&#xf3;prio; </font></p>\n\n<p><font>IV\n- se for pedido para demoli&#xe7;&#xe3;o e edifica&#xe7;&#xe3;o licenciada ou para a realiza&#xe7;&#xe3;o de obras\naprovadas pelo Poder P&#xfa;blico, que aumentem a &#xe1;rea constru&#xed;da, em, no m&#xed;nimo, vinte por\ncento ou, se o im&#xf3;vel for destinado a explora&#xe7;&#xe3;o de hotel ou pens&#xe3;o, em cinq&#xfc;enta por\ncento; </font></p>\n\n<p><font>V -\nse a vig&#xea;ncia ininterrupta da loca&#xe7;&#xe3;o ultrapassar cinco anos. </font></p>\n\n<p><font>&#xa7;\n1&#xba; Na hip&#xf3;tese do inciso III, a necessidade dever&#xe1; ser judicialmente demonstrada, se: </font></p>\n\n<p><font>a)\nO retomante, alegando necessidade de usar o im&#xf3;vel, estiver ocupando, com a mesma\nfinalidade, outro de sua propriedade situado nas mesma localidade ou, residindo ou\nutilizando im&#xf3;vel alheio, j&#xe1; tiver retomado o im&#xf3;vel anteriormente; </font></p>\n\n<p><font>b)\no ascendente ou descendente, benefici&#xe1;rio da retomada, residir em im&#xf3;vel pr&#xf3;prio. </font></p>\n\n<p><font>&#xa7;\n2&#xba; Nas hip&#xf3;teses dos incisos III e IV, o retomante dever&#xe1; comprovar ser propriet&#xe1;rio,\npromiss&#xe1;rio comprador ou promiss&#xe1;rio cession&#xe1;rio, em car&#xe1;ter irrevog&#xe1;vel, com\nimiss&#xe3;o na posse do im&#xf3;vel e t&#xed;tulo registrado junto &#xe0; matr&#xed;cula do mesmo. </font></p>\n<font>\n\n<p>SE&#xc7;&#xc3;O II</p>\n\n</font><p><font>Das loca&#xe7;&#xe3;o para temporada</font></p>\n\n<p id=\"art-48\"><font id=\"art-48\">\n<a name=\"art48\"></a>Art. 48. Considera <i>-</i> se loca&#xe7;&#xe3;o para temporada aquela destinada &#xe0; resid&#xea;ncia\ntempor&#xe1;ria do locat&#xe1;rio, para pr&#xe1;tica de lazer, realiza&#xe7;&#xe3;o de cursos, tratamento de\nsa&#xfa;de, feitura de obras em seu im&#xf3;vel, e outros fatos que decorrem t&#xe3;o-somente de\ndeterminado tempo, e contratada por prazo n&#xe3;o superior a noventa dias, esteja ou n&#xe3;o\nmobiliado o im&#xf3;vel. </font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. No caso de a loca&#xe7;&#xe3;o envolver im&#xf3;vel mobiliado, constar&#xe1; do\ncontrato, obrigatoriamente, a descri&#xe7;&#xe3;o dos m&#xf3;veis e utens&#xed;lios que o guarnecem, bem\ncomo o estado em que se encontram. </font></p>\n\n<p id=\"art-49\"><font id=\"art-49\">\n<a name=\"art49\"></a>Art. 49. O locador poder&#xe1; receber de uma s&#xf3; vez e antecipadamente os alugu&#xe9;is e\nencargos, bem como exigir qualquer das modalidades de garantia previstas no art. 37 para\natender as demais obriga&#xe7;&#xf5;es do contrato. </font></p>\n\n<p id=\"art-50\"><font id=\"art-50\">\n<a name=\"art50\"></a>Art. 50. Findo o prazo ajustado, se o locat&#xe1;rio permanecer no im&#xf3;vel sem oposi&#xe7;&#xe3;o do\nlocador por mais de trinta dias, presumir <i>-</i> se <i>-</i> &#xe1; prorrogada a loca&#xe7;&#xe3;o\npor tempo indeterminado, n&#xe3;o mais sendo exig&#xed;vel o pagamento antecipado do aluguel e dos\nencargos. </font></p>\n\n<p id=\"art-47\"><font id=\"art-47\">Par&#xe1;grafo &#xfa;nico. Ocorrendo a prorroga&#xe7;&#xe3;o, o locador somente poder&#xe1; denunciar o\ncontrato ap&#xf3;s trinta meses de seu in&#xed;cio ou nas hip&#xf3;teses do art. 47. </font></p>\n<font>\n\n<p>SE&#xc7;&#xc3;O III</p>\n\n</font><p><font>Da loca&#xe7;&#xe3;o n&#xe3;o residencial</font></p>\n\n<p id=\"art-51\"><font id=\"art-51\">\n<a name=\"art51\"></a>Art. 51. Nas loca&#xe7;&#xf5;es de im&#xf3;veis destinados ao com&#xe9;rcio, o locat&#xe1;rio ter&#xe1; direito a\nrenova&#xe7;&#xe3;o do contrato, por igual prazo, desde que, cumulativamente: </font></p>\n\n<p><font>I - o \ncontrato a renovar tenha sido celebrado por escrito e com prazo determinado; </font></p>\n\n<p><font>II\n- o prazo m&#xed;nimo do contrato a renovar ou a soma dos prazos ininterruptos dos contratos\nescritos seja de cinco anos; </font></p>\n\n<p><font>III\n- o locat&#xe1;rio esteja explorando seu com&#xe9;rcio, no mesmo ramo, pelo prazo m&#xed;nimo e\nininterrupto de tr&#xea;s anos. </font></p>\n\n<p><font>&#xa7; 1&#xba;\nO direito assegurado neste artigo poder&#xe1; ser exercido pelos cession&#xe1;rios ou sucessores\nda loca&#xe7;&#xe3;o; no caso de subloca&#xe7;&#xe3;o total do im&#xf3;vel, o direito a renova&#xe7;&#xe3;o somente\npoder&#xe1; ser exercido pelo sublocat&#xe1;rio. </font></p>\n\n<p><font>&#xa7; 2&#xba;\nQuando o contrato autorizar que o locat&#xe1;rio utilize o im&#xf3;vel para as atividades de\nsociedade de que fa&#xe7;a parte e que a esta passe a pertencer o fundo de com&#xe9;rcio, o\ndireito a renova&#xe7;&#xe3;o poder&#xe1; ser exercido pelo locat&#xe1;rio ou pela sociedade. </font></p>\n\n<p><font>&#xa7; 3&#xba;\nDissolvida a sociedade comercial por morte de um dos s&#xf3;cios, o s&#xf3;cio sobrevivente fica sub <i>-</i> rogado no direito a renova&#xe7;&#xe3;o, desde que continue no mesmo ramo. </font></p>\n\n<p><font>&#xa7; 4&#xba;\nO direito a renova&#xe7;&#xe3;o do contrato estende <i>-</i> se &#xe0;s loca&#xe7;&#xf5;es celebradas por\nind&#xfa;strias e sociedades civis com fim lucrativo, regularmente constitu&#xed;das, desde que\nocorrentes os pressupostos previstos neste artigo. </font></p>\n\n<p><font>&#xa7; 5&#xba;\nDo direito a renova&#xe7;&#xe3;o decai aquele que n&#xe3;o propuser a a&#xe7;&#xe3;o no interregno de um ano,\nno m&#xe1;ximo, at&#xe9; seis meses, no m&#xed;nimo, anteriores &#xe0; data da finaliza&#xe7;&#xe3;o do prazo do\ncontrato em vigor. </font></p>\n\n<p id=\"art-52\"><font id=\"art-52\">\n<a name=\"art52\"></a>Art. 52. O locador n&#xe3;o estar&#xe1; obrigado a renovar o contrato se: </font></p>\n\n<p><font>I -\npor determina&#xe7;&#xe3;o do Poder P&#xfa;blico, tiver que realizar no im&#xf3;vel obras que importarem\nna sua radical transforma&#xe7;&#xe3;o; ou para fazer modifica&#xe7;&#xf5;es de tal natureza que aumente o\nvalor do neg&#xf3;cio ou da propriedade; </font></p>\n\n<p><font>II\n- o im&#xf3;vel vier a ser utilizado por ele pr&#xf3;prio ou para transfer&#xea;ncia de fundo de\ncom&#xe9;rcio existente h&#xe1; mais de um ano, sendo detentor da maioria do capital o locador,\nseu c&#xf4;njuge, ascendente ou descendente. </font></p>\n\n<p><font>&#xa7; 1&#xba;\nNa hip&#xf3;tese do inciso II, o im&#xf3;vel n&#xe3;o poder&#xe1; ser destinado ao uso do mesmo ramo do\nlocat&#xe1;rio, salvo se a loca&#xe7;&#xe3;o tamb&#xe9;m envolvia o fundo de com&#xe9;rcio, com as\ninstala&#xe7;&#xf5;es e pertences. </font></p>\n\n<p><font>&#xa7; 2&#xba;\nNas loca&#xe7;&#xf5;es de espa&#xe7;o em <i>shopping centers </i>, o locador n&#xe3;o poder&#xe1; recusar a\nrenova&#xe7;&#xe3;o do contrato com fundamento no inciso II deste artigo. </font></p>\n\n<p><font>&#xa7; 3&#xba;\nO locat&#xe1;rio ter&#xe1; direito a indeniza&#xe7;&#xe3;o para ressarcimento dos preju&#xed;zos e dos lucros\ncessantes que tiver que arcar com mudan&#xe7;a, perda do lugar e desvaloriza&#xe7;&#xe3;o do fundo de\ncom&#xe9;rcio, se a renova&#xe7;&#xe3;o n&#xe3;o ocorrer em raz&#xe3;o de proposta de terceiro, em melhores\ncondi&#xe7;&#xf5;es, ou se o locador, no prazo de tr&#xea;s meses da entrega do im&#xf3;vel, n&#xe3;o der o\ndestino alegado ou n&#xe3;o iniciar as obras determinadas pelo Poder P&#xfa;blico ou que declarou\npretender realizar. </font></p>\n\n<p id=\"art-53\"><font id=\"art-53\">\n<strike id=\"art-53\">\n<a name=\"art53.\"></a>Art.\n53. Nas loca&#xe7;&#xf5;es de im&#xf3;veis utilizados por hospitais, unidades sanit&#xe1;rias oficiais,\nasilos, bem como de estabelecimento de sa&#xfa;de e de ensino autorizados e fiscalizados pelo\nPoder P&#xfa;blico, o contrato somente poder&#xe1; ser rescindido: </strike></font></p>\n\n<p id=\"art-53\"><font id=\"art-53\">\n<a name=\"art53\"></a><small id=\"art-53\">Art. 53 - Nas loca&#xe7;&#xf5;es de im&#xf3;veis utilizados por hospitais,\nunidades sanit&#xe1;rias oficiais, asilos, estabelecimentos de sa&#xfa;de e de ensino autorizados\ne fiscalizados pelo Poder P&#xfa;blico, bem como por entidades religiosas devidamente\nregistradas, o contrato somente poder&#xe1; ser rescindido. <a href=\"L9256.htm\">(Reda&#xe7;&#xe3;o\ndada pela Lei n&#xba; 9.256, de 9.1.1996)</a></small></font></p>\n\n<p id=\"art-9\"><font id=\"art-9\">I -\nnas hip&#xf3;teses do art. 9&#xba;; </font></p>\n\n<p><font>II\n- se o propriet&#xe1;rio, promiss&#xe1;rio comprador ou promiss&#xe1;rio cession&#xe1;rio, em car&#xe1;ter\nirrevog&#xe1;vel e imitido na posse, com t&#xed;tulo registrado, que haja quitado o pre&#xe7;o da\npromessa ou que, n&#xe3;o o tendo feito, seja autorizado pelo propriet&#xe1;rio, pedir o im&#xf3;vel\npara demoli&#xe7;&#xe3;o, edifica&#xe7;&#xe3;o, licenciada ou reforma que venha a resultar em aumento\nm&#xed;nimo de cinq&#xfc;enta por cento da &#xe1;rea &#xfa;til. </font></p>\n\n<p id=\"art-54\"><font id=\"art-54\">\n<a name=\"art54\"></a>Art. 54. Nas rela&#xe7;&#xf5;es entre lojistas e empreendedores de <i>shopping center </i>,\nprevalecer&#xe3;o as condi&#xe7;&#xf5;es livremente pactuadas nos contratos de loca&#xe7;&#xe3;o respectivos e\nas disposi&#xe7;&#xf5;es procedimentais previstas nesta lei. </font></p>\n\n<p><font>&#xa7; 1&#xba;\nO empreendedor n&#xe3;o poder&#xe1; cobrar do locat&#xe1;rio em <i>shopping center </i>:</font></p>\n\n<p id=\"art-22\"><font id=\"art-22\">a)\nas despesas referidas nas al&#xed;neas <i>a</i> , <i>b</i> e <i>d</i> do par&#xe1;grafo &#xfa;nico do\nart. 22; e </font></p>\n\n<p><font>b)\nas despesas com obras ou substitui&#xe7;&#xf5;es de equipamentos, que impliquem modificar o\nprojeto ou o memorial descritivo da data do habite <i>-</i> se e obras de paisagismo nas\npartes de uso comum. </font></p>\n\n<p><font>&#xa7; 2&#xba;\nAs despesas cobradas do locat&#xe1;rio devem ser previstas em or&#xe7;amento, salvo casos de\nurg&#xea;ncia ou for&#xe7;a maior, devidamente demonstradas, podendo o locat&#xe1;rio, a cada sessenta\ndias, por si ou entidade de classe exigir a comprova&#xe7;&#xe3;o das mesmas.</font></p>\n\n<font id=\"art-54\">\n\n\t\t<p id=\"art-54\">\n\t\t<a name=\"art54a\"></a>Art. 54-A. &#xa0;Na loca&#xe7;&#xe3;o n&#xe3;o residencial de im&#xf3;vel urbano na qual o \n\t\tlocador procede &#xe0; pr&#xe9;via aquisi&#xe7;&#xe3;o, constru&#xe7;&#xe3;o ou substancial reforma, \n\t\tpor si mesmo ou por terceiros, do im&#xf3;vel ent&#xe3;o especificado pelo \n\t\tpretendente &#xe0; loca&#xe7;&#xe3;o, a fim de que seja a este locado por prazo \n\t\tdeterminado, prevalecer&#xe3;o as condi&#xe7;&#xf5;es livremente pactuadas no contrato \n\t\trespectivo e as disposi&#xe7;&#xf5;es procedimentais previstas nesta Lei.<span>&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n\t\t<a href=\"../_Ato2011-2014/2012/Lei/L12744.htm#art3\">(Inclu&#xed;do pela Lei n&#xba; \n12.744, de 2012)</a></span></p>\n\t\t<p>\n\t\t&#xa7; 1<u><sup>o</sup></u> &#xa0;Poder&#xe1; ser convencionada a ren&#xfa;ncia ao direito \n\t\tde revis&#xe3;o do valor dos alugu&#xe9;is durante o prazo de vig&#xea;ncia do contrato \n\t\tde loca&#xe7;&#xe3;o.<span>&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n\t\t<a href=\"../_Ato2011-2014/2012/Lei/L12744.htm#art3\">(Inclu&#xed;do pela Lei n&#xba; \n12.744, de 2012)</a></span></p>\n\t\t<p>\n\t\t&#xa7; 2<u><sup>o</sup></u> &#xa0;Em caso de den&#xfa;ncia antecipada do v&#xed;nculo \n\t\tlocat&#xed;cio pelo locat&#xe1;rio, compromete-se este a cumprir a multa \n\t\tconvencionada, que n&#xe3;o exceder&#xe1;, por&#xe9;m, a soma dos valores dos alugu&#xe9;is \n\t\ta receber at&#xe9; o termo final da loca&#xe7;&#xe3;o.&#xa0;<span>&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n\t\t<a href=\"../_Ato2011-2014/2012/Lei/L12744.htm#art3\">(Inclu&#xed;do pela Lei n&#xba; \n12.744, de 2012)</a></span></p>\n\t\t<p>\n\t\t&#xa7; 3<u><sup>o</sup></u> &#xa0;(VETADO).<span>&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;\n\t\t<a href=\"../_Ato2011-2014/2012/Lei/L12744.htm#art3\">(Inclu&#xed;do pela Lei n&#xba; \n12.744, de 2012)</a></span></p>\n\n</font>\n\n<p id=\"art-55\"><font id=\"art-55\">\n<a name=\"art55\"></a>Art. 55. Considera <i>-</i> se loca&#xe7;&#xe3;o n&#xe3;o residencial quando o locat&#xe1;rio for pessoa\njur&#xed;dica e o im&#xf3;vel, destinar <i>-</i> se ao uso de seus titulares, diretores, s&#xf3;cios,\ngerentes, executivos ou empregados. </font></p>\n\n<p id=\"art-56\"><font id=\"art-56\">\n<a name=\"art56\"></a>Art. 56. Nos demais casos de loca&#xe7;&#xe3;o n&#xe3;o residencial, o contrato por prazo determinado\ncessa, de pleno direito, findo o prazo estipulado, independentemente de notifica&#xe7;&#xe3;o ou\naviso. </font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. Findo o prazo estipulado, se o locat&#xe1;rio permanecer no im&#xf3;vel por\nmais de trinta dias sem oposi&#xe7;&#xe3;o do locador, presumir <i>-</i> se <i>-</i> &#xe1; prorrogada\na loca&#xe7;&#xe3;o nas condi&#xe7;&#xf5;es ajustadas, mas sem prazo determinado. </font></p>\n\n<p id=\"art-57\"><font id=\"art-57\">\n<a name=\"art57\"></a>Art. 57. O contrato de loca&#xe7;&#xe3;o por prazo indeterminado pode ser denunciado por escrito,\npelo locador, concedidos ao locat&#xe1;rio trinta dias para a desocupa&#xe7;&#xe3;o. </font></p>\n<font>\n\n<p>T&#xcd;TULO II</p>\n\n<p>Dos Procedimentos</p>\n\n<p>CAP&#xcd;TULO I</p>\n\n</font><p><font>Das Disposi&#xe7;&#xf5;es Gerais</font></p>\n\n<p id=\"art-58\"><font id=\"art-58\">\n<a name=\"art58\"></a>Art. 58. Ressalvados os casos previstos no par&#xe1;grafo &#xfa;nico do art. 1&#xba;, nas a&#xe7;&#xf5;es de\ndespejo, consigna&#xe7;&#xe3;o em pagamento de aluguel e acess&#xf3;rio da loca&#xe7;&#xe3;o, revisionais de\naluguel e renovat&#xf3;rias de loca&#xe7;&#xe3;o, observar <i>-</i> se <i>-</i> &#xe1; o seguinte: </font></p>\n\n<p><font>I -\nos processos tramitam durante as f&#xe9;rias forenses e n&#xe3;o se suspendem pela superveni&#xea;ncia\ndelas; </font></p>\n\n<p><font>II\n- &#xe9; competente para conhecer e julgar tais a&#xe7;&#xf5;es o foro do lugar da situa&#xe7;&#xe3;o do\nim&#xf3;vel, salvo se outro houver sido eleito no contrato; </font></p>\n\n<p id=\"art-47\"><font id=\"art-47\">III\n- o valor da causa corresponder&#xe1; a doze meses de aluguel, ou, na hip&#xf3;tese do inciso II\ndo art. 47, a tr&#xea;s sal&#xe1;rios vigentes por ocasi&#xe3;o do ajuizamento; </font></p>\n\n<p><font>IV\n- desde que autorizado no contrato, a cita&#xe7;&#xe3;o, intima&#xe7;&#xe3;o ou notifica&#xe7;&#xe3;o far <i>-</i>\nse <i>-</i> &#xe1; mediante correspond&#xea;ncia com aviso de recebimento, ou, tratando <i>-</i>\nse de pessoa jur&#xed;dica ou firma individual, tamb&#xe9;m mediante telex ou <i>fac-s&#xed;mile</i> ,\nou, ainda, sendo necess&#xe1;rio, pelas demais formas previstas no C&#xf3;digo de Processo Civil; </font></p>\n\n<p><font>V -\nos recursos interpostos contra as senten&#xe7;as ter&#xe3;o efeito somente devolutivo. </font></p>\n<font>\n\n<p>CAP&#xcd;TULO II </p>\n\n</font><p><font>Das A&#xe7;&#xf5;es de Despejo</font></p>\n\n<p id=\"art-59\"><font id=\"art-59\">\n<a name=\"art59\"></a>Art. 59. Com as modifica&#xe7;&#xf5;es constantes deste cap&#xed;tulo, as a&#xe7;&#xf5;es de despejo ter&#xe3;o o\nrito ordin&#xe1;rio. </font></p>\n\n<p><font>\n<a name=\"art59&#xa7;1\"></a>&#xa7;\n1&#xba; Conceder <i>-</i> se <i>-</i> &#xe1; liminar para desocupa&#xe7;&#xe3;o em quinze dias,\nindependentemente da audi&#xea;ncia da parte contr&#xe1;ria e desde que prestada a cau&#xe7;&#xe3;o no\nvalor equivalente a tr&#xea;s meses de aluguel, nas a&#xe7;&#xf5;es que tiverem por fundamento\nexclusivo: </font></p>\n\n<p id=\"art-9\"><font id=\"art-9\">\n<a name=\"art59&#xa7;1i\"></a>I -\no descumprimento do m&#xfa;tuo acordo (art. 9&#xba;, inciso I), celebrado por escrito e assinado\npelas partes e por duas testemunhas, no qual tenha sido ajustado o prazo m&#xed;nimo de seis\nmeses para desocupa&#xe7;&#xe3;o, contado da assinatura do instrumento; </font></p>\n\n<p id=\"art-47\"><font id=\"art-47\">\n<a name=\"art59&#xa7;1ii\"></a>II\n- o disposto no inciso II do art. 47, havendo prova escrita da rescis&#xe3;o do contrato de\ntrabalho ou sendo ela demonstrada em audi&#xea;ncia pr&#xe9;via; </font></p>\n\n<p><font>\n<a name=\"art59&#xa7;1iii\"></a>III\n- o t&#xe9;rmino do prazo da loca&#xe7;&#xe3;o para temporada, tendo sido proposta a a&#xe7;&#xe3;o de despejo\nem at&#xe9; trinta dias ap&#xf3;s o vencimento do contrato; </font></p>\n\n<p id=\"art-11\"><font id=\"art-11\">\n<a name=\"art59&#xa7;1iv\"></a>IV\n- a morte do locat&#xe1;rio sem deixar sucessor leg&#xed;timo na loca&#xe7;&#xe3;o, de acordo com o\nreferido no inciso I do art. 11, permanecendo no im&#xf3;vel pessoas n&#xe3;o autorizadas por lei;\n</font></p>\n\n<p><font>\n<a name=\"art59&#xa7;1v\"></a>V -\na perman&#xea;ncia do sublocat&#xe1;rio no im&#xf3;vel, extinta a loca&#xe7;&#xe3;o, celebrada com o\nlocat&#xe1;rio. </font></p>\n\n<font id=\"art-9\">\n\n\t\t<p id=\"art-9\">\n\t\t<span id=\"art-9\"><a name=\"art59&#xa7;1vi\"></a>VI &#x2013; o disposto no inciso IV do art. 9<u><sup>o</sup></u>, \nhavendo a necessidade de se produzir repara&#xe7;&#xf5;es urgentes no im&#xf3;vel, determinadas \npelo poder p&#xfa;blico, que n&#xe3;o possam ser normalmente executadas com a perman&#xea;ncia \ndo locat&#xe1;rio, ou, podendo, ele se recuse a consenti-las; \n\t\t<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Inclu&#xed;do pela Lei \n\t\tn&#xba; 12.112, de 2009)</a></span></p>\n\t\t<p id=\"art-40\">\n\t\t<a name=\"art59&#xa7;1vii\"></a><span id=\"art-40\">VII &#x2013; o t&#xe9;rmino do prazo notificat&#xf3;rio previsto no \npar&#xe1;grafo &#xfa;nico do art. 40, sem apresenta&#xe7;&#xe3;o de nova garantia apta a manter a \nseguran&#xe7;a inaugural do contrato; \n\t\t<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Inclu&#xed;do pela Lei \n\t\tn&#xba; 12.112, de 2009)</a></span></p>\n\t\t<p>\n\t\t<a name=\"art59&#xa7;1viii\"></a><span>VIII &#x2013; o t&#xe9;rmino do prazo da loca&#xe7;&#xe3;o n&#xe3;o residencial, \ntendo sido proposta a a&#xe7;&#xe3;o em at&#xe9; 30 (trinta) dias do termo ou do cumprimento de \nnotifica&#xe7;&#xe3;o comunicando o intento de retomada; \n\t\t<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Inclu&#xed;do pela Lei \n\t\tn&#xba; 12.112, de 2009)</a></span></p>\n\t\t<p id=\"art-37\">\n\t\t<a name=\"art59&#xa7;1ix\"></a><span id=\"art-37\">IX &#x2013; a falta de pagamento de aluguel e acess&#xf3;rios da \nloca&#xe7;&#xe3;o no vencimento, estando o contrato desprovido de qualquer das garantias \nprevistas no art. 37, por n&#xe3;o ter sido contratada ou em caso de extin&#xe7;&#xe3;o ou \npedido de exonera&#xe7;&#xe3;o dela, independentemente de motivo. \n\t\t<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Inclu&#xed;do pela Lei \n\t\tn&#xba; 12.112, de 2009)</a></span></p>\n\n</font>\n\n<p><font>&#xa7; 2&#xba;\nQualquer que seja o fundamento da a&#xe7;&#xe3;o dar <i>-</i> se <i>-</i> &#xe1; ci&#xea;ncia do pedido\naos sublocat&#xe1;rios, que poder&#xe3;o intervir no processo como assistentes. </font></p>\n<p id=\"art-62\"><font id=\"art-62\">\n<span id=\"art-62\">\n<a name=\"art59&#xa7;3\"></a>&#xa7; 3<u><sup>o</sup></u>&#xa0; No caso do inciso IX do &#xa7; 1<u><sup>o</sup></u> \ndeste artigo, poder&#xe1; o locat&#xe1;rio evitar a rescis&#xe3;o da loca&#xe7;&#xe3;o e elidir a liminar \nde desocupa&#xe7;&#xe3;o se, dentro dos 15 (quinze) dias concedidos para a desocupa&#xe7;&#xe3;o do \nim&#xf3;vel e independentemente de c&#xe1;lculo, efetuar dep&#xf3;sito judicial que contemple a \ntotalidade dos valores devidos, na forma prevista no inciso II do art. 62. <a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">\n(Inclu&#xed;do pela Lei n&#xba; 12.112, de 2009)</a></span></font></p>\n\n<p id=\"art-60\"><font id=\"art-60\">\n<a name=\"art60\"></a>Art. 60. Nas a&#xe7;&#xf5;es de despejo fundadas no inciso IV do art. 9&#xba;, inciso IV do art. 47 e\ninciso II do art. 53, a peti&#xe7;&#xe3;o inicial dever&#xe1; ser instru&#xed;da com prova da propriedade\ndo im&#xf3;vel ou do compromisso registrado. </font></p>\n\n<p id=\"art-61\"><font id=\"art-61\">\n<a name=\"art61\"></a>Art. 61 Nas a&#xe7;&#xf5;es fundadas no &#xa7; 2&#xba; do art. 46 e nos incisos III e IV do art. 47, se o\nlocat&#xe1;rio, no prazo da contesta&#xe7;&#xe3;o, manifestar sua concord&#xe2;ncia com a desocupa&#xe7;&#xe3;o do\nim&#xf3;vel, o juiz acolher&#xe1; o pedido fixando prazo de seis meses para a desocupa&#xe7;&#xe3;o,\ncontados da cita&#xe7;&#xe3;o, impondo ao vencido a responsabilidade pelas custas e honor&#xe1;rios\nadvocat&#xed;cios de vinte por cento sobre o valor dado &#xe0; causa. Se a desocupa&#xe7;&#xe3;o ocorrer\ndentro do prazo fixado, o r&#xe9;u ficar&#xe1; isento dessa responsabilidade; caso contr&#xe1;rio,\nser&#xe1; expedido mandado de despejo. </font></p>\n\n<p id=\"art-62\"><strike id=\"art-62\">\n<font id=\"art-62\"><a name=\"art62.\"></a>Art. 62. Nas a&#xe7;&#xf5;es de despejo fundadas na falta de pagamento de aluguel e acess&#xf3;rios da\nloca&#xe7;&#xe3;o, observar <i>-</i> se <i>-</i> &#xe1; o&#xa0;&#xa0;&#xa0;&#xa0; seguinte:&#xa0; </font>\n</strike></p>\n<p id=\"art-62\">\n\n<font id=\"art-62\">\n\n<span id=\"art-62\"><a name=\"art62\"></a>Art. 62.&#xa0; Nas a&#xe7;&#xf5;es de despejo fundadas na falta de \npagamento de aluguel e acess&#xf3;rios da loca&#xe7;&#xe3;o, de aluguel provis&#xf3;rio, de \ndiferen&#xe7;as de alugu&#xe9;is, ou somente de quaisquer dos acess&#xf3;rios da loca&#xe7;&#xe3;o, \nobservar-se-&#xe1; o seguinte: <a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">\n(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; 12.112, de 2009)</a></span></font></p>\n\n<p><strike>\n<font>I -\no pedido de rescis&#xe3;o da loca&#xe7;&#xe3;o poder&#xe1; ser cumulado com o de cobran&#xe7;a dos alugu&#xe9;is e\nacess&#xf3;rios da loca&#xe7;&#xe3;o, devendo ser apresentado, com a inicial, c&#xe1;lculo discriminado do\nvalor do d&#xe9;bito; </font></strike></p>\n<p>\n\n<font>\n\n<span><a name=\"art62i\"></a>I &#x2013; o pedido de rescis&#xe3;o da loca&#xe7;&#xe3;o poder&#xe1; ser \ncumulado com o pedido de cobran&#xe7;a dos alugu&#xe9;is e acess&#xf3;rios da loca&#xe7;&#xe3;o; nesta \nhip&#xf3;tese, citar-se-&#xe1; o locat&#xe1;rio para responder ao pedido de rescis&#xe3;o e o \nlocat&#xe1;rio e os fiadores para responderem ao pedido de cobran&#xe7;a, devendo ser \napresentado, com a inicial, c&#xe1;lculo discriminado do valor do d&#xe9;bito; \n<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; \n12.112, de 2009)</a></span></font></p>\n\n<p><strike>\n<font>II\n- o locat&#xe1;rio poder&#xe1; evitar a rescis&#xe3;o da loca&#xe7;&#xe3;o requerendo, no prazo da\ncontesta&#xe7;&#xe3;o, autoriza&#xe7;&#xe3;o para o pagamento do d&#xe9;bito atualizado, independentemente de\nc&#xe1;lculo e mediante dep&#xf3;sito judicial, inclu&#xed;dos: </font></strike></p>\n<p><font>\n<span>\n<a name=\"art62ii\"></a>II &#x2013; o locat&#xe1;rio e o fiador poder&#xe3;o evitar a rescis&#xe3;o \nda loca&#xe7;&#xe3;o efetuando, no prazo de 15 (quinze) dias, contado da cita&#xe7;&#xe3;o, o \npagamento do d&#xe9;bito atualizado, independentemente de c&#xe1;lculo e mediante dep&#xf3;sito \njudicial, inclu&#xed;dos: \n<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; \n12.112, de 2009)</a></span></font></p>\n\n<p><font>a)\nos alugu&#xe9;is e acess&#xf3;rios da loca&#xe7;&#xe3;o que vencerem at&#xe9; a sua efetiva&#xe7;&#xe3;o; </font></p>\n\n<p><font>b)\nas multas ou penalidades contratuais, quando exig&#xed;veis; </font></p>\n\n<p><font>c)\nos juros de mora; </font></p>\n\n<p><font>d)\nas custas e os honor&#xe1;rios do advogado do locador, fixados em dez por cento sobre o\nmontante devido, se do contrato n&#xe3;o constar disposi&#xe7;&#xe3;o diversa; </font></p>\n\n<p><strike>\n<font>III\n- autorizada a emenda da mora e efetuado o dep&#xf3;sito judicial at&#xe9; quinze dias ap&#xf3;s a\nintima&#xe7;&#xe3;o do deferimento, se o locador alegar que a oferta n&#xe3;o &#xe9; integral,\njustificando a diferen&#xe7;a, o locat&#xe1;rio poder&#xe1; complementar o dep&#xf3;sito no prazo de dez\ndias, contados da ci&#xea;ncia dessa manifesta&#xe7;&#xe3;o; </font></strike></p>\n<p><font>\n<span>\n<a name=\"art62iii\"></a>III &#x2013; efetuada a purga da mora, se o locador alegar \nque a oferta n&#xe3;o &#xe9; integral, justificando a diferen&#xe7;a, o locat&#xe1;rio poder&#xe1; \ncomplementar o dep&#xf3;sito no prazo de 10 (dez) dias, contado da intima&#xe7;&#xe3;o, que \npoder&#xe1; ser dirigida ao locat&#xe1;rio ou diretamente ao patrono deste, por carta ou \npublica&#xe7;&#xe3;o no &#xf3;rg&#xe3;o oficial, a requerimento do locador; \n<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; \n12.112, de 2009)</a></span></font></p>\n\n<p><strike>\n<font>IV\n- n&#xe3;o sendo complementado o dep&#xf3;sito, pedido de rescis&#xe3;o prosseguir&#xe1; pela diferen&#xe7;a,\npodendo o locador levantar a quantia depositada; </font></strike></p>\n<p><font>\n<span>\n<a name=\"art62iv\"></a>IV &#x2013; n&#xe3;o sendo integralmente complementado o dep&#xf3;sito, \no pedido de rescis&#xe3;o prosseguir&#xe1; pela diferen&#xe7;a, podendo o locador levantar a \nquantia depositada;&#xa0; \n<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; \n12.112, de 2009)</a></span></font></p>\n\n<p><font>V -\nos alugu&#xe9;is que forem vencendo at&#xe9; a senten&#xe7;a dever&#xe3;o ser depositados &#xe0; disposi&#xe7;&#xe3;o\ndo ju&#xed;zo, nos respectivos vencimentos, podendo o locador levant&#xe1; <i>-</i> los desde que\nincontroversos; </font></p>\n\n<p><font>VI\n- havendo cumula&#xe7;&#xe3;o dos pedidos de rescis&#xe3;o da loca&#xe7;&#xe3;o e cobran&#xe7;a dos alugu&#xe9;is, a\nexecu&#xe7;&#xe3;o desta pode ter in&#xed;cio antes da desocupa&#xe7;&#xe3;o do im&#xf3;vel, caso ambos tenham\nsido acolhidos.</font></p>\n\n<p><strike>\n<font>Par&#xe1;grafo &#xfa;nico. N&#xe3;o se admitir&#xe1; a emenda da mora se o locat&#xe1;rio j&#xe1; houver utilizado\nessa faculdade por duas vezes nos doze meses imediatamente anteriores &#xe0; propositura da\na&#xe7;&#xe3;o. </font></strike></p>\n<p><font>\n<span>\n<a name=\"art62p\"></a>Par&#xe1;grafo &#xfa;nico.&#xa0; N&#xe3;o se admitir&#xe1; a emenda da mora se \no locat&#xe1;rio j&#xe1; houver utilizado essa faculdade nos 24 (vinte e quatro) meses \nimediatamente anteriores &#xe0; propositura da a&#xe7;&#xe3;o. \n<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; \n12.112, de 2009)</a></span></font></p>\n\n<p id=\"art-63\"><strike id=\"art-63\">\n<font id=\"art-63\"><a name=\"art63.\"></a>Art. 63. Julgada procedente a a&#xe7;&#xe3;o de despejo, o juiz fixar&#xe1; prazo de trinta dias para\na desocupa&#xe7;&#xe3;o volunt&#xe1;ria, ressalvado o disposto nos par&#xe1;grafos seguintes: </font>\n</strike></p>\n<p id=\"art-63\">\n\n<font id=\"art-63\">\n\n<span id=\"art-63\"><a name=\"art63\"></a>Art. 63.&#xa0; Julgada procedente a a&#xe7;&#xe3;o de despejo, o juiz \ndeterminar&#xe1; a expedi&#xe7;&#xe3;o de mandado de despejo, que conter&#xe1; o prazo de 30 \n(trinta) dias para a desocupa&#xe7;&#xe3;o volunt&#xe1;ria, ressalvado o disposto nos \npar&#xe1;grafos seguintes. <a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">\n(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; 12.112, de 2009)</a></span></font></p>\n\n<p><font>&#xa7; 1&#xba;\nO prazo ser&#xe1; de quinze dias se: </font></p>\n\n<p><font>&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; a)\nentre a cita&#xe7;&#xe3;o e a senten&#xe7;a de primeira inst&#xe2;ncia houverem decorrido mais de quatro\nmeses; ou </font></p>\n\n<p id=\"art-9\"><strike id=\"art-9\">\n<font id=\"art-9\">b)\no despejo houver sido decretado com fundamento nos incisos II e III do art. 9&#xb0; ou no &#xa7;\n2&#xb0; do art. 46. </font></strike></p>\n<p id=\"art-9\"><font id=\"art-9\">\n<span id=\"art-9\">\n<a name=\"art63b\"></a>b) o despejo houver sido decretado com fundamento no \nart. 9<u><sup>o</sup></u> ou no &#xa7; 2<u><sup>o</sup></u> do art. 46. \n<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; \n12.112, de 2009)</a></span></font></p>\n\n<p><font>&#xa7;\n2&#xb0; Tratando-se de estabelecimento de ensino autorizado e fiscalizado pelo Poder P&#xfa;blico,\nrespeitado o prazo m&#xed;nimo de seis meses e o m&#xe1;ximo de um ano, o juiz dispor&#xe1; de modo\nque a desocupa&#xe7;&#xe3;o coincida com o per&#xed;odo de f&#xe9;rias escolares. </font></p>\n\n<p id=\"art-9\"><font id=\"art-9\">\n<strike id=\"art-9\">\n&#xa7; 3&#xb0; Tratando-se de hospitais, reparti&#xe7;&#xf5;es p&#xfa;blicas, unidades sanit&#xe1;rias oficiais,\nasilos e estabelecimentos de sa&#xfa;de e de ensino autorizados e fiscalizados pelo Poder\nP&#xfa;blico, e o despejo for decretado com fundamento no inciso IV do art. 9&#xb0; ou no inciso\nII do art. 53, o prazo ser&#xe1; de um ano, exceto nos casos em que entre a cita&#xe7;&#xe3;o e a\nsenten&#xe7;a de primeira inst&#xe2;ncia houver decorrido mais de um ano, hip&#xf3;tese em que o prazo\nser&#xe1; de seis meses. </strike></font></p>\n\n<p id=\"art-9\">\n<font id=\"art-9\"><a name=\"art63&#xa7;3\"></a><small id=\"art-9\">&#xa7; 3&#xba; Tratando-se de hospitais, reparti&#xe7;&#xf5;es\np&#xfa;blicas, unidades sanit&#xe1;rias oficiais, asilos, estabelecimentos de sa&#xfa;de e de ensino\nautorizados e fiscalizados pelo Poder P&#xfa;blico, bem como por entidades religiosas\ndevidamente registradas, e o despejo for decretado com fundamento no inciso IV do art. 9&#xba;\nou no inciso II do art. 53, o prazo ser&#xe1; de um ano, exceto no caso em que entre a\ncita&#xe7;&#xe3;o e a senten&#xe7;a de primeira inst&#xe2;ncia houver decorrido mais de um ano, hip&#xf3;tese\nem que o prazo ser&#xe1; de seis meses. <a href=\"L9256.htm#art63&#xa7;3\">(Reda&#xe7;&#xe3;o dada pela Lei\nn&#xba; 9.256, de 9.1.1996)</a></small></font></p>\n\n<p><font>&#xa7;\n4&#xb0; A senten&#xe7;a que decretar o despejo fixar&#xe1; o valor da cau&#xe7;&#xe3;o para o caso de ser\nexecutada provisoriamente. </font></p>\n\n<p id=\"art-64\"><strike id=\"art-64\">\n<font id=\"art-64\"><a name=\"art64.\"></a>Art. 64. Salvo nas hip&#xf3;teses das a&#xe7;&#xf5;es fundadas nos incisos I, II e IV do art. 9&#xb0;, a\nexecu&#xe7;&#xe3;o provis&#xf3;ria do despejo depender&#xe1; de cau&#xe7;&#xe3;o n&#xe3;o inferior a doze meses e nem\nsuperior a dezoito meses do aluguel, atualizado at&#xe9; a data do dep&#xf3;sito da cau&#xe7;&#xe3;o. </font>\n</strike></p>\n<p id=\"art-64\"><font id=\"art-64\">\n<a name=\"art64\"></a> &#xa0;<span id=\"art-64\">Art. 64.&#xa0; Salvo nas hip&#xf3;teses das a&#xe7;&#xf5;es fundadas no art. 9<u><sup>o</sup></u>, a execu&#xe7;&#xe3;o provis&#xf3;ria do despejo depender&#xe1; de cau&#xe7;&#xe3;o \nn&#xe3;o inferior a 6 (seis) meses nem superior a 12 (doze) meses do aluguel, \natualizado at&#xe9; a data da presta&#xe7;&#xe3;o da cau&#xe7;&#xe3;o.&#xa0; </span></font><font><small> \n<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei\nn&#xba; 12.112, de 2009)</a></small></font></p>\n\n<p><font>&#xa7;\n1&#xb0; A cau&#xe7;&#xe3;o poder&#xe1; ser real ou fidejuss&#xf3;ria e ser&#xe1; prestada nos autos da execu&#xe7;&#xe3;o\nprovis&#xf3;ria. </font></p>\n\n<p><font>&#xa7;\n2&#xb0; Ocorrendo a reforma da senten&#xe7;a ou da decis&#xe3;o que concedeu liminarmente o despejo, o\nvalor da cau&#xe7;&#xe3;o reverter&#xe1; em favor do r&#xe9;u, como indeniza&#xe7;&#xe3;o m&#xed;nima das perdas e\ndanos, podendo este reclamar, em a&#xe7;&#xe3;o pr&#xf3;pria, a diferen&#xe7;a pelo que a exceder. </font></p>\n\n<p id=\"art-65\"><font id=\"art-65\">\n<a name=\"art65\"></a>Art. 65. Findo o prazo assinado para a desocupa&#xe7;&#xe3;o, contado da data da notifica&#xe7;&#xe3;o,\nser&#xe1; efetuado o despejo, se necess&#xe1;rio com emprego de for&#xe7;a, inclusive arrombamento. </font></p>\n\n<p><font>&#xa7; 1&#xba;\nOs m&#xf3;veis e utens&#xed;lios ser&#xe3;o entregues &#xe0; guarda de deposit&#xe1;rio, se n&#xe3;o os quiser\nretirar o despejado. </font></p>\n\n<p><font>&#xa7; 2&#xba;\nO despejo n&#xe3;o poder&#xe1; ser executado at&#xe9; o trig&#xe9;simo dia seguinte ao do falecimento do\nc&#xf4;njuge, ascendente, descendente ou irm&#xe3;o de qualquer das pessoas que habitem o im&#xf3;vel. </font></p>\n\n<p id=\"art-66\"><font id=\"art-66\">\n<a name=\"art66\"></a>Art. 66. Quando o im&#xf3;vel for abandonado ap&#xf3;s ajuizada a a&#xe7;&#xe3;o, o locador poder&#xe1;\nimitir-se na posse do im&#xf3;vel. </font></p>\n<font>\n\n<p>CAP&#xcd;TULO III</p>\n\n</font><p><font>Da A&#xe7;&#xe3;o de Consigna&#xe7;&#xe3;o de Aluguel e Acess&#xf3;rios da Loca&#xe7;&#xe3;o</font></p>\n\n<p id=\"art-67\"><font id=\"art-67\">\n<a name=\"art67\"></a>Art. 67. Na a&#xe7;&#xe3;o que objetivar o pagamento dos alugu&#xe9;is e acess&#xf3;rios da loca&#xe7;&#xe3;o\nmediante consigna&#xe7;&#xe3;o, ser&#xe1; observado o seguinte: </font></p>\n\n<p id=\"art-282\"><font id=\"art-282\">I -\na peti&#xe7;&#xe3;o inicial, al&#xe9;m dos requisitos exigidos pelo <a href=\"L5869.htm#art282\" id=\"art-282\">art.\n282 do C&#xf3;digo de Processo Civil,</a> dever&#xe1; especificar os alugu&#xe9;is e acess&#xf3;rios da\nloca&#xe7;&#xe3;o com indica&#xe7;&#xe3;o dos respectivos valores; </font></p>\n\n<p><font>II\n- determinada a cita&#xe7;&#xe3;o do r&#xe9;u, o autor ser&#xe1; intimado a, no prazo de vinte e quatro\nhoras, efetuar o dep&#xf3;sito judicial da import&#xe2;ncia indicada na peti&#xe7;&#xe3;o inicial, sob\npena de ser extinto o processo; </font></p>\n\n<p><font>III\n- o pedido envolver&#xe1; a quita&#xe7;&#xe3;o das obriga&#xe7;&#xf5;es que vencerem durante a tramita&#xe7;&#xe3;o do\nfeito e at&#xe9; ser prolatada a senten&#xe7;a de primeira inst&#xe2;ncia, devendo o autor promover os\ndep&#xf3;sitos nos respectivos vencimentos; </font></p>\n\n<p><font>IV\n- n&#xe3;o sendo oferecida a contesta&#xe7;&#xe3;o, ou se o locador receber os valores depositados, o\njuiz acolher&#xe1; o pedido, declarando quitadas as obriga&#xe7;&#xf5;es, condenando o r&#xe9;u ao\npagamento das custas e honor&#xe1;rios de vinte por cento do valor dos dep&#xf3;sitos; </font></p>\n\n<p><font>V -\na contesta&#xe7;&#xe3;o do locador, al&#xe9;m da defesa de direito que possa caber, ficar&#xe1; adstrita,\nquanto &#xe0; mat&#xe9;ria de fato, a: </font></p>\n\n<p><font>a)\nn&#xe3;o ter havido recusa ou mora em receber a quantia devida; </font></p>\n\n<p><font>b)\nter sido justa a recusa; </font></p>\n\n<p><font>c)\nn&#xe3;o ter sido efetuado o dep&#xf3;sito no prazo ou no lugar do pagamento; </font></p>\n\n<p><font>d}\nn&#xe3;o ter sido o dep&#xf3;sito integral; </font></p>\n\n<p><font>VI\n- al&#xe9;m de contestar, o r&#xe9;u poder&#xe1;, em reconven&#xe7;&#xe3;o, pedir o despejo e a cobran&#xe7;a dos\nvalores objeto da consignat&#xf3;ria ou da diferen&#xe7;a do dep&#xf3;sito inicial, na hip&#xf3;tese de\nter sido alegado n&#xe3;o ser o mesmo integral; </font></p>\n\n<p><font>VII\n- o autor poder&#xe1; complementar o dep&#xf3;sito inicial, no prazo de cinco dias contados da\nci&#xea;ncia do oferecimento da resposta, com acr&#xe9;scimo de dez por cento sobre o valor da\ndiferen&#xe7;a. Se tal ocorrer, o juiz declarar&#xe1; quitadas as obriga&#xe7;&#xf5;es, elidindo a\nrescis&#xe3;o da loca&#xe7;&#xe3;o, mas impor&#xe1; ao autor-reconvindo a responsabilidade pelas custas e\nhonor&#xe1;rios advocat&#xed;cios de vinte por cento sobre o valor dos dep&#xf3;sitos; </font></p>\n\n<p><font>VIII - havendo, na reconven&#xe7;&#xe3;o, cumula&#xe7;&#xe3;o dos pedidos de rescis&#xe3;o da loca&#xe7;&#xe3;o e\ncobran&#xe7;a dos valores objeto da consignat&#xf3;ria, a execu&#xe7;&#xe3;o desta somente poder&#xe1; ter\nin&#xed;cio ap&#xf3;s obtida a desocupa&#xe7;&#xe3;o do im&#xf3;vel, caso ambos tenham sido acolhidos. </font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. O r&#xe9;u poder&#xe1; levantar a qualquer momento as import&#xe2;ncias depositadas\nsobre as quais n&#xe3;o penda controv&#xe9;rsia. </font></p>\n<font>\n\n<p>CAP&#xcd;TULO IV</p>\n\n</font><p><font>Da A&#xe7;&#xe3;o Revisional de Aluguel</font></p>\n\n<p id=\"art-68\"><strike id=\"art-68\">\n<font id=\"art-68\"><a name=\"art68.\"></a>Art. 68. Na a&#xe7;&#xe3;o revisional de aluguel, que ter&#xe1; o rito sumar&#xed;ssimo, observar-se-&#xe1; o\nseguinte: </font></strike></p>\n<p id=\"art-68\">\n\n<font id=\"art-68\">\n\n<span id=\"art-68\"><a name=\"art68\"></a>Art. 68.&#xa0; Na a&#xe7;&#xe3;o revisional de aluguel, que ter&#xe1; o \nrito sum&#xe1;rio, observar-se-&#xe1; o seguinte: </span>\n\n</font><font><small> \n<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei\nn&#xba; 12.112, de 2009)</a></small></font></p>\n\n<p><font>I -\nal&#xe9;m dos requisitos exigidos pelos <a href=\"L5869.htm#art276\">arts. 276</a> e <a href=\"L5869.htm#art282\">282 do C&#xf3;digo de Processo Civil,</a> a peti&#xe7;&#xe3;o inicial dever&#xe1;\nindicar o valor do aluguel cuja fixa&#xe7;&#xe3;o &#xe9; pretendida; </font></p>\n\n<p>\n<font><strike>II\n- ao designar a audi&#xea;ncia de instru&#xe7;&#xe3;o e julgamento, o juiz, se houver pedido e com\nbase nos elementos fornecidos pelo autor ou nos que indicar, fixar&#xe1; aluguel provis&#xf3;rio,\nn&#xe3;o excedente a oitenta por cento do pedido, que ser&#xe1; devido desde a cita&#xe7;&#xe3;o;\n</strike> </font></p>\n\n<font>\n\n\t\t<p>\n\t\t<span><a name=\"art68ii\"></a>II &#x2013; ao designar a audi&#xea;ncia de concilia&#xe7;&#xe3;o, o juiz, \nse houver pedido e com base nos elementos fornecidos tanto pelo locador como \npelo locat&#xe1;rio, ou nos que indicar, fixar&#xe1; aluguel provis&#xf3;rio, que ser&#xe1; devido \ndesde a cita&#xe7;&#xe3;o, nos seguintes moldes: \n\t\t<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Reda&#xe7;&#xe3;o dada pela \n\t\tLei n&#xba; 12.112, de 2009)</a></span></p>\n\t\t<p>\n\t\t<span>a) em a&#xe7;&#xe3;o proposta pelo locador, o aluguel provis&#xf3;rio \nn&#xe3;o poder&#xe1; ser excedente a 80% (oitenta por cento) do pedido; \n\t\t<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Inclu&#xed;da pela Lei \n\t\tn&#xba; 12.112, de 2009)</a></span></p>\n\t\t<p>\n\t\t<span>b) em a&#xe7;&#xe3;o proposta pelo locat&#xe1;rio, o aluguel \nprovis&#xf3;rio n&#xe3;o poder&#xe1; ser inferior a 80% (oitenta por cento) do aluguel vigente; \n\t\t<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Inclu&#xed;da pela Lei \n\t\tn&#xba; 12.112, de 2009)</a></span></p>\n\n</font>\n\n<p><font>III\n- sem preju&#xed;zo da contesta&#xe7;&#xe3;o e at&#xe9; a audi&#xea;ncia, o r&#xe9;u poder&#xe1; pedir seja revisto o\naluguel provis&#xf3;rio, fornecendo os elementos para tanto;&#xa0; </font></p>\n\n<p><strike>\n<font>IV\n- na audi&#xea;ncia de instru&#xe7;&#xe3;o e julgamento, apresentada a contesta&#xe7;&#xe3;o, que dever&#xe1;\nconter contraproposta se houver discord&#xe2;ncia quanto ao valor pretendido, o juiz tentar&#xe1;\na concilia&#xe7;&#xe3;o e, n&#xe3;o sendo esta poss&#xed;vel, suspender&#xe1; o ato para a realiza&#xe7;&#xe3;o de\nper&#xed;cia, se necess&#xe1;ria, designando, desde logo, audi&#xea;ncia em continua&#xe7;&#xe3;o. </font>\n</strike></p>\n<p><font>\n<span><a name=\"art68iv\"></a>IV &#x2013; na audi&#xea;ncia de concilia&#xe7;&#xe3;o, apresentada a \ncontesta&#xe7;&#xe3;o, que dever&#xe1; conter contraproposta se houver discord&#xe2;ncia quanto ao \nvalor pretendido, o juiz tentar&#xe1; a concilia&#xe7;&#xe3;o e, n&#xe3;o sendo esta poss&#xed;vel, \ndeterminar&#xe1; a realiza&#xe7;&#xe3;o de per&#xed;cia, se necess&#xe1;ria, designando, desde logo, \naudi&#xea;ncia de instru&#xe7;&#xe3;o e julgamento; \n<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; \n12.112, de 2009)</a></span></font></p><font>\n\t\t<p>\n\t\t<span>V &#x2013; o pedido de revis&#xe3;o previsto no inciso III deste \nartigo interrompe o prazo para interposi&#xe7;&#xe3;o de recurso contra a decis&#xe3;o que \nfixar o aluguel provis&#xf3;rio. \n\t\t<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Inclu&#xed;do pela Lei \n\t\tn&#xba; 12.112, de 2009)</a></span></p></font>\n\n<p><font>&#xa7; 1&#xba;\nN&#xe3;o caber&#xe1; a&#xe7;&#xe3;o revisional na pend&#xea;ncia de prazo para desocupa&#xe7;&#xe3;o do im&#xf3;vel (arts.\n46, par&#xe1;grafo 2&#xb0; e 57), ou quando tenha sido este estipulado amig&#xe1;vel ou judicialmente. </font></p>\n\n<p><font>&#xa7; 2&#xba;\nNo curso da a&#xe7;&#xe3;o de revis&#xe3;o, o aluguel provis&#xf3;rio ser&#xe1; reajustado na periodicidade\npactuada ou na fixada em lei. </font></p>\n\n<p id=\"art-69\"><font id=\"art-69\">\n<a name=\"art69\"></a>Art. 69. O aluguel fixado na senten&#xe7;a retroage &#xe0; cita&#xe7;&#xe3;o, e as diferen&#xe7;as devidas\ndurante a a&#xe7;&#xe3;o de revis&#xe3;o, descontados os alugueres provis&#xf3;rios satisfeitos, ser&#xe3;o\npagas corrigidas, exig&#xed;veis a partir do tr&#xe2;nsito em julgado da decis&#xe3;o que fixar o novo\naluguel. </font></p>\n\n<p><font>&#xa7; 1&#xba;\nSe pedido pelo locador, ou sublocador, a senten&#xe7;a poder&#xe1; estabelecer periodicidade de\nreajustamento do aluguel diversa daquela prevista no contrato revisando, bem como adotar\noutro indexador para reajustamento do aluguel. </font></p>\n\n<p><font>&#xa7; 2&#xba;\nA execu&#xe7;&#xe3;o das diferen&#xe7;as ser&#xe1; feita nos autos da a&#xe7;&#xe3;o de revis&#xe3;o. </font></p>\n\n<p id=\"art-70\"><font id=\"art-70\">\n<a name=\"art70\"></a>Art. 70. Na a&#xe7;&#xe3;o de revis&#xe3;o do aluguel, o juiz poder&#xe1; homologar acordo de\ndesocupa&#xe7;&#xe3;o, que ser&#xe1; executado mediante expedi&#xe7;&#xe3;o de mandado de despejo. </font></p>\n<font>\n\n<p>CAP&#xcd;TULO V</p>\n\n</font><p><font>Da A&#xe7;&#xe3;o Renovat&#xf3;ria</font></p>\n\n<p id=\"art-71\"><font id=\"art-71\">\n<a name=\"art71\"></a>Art. 71. Al&#xe9;m dos demais requisitos exigidos no <a href=\"L5869.htm#art282\" id=\"art-282\">\nart. 282 do C&#xf3;digo de Processo Civil,</a> a peti&#xe7;&#xe3;o inicial da a&#xe7;&#xe3;o renovat&#xf3;ria \ndever&#xe1; ser instru&#xed;da com: </font></p>\n\n<p id=\"art-51\"><font id=\"art-51\">I - \nprova do preenchimento dos requisitos dos incisos I, II e III do art. 51; </font></p>\n\n<p><font>II - \nprova do exato cumprimento do contrato em curso; </font></p>\n\n<p><font>III - \nprova da quita&#xe7;&#xe3;o dos impostos e taxas que incidiram sobre o im&#xf3;vel e cujo \npagamento lhe incumbia; </font></p>\n\n<p><font>IV - \nindica&#xe7;&#xe3;o clara e precisa das condi&#xe7;&#xf5;es oferecidas para a renova&#xe7;&#xe3;o da loca&#xe7;&#xe3;o; </font></p>\n\n<p><strike>\n<font>V - indica&#xe7;&#xe3;o de fiador quando houver no contrato a \nrenovar e, quando n&#xe3;o for o mesmo, com indica&#xe7;&#xe3;o do nome ou denomina&#xe7;&#xe3;o \ncompleta, n&#xfa;mero de sua inscri&#xe7;&#xe3;o no Minist&#xe9;rio da Economia, Fazenda e \nPlanejamento, endere&#xe7;o e, tratando-se de pessoa natural, a nacionalidade, o \nestado civil, a profiss&#xe3;o e o n&#xfa;mero da carteira de identidade, comprovando, em \nqualquer caso e desde logo, a idoneidade financeira; </font>\n</strike></p>\n<p>\n\n<font>\n\n<span><a name=\"art71v\"></a>V &#x2013; indica&#xe7;&#xe3;o do fiador quando \nhouver no contrato a renovar e, quando n&#xe3;o for o mesmo, com indica&#xe7;&#xe3;o do nome ou \ndenomina&#xe7;&#xe3;o completa, n&#xfa;mero de sua inscri&#xe7;&#xe3;o no Minist&#xe9;rio da Fazenda, endere&#xe7;o \ne, tratando-se de pessoa natural, a nacionalidade, o estado civil, a profiss&#xe3;o e \no n&#xfa;mero da carteira de identidade, comprovando, desde logo, mesmo que n&#xe3;o haja \naltera&#xe7;&#xe3;o do fiador, a atual idoneidade financeira;&#xa0; \n<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Reda&#xe7;&#xe3;o dada pela Lei n&#xba; \n12.112, de 2009)</a></span></font></p>\n\n<p><font>VI - \nprova de que o fiador do contrato ou o que o substituir na renova&#xe7;&#xe3;o aceita os \nencargos da fian&#xe7;a, autorizado por seu c&#xf4;njuge, se casado for; </font></p>\n\n<p><font>VII - \nprova, quando for o caso, de ser cession&#xe1;rio ou sucessor, em virtude de t&#xed;tulo \nopon&#xed;vel ao propriet&#xe1;rio. </font></p>\n\n<p><font>\nPar&#xe1;grafo &#xfa;nico. Proposta a a&#xe7;&#xe3;o pelo sublocat&#xe1;rio do im&#xf3;vel ou de parte dele, \nser&#xe3;o citados o sublocador e o locador, como litisconsortes, salvo se, em \nvirtude de loca&#xe7;&#xe3;o origin&#xe1;ria ou renovada, o sublocador dispuser de prazo que \nadmita renovar a subloca&#xe7;&#xe3;o; na primeira hip&#xf3;tese, procedente a a&#xe7;&#xe3;o, o \npropriet&#xe1;rio ficar&#xe1; diretamente obrigado &#xe0; renova&#xe7;&#xe3;o. </font></p>\n\n<p id=\"art-72\"><font id=\"art-72\">\n<a name=\"art72\"></a>Art. 72. A contesta&#xe7;&#xe3;o do locador, al&#xe9;m da defesa de direito \nque possa caber, ficar&#xe1; adstrita, quanto &#xe0; mat&#xe9;ria de fato, ao&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; \nseguinte: </font></p>\n\n<p><font>I - n&#xe3;o \npreencher o autor os requisitos estabelecidos nesta lei; </font></p>\n\n<p><font>II - \nn&#xe3;o atender, a proposta do locat&#xe1;rio, o valor locativo real do im&#xf3;vel na &#xe9;poca \nda renova&#xe7;&#xe3;o, exclu&#xed;da a valoriza&#xe7;&#xe3;o trazida por aquele ao ponto ou lugar; </font></p>\n\n<p><font>III - \nter proposta de terceiro para a loca&#xe7;&#xe3;o, em condi&#xe7;&#xf5;es melhores; </font></p>\n\n<p id=\"art-52\"><font id=\"art-52\">IV - \nn&#xe3;o estar obrigado a renovar a loca&#xe7;&#xe3;o (incisos I e II do art. 52). </font></p>\n\n<p><font>&#xa7; 1&#xba; No \ncaso do inciso II, o locador dever&#xe1; apresentar, em contraproposta, as condi&#xe7;&#xf5;es \nde loca&#xe7;&#xe3;o que repute compat&#xed;veis com o valor locativo real e atual do im&#xf3;vel. </font></p>\n\n<p><font>&#xa7; 2&#xba; No \ncaso do inciso III, o locador dever&#xe1; juntar prova documental da proposta do \nterceiro, subscrita por este e por duas&#xa0;&#xa0;&#xa0;&#xa0; testemunhas, com \nclara indica&#xe7;&#xe3;o do ramo a ser explorado, que n&#xe3;o poder&#xe1; ser o mesmo do \nlocat&#xe1;rio. Nessa hip&#xf3;tese, o locat&#xe1;rio poder&#xe1;, em r&#xe9;plica, aceitar tais \ncondi&#xe7;&#xf5;es para obter a renova&#xe7;&#xe3;o pretendida. </font></p>\n\n<p id=\"art-52\"><font id=\"art-52\">&#xa7; 3&#xba; No \ncaso do inciso I do art. 52, a contesta&#xe7;&#xe3;o dever&#xe1; trazer prova da determina&#xe7;&#xe3;o \ndo Poder P&#xfa;blico ou relat&#xf3;rio pormenorizado das obras a serem realizadas e da \nestimativa de valoriza&#xe7;&#xe3;o que sofrer&#xe1; o im&#xf3;vel, assinado por engenheiro \ndevidamente habilitado. </font></p>\n\n<p><font>&#xa7; 4&#xba; Na \ncontesta&#xe7;&#xe3;o, o locador, ou sublocador, poder&#xe1; pedir, ainda, a fixa&#xe7;&#xe3;o de aluguel \nprovis&#xf3;rio, para vigorar a partir do primeiro m&#xea;s do prazo do contrato a ser \nrenovado, n&#xe3;o excedente a oitenta por cento do pedido, desde que apresentados \nelementos h&#xe1;beis para aferi&#xe7;&#xe3;o do justo valor do aluguel. </font></p>\n\n<p><font>&#xa7; 5&#xba; Se \npedido pelo locador, ou sublocador, a senten&#xe7;a poder&#xe1; estabelecer periodicidade \nde reajustamento do aluguel diversa daquela prevista no contrato renovando, bem \ncomo adotar outro indexador para reajustamento do aluguel. </font></p>\n\n<p id=\"art-73\"><font id=\"art-73\">\n<a name=\"art73\"></a>Art. 73. Renovada a loca&#xe7;&#xe3;o, as diferen&#xe7;as dos alugu&#xe9;is \nvencidos ser&#xe3;o executadas nos pr&#xf3;prios autos da a&#xe7;&#xe3;o e pagas de uma s&#xf3; vez. </font></p>\n\n<p id=\"art-74\"><font id=\"art-74\">\n<strike id=\"art-74\"><a name=\"art74.\"></a>Art. 74. N&#xe3;o sendo renovada a loca&#xe7;&#xe3;o, o juiz \nfixar&#xe1; o prazo de at&#xe9; seis meses ap&#xf3;s o tr&#xe2;nsito em julgado da senten&#xe7;a para \ndesocupa&#xe7;&#xe3;o, se houver pedido na contesta&#xe7;&#xe3;o.\n</strike>\n</font></p>\n\n<font id=\"art-74\">\n\n\t\t<p id=\"art-74\">\n\t\t<span id=\"art-74\"><a name=\"art74\"></a>Art. 74.&#xa0; N&#xe3;o sendo \n\t\trenovada a loca&#xe7;&#xe3;o, o juiz determinar&#xe1; a expedi&#xe7;&#xe3;o de mandado de \n\t\tdespejo, que conter&#xe1; o prazo de 30 (trinta) dias para a desocupa&#xe7;&#xe3;o \n\t\tvolunt&#xe1;ria, se houver pedido na contesta&#xe7;&#xe3;o.\n\t\t<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Reda&#xe7;&#xe3;o dada pela \n\t\tLei n&#xba; 12.112, de 2009)</a></span></p>\n\t\t<p>\n\t\t<span>&#xa7; 1<u><sup>o</sup></u>&#xa0;\n\t\t</span><a href=\"../_Ato2007-2010/2009/Msg/VEP-1004-09.htm\">(VETADO)</a> <span>&#xa0;\n\t\t<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Inclu&#xed;do dada pela \n\t\tLei n&#xba; 12.112, de 2009)</a></span></p>\n\t\t<p>\n\t\t<span>&#xa7; 2<u><sup>o</sup></u>\n\t\t</span><a href=\"../_Ato2007-2010/2009/Msg/VEP-1004-09.htm\">&#xa0;(VETADO)</a>&#xa0;&#xa0; <span>\n\t\t<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Inclu&#xed;do dada pela \n\t\tLei n&#xba; 12.112, de 2009)</a></span></p>\n\t\t<p>\n\t\t<span>&#xa7; 3<u><sup>o</sup></u>&#xa0;</span><a href=\"../_Ato2007-2010/2009/Msg/VEP-1004-09.htm\"> \n\t\t(VETADO)</a>&#xa0;&#xa0; <span>\n\t\t<a href=\"../_Ato2007-2010/2009/Lei/L12112.htm#art2\">(Inclu&#xed;do dada pela \n\t\tLei n&#xba; 12.112, de 2009)</a></span></p>\n\n</font>\n\n<p id=\"art-75\"><font id=\"art-75\">\n<a name=\"art75\"></a>Art. 75. Na hip&#xf3;tese do inciso III do art. 72, a senten&#xe7;a \nfixar&#xe1; desde logo a indeniza&#xe7;&#xe3;o devida ao locat&#xe1;rio em conseq&#xfc;&#xea;ncia da n&#xe3;o \nprorroga&#xe7;&#xe3;o da loca&#xe7;&#xe3;o, solidariamente devida pelo locador e o proponente. </font></p>\n<font>\n\n<p>T&#xcd;TULO III</p>\n\n</font><p><font>Das Disposi&#xe7;&#xf5;es Finais e Transit&#xf3;rias</font></p>\n\n<p id=\"art-76\"><font id=\"art-76\">\n<a name=\"art76\"></a>Art. 76. N&#xe3;o se aplicam as disposi&#xe7;&#xf5;es desta lei aos processos em curso. </font></p>\n\n<p id=\"art-77\"><font id=\"art-77\">\n<a name=\"art77\"></a>Art. 77. Todas as loca&#xe7;&#xf5;es residenciais que tenham sido celebradas anteriormente &#xe0;\nvig&#xea;ncia desta lei ser&#xe3;o automaticamente prorrogadas por tempo indeterminado, ao\nt&#xe9;rmino do prazo ajustado no contrato. </font></p>\n\n<p id=\"art-78\"><font id=\"art-78\">\n<a name=\"art78\"></a>Art. 78. As loca&#xe7;&#xf5;es residenciais que tenham sido celebradas anteriormente &#xe0; vig&#xea;ncia\ndesta lei e que j&#xe1; vigorem ou venham a vigorar por prazo indeterminado, poder&#xe3;o ser\ndenunciadas pelo locador, concedido o prazo de doze meses para a desocupa&#xe7;&#xe3;o. </font></p>\n\n<p><font>Par&#xe1;grafo &#xfa;nico. Na hip&#xf3;tese de ter havido revis&#xe3;o judicial ou amig&#xe1;vel do aluguel,\natingindo o pre&#xe7;o do mercado, a den&#xfa;ncia somente poder&#xe1; ser exercitada ap&#xf3;s vinte e\nquatro meses da data da revis&#xe3;o, se esta ocorreu nos doze meses anteriores &#xe0; data da\nvig&#xea;ncia desta lei. </font></p>\n\n<p id=\"art-79\"><font id=\"art-79\">\n<a name=\"art79\"></a>Art. 79. No que for omissa esta lei aplicam-se as normas do C&#xf3;digo Civil e do C&#xf3;digo de\nProcesso Civil. </font></p>\n\n<p id=\"art-80\"><font id=\"art-80\">\n<a name=\"art80\"></a>Art. 80. Para os fins do <a href=\"../Constituicao/Constituicao.htm#art98i\" id=\"art-98\">inciso I do\nart. 98 da Constitui&#xe7;&#xe3;o Federal,</a> as a&#xe7;&#xf5;es de despejo poder&#xe3;o ser consideradas\ncomo causas c&#xed;veis de menor complexidade. </font></p>\n\n<p id=\"art-81\"><font id=\"art-81\">\n<a name=\"art81\"></a> &#xa0;Art. 81. O inciso II do art. 167 e o\nart. 169 da <a href=\"L6015consolidado.htm\">Lei n&#xb0; 6.015, de 31 de dezembro de 1973</a>,\npassam a vigorar com as seguintes altera&#xe7;&#xf5;es: </font></p>\n\n<blockquote id=\"art-167\">\n  <blockquote id=\"art-167\">\n    <p id=\"art-167\"><font id=\"art-167\"> &quot;Art. 167.\n    ..........................................................</font></p>\n    <p><font>II -\n    .....................................................................</font></p>\n    <p><font>\n\t<a href=\"L6015consolidado.htm#art167ii.16\">16) </a>do contrato de loca&#xe7;&#xe3;o, para os fins de\n    exerc&#xed;cio de direito de prefer&#xea;ncia.&quot; </font></p>\n    <p id=\"art-169\"><font id=\"art-169\">\n\t&quot;Art. 169.\n    .............................................................</font></p>\n    <p><font>..............................................................................</font></p>\n    <p id=\"art-167\"><font id=\"art-167\">\n\t<a href=\"L6015consolidado.htm#art169iii\">III - </a>o registro previsto no n&#xb0; 3 do inciso I\n    do art. 167, e a averba&#xe7;&#xe3;o prevista no n&#xb0; 16 do inciso II do art. 167 ser&#xe3;o efetuados\n    no cart&#xf3;rio onde o im&#xf3;vel esteja matriculado mediante apresenta&#xe7;&#xe3;o de qualquer das\n    vias do contrato, assinado pelas partes e subscrito por duas testemunhas, bastando a\n    coincid&#xea;ncia entre o nome de um dos propriet&#xe1;rios e o locador.&quot; </font></p>\n  </blockquote>\n</blockquote>\n\n<p id=\"art-82\"><font id=\"art-82\">\n<a name=\"art82\"></a>Art. 82. O art. 3&#xb0; da Lei n&#xb0; 8.009, de 29 de mar&#xe7;o de 1990, passa a vigorar acrescido\ndo seguinte inciso VII: </font></p>\n\n<blockquote id=\"art-3\">\n  <blockquote id=\"art-3\">\n    <p id=\"art-3\"><font id=\"art-3\">&quot;Art. 3&#xb0;\n    .................................................................</font></p>\n    <p><font>.............................................................................</font></p>\n    <p><a name=\"art3vii\"></a><font><a href=\"L8009.htm#art3vii\">VII -</a> por obriga&#xe7;&#xe3;o decorrente de fian&#xe7;a concedida em\n    contrato de loca&#xe7;&#xe3;o.&quot; </font></p>\n  </blockquote>\n</blockquote>\n\n<p id=\"art-83\"><font id=\"art-83\">\n<a name=\"art83\"></a>Art. 83. Ao art. 24 da Lei n&#xb0; 4.591, de 16 de dezembro de 1964 fica\nacrescido o seguinte &#xa7; 4&#xb0;: </font></p>\n\n<blockquote id=\"art-24\">\n  <blockquote id=\"art-24\">\n    <p id=\"art-24\"><font id=\"art-24\"><a href=\"L4591.htm#art24&#xa7;4\" id=\"art-24\">&quot;Art. 24</a>.\n    ...............................................................</font></p>\n    <p><font>.............................................................................</font></p>\n    <p><font>4&#xb0; Nas decis&#xf5;es da assembl&#xe9;ia que envolvam\n    despesas ordin&#xe1;rias do condom&#xed;nio, o locat&#xe1;rio poder&#xe1; votar, caso o cond&#xf4;mino locador\n    a ela n&#xe3;o compare&#xe7;a.&quot; </font></p>\n  </blockquote>\n</blockquote>\n\n<p id=\"art-84\"><font id=\"art-84\">\n<a name=\"art84\"></a>Art. 84. Reputam-se v&#xe1;lidos os registros dos contratos de loca&#xe7;&#xe3;o de im&#xf3;veis,\nrealizados at&#xe9; a data da vig&#xea;ncia desta lei. </font></p>\n\n<p id=\"art-85\"><font id=\"art-85\">\n<a name=\"art85\"></a>Art. 85. Nas loca&#xe7;&#xf5;es residenciais, &#xe9; livre a conven&#xe7;&#xe3;o do aluguel quanto a pre&#xe7;o,\nperiodicidade e indexador de reajustamento, vedada a vincula&#xe7;&#xe3;o &#xe0; varia&#xe7;&#xe3;o do\nsal&#xe1;rio m&#xed;nimo, varia&#xe7;&#xe3;o cambial e moeda estrangeira: </font></p>\n\n<p><font>I\ndos im&#xf3;veis novos, com habite-se concedido a partir da entrada em vigor desta lei; </font></p>\n\n<p><font>II\n- dos demais im&#xf3;veis n&#xe3;o enquadrados no inciso anterior, em rela&#xe7;&#xe3;o aos contratos\ncelebrados, ap&#xf3;s cinco anos de entrada em vigor desta lei. </font></p>\n\n<p id=\"art-86\"><font id=\"art-86\">\n<a name=\"art86\"></a>Art. 86. O <a href=\"L4380.htm#art8\" id=\"art-8\">art. 8&#xb0; da Lei n&#xb0; 4.380, de 21 de agosto de 1964</a>\npassa a vigorar com a seguinte reda&#xe7;&#xe3;o: </font></p>\n\n<blockquote id=\"art-8\">\n  <blockquote id=\"art-8\">\n    <p id=\"art-8\"><a name=\"art8\"></a><font id=\"art-8\">&quot;Art. 8&#xb0; O sistema\n    financeiro da habita&#xe7;&#xe3;o, destinado a facilitar e promover a constru&#xe7;&#xe3;o e a aquisi&#xe7;&#xe3;o\n    da casa pr&#xf3;pria ou moradia, especialmente pelas classes de menor renda da popula&#xe7;&#xe3;o,\n    ser&#xe1; integrado.&quot; </font></p>\n  </blockquote>\n</blockquote>\n\n<p id=\"art-87\"><font id=\"art-87\">\n<a name=\"art87\"></a>Art. 87. <a href=\"Mensagem_Veto/anterior_98/VEP-LEI-8245-1991.pdf\">(Vetado).</a> </font></p>\n\n<p id=\"art-88\"><font id=\"art-88\">\n<a name=\"art88\"></a>Art. 88. <a href=\"Mensagem_Veto/anterior_98/VEP-LEI-8245-1991.pdf\">(Vetado). </a> </font></p>\n\n<p id=\"art-89\"><font id=\"art-89\">\n<a name=\"art89\"></a>Art. 89. Esta lei entrar&#xe1; em vigor sessenta dias ap&#xf3;s a sua publica&#xe7;&#xe3;o. </font></p>\n\n<p id=\"art-90\"><font id=\"art-90\">\n<a name=\"art90\"></a> &#xa0;Art. 90. Revogam-se as disposi&#xe7;&#xf5;es em contr&#xe1;rio, especialmente: </font></p>\n\n<p><font>I -\no <a href=\"../decreto/1930-1949/D24150.htm\">Decreto\nn&#xb0; 24.150, de 20 de abril de 1934; </a></font></p>\n\n<p><font>II\n- a <a href=\"1970-1979/L6239.htm\">Lei\nn&#xb0; 6.239, de 19 de setembro de 1975; </a></font></p>\n\n<p><font>III\n- a <a href=\"1970-1979/L6649.htm\">Lei n&#xb0; 6.649, de 16 de maio de 1979; </a></font></p>\n\n<p><font>IV\n- a <a href=\"1970-1979/L6698.htm\">Lei\nn&#xb0; 6.698, de 15 de outubro de 1979; </a></font></p>\n\n<p><font>V -\na <a href=\"1980-1988/L7355.htm\">Lei\nn&#xb0; 7.355, de 31 de agosto de 1985; </a></font></p>\n\n<p><font>VI\n- a <a href=\"1980-1988/L7538.htm\">Lei\nn&#xb0; 7.538, de 24 de setembro de 1986; </a></font></p>\n\n<p><font>VII\n- a <a href=\"1980-1988/L7612.htm\">Lei\nn&#xb0; 7.612, de 9 de julho de 1987;</a> e </font></p>\n\n<p><font>VIII - a\n<a href=\"1989_1994/L8157.htm\">Lei\nn&#xb0; 8.157, de 3 de janeiro de 1991. </a></font></p>\n\n<p><font>Bras&#xed;lia, 18 de outubro de 1991; 170&#xb0; da Independ&#xea;ncia e 103&#xb0; da Rep&#xfa;blica. </font></p>\n\n<p><font>FERNANDO COLLOR<b> </b><br>\n<em>Jarbas Passarinho </em></font></p>\n\n<p><font><small>Este texto n&#xe3;o substitui o\npublicado no DOU de 21.10.1991</small></font></p>\n<p><font>\n*</font></p>\n\n<p>&#xa0;</p>\n\n<p>&#xa0;</p>\n\n<p>&#xa0;</p>\n\n<p>&#xa0;</p>\n\n<p>&#xa0;</p>\n\n<p>&#xa0;</p>\n\n<p>&#xa0;</p>\n\n<p>&#xa0;</p>\n\n<p>&#xa0;</p>\n\n\n\n    </div>",
+  "artigos": {
+    "1": {
+      "numero": "1º",
+      "titulo": "Artigo 1",
+      "texto": "Art. 1º A locação de imóvel urbano regula - se pelo disposto nesta lei:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-1"
+    },
+    "2": {
+      "numero": "2º",
+      "titulo": "solidários se o contrário não se estipulou.",
+      "texto": "Art. 2º Havendo mais de um locador ou mais de um locatário, entende - se que são solidários se o contrário não se estipulou.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-2"
+    },
+    "3": {
+      "numero": "3º",
+      "titulo": "vênia conjugal, se igual ou superior a dez anos.",
+      "texto": "Art. 3º O contrato de locação pode ser ajustado por qualquer prazo, dependendo de vênia conjugal, se igual ou superior a dez anos.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-3"
+    },
+    "4": {
+      "numero": "4º",
+      "titulo": "reaver o imóvel alugado. O locatário, todavia, poderá devolvê - lo, pagando a",
+      "texto": "Art. 4º Durante o prazo estipulado para a duração do contrato, não poderá o locador reaver o imóvel alugado. O locatário, todavia, poderá devolvê - lo, pagando a multa pactuada, segundo a proporção prevista no art. 924 do Código Civil e, na sua falta, a que for judicialmente estipulada.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-4"
+    },
+    "5": {
+      "numero": "5º",
+      "titulo": "reaver o imóvel é a de despejo.",
+      "texto": "Art. 5º Seja qual for o fundamento do término da locação, a ação do locador para reaver o imóvel é a de despejo.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-5"
+    },
+    "6": {
+      "numero": "6º",
+      "titulo": "por escrito ao locador, com antecedência mínima de trinta dias.",
+      "texto": "Art. 6º O locatário poderá denunciar a locação por prazo indeterminado mediante aviso por escrito ao locador, com antecedência mínima de trinta dias.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-6"
+    },
+    "7": {
+      "numero": "7º",
+      "titulo": "pelo usufrutuário ou fiduciário poderá ser denunciada, com o prazo de trinta dias para",
+      "texto": "Art. 7º Nos casos de extinção de usufruto ou de fideicomisso, a locação celebrada pelo usufrutuário ou fiduciário poderá ser denunciada, com o prazo de trinta dias para a desocupação, salvo se tiver havido aquiescência escrita do nuproprietário ou do fideicomissário, ou se a propriedade estiver consolidada em mãos do usufrutuário ou do fiduciário.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-7"
+    },
+    "8": {
+      "numero": "8º",
+      "titulo": "contrato, com o prazo de noventa dias para a desocupação, salvo se a locação for por",
+      "texto": "Art. 8º Se o imóvel for alienado durante a locação, o adquirente poderá denunciar o contrato, com o prazo de noventa dias para a desocupação, salvo se a locação for por tempo determinado e o contrato contiver cláusula de vigência em caso de alienação e estiver averbado junto à matrícula do imóvel.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-8"
+    },
+    "9": {
+      "numero": "9º",
+      "titulo": "Artigo 9",
+      "texto": "Art. 9º A locação também poderá ser desfeita:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-9"
+    },
+    "10": {
+      "numero": "10º",
+      "titulo": "Artigo 10",
+      "texto": "Art. 10. Morrendo o locador, a locação transmite - se aos herdeiros.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-10"
+    },
+    "11": {
+      "numero": "11º",
+      "titulo": "obrigações:",
+      "texto": "Art. 11. Morrendo o locatário, ficarão sub - rogados nos seus direitos e obrigações:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-11"
+    },
+    "12": {
+      "numero": "12º",
+      "titulo": "da sociedade concubinária, a locação prosseguirá automaticamente com o cônjuge ou",
+      "texto": "Art. 12. Em casos de separação de fato, separação judicial, divórcio ou dissolução da sociedade concubinária, a locação prosseguirá automaticamente com o cônjuge ou companheiro que permanecer no imóvel.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-12"
+    },
+    "13": {
+      "numero": "13º",
+      "titulo": "parcialmente, dependem do consentimento prévio e escrito do locador.",
+      "texto": "Art. 13. A cessão da locação, a sublocação e o empréstimo do imóvel, total ou parcialmente, dependem do consentimento prévio e escrito do locador.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-13"
+    },
+    "14": {
+      "numero": "14º",
+      "titulo": "às locações.",
+      "texto": "Art. 14. Aplicam - se às sublocações, no que couber, as disposições relativas às locações.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-14"
+    },
+    "15": {
+      "numero": "15º",
+      "titulo": "se as sublocações, assegurado o direito de indenização do sublocatário contra o",
+      "texto": "Art. 15. Rescindida ou finda a locação, qualquer que seja sua causa, resolvem - se as sublocações, assegurado o direito de indenização do sublocatário contra o sublocador.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-15"
+    },
+    "16": {
+      "numero": "16º",
+      "titulo": "ao sublocador, quando este for demandado e, ainda, pelos aluguéis que se vencerem durante",
+      "texto": "Art. 16. O sublocatário responde subsidiariamente ao locador pela importância que dever ao sublocador, quando este for demandado e, ainda, pelos aluguéis que se vencerem durante a lide.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-16"
+    },
+    "17": {
+      "numero": "17º",
+      "titulo": "estrangeira e a sua vinculação à variação cambial ou ao salário mínimo.",
+      "texto": "Art. 17. É livre a convenção do aluguel, vedada a sua estipulação em moeda estrangeira e a sua vinculação à variação cambial ou ao salário mínimo.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-17"
+    },
+    "18": {
+      "numero": "18º",
+      "titulo": "inserir ou modificar cláusula de",
+      "texto": "Art. 18. É lícito às partes fixar, de comum acordo, novo valor para o aluguel, bem como inserir ou modificar cláusula de reajuste.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-18"
+    },
+    "19": {
+      "numero": "19º",
+      "titulo": "contrato ou do acordo anteriormente realizado, poderão pedir revisão judicial do",
+      "texto": "Art. 19. Não havendo acordo, o locador ou locatário, após três anos de vigência do contrato ou do acordo anteriormente realizado, poderão pedir revisão judicial do aluguel, a fim de ajustá - lo ao preço de mercado.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-19"
+    },
+    "20": {
+      "numero": "20º",
+      "titulo": "poderá exigir o pagamento antecipado do aluguel.",
+      "texto": "Art. 20. Salvo as hipóteses do art. 42 e da locação para temporada, o locador não poderá exigir o pagamento antecipado do aluguel.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-20"
+    },
+    "21": {
+      "numero": "21º",
+      "titulo": "coletivas multifamiliares, a soma dos aluguéis não poderá ser superior ao dobro do",
+      "texto": "Art. 21. O aluguel da sublocação não poderá exceder o da locação; nas habitações coletivas multifamiliares, a soma dos aluguéis não poderá ser superior ao dobro do valor da locação.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-21"
+    },
+    "22": {
+      "numero": "22º",
+      "titulo": "Artigo 22",
+      "texto": "Art. 22. O locador é obrigado a:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-22"
+    },
+    "23": {
+      "numero": "23º",
+      "titulo": "Artigo 23",
+      "texto": "Art. 23. O locatário é obrigado a:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-23"
+    },
+    "24": {
+      "numero": "24º",
+      "titulo": "ou sublocatários poderão depositar judicialmente o aluguel e encargos se a construção",
+      "texto": "Art. 24. Nos imóveis utilizados como habitação coletiva multifamiliar, os locatários ou sublocatários poderão depositar judicialmente o aluguel e encargos se a construção for considerada em condições precárias pelo Poder Público.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-24"
+    },
+    "25": {
+      "numero": "25º",
+      "titulo": "e despesas ordinárias de condomínio, o locador poderá cobrar tais verbas juntamente com",
+      "texto": "Art. 25. Atribuída ao locatário a responsabilidade pelo pagamento dos tributos, encargos e despesas ordinárias de condomínio, o locador poderá cobrar tais verbas juntamente com o aluguel do mês a que se refiram.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-25"
+    },
+    "26": {
+      "numero": "26º",
+      "titulo": "o locatário é obrigado a consenti - los.",
+      "texto": "Art. 26. Necessitando o imóvel de reparos urgentes, cuja realização incumba ao locador, o locatário é obrigado a consenti - los.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-26"
+    },
+    "27": {
+      "numero": "27º",
+      "titulo": "- permitir a vistoria do imóvel pelo locador ou por seu mandatário, mediante",
+      "texto": "IX - permitir a vistoria do imóvel pelo locador ou por seu mandatário, mediante combinação prévia de dia e hora, bem como admitir que seja o mesmo visitado e examinado por terceiros, na hipótese prevista no art. 27;",
+      "incisos": [
+        "IX"
+      ],
+      "paragrafos": [],
+      "anchor": "#art-27"
+    },
+    "28": {
+      "numero": "28º",
+      "titulo": "inequívoca, sua aceitação integral à proposta, no prazo de trinta dias.",
+      "texto": "Art. 28. O direito de preferência do locatário caducará se não manifestada, de maneira inequívoca, sua aceitação integral à proposta, no prazo de trinta dias.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-28"
+    },
+    "29": {
+      "numero": "29º",
+      "titulo": "negócio pelo locador acarreta, a este, responsabilidade pelos prejuízos ocasionados,",
+      "texto": "Art. 29. Ocorrendo aceitação da proposta, pelo locatário, a posterior desistência do negócio pelo locador acarreta, a este, responsabilidade pelos prejuízos ocasionados, inclusive lucros cessantes.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-29"
+    },
+    "30": {
+      "numero": "30º",
+      "titulo": "sublocatário e, em seguida, ao locatário. Se forem vários os sublocatários, a",
+      "texto": "Art. 30. Estando o imóvel sublocado em sua totalidade, caberá a preferência ao sublocatário e, em seguida, ao locatário. Se forem vários os sublocatários, a preferência caberá a todos, em comum, ou a qualquer deles, se um só for o interessado.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-30"
+    },
+    "31": {
+      "numero": "31º",
+      "titulo": "preferência incidirá sobre a totalidade dos bens objeto da alienação.",
+      "texto": "Art. 31. Em se tratando de alienação de mais de uma unidade imobiliária, o direito de preferência incidirá sobre a totalidade dos bens objeto da alienação.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-31"
+    },
+    "32": {
+      "numero": "32º",
+      "titulo": "propriedade ou venda por decisão judicial, permuta, doação, integralização de",
+      "texto": "Art. 32. O direito de preferência não alcança os casos de perda da propriedade ou venda por decisão judicial, permuta, doação, integralização de capital, cisão, fusão e incorporação.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-32"
+    },
+    "33": {
+      "numero": "33º",
+      "titulo": "alienante as perdas e danos ou, depositando o preço e demais despesas do ato de",
+      "texto": "Art. 33. O locatário preterido no seu direito de preferência poderá reclamar do alienante as perdas e danos ou, depositando o preço e demais despesas do ato de transferência, haver para si o imóvel locado, se o requerer no prazo de seis meses, a contar do registro do ato no cartório de imóveis, desde que o contrato de locação esteja averbado pelo menos trinta dias antes da alienação junto à matrícula do imóvel.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-33"
+    },
+    "34": {
+      "numero": "34º",
+      "titulo": "sobre a do locatário.",
+      "texto": "Art. 34. Havendo condomínio no imóvel, a preferência do condômino terá prioridade sobre a do locatário.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-34"
+    },
+    "35": {
+      "numero": "35º",
+      "titulo": "necessárias introduzidas pelo locatário, ainda que não autorizadas pelo locador, bem",
+      "texto": "Art. 35. Salvo expressa disposição contratual em contrário, as benfeitorias necessárias introduzidas pelo locatário, ainda que não autorizadas pelo locador, bem como as úteis, desde que autorizadas, serão indenizáveis e permitem o exercício do direito de retenção.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-35"
+    },
+    "36": {
+      "numero": "36º",
+      "titulo": "pelo locatário, finda a locação, desde que sua retirada não afete a estrutura e a",
+      "texto": "Art. 36. As benfeitorias voluptuárias não serão indenizáveis, podendo ser levantadas pelo locatário, finda a locação, desde que sua retirada não afete a estrutura e a substância do imóvel.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-36"
+    },
+    "37": {
+      "numero": "37º",
+      "titulo": "modalidades de garantia:",
+      "texto": "Art. 37. No contrato de locação, pode o locador exigir do locatário as seguintes modalidades de garantia:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-37"
+    },
+    "38": {
+      "numero": "38º",
+      "titulo": "Artigo 38",
+      "texto": "Art. 38. A caução poderá ser em bens móveis ou imóveis.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-38"
+    },
+    "39": {
+      "numero": "39º",
+      "titulo": "se estende até a efetiva devolução do imóvel.",
+      "texto": "Art. 39. Salvo disposição contratual em contrário, qualquer das garantias da locação se estende até a efetiva devolução do imóvel.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-39"
+    },
+    "40": {
+      "numero": "40º",
+      "titulo": "garantia, nos seguintes casos:",
+      "texto": "Art. 40. O locador poderá exigir novo fiador ou a substituição da modalidade de garantia, nos seguintes casos:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-40"
+    },
+    "41": {
+      "numero": "41º",
+      "titulo": "locatário.",
+      "texto": "Art. 41. O seguro de fiança locatícia abrangerá a totalidade das obrigações do locatário.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-41"
+    },
+    "42": {
+      "numero": "42º",
+      "titulo": "poderá exigir o pagamento antecipado do aluguel.",
+      "texto": "Art. 20. Salvo as hipóteses do art. 42 e da locação para temporada, o locador não poderá exigir o pagamento antecipado do aluguel.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-42"
+    },
+    "43": {
+      "numero": "43º",
+      "titulo": "meses ou multa de três a doze meses do valor do último aluguel atualizado, revertida em",
+      "texto": "Art. 43. Constitui contravenção penal, punível com prisão simples de cinco dias a seis meses ou multa de três a doze meses do valor do último aluguel atualizado, revertida em favor do locatário:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-43"
+    },
+    "44": {
+      "numero": "44º",
+      "titulo": "ano, que poderá ser substituída pela prestação de serviços à comunidade:",
+      "texto": "Art. 44. Constitui crime de ação pública, punível com detenção de três meses a um ano, que poderá ser substituída pela prestação de serviços à comunidade:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-44"
+    },
+    "45": {
+      "numero": "45º",
+      "titulo": "elidir os objetivos da presente lei, notadamente as que proíbam a prorrogação prevista",
+      "texto": "Art. 45. São nulas de pleno direito as cláusulas do contrato de locação que visem a elidir os objetivos da presente lei, notadamente as que proíbam a prorrogação prevista no art. 47, ou que afastem o direito à renovação, na hipótese do art. 51, ou que imponham obrigações pecuniárias para tanto.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-45"
+    },
+    "46": {
+      "numero": "46º",
+      "titulo": "meses, a resolução do contrato ocorrerá findo o prazo estipulado, independentemente de",
+      "texto": "Art. 46. Nas locações ajustadas por escrito e por prazo igual ou superior a trinta meses, a resolução do contrato ocorrerá findo o prazo estipulado, independentemente de notificação ou aviso.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-46"
+    },
+    "47": {
+      "numero": "47º",
+      "titulo": "- deixar o retomante, dentro de cento e oitenta dias após a entrega do imóvel, no caso",
+      "texto": "II - deixar o retomante, dentro de cento e oitenta dias após a entrega do imóvel, no caso do inciso III do art. 47, de usá - lo para o fim declarado ou, usando - o , não o fizer pelo prazo mínimo de um ano;",
+      "incisos": [
+        "II"
+      ],
+      "paragrafos": [],
+      "anchor": "#art-47"
+    },
+    "48": {
+      "numero": "48º",
+      "titulo": "temporária do locatário, para prática de lazer, realização de cursos, tratamento de",
+      "texto": "Art. 48. Considera - se locação para temporada aquela destinada à residência temporária do locatário, para prática de lazer, realização de cursos, tratamento de saúde, feitura de obras em seu imóvel, e outros fatos que decorrem tão-somente de determinado tempo, e contratada por prazo não superior a noventa dias, esteja ou não mobiliado o imóvel.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-48"
+    },
+    "49": {
+      "numero": "49º",
+      "titulo": "encargos, bem como exigir qualquer das modalidades de garantia previstas no art. 37 para",
+      "texto": "Art. 49. O locador poderá receber de uma só vez e antecipadamente os aluguéis e encargos, bem como exigir qualquer das modalidades de garantia previstas no art. 37 para atender as demais obrigações do contrato.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-49"
+    },
+    "50": {
+      "numero": "50º",
+      "titulo": "locador por mais de trinta dias, presumir - se - á prorrogada a locação",
+      "texto": "Art. 50. Findo o prazo ajustado, se o locatário permanecer no imóvel sem oposição do locador por mais de trinta dias, presumir - se - á prorrogada a locação por tempo indeterminado, não mais sendo exigível o pagamento antecipado do aluguel e dos encargos.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-50"
+    },
+    "51": {
+      "numero": "51º",
+      "titulo": "elidir os objetivos da presente lei, notadamente as que proíbam a prorrogação prevista",
+      "texto": "Art. 45. São nulas de pleno direito as cláusulas do contrato de locação que visem a elidir os objetivos da presente lei, notadamente as que proíbam a prorrogação prevista no art. 47, ou que afastem o direito à renovação, na hipótese do art. 51, ou que imponham obrigações pecuniárias para tanto.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-51"
+    },
+    "52": {
+      "numero": "52º",
+      "titulo": "- não iniciar o proprietário, promissário comprador ou promissário cessionário, nos",
+      "texto": "III - não iniciar o proprietário, promissário comprador ou promissário cessionário, nos casos do inciso IV do art. 9º, inciso IV do art. 47, inciso I do art. 52 e inciso II do art. 53, a demolição ou a reparação do imóvel, dentro de sessenta dias contados de sua entrega;",
+      "incisos": [
+        "III"
+      ],
+      "paragrafos": [],
+      "anchor": "#art-52"
+    },
+    "53": {
+      "numero": "53º",
+      "titulo": "- não iniciar o proprietário, promissário comprador ou promissário cessionário, nos",
+      "texto": "III - não iniciar o proprietário, promissário comprador ou promissário cessionário, nos casos do inciso IV do art. 9º, inciso IV do art. 47, inciso I do art. 52 e inciso II do art. 53, a demolição ou a reparação do imóvel, dentro de sessenta dias contados de sua entrega;",
+      "incisos": [
+        "III"
+      ],
+      "paragrafos": [],
+      "anchor": "#art-53"
+    },
+    "54": {
+      "numero": "54º",
+      "titulo": "contrato, não poderá o locador reaver o imóvel alugado. Com exceção ao",
+      "texto": "Art. 4o Durante o prazo estipulado para a duração do contrato, não poderá o locador reaver o imóvel alugado. Com exceção ao que estipula o § 2o do art. 54-A, o locatário, todavia, poderá devolvê-lo, pagando a multa pactuada, proporcional ao período de cumprimento do contrato, ou, na sua falta, a que for judicialmente estipulada. (Redação dada pela Lei nº 12.744, de 2012)",
+      "incisos": [],
+      "paragrafos": [
+        "2º"
+      ],
+      "anchor": "#art-54"
+    },
+    "55": {
+      "numero": "55º",
+      "titulo": "jurídica e o imóvel, destinar - se ao uso de seus titulares, diretores, sócios,",
+      "texto": "Art. 55. Considera - se locação não residencial quando o locatário for pessoa jurídica e o imóvel, destinar - se ao uso de seus titulares, diretores, sócios, gerentes, executivos ou empregados.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-55"
+    },
+    "56": {
+      "numero": "56º",
+      "titulo": "cessa, de pleno direito, findo o prazo estipulado, independentemente de notificação ou",
+      "texto": "Art. 56. Nos demais casos de locação não residencial, o contrato por prazo determinado cessa, de pleno direito, findo o prazo estipulado, independentemente de notificação ou aviso.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-56"
+    },
+    "57": {
+      "numero": "57º",
+      "titulo": "pelo locador, concedidos ao locatário trinta dias para a desocupação.",
+      "texto": "Art. 57. O contrato de locação por prazo indeterminado pode ser denunciado por escrito, pelo locador, concedidos ao locatário trinta dias para a desocupação.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-57"
+    },
+    "58": {
+      "numero": "58º",
+      "titulo": "despejo, consignação em pagamento de aluguel e acessório da locação, revisionais de",
+      "texto": "Art. 58. Ressalvados os casos previstos no parágrafo único do art. 1º, nas ações de despejo, consignação em pagamento de aluguel e acessório da locação, revisionais de aluguel e renovatórias de locação, observar - se - á o seguinte:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-58"
+    },
+    "59": {
+      "numero": "59º",
+      "titulo": "rito ordinário.",
+      "texto": "Art. 59. Com as modificações constantes deste capítulo, as ações de despejo terão o rito ordinário.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-59"
+    },
+    "60": {
+      "numero": "60º",
+      "titulo": "inciso II do art. 53, a petição inicial deverá ser instruída com prova da propriedade",
+      "texto": "Art. 60. Nas ações de despejo fundadas no inciso IV do art. 9º, inciso IV do art. 47 e inciso II do art. 53, a petição inicial deverá ser instruída com prova da propriedade do imóvel ou do compromisso registrado.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-60"
+    },
+    "61": {
+      "numero": "61º",
+      "titulo": "locatário, no prazo da contestação, manifestar sua concordância com a desocupação do",
+      "texto": "Art. 61 Nas ações fundadas no § 2º do art. 46 e nos incisos III e IV do art. 47, se o locatário, no prazo da contestação, manifestar sua concordância com a desocupação do imóvel, o juiz acolherá o pedido fixando prazo de seis meses para a desocupação, contados da citação, impondo ao vencido a responsabilidade pelas custas e honorários advocatícios de vinte por cento sobre o valor dado à causa. Se a desocupação ocorrer dentro do prazo fixado, o réu ficará isento dessa responsabilidade; caso contrário, será expedido mandado de despejo.",
+      "incisos": [],
+      "paragrafos": [
+        "2º"
+      ],
+      "anchor": "#art-61"
+    },
+    "62": {
+      "numero": "62º",
+      "titulo": "deste artigo, poderá o locatário evitar a rescisão da locação e elidir a liminar",
+      "texto": "§ 3o No caso do inciso IX do § 1o deste artigo, poderá o locatário evitar a rescisão da locação e elidir a liminar de desocupação se, dentro dos 15 (quinze) dias concedidos para a desocupação do imóvel e independentemente de cálculo, efetuar depósito judicial que contemple a totalidade dos valores devidos, na forma prevista no inciso II do art. 62. (Incluído pela Lei nº 12.112, de 2009)",
+      "incisos": [],
+      "paragrafos": [
+        "3º",
+        "1º"
+      ],
+      "anchor": "#art-62"
+    },
+    "63": {
+      "numero": "63º",
+      "titulo": "a desocupação voluntária, ressalvado o disposto nos parágrafos seguintes:",
+      "texto": "Art. 63. Julgada procedente a ação de despejo, o juiz fixará prazo de trinta dias para a desocupação voluntária, ressalvado o disposto nos parágrafos seguintes:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-63"
+    },
+    "64": {
+      "numero": "64º",
+      "titulo": "execução provisória do despejo dependerá de caução não inferior a doze meses e nem",
+      "texto": "Art. 64. Salvo nas hipóteses das ações fundadas nos incisos I, II e IV do art. 9°, a execução provisória do despejo dependerá de caução não inferior a doze meses e nem superior a dezoito meses do aluguel, atualizado até a data do depósito da caução.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-64"
+    },
+    "65": {
+      "numero": "65º",
+      "titulo": "- executar o despejo com inobservância do disposto no § 2º do art. 65.",
+      "texto": "IV - executar o despejo com inobservância do disposto no § 2º do art. 65.",
+      "incisos": [
+        "IV"
+      ],
+      "paragrafos": [
+        "2º"
+      ],
+      "anchor": "#art-65"
+    },
+    "66": {
+      "numero": "66º",
+      "titulo": "imitir-se na posse do imóvel.",
+      "texto": "Art. 66. Quando o imóvel for abandonado após ajuizada a ação, o locador poderá imitir-se na posse do imóvel.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-66"
+    },
+    "67": {
+      "numero": "67º",
+      "titulo": "mediante consignação, será observado o seguinte:",
+      "texto": "Art. 67. Na ação que objetivar o pagamento dos aluguéis e acessórios da locação mediante consignação, será observado o seguinte:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-67"
+    },
+    "68": {
+      "numero": "68º",
+      "titulo": "seguinte:",
+      "texto": "Art. 68. Na ação revisional de aluguel, que terá o rito sumaríssimo, observar-se-á o seguinte:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-68"
+    },
+    "69": {
+      "numero": "69º",
+      "titulo": "durante a ação de revisão, descontados os alugueres provisórios satisfeitos, serão",
+      "texto": "Art. 69. O aluguel fixado na sentença retroage à citação, e as diferenças devidas durante a ação de revisão, descontados os alugueres provisórios satisfeitos, serão pagas corrigidas, exigíveis a partir do trânsito em julgado da decisão que fixar o novo aluguel.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-69"
+    },
+    "70": {
+      "numero": "70º",
+      "titulo": "desocupação, que será executado mediante expedição de mandado de despejo.",
+      "texto": "Art. 70. Na ação de revisão do aluguel, o juiz poderá homologar acordo de desocupação, que será executado mediante expedição de mandado de despejo.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-70"
+    },
+    "71": {
+      "numero": "71º",
+      "titulo": "art. 282 do Código de Processo Civil, a petição inicial da ação renovatória",
+      "texto": "Art. 71. Além dos demais requisitos exigidos no art. 282 do Código de Processo Civil, a petição inicial da ação renovatória deverá ser instruída com:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-71"
+    },
+    "72": {
+      "numero": "72º",
+      "titulo": "que possa caber, ficará adstrita, quanto à matéria de fato, ao",
+      "texto": "Art. 72. A contestação do locador, além da defesa de direito que possa caber, ficará adstrita, quanto à matéria de fato, ao seguinte:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-72"
+    },
+    "73": {
+      "numero": "73º",
+      "titulo": "vencidos serão executadas nos próprios autos da ação e pagas de uma só vez.",
+      "texto": "Art. 73. Renovada a locação, as diferenças dos aluguéis vencidos serão executadas nos próprios autos da ação e pagas de uma só vez.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-73"
+    },
+    "74": {
+      "numero": "74º",
+      "titulo": "fixará o prazo de até seis meses após o trânsito em julgado da sentença para",
+      "texto": "Art. 74. Não sendo renovada a locação, o juiz fixará o prazo de até seis meses após o trânsito em julgado da sentença para desocupação, se houver pedido na contestação.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-74"
+    },
+    "75": {
+      "numero": "75º",
+      "titulo": "fixará desde logo a indenização devida ao locatário em conseqüência da não",
+      "texto": "Art. 75. Na hipótese do inciso III do art. 72, a sentença fixará desde logo a indenização devida ao locatário em conseqüência da não prorrogação da locação, solidariamente devida pelo locador e o proponente.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-75"
+    },
+    "76": {
+      "numero": "76º",
+      "titulo": "Artigo 76",
+      "texto": "Art. 76. Não se aplicam as disposições desta lei aos processos em curso.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-76"
+    },
+    "77": {
+      "numero": "77º",
+      "titulo": "vigência desta lei serão automaticamente prorrogadas por tempo indeterminado, ao",
+      "texto": "Art. 77. Todas as locações residenciais que tenham sido celebradas anteriormente à vigência desta lei serão automaticamente prorrogadas por tempo indeterminado, ao término do prazo ajustado no contrato.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-77"
+    },
+    "78": {
+      "numero": "78º",
+      "titulo": "desta lei e que já vigorem ou venham a vigorar por prazo indeterminado, poderão ser",
+      "texto": "Art. 78. As locações residenciais que tenham sido celebradas anteriormente à vigência desta lei e que já vigorem ou venham a vigorar por prazo indeterminado, poderão ser denunciadas pelo locador, concedido o prazo de doze meses para a desocupação.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-78"
+    },
+    "79": {
+      "numero": "79º",
+      "titulo": "Processo Civil.",
+      "texto": "Art. 79. No que for omissa esta lei aplicam-se as normas do Código Civil e do Código de Processo Civil.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-79"
+    },
+    "80": {
+      "numero": "80º",
+      "titulo": "art. 98 da Constituição Federal, as ações de despejo poderão ser consideradas",
+      "texto": "Art. 80. Para os fins do inciso I do art. 98 da Constituição Federal, as ações de despejo poderão ser consideradas como causas cíveis de menor complexidade.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-80"
+    },
+    "81": {
+      "numero": "81º",
+      "titulo": "art. 169 da Lei n° 6.015, de 31 de dezembro de 1973,",
+      "texto": "Art. 81. O inciso II do art. 167 e o art. 169 da Lei n° 6.015, de 31 de dezembro de 1973, passam a vigorar com as seguintes alterações:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-81"
+    },
+    "82": {
+      "numero": "82º",
+      "titulo": "do seguinte inciso VII:",
+      "texto": "Art. 82. O art. 3° da Lei n° 8.009, de 29 de março de 1990, passa a vigorar acrescido do seguinte inciso VII:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-82"
+    },
+    "83": {
+      "numero": "83º",
+      "titulo": "acrescido o seguinte § 4°:",
+      "texto": "Art. 83. Ao art. 24 da Lei n° 4.591, de 16 de dezembro de 1964 fica acrescido o seguinte § 4°:",
+      "incisos": [],
+      "paragrafos": [
+        "4º"
+      ],
+      "anchor": "#art-83"
+    },
+    "84": {
+      "numero": "84º",
+      "titulo": "realizados até a data da vigência desta lei.",
+      "texto": "Art. 84. Reputam-se válidos os registros dos contratos de locação de imóveis, realizados até a data da vigência desta lei.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-84"
+    },
+    "85": {
+      "numero": "85º",
+      "titulo": "periodicidade e indexador de reajustamento, vedada a vinculação à variação do",
+      "texto": "Art. 85. Nas locações residenciais, é livre a convenção do aluguel quanto a preço, periodicidade e indexador de reajustamento, vedada a vinculação à variação do salário mínimo, variação cambial e moeda estrangeira:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-85"
+    },
+    "86": {
+      "numero": "86º",
+      "titulo": "passa a vigorar com a seguinte redação:",
+      "texto": "Art. 86. O art. 8° da Lei n° 4.380, de 21 de agosto de 1964 passa a vigorar com a seguinte redação:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-86"
+    },
+    "89": {
+      "numero": "89º",
+      "titulo": "Artigo 89",
+      "texto": "Art. 89. Esta lei entrará em vigor sessenta dias após a sua publicação.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-89"
+    },
+    "90": {
+      "numero": "90º",
+      "titulo": "Artigo 90",
+      "texto": "Art. 90. Revogam-se as disposições em contrário, especialmente:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-90"
+    },
+    "98": {
+      "numero": "98º",
+      "titulo": "art. 98 da Constituição Federal, as ações de despejo poderão ser consideradas",
+      "texto": "Art. 80. Para os fins do inciso I do art. 98 da Constituição Federal, as ações de despejo poderão ser consideradas como causas cíveis de menor complexidade.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-98"
+    },
+    "167": {
+      "numero": "167º",
+      "titulo": "art. 169 da Lei n° 6.015, de 31 de dezembro de 1973,",
+      "texto": "Art. 81. O inciso II do art. 167 e o art. 169 da Lei n° 6.015, de 31 de dezembro de 1973, passam a vigorar com as seguintes alterações:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-167"
+    },
+    "169": {
+      "numero": "169º",
+      "titulo": "art. 169 da Lei n° 6.015, de 31 de dezembro de 1973,",
+      "texto": "Art. 81. O inciso II do art. 167 e o art. 169 da Lei n° 6.015, de 31 de dezembro de 1973, passam a vigorar com as seguintes alterações:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-169"
+    },
+    "282": {
+      "numero": "282º",
+      "titulo": "a petição inicial, além dos requisitos exigidos pelo art.",
+      "texto": "I - a petição inicial, além dos requisitos exigidos pelo art. 282 do Código de Processo Civil, deverá especificar os aluguéis e acessórios da locação com indicação dos respectivos valores;",
+      "incisos": [
+        "I"
+      ],
+      "paragrafos": [],
+      "anchor": "#art-282"
+    },
+    "924": {
+      "numero": "924º",
+      "titulo": "reaver o imóvel alugado. O locatário, todavia, poderá devolvê - lo, pagando a",
+      "texto": "Art. 4º Durante o prazo estipulado para a duração do contrato, não poderá o locador reaver o imóvel alugado. O locatário, todavia, poderá devolvê - lo, pagando a multa pactuada, segundo a proporção prevista no art. 924 do Código Civil e, na sua falta, a que for judicialmente estipulada.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-924"
+    }
+  },
+  "indice": [],
+  "totalArtigos": 93,
+  "resumo": "Presidência da República Casa Civil Subchefia para Assuntos Jurídicos LEI No 8.245, DE 18 DE OUTUBRO DE 1991."
+};

@@ -16,7 +16,9 @@ export default defineConfig({
     allowedHosts: [
       '5173-ife7jgqypeedazam86vh9-e5c0aff3.manusvm.computer',
       '5173-i38zexs2waeeplc8igmtc-6ef6679c.manusvm.computer',
-      '5173-i5s8rts97hg1u8n77tb7l-052faf89.manusvm.computer'
+      '5173-i5s8rts97hg1u8n77tb7l-052faf89.manusvm.computer',
+      '5173-iw8y5rp043qkwxjko039d-90e4d933.manusvm.computer',
+      '5174-iw8y5rp043qkwxjko039d-90e4d933.manusvm.computer'
     ]
   },
   build: {

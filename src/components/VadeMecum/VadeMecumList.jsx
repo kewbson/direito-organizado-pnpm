@@ -3,7 +3,7 @@ import { FileText, Calendar, Tag, Heart, Copy, X, ExternalLink, BookOpen, Scale,
 import { Card, CardContent, CardHeader, CardTitle } from '../ui/card'
 import { Badge } from '../ui/badge'
 import { Button } from '../ui/button'
-import { Dialog, DialogContent, DialogHeader, DialogTitle } from '../ui/dialog'
+import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from '../ui/dialog'
 import { ScrollArea } from '../ui/scroll-area'
 import { Separator } from '../ui/separator'
 import { toast } from 'sonner'
@@ -284,7 +284,7 @@ const VadeMecumListImproved = ({
 
       {/* Modal de visualização do documento */}
       <Dialog open={isModalOpen} onOpenChange={handleCloseModal}>
-        <DialogContent className="max-w-4xl max-h-[90vh] overflow-hidden">
+        <DialogContent className="w-[95vw] max-w-[1200px] md:w-[70vw] max-h-[90vh] overflow-hidden">
           {selectedDocument && (
             <>
               <DialogHeader className="pb-4">
@@ -303,6 +303,9 @@ const VadeMecumListImproved = ({
                     <DialogTitle className="text-xl font-bold leading-tight">
                       {selectedDocument.titulo}
                     </DialogTitle>
+                    <DialogDescription className="text-sm text-muted-foreground mt-1">
+                      Visualização completa do documento legal
+                    </DialogDescription>
                   </div>
                   <div className="flex items-center gap-2 ml-4">
                     <Button

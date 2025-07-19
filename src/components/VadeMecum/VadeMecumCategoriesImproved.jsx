@@ -35,7 +35,7 @@ const VadeMecumCategoriesImproved = () => {
 
   const debouncedSearchTerm = useDebounce(searchTerm, 500)
 
-  // Mapeamento de tipos para ícones e labels
+  // Mapeamento de tipos para ícones e labels (atualizado para nova estrutura)
   const getTypeConfig = (type) => {
     const typeConfigs = {
       'constituicao': {
@@ -97,6 +97,43 @@ const VadeMecumCategoriesImproved = () => {
         label: 'Súmulas',
         color: 'bg-amber-100 text-amber-700 border-amber-200',
         description: 'Súmulas dos tribunais superiores'
+      },
+      // Novas categorias da estrutura JSON
+      'penal': {
+        icon: Scale,
+        label: 'Direito Penal',
+        color: 'bg-red-100 text-red-700 border-red-200',
+        description: 'Legislação penal e processual penal'
+      },
+      'civil': {
+        icon: FileText,
+        label: 'Direito Civil',
+        color: 'bg-blue-100 text-blue-700 border-blue-200',
+        description: 'Legislação civil e processual civil'
+      },
+      'administrativo': {
+        icon: Building,
+        label: 'Direito Administrativo',
+        color: 'bg-gray-100 text-gray-700 border-gray-200',
+        description: 'Legislação administrativa e serviços públicos'
+      },
+      'tributario': {
+        icon: ClipboardList,
+        label: 'Direito Tributário',
+        color: 'bg-green-100 text-green-700 border-green-200',
+        description: 'Legislação tributária e fiscal'
+      },
+      'trabalhista': {
+        icon: Gavel,
+        label: 'Direito do Trabalho',
+        color: 'bg-orange-100 text-orange-700 border-orange-200',
+        description: 'Legislação trabalhista e previdenciária'
+      },
+      'constitucional': {
+        icon: Scale,
+        label: 'Direito Constitucional',
+        color: 'bg-indigo-100 text-indigo-700 border-indigo-200',
+        description: 'Legislação constitucional e direitos fundamentais'
       }
     }
 

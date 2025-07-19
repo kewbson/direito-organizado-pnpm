@@ -1,0 +1,177 @@
+// 📁 Arquivo: antiterror.js (L13260)
+// 🤖 Gerado automaticamente pelo Lei Scraper V2.0
+// 📅 Data de extração: 2025-07-18T20:51:33.510Z
+// 🔗 Fonte: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm
+
+export default {
+  "id": "antiterror",
+  "titulo": "L13260",
+  "ano": 2016,
+  "dataPublicacao": "1989-12-21",
+  "status": "vigente",
+  "orgaoResponsavel": "Congresso Nacional",
+  "area": "administrativo",
+  "categoria": "penal",
+  "jurisdicao": "federal",
+  "fonte": "http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm",
+  "url": "http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13260.htm",
+  "nome": "Lei Antiterrorismo",
+  "alias": "Lei Antiterrorismo",
+  "prioridade": 47,
+  "scraping": {
+    "dataExtracao": "2025-07-18T20:51:33.510Z",
+    "versao": "2.0",
+    "tamanhoOriginal": 29310,
+    "hash": "4d60605d"
+  },
+  "conteudo": "<div class='lei-conteudo'>\n      <h1>L13260</h1>\n      \n  <div>\n   <center>\n    <table>\n     <tbody>\n      <tr>\n       <td>\n        <p>\n         <font>\n          <img>\n         </font>\n        </p>\n       </td>\n       <td>\n        <p>\n         <strong>\n          <span>\n           Presid&#xea;ncia da Rep&#xfa;blica\n          </span>\n         </strong>\n         <b>\n          <span>\n           <br>\n          </span>\n         </b>\n         <strong>\n          <span>\n           Secretaria-Geral\n          </span>\n         </strong>\n         <b>\n          <span>\n           <br>\n          </span>\n         </b>\n         <strong>\n          <span>\n           Subchefia para Assuntos Jur&#xed;dicos\n          </span>\n         </strong>\n        </p>\n       </td>\n      </tr>\n     </tbody>\n    </table>\n   </center>\n  </div>\n  <p>\n   <font>\n    <small>\n     <strong>\n      <a href=\"http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/lei%2013.260-2016?OpenDocument\">\n       LEI N&#xba; 13.260, DE 16 DE MAR&#xc7;O DE 2016.\n      </a>\n     </strong>\n    </small>\n   </font>\n  </p>\n  <font id=\"art-5\">\n   <table id=\"art-5\">\n    <tbody id=\"art-5\">\n     <tr id=\"art-5\">\n      <td>\n       <font>\n        <a href=\"../Msg/VEP-85.htm\">\n         Mensagem de veto\n        </a>\n       </font>\n      </td>\n      <td id=\"art-5\">\n       <p id=\"art-5\">\n        <font id=\"art-5\">\n         <span id=\"art-5\">\n          Regulamenta o disposto no inciso XLIII do art. 5&#xba; da Constitui&#xe7;&#xe3;o Federal, disciplinando o terrorismo, tratando de disposi&#xe7;&#xf5;es investigat&#xf3;rias e processuais e reformulando o conceito de organiza&#xe7;&#xe3;o terrorista; e altera as Leis n\n          <u>\n           &#xba;\n          </u>\n          7.960, de 21 de dezembro de 1989, e 12.850, de 2 de agosto de 2013.\n         </span>\n        </font>\n       </p>\n      </td>\n     </tr>\n    </tbody>\n   </table>\n   <p>\n    <b>\n     <span>\n      A PRESIDENTA DA REP&#xda;BLICA\n     </span>\n    </b>\n    <span>\n     Fa&#xe7;o saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:\n    </span>\n   </p>\n   <p id=\"art-1\">\n    <span id=\"art-1\">\n     <a name=\"art1\">\n     </a>\n     Art. 1&#xba;\n    </span>\n    <span id=\"art-5\">\n     Esta Lei regulamenta o disposto no\n     <a href=\"../../../Constituicao/Constituicao.htm#art5xliii\" id=\"art-5\">\n      inciso XLIII do art. 5&#xba; da Constitui&#xe7;&#xe3;o Federal\n     </a>\n     , disciplinando o terrorismo, tratando de disposi&#xe7;&#xf5;es investigat&#xf3;rias e processuais e reformulando o conceito de organiza&#xe7;&#xe3;o terrorista.\n    </span>\n   </p>\n   <p id=\"art-2\">\n    <span>\n     <a name=\"art2\">\n     </a>\n    </span>\n    <span id=\"art-2\">\n     Art. 2&#xba; O terrorismo consiste na pr&#xe1;tica por um ou mais indiv&#xed;duos dos atos previstos neste artigo, por raz&#xf5;es de xenofobia, discrimina&#xe7;&#xe3;o ou preconceito de ra&#xe7;a, cor, etnia e religi&#xe3;o, quando cometidos com a finalidade de provocar terror social ou generalizado, expondo a perigo pessoa, patrim&#xf4;nio, a paz p&#xfa;blica ou a incolumidade p&#xfa;blica.\n    </span>\n   </p>\n   <p>\n    <a name=\"art2&#xa7;1\"></a><span>\n     &#xa7; 1&#xba; S&#xe3;o atos de terrorismo:\n    </span>\n   </p>\n   <p>\n    <span>\n     I - usar ou amea&#xe7;ar usar, transportar, guardar, portar ou trazer consigo explosivos, gases t&#xf3;xicos, venenos, conte&#xfa;dos biol&#xf3;gicos, qu&#xed;micos, nucleares ou outros meios capazes de causar danos ou promover destrui&#xe7;&#xe3;o em massa;\n    </span>\n   </p>\n   <p>\n    <span>\n     II &#x2013; (VETADO);\n    </span>\n   </p>\n   <p>\n    <span>\n     III - (VETADO);\n    </span>\n   </p>\n   <p>\n    <span>\n     IV - sabotar o funcionamento ou apoderar-se, com viol&#xea;ncia, grave amea&#xe7;a a pessoa ou servindo-se de mecanismos cibern&#xe9;ticos, do controle total ou parcial, ainda que de modo tempor&#xe1;rio, de meio de comunica&#xe7;&#xe3;o ou de transporte, de portos, aeroportos, esta&#xe7;&#xf5;es ferrovi&#xe1;rias ou rodovi&#xe1;rias, hospitais, casas de sa&#xfa;de, escolas, est&#xe1;dios esportivos, instala&#xe7;&#xf5;es p&#xfa;blicas ou locais onde funcionem servi&#xe7;os p&#xfa;blicos essenciais, instala&#xe7;&#xf5;es de gera&#xe7;&#xe3;o ou transmiss&#xe3;o de energia, instala&#xe7;&#xf5;es militares, instala&#xe7;&#xf5;es de explora&#xe7;&#xe3;o, refino e processamento de petr&#xf3;leo e g&#xe1;s e institui&#xe7;&#xf5;es banc&#xe1;rias e sua rede de atendimento;\n    </span>\n   </p>\n   <p>\n    <span>\n     V - atentar contra a vida ou a integridade f&#xed;sica de pessoa:\n    </span>\n   </p>\n   <p>\n    <span>\n     Pena - reclus&#xe3;o, de doze a trinta anos, al&#xe9;m das san&#xe7;&#xf5;es correspondentes &#xe0; amea&#xe7;a ou &#xe0; viol&#xea;ncia.\n    </span>\n   </p>\n   <p>\n    <a name=\"art2&#xa7;2\"></a><span>\n     &#xa7; 2&#xba; O disposto neste artigo n&#xe3;o se aplica &#xe0; conduta individual ou coletiva de pessoas em manifesta&#xe7;&#xf5;es pol&#xed;ticas, movimentos sociais, sindicais, religiosos, de classe ou de categoria profissional, direcionados por prop&#xf3;sitos sociais ou reivindicat&#xf3;rios, visando a contestar, criticar, protestar ou apoiar, com o objetivo de defender direitos, garantias e liberdades constitucionais, sem preju&#xed;zo da tipifica&#xe7;&#xe3;o penal contida em lei.\n    </span>\n   </p>\n   <p id=\"art-3\">\n    <span>\n     <a name=\"art3\">\n     </a>\n    </span>\n    <span id=\"art-3\">\n     Art. 3&#xba; Promover, constituir, integrar ou prestar aux&#xed;lio, pessoalmente ou por interposta pessoa, a organiza&#xe7;&#xe3;o terrorista:\n    </span>\n   </p>\n   <p>\n    <span>\n     Pena - reclus&#xe3;o, de cinco a oito anos, e multa.\n    </span>\n   </p>\n   <p>\n    <a name=\"art3&#xa7;1\"></a><span>\n     &#xa7; 1&#xba; (VETADO).\n    </span>\n   </p>\n   <p>\n    <a name=\"art3&#xa7;2\"></a><span>\n     &#xa7; 2&#xba; (VETADO).\n    </span>\n   </p>\n   <p id=\"art-4\">\n    <span>\n     <a name=\"art4\">\n     </a>\n    </span>\n    <span id=\"art-4\">\n     Art. 4&#xba; (VETADO).\n    </span>\n   </p>\n   <p id=\"art-5\">\n    <span>\n     <a name=\"art5\">\n     </a>\n    </span>\n    <span id=\"art-5\">\n     Art. 5&#xba; Realizar atos preparat&#xf3;rios de terrorismo com o prop&#xf3;sito inequ&#xed;voco de consumar tal delito:\n    </span>\n   </p>\n   <p>\n    <span>\n     Pena - a correspondente ao delito consumado, diminu&#xed;da de um quarto at&#xe9; a metade.\n    </span>\n   </p>\n   <p>\n    <a name=\"art5&#xa7;1\"></a><span>\n     &#xa7; 1&#xba; Incorre nas mesmas penas o agente que, com o prop&#xf3;sito de praticar atos de terrorismo:\n    </span>\n   </p>\n   <p>\n    <span>\n     I - recrutar, organizar, transportar ou municiar indiv&#xed;duos que viajem para pa&#xed;s distinto daquele de sua resid&#xea;ncia ou nacionalidade; ou\n    </span>\n   </p>\n   <p>\n    <span>\n     II - fornecer ou receber treinamento em pa&#xed;s distinto daquele de sua resid&#xea;ncia ou nacionalidade.\n    </span>\n   </p>\n   <p>\n    <a name=\"art5&#xa7;2\"></a><span>\n     &#xa7; 2&#xba; Nas hip&#xf3;teses do &#xa7; 1&#xba;, quando a conduta n&#xe3;o envolver treinamento ou viagem para pa&#xed;s distinto daquele de sua resid&#xea;ncia ou nacionalidade, a pena ser&#xe1; a correspondente ao delito consumado, diminu&#xed;da de metade a dois ter&#xe7;os.\n    </span>\n   </p>\n   <p id=\"art-6\">\n    <span>\n     <a name=\"art6\">\n     </a>\n    </span>\n    <span id=\"art-6\">\n     Art. 6&#xba; Receber, prover, oferecer, obter, guardar, manter em dep&#xf3;sito, solicitar, investir, de qualquer modo, direta ou indiretamente, recursos, ativos, bens, direitos, valores ou servi&#xe7;os de qualquer natureza, para o planejamento, a prepara&#xe7;&#xe3;o ou a execu&#xe7;&#xe3;o dos crimes previstos nesta Lei:\n    </span>\n   </p>\n   <p>\n    <span>\n     Pena - reclus&#xe3;o, de quinze a trinta anos.\n    </span>\n   </p>\n   <p>\n    <span>\n     Par&#xe1;grafo &#xfa;nico. Incorre na mesma pena quem oferecer ou receber, obtiver, guardar, mantiver em dep&#xf3;sito, solicitar, investir ou de qualquer modo contribuir para a obten&#xe7;&#xe3;o de ativo, bem ou recurso financeiro, com a finalidade de financiar, total ou parcialmente, pessoa, grupo de pessoas, associa&#xe7;&#xe3;o, entidade, organiza&#xe7;&#xe3;o criminosa que tenha como atividade principal ou secund&#xe1;ria, mesmo em car&#xe1;ter eventual, a pr&#xe1;tica dos crimes previstos nesta Lei.\n    </span>\n   </p>\n   <p id=\"art-7\">\n    <span>\n     <a name=\"art7\">\n     </a>\n    </span>\n    <span id=\"art-7\">\n     Art. 7&#xba; Salvo quando for elementar da pr&#xe1;tica de qualquer crime previsto nesta Lei, se de algum deles resultar les&#xe3;o corporal grave, aumenta-se a pena de um ter&#xe7;o, se resultar morte, aumenta-se a pena da metade.\n    </span>\n   </p>\n   <p id=\"art-8\">\n    <span>\n     <a name=\"art8\">\n     </a>\n    </span>\n    <span id=\"art-8\">\n     Art. 8&#xba; (VETADO).\n    </span>\n   </p>\n   <p id=\"art-9\">\n    <span>\n     <a name=\"art9\">\n     </a>\n    </span>\n    <span id=\"art-9\">\n     Art. 9&#xba; (VETADO).\n    </span>\n   </p>\n   <p id=\"art-10\">\n    <span>\n     <a name=\"art10\">\n     </a>\n    </span>\n    <span id=\"art-10\">\n     Art. 10. Mesmo antes de iniciada a execu&#xe7;&#xe3;o do crime de terrorismo, na hip&#xf3;tese do art. 5&#xba; desta Lei, aplicam-se as disposi&#xe7;&#xf5;es do\n     <a href=\"../../../Decreto-Lei/Del2848.htm#art15\" id=\"art-15\">\n      art. 15 do Decreto-Lei n&#xba; 2.848, de 7 de dezembro de 1940 - C&#xf3;digo Penal\n     </a>\n     .\n    </span>\n   </p>\n   <p id=\"art-11\">\n    <span>\n     <a name=\"art11\">\n     </a>\n    </span>\n    <span id=\"art-11\">\n     Art. 11. Para todos os efeitos legais, considera-se que os crimes previstos nesta Lei s&#xe3;o praticados contra o interesse da Uni&#xe3;o, cabendo &#xe0; Pol&#xed;cia Federal a investiga&#xe7;&#xe3;o criminal, em sede de inqu&#xe9;rito policial, e &#xe0; Justi&#xe7;a Federal o seu processamento e julgamento, nos termos do\n     <a href=\"../../../Constituicao/Constituicao.htm#art109iv\" id=\"art-109\">\n      inciso IV do art. 109 da Constitui&#xe7;&#xe3;o Federal\n     </a>\n     .\n    </span>\n   </p>\n   <p>\n    <span>\n     Par&#xe1;grafo &#xfa;nico. (VETADO).\n    </span>\n   </p>\n   <p id=\"art-12\">\n    <span>\n     <a name=\"art12\">\n     </a>\n    </span>\n    <span id=\"art-12\">\n     Art. 12. O juiz, de of&#xed;cio, a requerimento do Minist&#xe9;rio P&#xfa;blico ou mediante representa&#xe7;&#xe3;o do delegado de pol&#xed;cia, ouvido o Minist&#xe9;rio P&#xfa;blico em vinte e quatro horas, havendo ind&#xed;cios suficientes de crime previsto nesta Lei, poder&#xe1; decretar, no curso da investiga&#xe7;&#xe3;o ou da a&#xe7;&#xe3;o penal, medidas assecurat&#xf3;rias de bens, direitos ou valores do investigado ou acusado, ou existentes em nome de interpostas pessoas, que sejam instrumento, produto ou proveito dos crimes previstos nesta Lei.\n    </span>\n   </p>\n   <p>\n    <a name=\"art12&#xa7;1\"></a><span>\n     &#xa7; 1&#xba; Proceder-se-&#xe1; &#xe0; aliena&#xe7;&#xe3;o antecipada para preserva&#xe7;&#xe3;o do valor dos bens sempre que estiverem sujeitos a qualquer grau de deteriora&#xe7;&#xe3;o ou deprecia&#xe7;&#xe3;o, ou quando houver dificuldade para sua manuten&#xe7;&#xe3;o.\n    </span>\n   </p>\n   <p>\n    <a name=\"art12&#xa7;2\"></a><span>\n     &#xa7; 2&#xba; O juiz determinar&#xe1; a libera&#xe7;&#xe3;o, total ou parcial, dos bens, direitos e valores quando comprovada a licitude de sua origem e destina&#xe7;&#xe3;o, mantendo-se a constri&#xe7;&#xe3;o dos bens, direitos e valores necess&#xe1;rios e suficientes &#xe0; repara&#xe7;&#xe3;o dos danos e ao pagamento de presta&#xe7;&#xf5;es pecuni&#xe1;rias, multas e custas decorrentes da infra&#xe7;&#xe3;o penal.\n    </span>\n   </p>\n   <p>\n    <a name=\"art12&#xa7;3\"></a><span>\n     &#xa7; 3&#xba; Nenhum pedido de libera&#xe7;&#xe3;o ser&#xe1; conhecido sem o comparecimento pessoal do acusado ou de interposta pessoa a que se refere o\n     <b>\n      caput\n     </b>\n     deste artigo, podendo o juiz determinar a pr&#xe1;tica de atos necess&#xe1;rios &#xe0; conserva&#xe7;&#xe3;o de bens, direitos ou valores, sem preju&#xed;zo do disposto no &#xa7; 1&#xba;.\n    </span>\n   </p>\n   <p>\n    <a name=\"art12&#xa7;4\"></a><span>\n     &#xa7; 4&#xba; Poder&#xe3;o ser decretadas medidas assecurat&#xf3;rias sobre bens, direitos ou valores para repara&#xe7;&#xe3;o do dano decorrente da infra&#xe7;&#xe3;o penal antecedente ou da prevista nesta Lei ou para pagamento de presta&#xe7;&#xe3;o pecuni&#xe1;ria, multa e custas.\n    </span>\n   </p>\n   <p id=\"art-13\">\n    <span>\n     <a name=\"art13\">\n     </a>\n    </span>\n    <span id=\"art-13\">\n     Art. 13. Quando as circunst&#xe2;ncias o aconselharem, o juiz, ouvido o Minist&#xe9;rio P&#xfa;blico, nomear&#xe1; pessoa f&#xed;sica ou jur&#xed;dica qualificada para a administra&#xe7;&#xe3;o dos bens, direitos ou valores sujeitos a medidas assecurat&#xf3;rias, mediante termo de compromisso.\n    </span>\n   </p>\n   <p id=\"art-14\">\n    <span>\n     <a name=\"art14\">\n     </a>\n    </span>\n    <span id=\"art-14\">\n     Art. 14. A pessoa respons&#xe1;vel pela administra&#xe7;&#xe3;o dos bens:\n    </span>\n   </p>\n   <p>\n    <span>\n     I - far&#xe1; jus a uma remunera&#xe7;&#xe3;o, fixada pelo juiz, que ser&#xe1; satisfeita preferencialmente com o produto dos bens objeto da administra&#xe7;&#xe3;o;\n    </span>\n   </p>\n   <p>\n    <span>\n     II - prestar&#xe1;, por determina&#xe7;&#xe3;o judicial, informa&#xe7;&#xf5;es peri&#xf3;dicas da situa&#xe7;&#xe3;o dos bens sob sua administra&#xe7;&#xe3;o, bem como explica&#xe7;&#xf5;es e detalhamentos sobre investimentos e reinvestimentos realizados.\n    </span>\n   </p>\n   <p>\n    <a name=\"art14p\"></a><span>\n     Par&#xe1;grafo &#xfa;nico. Os atos relativos &#xe0; administra&#xe7;&#xe3;o dos bens ser&#xe3;o levados ao conhecimento do Minist&#xe9;rio P&#xfa;blico, que requerer&#xe1; o que entender cab&#xed;vel.\n    </span>\n   </p>\n   <p id=\"art-15\">\n    <span>\n     <a name=\"art15\">\n     </a>\n    </span>\n    <span id=\"art-15\">\n     Art. 15. O juiz determinar&#xe1;, na hip&#xf3;tese de exist&#xea;ncia de tratado ou conven&#xe7;&#xe3;o internacional e por solicita&#xe7;&#xe3;o de autoridade estrangeira competente, medidas assecurat&#xf3;rias sobre bens, direitos ou valores oriundos de crimes descritos nesta Lei praticados no estrangeiro.\n    </span>\n   </p>\n   <p>\n    <a name=\"art15&#xa7;1\"></a><span>\n     &#xa7;</span><span>\n     1&#xba; Aplica-se o disposto neste artigo, independentemente de tratado ou conven&#xe7;&#xe3;o internacional, quando houver reciprocidade do governo do pa&#xed;s da autoridade solicitante.\n    </span>\n   </p>\n   <p>\n    <a name=\"art15&#xa7;2\"></a><span>\n     &#xa7; 2&#xba; Na falta de tratado ou conven&#xe7;&#xe3;o, os bens, direitos ou valores sujeitos a medidas assecurat&#xf3;rias por solicita&#xe7;&#xe3;o de autoridade estrangeira competente ou os recursos provenientes da sua aliena&#xe7;&#xe3;o ser&#xe3;o repartidos entre o Estado requerente e o Brasil, na propor&#xe7;&#xe3;o de metade, ressalvado o direito do lesado ou de terceiro de boa-f&#xe9;.\n    </span>\n   </p>\n   <p id=\"art-16\">\n    <span>\n     <a name=\"art16\">\n     </a>\n    </span>\n    <span id=\"art-16\">\n     Art. 16. Aplicam-se as disposi&#xe7;&#xf5;es da\n    </span>\n    <span>\n     <a href=\"../../../_Ato2011-2014/2013/Lei/L12850.htm\">\n      Lei n&#xba; 12.850, de 2 agosto de 2013\n     </a>\n    </span>\n    <span>\n     , para a investiga&#xe7;&#xe3;o, processo e julgamento dos crimes previstos nesta Lei.\n    </span>\n   </p>\n   <p id=\"art-17\">\n    <span>\n     <a name=\"art17\">\n     </a>\n    </span>\n    <span id=\"art-17\">\n     Art. 17. Aplicam-se as disposi&#xe7;&#xf5;es da\n     <a href=\"../../../LEIS/L8072.htm\">\n      Lei n&#xba; 8.072, de 25 de julho de 1990\n     </a>\n     , aos crimes previstos nesta Lei.\n    </span>\n   </p>\n   <p id=\"art-18\">\n    <span>\n     <a name=\"art18\">\n     </a>\n    </span>\n    <span id=\"art-18\">\n     Art. 18. O inciso III do art. 1&#xba; da\n     <a href=\"../../../LEIS/L7960.htm\">\n      Lei n&#xba; 7.960, de 21 de dezembro de 1989\n     </a>\n     , passa a vigorar acrescido da seguinte al&#xed;nea\n     <i>\n      p\n     </i>\n     :\n    </span>\n   </p>\n   <blockquote>\n    <blockquote>\n     <p>\n      <span>\n       &#x201c;Art. l&#xba; ......................................................................\n      </span>\n     </p>\n     <p>\n      <span>\n       ...........................................................................................\n      </span>\n     </p>\n     <p>\n      <span>\n       III - .............................................................................\n      </span>\n     </p>\n     <p>\n      <span>\n       ............................................................................................\n      </span>\n     </p>\n     <p>\n      <span>\n       <a href=\"../../../LEIS/L7960.htm#art1iiip\">\n        p)\n       </a>\n      </span>\n      <span>\n       crimes previstos na Lei de Terrorismo.&#x201d; (NR)\n      </span>\n     </p>\n    </blockquote>\n   </blockquote>\n   <p id=\"art-19\">\n    <span>\n     <a name=\"art19\">\n     </a>\n    </span>\n    <span id=\"art-19\">\n     Art. 19. O art. 1&#xba; da\n     <a href=\"../../../_Ato2011-2014/2013/Lei/L12850.htm\">\n      Lei n&#xba; 12.850, de 2 de agosto de 2013\n     </a>\n     , passa a vigorar com a seguinte altera&#xe7;&#xe3;o:\n    </span>\n   </p>\n   <blockquote id=\"art-1\">\n    <blockquote id=\"art-1\">\n     <p id=\"art-1\">\n      <span id=\"art-1\">\n       &#x201c;Art. 1&#xba; .......................................................................\n      </span>\n     </p>\n     <p>\n      <span>\n       ............................................................................................\n      </span>\n     </p>\n     <p>\n      <span>\n       &#xa7; 2&#xba; .............................................................................\n      </span>\n     </p>\n     <p>\n      <span>\n       ............................................................................................\n      </span>\n     </p>\n     <p>\n      <span>\n       <a href=\"../../../_Ato2011-2014/2013/Lei/L12850.htm#art1&#xa7;2ii.\">\n        II -\n       </a>\n      </span>\n      <span>\n       &#xe0;s organiza&#xe7;&#xf5;es terroristas, entendidas como aquelas voltadas para a pr&#xe1;tica dos atos de terrorismo legalmente definidos.&#x201d; (NR)\n      </span>\n     </p>\n    </blockquote>\n   </blockquote>\n   <p class=\"Artigo\" id=\"art-20\">\n    <span>\n     <a name=\"art20\">\n     </a>\n    </span>\n    <span id=\"art-20\">\n     Art. 20. Esta Lei entra em vigor na data de sua publica&#xe7;&#xe3;o.\n    </span>\n   </p>\n   <p>\n    <span>\n     Bras&#xed;lia, 16 de mar&#xe7;o de 2016; 195&#xba; da Independ&#xea;ncia e 128&#xba; da Rep&#xfa;blica.\n    </span>\n   </p>\n   <p>\n    <span>\n     <span>\n      Dilma Rousseff\n     </span>\n     <br>\n     <i>\n      Wellington C&#xe9;sar Lima e Silva\n      <br>\n      Nelson Barbosa\n     </i>\n    </span>\n   </p>\n   <p>\n    <span>\n     <i>\n      Nilma Lino Gomes\n     </i>\n    </span>\n   </p>\n   <p>\n    <font>\n     Este texto n&#xe3;o substitui o publicado no DOU de 17.3.2016\n    </font>\n    <font>\n     - Edi&#xe7;&#xe3;o extra e\n     <a href=\"../Ret/Lei13260-ret.doc\">\n      <font>\n       retificada em 18.3.2016\n      </font>\n     </a>\n    </font>\n   </p>\n   <p>\n    <span>\n    </span>\n    <font>\n     *\n    </font>\n   </p>\n   <p>\n   </p>\n   <p>\n   </p>\n   <p>\n   </p>\n   <p>\n   </p>\n   <p>\n   </p>\n   <p>\n   </p>\n   <p>\n   </p>\n   <p>\n   </p>\n   <p>\n   </p>\n   <p>\n   </p>\n   <p>\n   </p>\n  </font>\n \n\n    </div>",
+  "artigos": {
+    "1": {
+      "numero": "1º",
+      "titulo": "Esta Lei regulamenta o disposto no",
+      "texto": "Art. 1º Esta Lei regulamenta o disposto no inciso XLIII do art. 5º da Constituição Federal , disciplinando o terrorismo, tratando de disposições investigatórias e processuais e reformulando o conceito de organização terrorista.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-1"
+    },
+    "2": {
+      "numero": "2º",
+      "titulo": "Artigo 2",
+      "texto": "Art. 2º O terrorismo consiste na prática por um ou mais indivíduos dos atos previstos neste artigo, por razões de xenofobia, discriminação ou preconceito de raça, cor, etnia e religião, quando cometidos com a finalidade de provocar terror social ou generalizado, expondo a perigo pessoa, patrimônio, a paz pública ou a incolumidade pública.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-2"
+    },
+    "3": {
+      "numero": "3º",
+      "titulo": "Artigo 3",
+      "texto": "Art. 3º Promover, constituir, integrar ou prestar auxílio, pessoalmente ou por interposta pessoa, a organização terrorista:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-3"
+    },
+    "5": {
+      "numero": "5º",
+      "titulo": "Regulamenta o disposto no inciso XLIII do art. 5º da Constituição Federal, disciplinando o terrorismo, tratando de disposições investigatórias e processuais e reformulando o conceito de organização terrorista; e altera as Leis n",
+      "texto": "Mensagem de veto Regulamenta o disposto no inciso XLIII do art. 5º da Constituição Federal, disciplinando o terrorismo, tratando de disposições investigatórias e processuais e reformulando o conceito de organização terrorista; e altera as Leis n º 7.960, de 21 de dezembro de 1989, e 12.850, de 2 de agosto de 2013.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-5"
+    },
+    "6": {
+      "numero": "6º",
+      "titulo": "Artigo 6",
+      "texto": "Art. 6º Receber, prover, oferecer, obter, guardar, manter em depósito, solicitar, investir, de qualquer modo, direta ou indiretamente, recursos, ativos, bens, direitos, valores ou serviços de qualquer natureza, para o planejamento, a preparação ou a execução dos crimes previstos nesta Lei:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-6"
+    },
+    "7": {
+      "numero": "7º",
+      "titulo": "Artigo 7",
+      "texto": "Art. 7º Salvo quando for elementar da prática de qualquer crime previsto nesta Lei, se de algum deles resultar lesão corporal grave, aumenta-se a pena de um terço, se resultar morte, aumenta-se a pena da metade.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-7"
+    },
+    "10": {
+      "numero": "10º",
+      "titulo": "art. 15 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal",
+      "texto": "Art. 10. Mesmo antes de iniciada a execução do crime de terrorismo, na hipótese do art. 5º desta Lei, aplicam-se as disposições do art. 15 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal .",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-10"
+    },
+    "11": {
+      "numero": "11º",
+      "titulo": "inciso IV do art. 109 da Constituição Federal",
+      "texto": "Art. 11. Para todos os efeitos legais, considera-se que os crimes previstos nesta Lei são praticados contra o interesse da União, cabendo à Polícia Federal a investigação criminal, em sede de inquérito policial, e à Justiça Federal o seu processamento e julgamento, nos termos do inciso IV do art. 109 da Constituição Federal .",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-11"
+    },
+    "12": {
+      "numero": "12º",
+      "titulo": "Artigo 12",
+      "texto": "Art. 12. O juiz, de ofício, a requerimento do Ministério Público ou mediante representação do delegado de polícia, ouvido o Ministério Público em vinte e quatro horas, havendo indícios suficientes de crime previsto nesta Lei, poderá decretar, no curso da investigação ou da ação penal, medidas assecuratórias de bens, direitos ou valores do investigado ou acusado, ou existentes em nome de interpostas pessoas, que sejam instrumento, produto ou proveito dos crimes previstos nesta Lei.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-12"
+    },
+    "13": {
+      "numero": "13º",
+      "titulo": "Artigo 13",
+      "texto": "Art. 13. Quando as circunstâncias o aconselharem, o juiz, ouvido o Ministério Público, nomeará pessoa física ou jurídica qualificada para a administração dos bens, direitos ou valores sujeitos a medidas assecuratórias, mediante termo de compromisso.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-13"
+    },
+    "14": {
+      "numero": "14º",
+      "titulo": "Artigo 14",
+      "texto": "Art. 14. A pessoa responsável pela administração dos bens:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-14"
+    },
+    "15": {
+      "numero": "15º",
+      "titulo": "art. 15 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal",
+      "texto": "Art. 10. Mesmo antes de iniciada a execução do crime de terrorismo, na hipótese do art. 5º desta Lei, aplicam-se as disposições do art. 15 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal .",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-15"
+    },
+    "16": {
+      "numero": "16º",
+      "titulo": "Lei nº 12.850, de 2 agosto de 2013",
+      "texto": "Art. 16. Aplicam-se as disposições da Lei nº 12.850, de 2 agosto de 2013 , para a investigação, processo e julgamento dos crimes previstos nesta Lei.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-16"
+    },
+    "17": {
+      "numero": "17º",
+      "titulo": "Lei nº 8.072, de 25 de julho de 1990",
+      "texto": "Art. 17. Aplicam-se as disposições da Lei nº 8.072, de 25 de julho de 1990 , aos crimes previstos nesta Lei.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-17"
+    },
+    "18": {
+      "numero": "18º",
+      "titulo": "Lei nº 7.960, de 21 de dezembro de 1989",
+      "texto": "Art. 18. O inciso III do art. 1º da Lei nº 7.960, de 21 de dezembro de 1989 , passa a vigorar acrescido da seguinte alínea p :",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-18"
+    },
+    "19": {
+      "numero": "19º",
+      "titulo": "Lei nº 12.850, de 2 de agosto de 2013",
+      "texto": "Art. 19. O art. 1º da Lei nº 12.850, de 2 de agosto de 2013 , passa a vigorar com a seguinte alteração:",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-19"
+    },
+    "20": {
+      "numero": "20º",
+      "titulo": "Artigo 20",
+      "texto": "Art. 20. Esta Lei entra em vigor na data de sua publicação.",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-20"
+    },
+    "109": {
+      "numero": "109º",
+      "titulo": "inciso IV do art. 109 da Constituição Federal",
+      "texto": "Art. 11. Para todos os efeitos legais, considera-se que os crimes previstos nesta Lei são praticados contra o interesse da União, cabendo à Polícia Federal a investigação criminal, em sede de inquérito policial, e à Justiça Federal o seu processamento e julgamento, nos termos do inciso IV do art. 109 da Constituição Federal .",
+      "incisos": [],
+      "paragrafos": [],
+      "anchor": "#art-109"
+    }
+  },
+  "indice": [],
+  "totalArtigos": 18,
+  "resumo": "Presidência da República Secretaria-Geral Subchefia para Assuntos Jurídicos LEI Nº 13.260, DE 16 DE MARÇO DE 2016."
+};
